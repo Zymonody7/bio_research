@@ -1,0 +1,47 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "hermes-agent",
+  "elements": [
+    {"type":"text","id":"title1","x":280,"y":20,"width":500,"height":35,"text":"ClinAlign: 两阶段临床对齐框架","fontSize":28,"fontFamily":1,"strokeColor":"#1e1e1e","textAlign":"center","autoResize":true,"originalText":"ClinAlign: 两阶段临床对齐框架"},
+    
+    {"type":"rectangle","id":"stage1","x":80,"y":90,"width":380,"height":60,"roundness":{"type":3},"backgroundColor":"#a5d8ff","fillStyle":"solid","strokeColor":"#1971c2","boundElements":[{"id":"t_stage1","type":"text"}]},
+    {"type":"text","id":"t_stage1","x":85,"y":105,"width":370,"height":30,"text":"Stage 1: HealthRubrics 构建","fontSize":20,"fontFamily":1,"strokeColor":"#1e1e1e","textAlign":"center","verticalAlign":"middle","containerId":"stage1","originalText":"Stage 1: HealthRubrics 构建","autoResize":true},
+
+    {"type":"rectangle","id":"step1a","x":60,"y":180,"width":200,"height":55,"roundness":{"type":3},"backgroundColor":"#d0bfff","fillStyle":"solid","strokeColor":"#7048e8","boundElements":[{"id":"t_step1a","type":"text"}]},
+    {"type":"text","id":"t_step1a","x":65,"y":192,"width":190,"height":30,"text":"7034条医学偏好数据","fontSize":16,"fontFamily":1,"strokeColor":"#1e1e1e","textAlign":"center","verticalAlign":"middle","containerId":"step1a","originalText":"7034条医学偏好数据","autoResize":true},
+
+    {"type":"rectangle","id":"step1b","x":300,"y":180,"width":200,"height":55,"roundness":{"type":3},"backgroundColor":"#d0bfff","fillStyle":"solid","strokeColor":"#7048e8","boundElements":[{"id":"t_step1b","type":"text"}]},
+    {"type":"text","id":"t_step1b","x":305,"y":192,"width":190,"height":30,"text":"111位医生验证审查","fontSize":16,"fontFamily":1,"strokeColor":"#1e1e1e","textAlign":"center","verticalAlign":"middle","containerId":"step1b","originalText":"111位医生验证审查","autoResize":true},
+
+    {"type":"arrow","id":"a1","x":260,"y":207,"width":40,"height":0,"points":[[0,0],[40,0]],"endArrowhead":"arrow","strokeColor":"#7048e8"},
+
+    {"type":"rectangle","id":"step1c","x":130,"y":265,"width":260,"height":55,"roundness":{"type":3},"backgroundColor":"#b2f2bb","fillStyle":"solid","strokeColor":"#2f9e44","boundElements":[{"id":"t_step1c","type":"text"}]},
+    {"type":"text","id":"t_step1c","x":135,"y":277,"width":250,"height":30,"text":"GPT-5.1 起草 → 医生迭代修订","fontSize":16,"fontFamily":1,"strokeColor":"#1e1e1e","textAlign":"center","verticalAlign":"middle","containerId":"step1c","originalText":"GPT-5.1 起草 → 医生迭代修订","autoResize":true},
+
+    {"type":"arrow","id":"a2","x":210,"y":236,"width":0,"height":28,"points":[[0,0],[0,28]],"endArrowhead":"arrow","strokeColor":"#2f9e44"},
+    {"type":"arrow","id":"a3","x":350,"y":236,"width":0,"height":28,"points":[[0,0],[0,28]],"endArrowhead":"arrow","strokeColor":"#2f9e44"},
+
+    {"type":"rectangle","id":"stage2","x":80,"y":370,"width":380,"height":60,"roundness":{"type":3},"backgroundColor":"#ffd8a8","fillStyle":"solid","strokeColor":"#e8590c","boundElements":[{"id":"t_stage2","type":"text"}]},
+    {"type":"text","id":"t_stage2","x":85,"y":385,"width":370,"height":30,"text":"Stage 2: HealthPrinciples 提炼","fontSize":20,"fontFamily":1,"strokeColor":"#1e1e1e","textAlign":"center","verticalAlign":"middle","containerId":"stage2","originalText":"Stage 2: HealthPrinciples 提炼","autoResize":true},
+
+    {"type":"arrow","id":"a_stage","x":270,"y":320,"width":0,"height":48,"points":[[0,0],[0,48]],"endArrowhead":"arrow","strokeColor":"#e8590c","strokeWidth":3},
+
+    {"type":"rectangle","id":"step2a","x":60,"y":460,"width":170,"height":70,"roundness":{"type":3},"backgroundColor":"#ffd8a8","fillStyle":"solid","strokeColor":"#e8590c","boundElements":[{"id":"t_step2a","type":"text"}]},
+    {"type":"text","id":"t_step2a","x":65,"y":475,"width":160,"height":40,"text":"4轴分类体系\n(紧急性/不确定性\n/用户/任务)","fontSize":14,"fontFamily":1,"strokeColor":"#1e1e1e","textAlign":"center","verticalAlign":"middle","containerId":"step2a","originalText":"4轴分类体系","autoResize":true},
+
+    {"type":"rectangle","id":"step2b","x":270,"y":460,"width":170,"height":70,"roundness":{"type":3},"backgroundColor":"#ffd8a8","fillStyle":"solid","strokeColor":"#e8590c","boundElements":[{"id":"t_step2b","type":"text"}]},
+    {"type":"text","id":"t_step2b","x":275,"y":475,"width":160,"height":40,"text":"119条可复用\n临床原则","fontSize":14,"fontFamily":1,"strokeColor":"#1e1e1e","textAlign":"center","verticalAlign":"middle","containerId":"step2b","originalText":"119条可复用临床原则","autoResize":true},
+
+    {"type":"arrow","id":"a4","x":232,"y":495,"width":36,"height":0,"points":[[0,0],[36,0]],"endArrowhead":"arrow","strokeColor":"#e8590c"},
+
+    {"type":"rectangle","id":"result","x":100,"y":580,"width":320,"height":65,"roundness":{"type":3},"backgroundColor":"#ffc9c9","fillStyle":"solid","strokeColor":"#e03131","strokeWidth":3,"boundElements":[{"id":"t_result","type":"text"}]},
+    {"type":"text","id":"t_result","x":105,"y":590,"width":310,"height":45,"text":"30B模型(仅激活3B)\nHealthBench-Hard 33.4% → 超越DeepSeek-R1 & o3","fontSize":16,"fontFamily":1,"strokeColor":"#1e1e1e","textAlign":"center","verticalAlign":"middle","containerId":"result","originalText":"30B模型(仅激活3B) → 33.4%","autoResize":true},
+
+    {"type":"arrow","id":"a5","x":210,"y":532,"width":0,"height":46,"points":[[0,0],[0,46]],"endArrowhead":"arrow","strokeColor":"#e03131","strokeWidth":3},
+    {"type":"arrow","id":"a6","x":350,"y":532,"width":0,"height":46,"points":[[0,0],[0,46]],"endArrowhead":"arrow","strokeColor":"#e03131","strokeWidth":3},
+
+    {"type":"text","id":"cost","x":480,"y":90,"width":250,"height":60,"text":"关键数据:\n• 632人时 / $15,172\n• Kappa=0.47 医生间一致性\n• 平均1.34轮迭代修订\n• 仅2k训练样本达SOTA","fontSize":15,"fontFamily":1,"strokeColor":"#495057","textAlign":"left","autoResize":true,"originalText":"关键数据"}
+  ],
+  "appState": {"viewBackgroundColor": "#ffffff"}
+}

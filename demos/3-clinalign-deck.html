@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ClinAlign — Paper Deck</title>
+<style>
+:root {
+  --bg: #0a0a0f; --card: #131320; --border: #1e1e35;
+  --cyan: #22d3ee; --purple: #a78bfa; --green: #34d399; --rose: #fb7185; --amber: #fbbf24;
+  --text: #e2e8f0; --muted: #64748b;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; height: 100vh; overflow: hidden; display: flex; justify-content: center; align-items: center; }
+.deck { width: 1280px; height: 720px; position: relative; overflow: hidden; border-radius: 12px; border: 1px solid var(--border); }
+.slide { position: absolute; inset: 0; display: none; padding: 60px 80px; flex-direction: column; justify-content: center; opacity: 0; transition: opacity .4s; }
+.slide.active { display: flex; opacity: 1; }
+.slide-num { position: absolute; bottom: 30px; right: 60px; font-size: 13px; color: var(--muted); }
+.progress { position: absolute; top: 0; left: 0; right: 0; height: 3px; background: var(--border); }
+.progress-bar { height: 100%; background: var(--cyan); transition: width .4s; }
+.nav { position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); display: flex; gap: 8px; }
+.nav-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--border); cursor: pointer; border: none; }
+.nav-dot.active { background: var(--cyan); }
+.badge { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; margin-bottom: 20px; }
+.badge-cyan { background: rgba(34,211,238,.15); color: var(--cyan); }
+h1 { font-size: 48px; line-height: 1.2; margin-bottom: 16px; font-weight: 800; }
+h2 { font-size: 36px; margin-bottom: 32px; font-weight: 700; }
+h3 { font-size: 22px; margin-bottom: 12px; color: var(--cyan); }
+p { font-size: 20px; line-height: 1.6; color: var(--muted); max-width: 800px; }
+.stat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin-top: 40px; }
+.stat { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 28px; text-align: center; }
+.stat-num { font-size: 42px; font-weight: 800; color: var(--cyan); }
+.stat-label { font-size: 13px; color: var(--muted); margin-top: 8px; }
+.step-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; margin-top: 32px; }
+.step { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 32px; }
+.step-num { font-size: 14px; color: var(--cyan); font-weight: 700; margin-bottom: 8px; }
+.step-title { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
+.step-desc { font-size: 14px; color: var(--muted); line-height: 1.7; }
+.comp-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; margin-top: 32px; }
+.comp { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 24px; text-align: center; }
+.comp.best { border-color: var(--green); }
+.comp-name { font-size: 14px; font-weight: 700; margin-bottom: 12px; }
+.comp-score { font-size: 32px; font-weight: 800; }
+.comp-score.good { color: var(--green); }
+.insight-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 28px; margin-top: 32px; }
+.insight { background: var(--card); border-left: 4px solid var(--amber); border-radius: 0 10px 10px 0; padding: 24px 28px; }
+.insight h4 { font-size: 16px; color: var(--amber); margin-bottom: 8px; }
+.insight p { font-size: 14px; }
+</style>
+</head>
+<body>
+<div class="deck" id="deck">
+  <div class="progress"><div class="progress-bar" id="progressBar"></div></div>
+
+  <!-- Slide 1: Title -->
+  <div class="slide active" data-slide="0">
+    <span class="badge badge-cyan">arXiv 2602.09653</span>
+    <h1>ClinAlign<br>Scaling Healthcare Alignment<br>from Clinician Preference</h1>
+    <p style="margin-top:20px">Lyu, Wang, Liu, Zhu, Zhang, Wang, Gu, Wang, Shen<br>Ant Group · CUHK-Shenzhen · Peking University</p>
+    <div class="slide-num">1 / 6</div>
+  </div>
+
+  <!-- Slide 2: Problem & Approach -->
+  <div class="slide" data-slide="1">
+    <h2>Problem → Approach</h2>
+    <div class="step-grid">
+      <div class="step">
+        <div class="step-num">PROBLEM</div>
+        <div class="step-title">Coarse Alignment</div>
+        <div class="step-desc">Existing medical LLMs rely on coarse objectives or unreliable auto-judges. Open-ended clinical responses fail fine-grained clinician alignment.</div>
+      </div>
+      <div class="step">
+        <div class="step-num">INSIGHT</div>
+        <div class="step-title">Rubrics as Bridge</div>
+        <div class="step-desc">Clinician-verified rubrics capture granular medical standards. Distill rubrics into reusable principles for scalable supervision.</div>
+      </div>
+      <div class="step">
+        <div class="step-num">SOLUTION</div>
+        <div class="step-title">Two-Stage Framework</div>
+        <div class="step-desc">Stage 1: Collect physician-verified rubrics (HealthRubrics). Stage 2: Distill into 119 reusable principles (HealthPrinciples).</div>
+      </div>
+    </div>
+    <div class="slide-num">2 / 6</div>
+  </div>
+
+  <!-- Slide 3: HealthRubrics Pipeline -->
+  <div class="slide" data-slide="2">
+    <h2>Stage 1: HealthRubrics</h2>
+    <div class="step-grid">
+      <div class="step">
+        <div class="step-num">STEP 1</div>
+        <div class="step-title">Medical Curation</div>
+        <div class="step-desc">Aggregate from Chatbot Arena (human-140k, human-55k, expert-5k), HelpSteer3. GPT-5.1 classifies → <b>7,034 medical instances</b>.</div>
+      </div>
+      <div class="step">
+        <div class="step-num">STEP 2</div>
+        <div class="step-title">Physician Consensus</div>
+        <div class="step-desc"><b>111 physicians</b> across specialties. <b>3 re-labels</b> per instance. 55.2% unanimous agreement (Kappa=0.47). Physician-user match only 0.60–0.64.</div>
+      </div>
+      <div class="step">
+        <div class="step-num">STEP 3</div>
+        <div class="step-title">Iterative Refinement</div>
+        <div class="step-desc">GPT-5.1 drafts rubric → 2 physicians review in succession. <b>Avg 1.34 loops</b> (75.3% accepted in 1). Cost: <b>632 hrs / $15,172</b>.</div>
+      </div>
+    </div>
+    <div class="slide-num">3 / 6</div>
+  </div>
+
+  <!-- Slide 4: HealthPrinciples -->
+  <div class="slide" data-slide="3">
+    <h2>Stage 2: HealthPrinciples</h2>
+    <div class="stat-grid">
+      <div class="stat"><div class="stat-num">119</div><div class="stat-label">Reusable Principles</div></div>
+      <div class="stat"><div class="stat-num">4</div><div class="stat-label">Clinical Axes</div></div>
+      <div class="stat"><div class="stat-num">2</div><div class="stat-label">Usage Modes</div></div>
+      <div class="stat"><div class="stat-num">SOTA</div><div class="stat-label">Resource-Efficient</div></div>
+    </div>
+    <p style="margin-top:32px; font-size:18px">4-axis taxonomy: <b style="color:var(--purple)">Urgency</b> × <b style="color:var(--green)">Uncertainty</b> × <b style="color:var(--amber)">User Expertise</b> × <b style="color:var(--rose)">Task Type</b></p>
+    <p style="margin-top:16px; font-size:16px">Dual use: (1) Offline — synthesize rubrics for unlabeled queries at scale. (2) Online — guide inference-time self-revision via retrieved principles.</p>
+    <div class="slide-num">4 / 6</div>
+  </div>
+
+  <!-- Slide 5: Benchmark Results -->
+  <div class="slide" data-slide="4">
+    <h2>Results: HealthBench-Hard</h2>
+    <div class="comp-grid">
+      <div class="comp"><div class="comp-name">Qwen3-4B<br>(base)</div><div class="comp-score" style="color:var(--muted)">7.0%</div></div>
+      <div class="comp"><div class="comp-name">DeepSeek<br>R1</div><div class="comp-score" style="color:var(--muted)">28.5%</div></div>
+      <div class="comp"><div class="comp-name">OpenAI<br>o3</div><div class="comp-score" style="color:var(--muted)">31.2%</div></div>
+      <div class="comp best"><div class="comp-name">ClinAlign<br>30B-A3B</div><div class="comp-score good">33.4%</div></div>
+      <div class="comp"><div class="comp-name">Naive SFT<br>(fails)</div><div class="comp-score" style="color:var(--rose)">41→52%<br>plateau</div></div>
+    </div>
+    <p style="margin-top:32px; font-size:16px; color:var(--green);">✦ <b>30B model (only 3B active)</b> outperforms all larger models. Naive SFT saturates — rubric-based alignment generalizes. <b style="color:var(--amber)">Only 2k training samples</b> needed.</p>
+    <div class="slide-num">5 / 6</div>
+  </div>
+
+  <!-- Slide 6: Takeaways -->
+  <div class="slide" data-slide="5">
+    <h2>Key Takeaways</h2>
+    <div class="insight-grid">
+      <div class="insight"><h4>1. Rubrics > Raw Preferences</h4><p>Granular rubrics capture clinical reasoning dimensions that binary preferences miss. 119 principles enable scalable, reusable supervision.</p></div>
+      <div class="insight"><h4>2. Small Can Beat Large</h4><p>30B-A3B outperforms DeepSeek-R1 and o3. Method matters more than model size for clinical alignment.</p></div>
+      <div class="insight"><h4>3. Doctor Involvement Scales</h4><p>$15k and 632 hours → reusable principles that benefit unlimited future queries. One-time cost, perpetual alignment signal.</p></div>
+      <div class="insight"><h4>4. For Your RLHF Project</h4><p>Rubric-based annotation design, dual online/offline principle use, and the taxonomy framework are directly applicable to your doctor-facing UI.</p></div>
+    </div>
+    <div class="slide-num">6 / 6</div>
+  </div>
+
+  <div class="nav" id="nav"></div>
+</div>
+
+<script>
+const slides = document.querySelectorAll('.slide');
+const bar = document.getElementById('progressBar');
+const nav = document.getElementById('nav');
+let current = 0;
+
+slides.forEach((_, i) => {
+  const dot = document.createElement('button');
+  dot.className = 'nav-dot' + (i === 0 ? ' active' : '');
+  dot.onclick = () => goTo(i);
+  nav.appendChild(dot);
+});
+
+function goTo(n) {
+  slides[current].classList.remove('active');
+  nav.children[current].classList.remove('active');
+  current = n;
+  slides[current].classList.add('active');
+  nav.children[current].classList.add('active');
+  bar.style.width = ((current + 1) / slides.length * 100) + '%';
+  localStorage.setItem('clinalign-deck-slide', current);
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowRight' || e.key === ' ') goTo(Math.min(current + 1, slides.length - 1));
+  if (e.key === 'ArrowLeft') goTo(Math.max(current - 1, 0));
+});
+
+bar.style.width = '17%';
+const saved = localStorage.getItem('clinalign-deck-slide');
+if (saved) goTo(parseInt(saved));
+</script>
+</body>
+</html>
