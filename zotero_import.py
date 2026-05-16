@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Zotero SQLite Direct Importer
-Parses .bib file and inserts items directly into Zotero's zotero.sqlite database.
+Zotero SQLite Direct Importer + PDF Downloader
+Parses .bib file and inserts items directly into Zotero's zotero.sqlite database,
+with automatic PDF download and attachment.
 Run when Zotero is NOT running (database must be unlocked).
 
-Usage: python3 zotero_import.py <bib_file> [--dry-run]
+Usage: python3 zotero_import.py <bib_file> [--dry-run] [--no-pdf]
 """
 import sys
 import os
@@ -13,13 +14,16 @@ import sqlite3
 import hashlib
 import uuid
 import re
+import urllib.request
+import urllib.error
 from datetime import datetime, timezone
 
 # --- Config ---
 ZOTERO_DB = "/Users/mondyzy/Zotero/zotero.sqlite"
+ZOTERO_STORAGE = "/Users/mondyzy/Zotero/storage"
 LIBRARY_ID = 1
 ITEM_TYPE_JOURNAL = 22  # journalArticle
-ITEM_TYPE_PREPRINT = 22  # treat arXiv as journalArticle
+ITEM_TYPE_ATTACHMENT = 3  # attachment
 
 # Field name → fieldID mapping (for journalArticle, itemTypeID=22)
 FIELD_IDS = {
@@ -76,12 +80,7 @@ def parse_bib_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Remove comments
     content = re.sub(r'(?m)^\s*%.*$', '', content)
-
-    # Find all @type{key, ...} blocks
-    pattern = r'@(\w+)\s*\{\s*(\w+)\s*,\s*(.*?)\}'
-    # Use a simpler approach: split by entries
     blocks = re.split(r'(?=@\w+\s*\{)', content)
 
     for block in blocks:
@@ -89,23 +88,17 @@ def parse_bib_file(filepath):
         if not block or not block.startswith('@'):
             continue
 
-        # Extract type and key
         m = re.match(r'@(\w+)\s*\{\s*([^,]+)\s*,', block)
         if not m:
             continue
         entry_type = m.group(1)
         entry_key = m.group(2).strip()
 
-        # Extract fields
         entry = {'type': entry_type, 'key': entry_key}
-        # Find fields between braces
         rest = block[block.index(',', m.end()-1)+1:]
         
-        # Parse field = value pairs
-        field_pattern = r'(\w+)\s*=\s*'
         pos = 0
         while pos < len(rest):
-            # Skip whitespace/newlines before field name
             while pos < len(rest) and rest[pos] in ' \t\n\r,':
                 pos += 1
             if pos >= len(rest):
@@ -118,7 +111,6 @@ def parse_bib_file(filepath):
             field_name = fm.group(1).lower()
             pos += fm.end()
 
-            # Read value (handle {...} and "..." and bare values)
             val_start = pos
             brace_depth = 0
             in_quotes = False
@@ -137,7 +129,6 @@ def parse_bib_file(filepath):
                 pos += 1
 
             value = rest[val_start:pos].strip()
-            # Strip surrounding braces or quotes
             if value.startswith('{') and value.endswith('}'):
                 value = value[1:-1]
             elif value.startswith('"') and value.endswith('"'):
@@ -148,7 +139,6 @@ def parse_bib_file(filepath):
                             'volume', 'pages', 'publisher', 'number', 'month'):
                 entry[field_name] = value
 
-            # Skip comma
             while pos < len(rest) and rest[pos] in ',\s':
                 pos += 1
 
@@ -157,14 +147,116 @@ def parse_bib_file(filepath):
     return entries
 
 
-def insert_item(conn, entry, dry_run=False):
-    """Insert a single item into Zotero database. Returns itemID if successful."""
-    
-    # Generate unique key
-    item_key = str(uuid.uuid4())[:8].upper()
-    now = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+def download_pdf(url, dest_path, timeout=30):
+    """Download a PDF file from URL to dest_path. Returns True on success."""
+    try:
+        req = urllib.request.Request(url, headers={
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+                          'ZoteroImport/1.0'
+        })
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            if resp.status != 200:
+                return False
+            content_type = resp.headers.get('Content-Type', '')
+            # Verify it's actually a PDF
+            data = resp.read()
+            if len(data) < 1000:
+                return False
+            # Check if it starts with PDF magic bytes
+            if not data.startswith(b'%PDF'):
+                # Might still be a PDF from some servers
+                if b'%PDF' not in data[:1024]:
+                    return False
+            os.makedirs(os.path.dirname(dest_path), exist_ok=True)
+            with open(dest_path, 'wb') as f:
+                f.write(data)
+            return True
+    except Exception as e:
+        print(f"    PDF download failed: {e}")
+        return False
 
-    # Check for duplicates by DOI
+
+def attach_pdf_to_item(conn, parent_item_id, parent_key, entry, pdf_path):
+    """Create an attachment item for a downloaded PDF."""
+    now = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+    att_key = str(uuid.uuid4())[:8].upper()
+    
+    # Create attachment item
+    conn.execute(
+        "INSERT INTO items (itemTypeID, dateAdded, dateModified, "
+        "clientDateModified, libraryID, key, version, synced) "
+        "VALUES (?, ?, ?, ?, ?, ?, 1, 0)",
+        (ITEM_TYPE_ATTACHMENT, now, now, now, LIBRARY_ID, att_key))
+    att_item_id = conn.execute("SELECT last_insert_rowid()").fetchone()[0]
+
+    # Get filename
+    filename = os.path.basename(pdf_path)
+    # Move/rename to storage path
+    storage_dir = os.path.join(ZOTERO_STORAGE, att_key)
+    os.makedirs(storage_dir, exist_ok=True)
+    final_path = os.path.join(storage_dir, filename)
+    
+    if os.path.abspath(pdf_path) != os.path.abspath(final_path):
+        import shutil
+        shutil.move(pdf_path, final_path)
+    
+    # Get file modification time
+    mod_time = int(os.path.getmtime(final_path) * 1000)
+    
+    # Insert attachment info
+    conn.execute(
+        "INSERT INTO itemAttachments (itemID, parentItemID, linkMode, "
+        "contentType, path, storageModTime) "
+        "VALUES (?, ?, 0, 'application/pdf', ?, ?)",
+        (att_item_id, parent_item_id, f'storage:{filename}', mod_time))
+
+    # Add title for attachment item
+    title = entry.get('title', 'Full Text PDF')
+    conn.execute(
+        "INSERT OR IGNORE INTO itemDataValues (value) VALUES (?)", (title,))
+    cur = conn.execute(
+        "SELECT valueID FROM itemDataValues WHERE value = ?", (title,))
+    title_value_id = cur.fetchone()[0]
+    conn.execute(
+        "INSERT INTO itemData (itemID, fieldID, valueID) VALUES (?, 1, ?)",
+        (att_item_id, title_value_id))
+
+    return True
+
+
+def find_pdf_url(entry):
+    """Determine the best PDF URL for an entry. Returns (url, suggested_filename)."""
+    # arXiv papers: direct PDF link
+    eprint = entry.get('eprint', '')
+    archive_prefix = entry.get('archiveprefix', '').lower()
+    if eprint and archive_prefix == 'arxiv':
+        pdf_url = f"https://arxiv.org/pdf/{eprint}.pdf"
+        safe_title = re.sub(r'[^a-zA-Z0-9\s-]', '', entry.get('title', 'paper'))[:80].strip()
+        safe_title = re.sub(r'\s+', '_', safe_title)
+        filename = f"{safe_title}.pdf"
+        return pdf_url, filename
+
+    # DOI: try unpaywall / direct DOI resolution
+    doi = entry.get('doi', '')
+    if doi:
+        # Try direct DOI PDF resolution
+        pdf_url = f"https://doi.org/{doi}"
+        safe_title = re.sub(r'[^a-zA-Z0-9\s-]', '', entry.get('title', 'paper'))[:80].strip()
+        safe_title = re.sub(r'\s+', '_', safe_title)
+        filename = f"{safe_title}.pdf"
+        return pdf_url, filename
+
+    # URL fallback
+    url = entry.get('url', '')
+    if url and url.endswith('.pdf'):
+        filename = url.split('/')[-1]
+        return url, filename
+
+    return None, None
+
+
+def check_item_exists(conn, entry):
+    """Check if an item already exists by DOI or title."""
     doi = entry.get('doi', '')
     if doi:
         cur = conn.execute(
@@ -174,10 +266,8 @@ def insert_item(conn, entry, dry_run=False):
             "WHERE f.fieldName = 'DOI' AND idv.value = ?", (doi,))
         existing = cur.fetchone()
         if existing:
-            print(f"  SKIP (DOI exists): {doi}")
-            return None
+            return existing[0]
 
-    # Check for duplicates by title
     title = entry.get('title', '')
     if title:
         cur = conn.execute(
@@ -187,12 +277,33 @@ def insert_item(conn, entry, dry_run=False):
             "WHERE f.fieldName = 'title' AND idv.value = ?", (title,))
         existing = cur.fetchone()
         if existing:
+            return existing[0]
+
+    return None
+
+
+def insert_item(conn, entry, dry_run=False, skip_pdf=False):
+    """Insert a single item into Zotero database. Returns (item_id, item_key)."""
+    
+    item_key = str(uuid.uuid4())[:8].upper()
+    now = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+
+    # Check duplicates
+    existing = check_item_exists(conn, entry)
+    if existing:
+        doi = entry.get('doi', '')
+        title = entry.get('title', '')
+        if doi:
+            print(f"  SKIP (DOI exists): {doi}")
+        else:
             print(f"  SKIP (title exists): {title[:60]}...")
-            return None
+        return None, None
+
+    title = entry.get('title', '')
 
     if dry_run:
         print(f"  DRY-RUN: Would insert: {title[:80]}")
-        return -1
+        return -1, 'DRYRUN'
 
     # Insert into items
     conn.execute(
@@ -216,14 +327,12 @@ def insert_item(conn, entry, dry_run=False):
         'libraryCatalog': 'arXiv.org' if entry.get('archiveprefix', '').lower() == 'arxiv' else 'CrossRef',
     }
 
-    # Handle arXiv
     if entry.get('eprint'):
         data_map['archive'] = 'arXiv'
         data_map['archiveLocation'] = entry['eprint']
         if not data_map['url']:
             data_map['url'] = f"https://arxiv.org/abs/{entry['eprint']}"
 
-    # Handle note (goes to extra field)
     if entry.get('note'):
         data_map['extra'] = entry['note']
 
@@ -233,15 +342,11 @@ def insert_item(conn, entry, dry_run=False):
         field_id = FIELD_IDS.get(field_name)
         if field_id is None:
             continue
-
-        # Insert value (value is UNIQUE, so use INSERT OR IGNORE + SELECT)
         conn.execute(
             "INSERT OR IGNORE INTO itemDataValues (value) VALUES (?)", (value,))
         cur = conn.execute(
             "SELECT valueID FROM itemDataValues WHERE value = ?", (value,))
         value_id = cur.fetchone()[0]
-
-        # Link item to value
         conn.execute(
             "INSERT INTO itemData (itemID, fieldID, valueID) VALUES (?, ?, ?)",
             (item_id, field_id, value_id))
@@ -249,7 +354,6 @@ def insert_item(conn, entry, dry_run=False):
     # Insert authors
     authors = bibtex_parse_authors(entry.get('author', ''))
     for order_idx, (first, last) in enumerate(authors):
-        # Check if creator exists
         cur = conn.execute(
             "SELECT creatorID FROM creators WHERE firstName = ? AND lastName = ?",
             (first, last))
@@ -261,19 +365,14 @@ def insert_item(conn, entry, dry_run=False):
                 "INSERT INTO creators (firstName, lastName) VALUES (?, ?)",
                 (first, last))
             creator_id = conn.execute("SELECT last_insert_rowid()").fetchone()[0]
-
         conn.execute(
             "INSERT INTO itemCreators (itemID, creatorID, creatorTypeID, orderIndex) "
             "VALUES (?, ?, ?, ?)",
             (item_id, creator_id, AUTHOR_TYPE_ID, order_idx))
 
-    # Insert tags from keywords
+    # Insert tags
     keywords = bibtex_parse_keywords(entry.get('keywords', ''))
-    direction_tag = None
     for tag_name in keywords:
-        if tag_name.startswith('Direction-'):
-            direction_tag = tag_name
-        # Check if tag exists
         cur = conn.execute("SELECT tagID FROM tags WHERE name = ?", (tag_name,))
         t = cur.fetchone()
         if t:
@@ -281,13 +380,11 @@ def insert_item(conn, entry, dry_run=False):
         else:
             conn.execute("INSERT INTO tags (name) VALUES (?)", (tag_name,))
             tag_id = conn.execute("SELECT last_insert_rowid()").fetchone()[0]
-
         conn.execute(
             "INSERT INTO itemTags (itemID, tagID, type) VALUES (?, ?, 0)",
             (item_id, tag_id))
 
-    # Add to collection
-    # Also check for A/B/C/D/E/F/X direction tags
+    # Add to collections
     for kw in keywords:
         if kw in DIRECTION_COLLECTIONS:
             coll_id = DIRECTION_COLLECTIONS[kw]
@@ -295,23 +392,57 @@ def insert_item(conn, entry, dry_run=False):
                 "INSERT OR IGNORE INTO collectionItems (collectionID, itemID) "
                 "VALUES (?, ?)", (coll_id, item_id))
 
-    print(f"  INSERTED [{item_key}]: {title[:60]}..." if len(title) > 60 else f"  INSERTED [{item_key}]: {title}")
-    return item_id
+    # Download and attach PDF
+    pdf_ok = False
+    if not skip_pdf:
+        pdf_url, filename = find_pdf_url(entry)
+        if pdf_url:
+            pdf_path = os.path.join('/tmp/zotero_pdf_import', filename)
+            print(f"    Downloading PDF: {pdf_url[:80]}...")
+            if download_pdf(pdf_url, pdf_path):
+                attach_pdf_to_item(conn, item_id, item_key, entry, pdf_path)
+                pdf_ok = True
+                print(f"    PDF attached ✓")
+            else:
+                print(f"    ⚠ PDF not available (will try Find Available PDF in Zotero)")
+        else:
+            print(f"    ⚠ No PDF URL found")
+
+    status = "📄+📎" if pdf_ok else "📄"
+    short_title = title[:60] + "..." if len(title) > 60 else title
+    print(f"  {status} INSERTED [{item_key}]: {short_title}")
+    return item_id, item_key
+
+
+def delete_items_by_date(conn, date_str):
+    """Delete items added on a specific date. Use with caution!"""
+    conn.execute("PRAGMA foreign_keys = ON")
+    conn.execute(
+        "DELETE FROM items WHERE dateAdded LIKE ?", (f'{date_str}%',))
+    deleted = conn.total_changes
+    print(f"Deleted {deleted} items from {date_str}")
+    return deleted
 
 
 def main():
     if len(sys.argv) < 2:
-        print(f"Usage: {sys.argv[0]} <bib_file> [--dry-run]")
+        print(f"Usage: {sys.argv[0]} <bib_file> [--dry-run] [--no-pdf] [--clean-date YYYY-MM-DD]")
         sys.exit(1)
 
     bib_file = sys.argv[1]
     dry_run = '--dry-run' in sys.argv
+    skip_pdf = '--no-pdf' in sys.argv
+    clean_date = None
+    if '--clean-date' in sys.argv:
+        idx = sys.argv.index('--clean-date')
+        if idx + 1 < len(sys.argv):
+            clean_date = sys.argv[idx + 1]
 
     if not os.path.exists(bib_file):
         print(f"Error: file not found: {bib_file}")
         sys.exit(1)
 
-    # Check if Zotero is running
+    # Check Zotero
     zotero_running = os.popen('pgrep -x zotero 2>/dev/null').read().strip()
     if zotero_running:
         print("ERROR: Zotero is running. Please close Zotero first.")
@@ -322,6 +453,17 @@ def main():
         print(f"ERROR: Zotero database not found: {ZOTERO_DB}")
         sys.exit(1)
 
+    # Clean up temp dir
+    os.makedirs('/tmp/zotero_pdf_import', exist_ok=True)
+
+    conn = sqlite3.connect(ZOTERO_DB)
+    conn.execute("PRAGMA foreign_keys = ON")
+
+    # Clean previous imports if requested
+    if clean_date:
+        print(f"Cleaning items from {clean_date}...")
+        delete_items_by_date(conn, clean_date)
+
     print(f"Parsing: {bib_file}")
     entries = parse_bib_file(bib_file)
     print(f"Found {len(entries)} entries\n")
@@ -329,29 +471,27 @@ def main():
     if dry_run:
         print("=== DRY RUN MODE ===\n")
 
-    conn = sqlite3.connect(ZOTERO_DB)
-    conn.execute("PRAGMA foreign_keys = ON")
-
     inserted = 0
     skipped = 0
+    pdf_count = 0
     for entry in entries:
-        result = insert_item(conn, entry, dry_run=dry_run)
-        if result is not None:
+        result = insert_item(conn, entry, dry_run=dry_run, skip_pdf=skip_pdf)
+        if result[0] is not None:
             inserted += 1
         else:
             skipped += 1
 
     if not dry_run:
         conn.commit()
-
     conn.close()
 
     print(f"\n{'='*50}")
     print(f"Results: {inserted} inserted, {skipped} skipped (duplicates)")
     
-    if not dry_run:
+    if not dry_run and not skip_pdf:
         print(f"\nDone! Restart Zotero: open -a Zotero")
-        print(f"The {inserted} new items will appear in your library with tags and collections.")
+        print(f"Papers are now in your library WITH PDFs attached.")
+        print(f"If some PDFs failed, right-click → Find Available PDF in Zotero.")
 
 
 if __name__ == '__main__':
