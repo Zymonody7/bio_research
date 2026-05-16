@@ -1,5 +1,6 @@
-% 论文日报 2025-05-17 — Zotero 导入用
-% 放入 Zotero 的 watched folder 或手动导入
+% 论文日报 2025-05-17 — Zotero 导入用（含自动分类关键词）
+% Better BibTeX watched folder: ~/research-papers/bibtex/
+% 导入后按 keywords 中的标签自动创建 Zotero Saved Search 分类
 
 @article{bai2025ai_mngs_tcinet,
   title = {Enhancing Pathogen Identification through AI-Assisted Metagenomic Sequencing},
@@ -8,7 +9,8 @@
   year = {2025},
   doi = {10.3389/fmicb.2025.1634194},
   url = {https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1634194/full},
-  note = {方向A: mNGS+AI. TCINet + HTRS 层次化推理框架}
+  keywords = {Direction-A, mNGS, pathogen-detection, AI, metagenomics, deep-learning, responsible-pathogen},
+  note = {🔥直接相关: TCINet + HTRS 层次化推理框架，可用于改进责任病原判定}
 }
 
 @article{multiple2025_ai_viral_mngs,
@@ -18,18 +20,20 @@
   year = {2025},
   doi = {10.3389/fmicb.2025.1717859},
   url = {https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1717859/full},
-  note = {方向A: mNGS+AI. AI加速病毒mNGS综述}
+  keywords = {Direction-A, mNGS, virus, AI, outbreak, review},
+  note = {📎方法参考: AI加速病毒mNGS综述，CNN/RNN/Transformer在序列分类中的应用}
 }
 
 @article{unknown2025_amg_rag,
-  title = {Agentic Medical Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge},
+  title = {Agentic Medical Knowledge Graphs Enhance Medical Question Answering},
   author = {Authors et al.},
   journal = {arXiv preprint},
   year = {2025},
   eprint = {2502.13010},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2502.13010},
-  note = {方向B: 临床Agent. AMG-RAG 自动更新医学KG}
+  keywords = {Direction-B, clinical-agent, knowledge-graph, RAG, medical-QA, evidence-chain},
+  note = {🔥直接相关: AMG-RAG自动更新医学KG+证据链推理}
 }
 
 @article{unknown2025_clinicbot,
@@ -40,7 +44,8 @@
   eprint = {2605.00846},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2605.00846},
-  note = {方向B: 临床Agent. 指南结构化的优先级证据RAG}
+  keywords = {Direction-B, clinical-guideline, RAG, evidence-prioritization, clinical-report},
+  note = {🔥直接相关: 指南结构化+优先级证据检索，与报表生成高度一致}
 }
 
 @article{unknown2025_causal_agents_medical,
@@ -51,7 +56,8 @@
   eprint = {2601.02814},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2601.02814},
-  note = {方向B: 临床Agent. 因果推理+LightRAG}
+  keywords = {Direction-B, causal-reasoning, LightRAG, knowledge-graph, medical-screening},
+  note = {📎方法参考: 因果推理增强的证据链}
 }
 
 @article{arora2025_clinalign,
@@ -62,29 +68,32 @@
   eprint = {2602.09653},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2602.09653},
-  note = {方向C: RLHF. HealthRubrics 医生偏好数据集. 直接相关!}
+  keywords = {Direction-C, RLHF, clinician-preference, HealthRubrics, medical-alignment, DPO},
+  note = {🔥🔥直接相关: 7034条医生验证偏好数据，评分标准设计可参考}
 }
 
 @article{unknown2025_clinician_overrides_rlhf,
-  title = {Learning from Disagreement: Clinician Overrides as Implicit Preference Signals for Clinical AI in Value-Based Care},
+  title = {Learning from Disagreement: Clinician Overrides as Implicit Preference Signals for Clinical AI},
   author = {Authors et al.},
   journal = {arXiv preprint},
   year = {2025},
   eprint = {2604.28010},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2604.28010},
-  note = {方向C: RLHF. Clinician Override作为RLHF信号. 直接相关!}
+  keywords = {Direction-C, RLHF, clinician-override, preference-signal, harness-agent, reward-model},
+  note = {🔥🔥直接相关: 医生推翻AI作为RLHF信号的框架，直接用于harness agent}
 }
 
 @article{unknown2025_infimed_orbit,
-  title = {InfiMed-ORBIT: Aligning LLMs on Open-Ended Complex Tasks via Rubric-Based Incremental Training},
+  title = {InfiMed-ORBIT: Aligning LLMs via Rubric-Based Incremental Training},
   author = {Authors et al.},
   journal = {arXiv preprint},
   year = {2025},
   eprint = {2510.15859},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2510.15859},
-  note = {方向C: RLHF. 评分标准增量RL训练}
+  keywords = {Direction-C, RLHF, rubric-based, medical-dialogue, alignment},
+  note = {📎方法参考: 小样本高效alignment，2k样本从7.0到27.5}
 }
 
 @article{unknown2025_structure_aligned_plm,
@@ -95,7 +104,8 @@
   eprint = {2505.16896},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2505.16896},
-  note = {方向D: 蛋白质LM. 序列-结构对比学习}
+  keywords = {Direction-D, protein-LM, structure-alignment, contrastive-learning, pLM},
+  note = {📎方法参考: 序列-结构对比学习的双任务框架}
 }
 
 @article{unknown2025_plm_review,
@@ -106,18 +116,20 @@
   eprint = {2502.06881},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2502.06881},
-  note = {方向D: 蛋白质LM. 综述}
+  keywords = {Direction-D, protein-LM, review, pLM, structure-prediction, protein-design},
+  note = {📖综述: pLM架构/基准/应用全面回顾}
 }
 
 @article{unknown2025_generator_gfm,
-  title = {A Long-Context Generative Genomic Foundation Model},
+  title = {GENErator: A Long-Context Generative Genomic Foundation Model},
   author = {Authors et al.},
   journal = {arXiv preprint},
   year = {2025},
   eprint = {2502.07272},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2502.07272},
-  note = {方向E: 基因组FM. GENErator 98k nt上下文}
+  keywords = {Direction-E, genomic-FM, DNA-language-model, long-context, autoregressive},
+  note = {📎方法参考: 98k nt上下文自回归DNA模型}
 }
 
 @article{unknown2025_janusdna,
@@ -128,18 +140,20 @@
   eprint = {2505.17257},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2505.17257},
-  note = {方向E: 基因组FM. Mamba-Attention MoE双向DNA模型}
+  keywords = {Direction-E, genomic-FM, bidirectional, Mamba, mixture-of-experts, DNA},
+  note = {📎方法参考: Mamba-Attention MoE双向DNA FM}
 }
 
 @article{unknown2025_care_multimodal,
-  title = {CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework},
+  title = {CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning},
   author = {Authors et al.},
   journal = {arXiv preprint},
   year = {2025},
   eprint = {2603.01607},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2603.01607},
-  note = {方向F: 多模态临床Agent. 解耦接地与推理}
+  keywords = {Direction-F, multimodal, clinical-agent, VLM, medical-imaging, evidence-grounded},
+  note = {🔥直接相关: 解耦接地与推理的多模态临床Agent框架}
 }
 
 @article{unknown2025_entropy_genomics_limits,
@@ -150,5 +164,6 @@
   eprint = {2604.04287},
   archivePrefix = {arXiv},
   url = {https://arxiv.org/abs/2604.04287},
-  note = {跨界发现: GFM的局限性分析}
+  keywords = {Direction-X, genomics, foundation-model, benchmarking, analysis},
+  note = {跨界发现: GFM局限性的熵分析}
 }

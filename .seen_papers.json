@@ -1,0 +1,20 @@
+{
+  "description": "Tracked paper IDs for deduplication across daily reports",
+  "last_updated": "2025-05-17T01:37:00+08:00",
+  "papers": {
+    "10.3389/fmicb.2025.1634194": {"date_added": "2025-05-17", "direction": "A", "title": "AI-Assisted Metagenomic Sequencing: TCINet + HTRS"},
+    "10.3389/fmicb.2025.1717859": {"date_added": "2025-05-17", "direction": "A", "title": "AI-Powered Viral mNGS for Outbreak Investigation"},
+    "2502.13010": {"date_added": "2025-05-17", "direction": "B", "title": "AMG-RAG: Agentic Medical Graph-RAG"},
+    "2605.00846": {"date_added": "2025-05-17", "direction": "B", "title": "ClinicBot: Guideline-Grounded Clinical Chatbot"},
+    "2601.02814": {"date_added": "2025-05-17", "direction": "B", "title": "Causal-Enhanced AI Agents for Medical Research Screening"},
+    "2602.09653": {"date_added": "2025-05-17", "direction": "C", "title": "ClinAlign: Scaling Healthcare Alignment"},
+    "2604.28010": {"date_added": "2025-05-17", "direction": "C", "title": "Learning from Disagreement: Clinician Overrides"},
+    "2510.15859": {"date_added": "2025-05-17", "direction": "C", "title": "InfiMed-ORBIT: Rubric-Based Incremental Training"},
+    "2505.16896": {"date_added": "2025-05-17", "direction": "D", "title": "Structure-Aligned Protein Language Model"},
+    "2502.06881": {"date_added": "2025-05-17", "direction": "D", "title": "Comprehensive Review of Protein Language Models"},
+    "2502.07272": {"date_added": "2025-05-17", "direction": "E", "title": "GENErator: Long-Context Generative Genomic FM"},
+    "2505.17257": {"date_added": "2025-05-17", "direction": "E", "title": "JanusDNA: Bi-directional Hybrid DNA FM"},
+    "2603.01607": {"date_added": "2025-05-17", "direction": "F", "title": "CARE: Clinical Accountability in Multi-Modal Medical Reasoning"},
+    "2604.04287": {"date_added": "2025-05-17", "direction": "X", "title": "Entropy and Limits of Foundation Models in Genomics"}
+  }
+}
