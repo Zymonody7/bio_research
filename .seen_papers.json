@@ -1,20 +1,161 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2025-05-17T01:37:00+08:00",
+  "last_updated": "2026-05-17T10:30:00+08:00",
   "papers": {
-    "10.3389/fmicb.2025.1634194": {"date_added": "2025-05-17", "direction": "A", "title": "AI-Assisted Metagenomic Sequencing: TCINet + HTRS"},
-    "10.3389/fmicb.2025.1717859": {"date_added": "2025-05-17", "direction": "A", "title": "AI-Powered Viral mNGS for Outbreak Investigation"},
-    "2502.13010": {"date_added": "2025-05-17", "direction": "B", "title": "AMG-RAG: Agentic Medical Graph-RAG"},
-    "2605.00846": {"date_added": "2025-05-17", "direction": "B", "title": "ClinicBot: Guideline-Grounded Clinical Chatbot"},
-    "2601.02814": {"date_added": "2025-05-17", "direction": "B", "title": "Causal-Enhanced AI Agents for Medical Research Screening"},
-    "2602.09653": {"date_added": "2025-05-17", "direction": "C", "title": "ClinAlign: Scaling Healthcare Alignment"},
-    "2604.28010": {"date_added": "2025-05-17", "direction": "C", "title": "Learning from Disagreement: Clinician Overrides"},
-    "2510.15859": {"date_added": "2025-05-17", "direction": "C", "title": "InfiMed-ORBIT: Rubric-Based Incremental Training"},
-    "2505.16896": {"date_added": "2025-05-17", "direction": "D", "title": "Structure-Aligned Protein Language Model"},
-    "2502.06881": {"date_added": "2025-05-17", "direction": "D", "title": "Comprehensive Review of Protein Language Models"},
-    "2502.07272": {"date_added": "2025-05-17", "direction": "E", "title": "GENErator: Long-Context Generative Genomic FM"},
-    "2505.17257": {"date_added": "2025-05-17", "direction": "E", "title": "JanusDNA: Bi-directional Hybrid DNA FM"},
-    "2603.01607": {"date_added": "2025-05-17", "direction": "F", "title": "CARE: Clinical Accountability in Multi-Modal Medical Reasoning"},
-    "2604.04287": {"date_added": "2025-05-17", "direction": "X", "title": "Entropy and Limits of Foundation Models in Genomics"}
+    "10.3389/fmicb.2025.1634194": {
+      "date_added": "2025-05-17",
+      "direction": "A",
+      "title": "AI-Assisted Metagenomic Sequencing: TCINet + HTRS"
+    },
+    "10.3389/fmicb.2025.1717859": {
+      "date_added": "2025-05-17",
+      "direction": "A",
+      "title": "AI-Powered Viral mNGS for Outbreak Investigation"
+    },
+    "2502.13010": {
+      "date_added": "2025-05-17",
+      "direction": "B",
+      "title": "AMG-RAG: Agentic Medical Graph-RAG"
+    },
+    "2605.00846": {
+      "date_added": "2025-05-17",
+      "direction": "B",
+      "title": "ClinicBot: Guideline-Grounded Clinical Chatbot"
+    },
+    "2601.02814": {
+      "date_added": "2025-05-17",
+      "direction": "B",
+      "title": "Causal-Enhanced AI Agents for Medical Research Screening"
+    },
+    "2602.09653": {
+      "date_added": "2025-05-17",
+      "direction": "C",
+      "title": "ClinAlign: Scaling Healthcare Alignment"
+    },
+    "2604.28010": {
+      "date_added": "2025-05-17",
+      "direction": "C",
+      "title": "Learning from Disagreement: Clinician Overrides"
+    },
+    "2510.15859": {
+      "date_added": "2025-05-17",
+      "direction": "C",
+      "title": "InfiMed-ORBIT: Rubric-Based Incremental Training"
+    },
+    "2505.16896": {
+      "date_added": "2025-05-17",
+      "direction": "D",
+      "title": "Structure-Aligned Protein Language Model"
+    },
+    "2502.06881": {
+      "date_added": "2025-05-17",
+      "direction": "D",
+      "title": "Comprehensive Review of Protein Language Models"
+    },
+    "2502.07272": {
+      "date_added": "2025-05-17",
+      "direction": "E",
+      "title": "GENErator: Long-Context Generative Genomic FM"
+    },
+    "2505.17257": {
+      "date_added": "2025-05-17",
+      "direction": "E",
+      "title": "JanusDNA: Bi-directional Hybrid DNA FM"
+    },
+    "2603.01607": {
+      "date_added": "2025-05-17",
+      "direction": "F",
+      "title": "CARE: Clinical Accountability in Multi-Modal Medical Reasoning"
+    },
+    "2604.04287": {
+      "date_added": "2025-05-17",
+      "direction": "X",
+      "title": "Entropy and Limits of Foundation Models in Genomics"
+    },
+    "2604.05775": {
+      "date_added": "2026-05-17",
+      "direction": "A",
+      "title": "PhageBench: Can LLMs Understand Raw Bacteriophage Genomes?"
+    },
+    "2604.25968": {
+      "date_added": "2026-05-17",
+      "direction": "A",
+      "title": "GeneNSPCla: Mining Negative Sequential Patterns for Viral Genomic"
+    },
+    "2603.26182": {
+      "date_added": "2026-05-17",
+      "direction": "B",
+      "title": "ClinicalAgents: Multi-Agent Orchestration with Dual-Memory"
+    },
+    "2603.00460": {
+      "date_added": "2026-05-17",
+      "direction": "B",
+      "title": "MED-COPILOT: GraphRAG and Similar Patient Case Retrieval"
+    },
+    "2605.10286": {
+      "date_added": "2026-05-17",
+      "direction": "B",
+      "title": "AgentRx: Benchmark for LLM Agents in Multimodal Clinical Prediction"
+    },
+    "2604.26577": {
+      "date_added": "2026-05-17",
+      "direction": "C",
+      "title": "Benchmarking Safety of LLMs for Robotic Health Attendant"
+    },
+    "2604.18789": {
+      "date_added": "2026-05-17",
+      "direction": "C",
+      "title": "ARES: Adaptive Red-Teaming and End-to-End Repair"
+    },
+    "2509.05367": {
+      "date_added": "2026-05-17",
+      "direction": "C",
+      "title": "TRIAL+ERR: Ethical Reasoning vs Safety Alignment"
+    },
+    "2602.12026": {
+      "date_added": "2026-05-17",
+      "direction": "D",
+      "title": "ProtoMech: Protein Circuit Tracing via Cross-layer Transcoders"
+    },
+    "2602.01845": {
+      "date_added": "2026-05-17",
+      "direction": "D",
+      "title": "Proust: Efficient Causal PLMs for Zero-Shot Fitness"
+    },
+    "2602.10603": {
+      "date_added": "2026-05-17",
+      "direction": "E",
+      "title": "dnaHNet: Scalable Hierarchical Foundation Model"
+    },
+    "2603.27465": {
+      "date_added": "2026-05-17",
+      "direction": "E",
+      "title": "Poisoning the Genome: Backdoor Attacks on DNA FMs"
+    },
+    "2603.22179": {
+      "date_added": "2026-05-17",
+      "direction": "F",
+      "title": "MARCUS: Agentic Multimodal VLM for Cardiac Diagnosis"
+    },
+    "2604.23605": {
+      "date_added": "2026-05-17",
+      "direction": "F",
+      "title": "DxChain: Cognitive AI Agent for Clinical Diagnosis"
+    },
+    "2603.29727": {
+      "date_added": "2026-05-17",
+      "direction": "X",
+      "title": "Latent-Y: Lab-Validated Autonomous Agent for Drug Design"
+    },
+    "2605.02937": {
+      "date_added": "2026-05-17",
+      "direction": "X",
+      "title": "Proteo-R1: Reasoning Foundation Models for Protein Design"
+    },
+    "2604.17110": {
+      "date_added": "2026-05-17",
+      "direction": "X",
+      "title": "Autonomous Coding-Agent for Clinician-Driven AI"
+    }
   }
 }
