@@ -381,7 +381,7 @@ def insert_item(conn, entry, dry_run=False, skip_pdf=False):
             conn.execute("INSERT INTO tags (name) VALUES (?)", (tag_name,))
             tag_id = conn.execute("SELECT last_insert_rowid()").fetchone()[0]
         conn.execute(
-            "INSERT INTO itemTags (itemID, tagID, type) VALUES (?, ?, 0)",
+            "INSERT OR IGNORE INTO itemTags (itemID, tagID, type) VALUES (?, ?, 0)",
             (item_id, tag_id))
 
     # Add to collections
