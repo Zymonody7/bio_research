@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-05-17T10:30:00+08:00",
+  "last_updated": "2026-05-19T12:00:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -156,6 +156,81 @@
       "date_added": "2026-05-17",
       "direction": "X",
       "title": "Autonomous Coding-Agent for Clinician-Driven AI"
+    },
+    "2501.02045": {
+      "date_added": "2026-05-19",
+      "direction": "A",
+      "title": "METAGENE-1: Metagenomic Foundation Model for Pandemic Monitoring"
+    },
+    "2509.13300": {
+      "date_added": "2026-05-19",
+      "direction": "A",
+      "title": "AmpliconHunter: PCR Amplicon Prediction from Microbiome"
+    },
+    "2602.07905": {
+      "date_added": "2026-05-19",
+      "direction": "B",
+      "title": "MedCoG: Meta-Cognitive Agent with Knowledge Graph"
+    },
+    "2605.02943": {
+      "date_added": "2026-05-19",
+      "direction": "B",
+      "title": "Healthcare AI GYM for Medical Agents"
+    },
+    "2605.06226": {
+      "date_added": "2026-05-19",
+      "direction": "B",
+      "title": "Hygieia: AI Agent for Rare Disease Diagnosis"
+    },
+    "2603.03054": {
+      "date_added": "2026-05-19",
+      "direction": "C",
+      "title": "PrivMedChat: Differentially Private RLHF for Medical"
+    },
+    "2602.22973": {
+      "date_added": "2026-05-19",
+      "direction": "C",
+      "title": "Modeling Expert AI Diagnostic Alignment"
+    },
+    "2510.03370": {
+      "date_added": "2026-05-19",
+      "direction": "D",
+      "title": "InstructPLM-mu: ESM2 Beats ESM3"
+    },
+    "2509.07983": {
+      "date_added": "2026-05-19",
+      "direction": "D",
+      "title": "Steering Protein Language Models (ICML 2025)"
+    },
+    "2601.22203": {
+      "date_added": "2026-05-19",
+      "direction": "E",
+      "title": "Gengram: Retrieval-Augmented Genomic Foundation Models"
+    },
+    "2604.06549": {
+      "date_added": "2026-05-19",
+      "direction": "E",
+      "title": "Genomic LMs Fail Positional Regulatory Logic"
+    },
+    "2604.16570": {
+      "date_added": "2026-05-19",
+      "direction": "E",
+      "title": "In Search of Lost DNA Sequence Pretraining"
+    },
+    "2605.09272": {
+      "date_added": "2026-05-19",
+      "direction": "F",
+      "title": "AI Co-Clinician: Conversational Medical AI"
+    },
+    "2506.19835": {
+      "date_added": "2026-05-19",
+      "direction": "F",
+      "title": "MAM: Modular Multi-Agent Multimodal Medical"
+    },
+    "2602.00019": {
+      "date_added": "2026-05-19",
+      "direction": "X",
+      "title": "AutoBinder Agent: MCP-Based Protein Binder Design"
     }
   }
 }
