@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-05-19T12:00:00+08:00",
+  "last_updated": "2026-05-21T12:00:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -231,6 +231,146 @@
       "date_added": "2026-05-19",
       "direction": "X",
       "title": "AutoBinder Agent: MCP-Based Protein Binder Design"
+    },
+    "2512.03158": {
+      "date_added": "2026-05-20",
+      "direction": "A",
+      "title": "Contrastive Deep Learning for Variant Detection in Wastewater"
+    },
+    "2504.03732": {
+      "date_added": "2026-05-20",
+      "direction": "A",
+      "title": "SAGe: Algorithm-Architecture Co-Design for Genome Analysis"
+    },
+    "2509.19319": {
+      "date_added": "2026-05-20",
+      "direction": "B",
+      "title": "FHIR-AgentBench: LLM Agents for EHR QA"
+    },
+    "2507.02773": {
+      "date_added": "2026-05-20",
+      "direction": "B",
+      "title": "KERAP: KG-Enhanced Zero-shot Diagnosis Multi-agent"
+    },
+    "2507.02616": {
+      "date_added": "2026-05-20",
+      "direction": "B",
+      "title": "DynamiCare: Dynamic Multi-Agent Interactive Diagnosis"
+    },
+    "2512.04210": {
+      "date_added": "2026-05-20",
+      "direction": "C",
+      "title": "Balancing Safety and Helpfulness Healthcare AI"
+    },
+    "2506.12482": {
+      "date_added": "2026-05-20",
+      "direction": "C",
+      "title": "TAO: Tiered Agentic Oversight Healthcare Safety"
+    },
+    "2505.20036": {
+      "date_added": "2026-05-20",
+      "direction": "D",
+      "title": "Beyond Simple Concatenation: PPI PLM Architectures"
+    },
+    "2512.15133": {
+      "date_added": "2026-05-20",
+      "direction": "D",
+      "title": "HD-Prot: Joint Sequence-Structure Continuous Tokens"
+    },
+    "2506.01833": {
+      "date_added": "2026-05-20",
+      "direction": "E",
+      "title": "SPACE: Genomic Profile Predictor DNA FM"
+    },
+    "2602.12286": {
+      "date_added": "2026-05-20",
+      "direction": "E",
+      "title": "Alignment or Integration: DNA-Language Multimodal Fusion"
+    },
+    "2604.08203": {
+      "date_added": "2026-05-20",
+      "direction": "F",
+      "title": "MedVR: Annotation-Free Medical Visual Reasoning RL"
+    },
+    "2505.21698": {
+      "date_added": "2026-05-20",
+      "direction": "F",
+      "title": "MedBridge: Foundation VLM to Medical Diagnosis"
+    },
+    "2507.16940": {
+      "date_added": "2026-05-20",
+      "direction": "F",
+      "title": "AURA: Multi-Modal Medical Agent"
+    },
+    "2508.10760": {
+      "date_added": "2026-05-20",
+      "direction": "X",
+      "title": "FROGENT: End-to-End Drug Design Agent"
+    },
+    "2507.02004": {
+      "date_added": "2026-05-20",
+      "direction": "X",
+      "title": "STELLA: Self-Evolving Biomedical Agent"
+    },
+    "2602.06394": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2605.03476": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2601.01844": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2602.07084": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2605.17899": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2602.17162": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2603.24649": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2512.21786": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2604.00075": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2602.14160": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2603.06748": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2506.03028": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2511.10165": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2604.10420": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
+    },
+    "2605.15766": {
+      "date_added": "2026-05-21",
+      "source": "arxiv"
     }
   }
 }
