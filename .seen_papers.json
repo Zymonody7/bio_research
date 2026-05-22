@@ -371,6 +371,91 @@
     "2605.15766": {
       "date_added": "2026-05-21",
       "source": "arxiv"
+    },
+    "2601.21800": {
+      "date_added": "2026-05-22",
+      "direction": "A",
+      "title": "BioAgent Bench: AI Agent Evaluation Suite for Bioinformatics",
+      "source": "arxiv"
+    },
+    "2601.15429": {
+      "date_added": "2026-05-22",
+      "direction": "B",
+      "title": "Domain-Specific Knowledge Graphs in RAG-Enhanced Healthcare LLMs",
+      "source": "arxiv"
+    },
+    "2512.24181": {
+      "date_added": "2026-05-22",
+      "direction": "B",
+      "title": "MedKGI: Iterative Differential Diagnosis with Medical KG",
+      "source": "arxiv"
+    },
+    "2604.08326": {
+      "date_added": "2026-05-22",
+      "direction": "C",
+      "title": "ProMedical: Hierarchical Fine-Grained Criteria for Medical LLM Alignment",
+      "source": "arxiv"
+    },
+    "2602.16053": {
+      "date_added": "2026-05-22",
+      "direction": "C",
+      "title": "Multi-Objective Alignment for Personalized Psychotherapy (MODPO)",
+      "source": "arxiv"
+    },
+    "2605.21485": {
+      "date_added": "2026-05-22",
+      "direction": "D",
+      "title": "EvoStruct: Antibody CDR Design via PLM Adaptation",
+      "source": "arxiv"
+    },
+    "2603.26378": {
+      "date_added": "2026-05-22",
+      "direction": "D",
+      "title": "Generative Modeling in Protein Design Survey",
+      "source": "arxiv"
+    },
+    "2604.08698": {
+      "date_added": "2026-05-22",
+      "direction": "E",
+      "title": "EvoLen: Evolution-Guided Tokenization for DNA LM",
+      "source": "arxiv"
+    },
+    "2511.14806": {
+      "date_added": "2026-05-22",
+      "direction": "E",
+      "title": "MergeDNA: Context-Aware Genome Modeling with Dynamic Tokenization",
+      "source": "arxiv"
+    },
+    "2603.05860": {
+      "date_added": "2026-05-22",
+      "direction": "F",
+      "title": "MACRO: Evolving Medical Imaging Agents via Self-skill Discovery",
+      "source": "arxiv"
+    },
+    "2603.16876": {
+      "date_added": "2026-05-22",
+      "direction": "F",
+      "title": "MARL-Rad: Multi-Modal Multi-Agent RL for Radiology",
+      "source": "arxiv"
+    },
+    "2603.13800": {
+      "date_added": "2026-05-22",
+      "direction": "F",
+      "title": "SpatialMed: How Medical MLLMs Think in Space",
+      "source": "arxiv"
+    },
+    "2604.23674": {
+      "date_added": "2026-05-22",
+      "direction": "X",
+      "title": "Vibe Medicine: Human-AI Co-Work for Biomedical Research",
+      "source": "arxiv"
+    },
+    "2604.21937": {
+      "date_added": "2026-05-22",
+      "direction": "X",
+      "title": "MolClaw: Autonomous Agent with Hierarchical Skills for Drug Discovery",
+      "source": "arxiv"
     }
-  }
+  },
+  "last_updated": "2026-05-22T09:00:00+08:00"
 }
