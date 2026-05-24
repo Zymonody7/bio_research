@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-05-24T14:30:00+08:00",
+  "last_updated": "2026-05-24T15:00:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -495,6 +495,86 @@
       "date_added": "2026-05-24",
       "direction": "X",
       "title": "Medical Reasoning with LLMs: A Survey and MR-Bench"
+    },
+    "2603.03547": {
+      "date_added": "2026-05-24",
+      "direction": "A",
+      "title": "SCiFI: Functional Groups in Microbiomes"
+    },
+    "2603.27820": {
+      "date_added": "2026-05-24",
+      "direction": "B",
+      "title": "Counterfactual Multi-Agent Clinical Diagnosis"
+    },
+    "2603.27150": {
+      "date_added": "2026-05-24",
+      "direction": "B",
+      "title": "MediHive: Decentralized Agent Collective"
+    },
+    "2602.04813": {
+      "date_added": "2026-05-24",
+      "direction": "B",
+      "title": "Agentic AI Healthcare Taxonomy"
+    },
+    "2604.14892": {
+      "date_added": "2026-05-24",
+      "direction": "B",
+      "title": "LLMs Score Clinical Reasoning"
+    },
+    "2601.03023": {
+      "date_added": "2026-05-24",
+      "direction": "B",
+      "title": "MedDialogRubrics Benchmark"
+    },
+    "2601.05605": {
+      "date_added": "2026-05-24",
+      "direction": "D",
+      "title": "AntibodyDesignBFN"
+    },
+    "2602.07103": {
+      "date_added": "2026-05-24",
+      "direction": "E",
+      "title": "scDFM: Flow Matching Perturbation"
+    },
+    "2504.16956": {
+      "date_added": "2026-05-24",
+      "direction": "E",
+      "title": "GeneMamba Single Cell FM"
+    },
+    "2503.03485": {
+      "date_added": "2026-05-24",
+      "direction": "E",
+      "title": "Teddy Family Single Cell FM"
+    },
+    "2605.17436": {
+      "date_added": "2026-05-24",
+      "direction": "F",
+      "title": "Medical Context Distorts VLM"
+    },
+    "2605.11224": {
+      "date_added": "2026-05-24",
+      "direction": "F",
+      "title": "ABRA Radiology Agent Benchmark"
+    },
+    "2601.21617": {
+      "date_added": "2026-05-24",
+      "direction": "F",
+      "title": "PathReasoner-R1 Pathology VLM"
+    },
+    "2512.03445": {
+      "date_added": "2026-05-24",
+      "direction": "F",
+      "title": "MAGEN+O-MAKE Medical VLP"
+    },
+    "2601.00290": {
+      "date_added": "2026-05-24",
+      "direction": "X",
+      "title": "ClinicalReTrial Self-Evolving Agent"
+    },
+    "2602.10163": {
+      "date_added": "2026-05-24",
+      "direction": "X",
+      "title": "Beyond SMILES Drug Discovery Agents"
     }
   }
 }
