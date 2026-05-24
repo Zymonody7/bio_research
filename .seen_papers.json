@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-05-21T12:00:00+08:00",
+  "last_updated": "2026-05-24T14:30:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -455,7 +455,46 @@
       "direction": "X",
       "title": "MolClaw: Autonomous Agent with Hierarchical Skills for Drug Discovery",
       "source": "arxiv"
+    },
+    "2605.20815": {
+      "date_added": "2026-05-24",
+      "direction": "B",
+      "title": "GraphRAG on Consumer Hardware for Healthcare EHR Schema Retrieval"
+    },
+    "2602.14158": {
+      "date_added": "2026-05-24",
+      "direction": "C",
+      "title": "Multi-Agent Medical QA with Evidence Retrieval and Bias Checks"
+    },
+    "2601.00647": {
+      "date_added": "2026-05-24",
+      "direction": "D",
+      "title": "Physio-DPO: Physics-Informed Alignment for Protein Design"
+    },
+    "2604.09369": {
+      "date_added": "2026-05-24",
+      "direction": "D",
+      "title": "CrossAbSense: Biologically-Grounded Multi-Encoder for Antibody Developability"
+    },
+    "2603.11872": {
+      "date_added": "2026-05-24",
+      "direction": "E",
+      "title": "ELISA: Interpretable Hybrid AI Agent for Single-Cell Genomics"
+    },
+    "2605.00876": {
+      "date_added": "2026-05-24",
+      "direction": "F",
+      "title": "GAZE: Grounded Agentic Zero-shot Evaluation on Rare Brain MRI"
+    },
+    "2605.14113": {
+      "date_added": "2026-05-24",
+      "direction": "F",
+      "title": "ProtoMedAgent: Privacy-Aware Agentic Workflows for Clinical Interpretability"
+    },
+    "2604.08559": {
+      "date_added": "2026-05-24",
+      "direction": "X",
+      "title": "Medical Reasoning with LLMs: A Survey and MR-Bench"
     }
-  },
-  "last_updated": "2026-05-22T09:00:00+08:00"
+  }
 }
