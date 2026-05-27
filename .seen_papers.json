@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-05-24T15:00:00+08:00",
+  "last_updated": "2026-05-25T09:00:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -575,6 +575,81 @@
       "date_added": "2026-05-24",
       "direction": "X",
       "title": "Beyond SMILES Drug Discovery Agents"
+    },
+    "2507.21980": {
+      "date_added": "2026-05-25",
+      "direction": "A",
+      "title": "Predicting Microbial Ontology and Pathogen Risk from Environmental Metadata with LLMs"
+    },
+    "2026.01.05.697599": {
+      "date_added": "2026-05-25",
+      "direction": "A",
+      "title": "BiomeGPT: Foundation Model for Human Gut Microbiome"
+    },
+    "2605.07305": {
+      "date_added": "2026-05-25",
+      "direction": "B",
+      "title": "MedAction: Active Multi-turn Clinical Diagnostic LLMs"
+    },
+    "2510.12224": {
+      "date_added": "2026-05-25",
+      "direction": "B",
+      "title": "MedKGEval: KG-Based Multi-Turn Evaluation Framework"
+    },
+    "2605.20994": {
+      "date_added": "2026-05-25",
+      "direction": "C",
+      "title": "Context-Invariant Safety Alignment with AIR"
+    },
+    "2605.10310": {
+      "date_added": "2026-05-25",
+      "direction": "C",
+      "title": "Positive Alignment: AI for Human Flourishing"
+    },
+    "2605.06879": {
+      "date_added": "2026-05-25",
+      "direction": "D",
+      "title": "Evo-PU: Better Protein Function Prediction by Modeling Survivorship Bias"
+    },
+    "2510.07286": {
+      "date_added": "2026-05-25",
+      "direction": "D",
+      "title": "EvoIF: Evolutionary Profiles for Protein Fitness Prediction"
+    },
+    "2506.04235": {
+      "date_added": "2026-05-25",
+      "direction": "D",
+      "title": "AbBiBench: Antibody Binding Affinity Maturation Benchmark"
+    },
+    "2605.07938": {
+      "date_added": "2026-05-25",
+      "direction": "E",
+      "title": "CellRefine: Prototype Guided Post-pretraining for Single-Cell"
+    },
+    "2605.19343": {
+      "date_added": "2026-05-25",
+      "direction": "E",
+      "title": "What Makes a Representation Good for Single-Cell Perturbation Prediction?"
+    },
+    "2506.00555": {
+      "date_added": "2026-05-25",
+      "direction": "F",
+      "title": "MMedAgent-RL: Optimizing Multi-Agent Collaboration for Medical Diagnosis"
+    },
+    "2503.22678": {
+      "date_added": "2026-05-25",
+      "direction": "F",
+      "title": "MedAgentSim: Self-Evolving Multi-Agent Clinical Simulations"
+    },
+    "2508.19800": {
+      "date_added": "2026-05-25",
+      "direction": "X",
+      "title": "Full-Body AI Agent: Multi-Layered Framework for Human Biology"
+    },
+    "2511.03354": {
+      "date_added": "2026-05-25",
+      "direction": "X",
+      "title": "Generative AI in Bioinformatics: A Systematic Review"
     }
   }
 }
