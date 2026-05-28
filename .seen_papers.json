@@ -720,6 +720,76 @@
       "date_added": "2026-05-27",
       "direction": "X",
       "title": "DrugSAGE: Self-evolving Agent Experience for Drug Discovery"
+    },
+    "2605.25388": {
+      "date_added": "2026-05-28",
+      "direction": "A",
+      "title": "ViroBench: Benchmarking Nucleotide Foundation Models on Viral Genomics Tasks"
+    },
+    "10.64898/2026.02.18.26346517": {
+      "date_added": "2026-05-28",
+      "direction": "A",
+      "title": "GPAS: Online AI System for Pathogen Identification and LLM-Based Interpretation"
+    },
+    "2605.07305": {
+      "date_added": "2026-05-28",
+      "direction": "B",
+      "title": "MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs"
+    },
+    "2603.05129": {
+      "date_added": "2026-05-28",
+      "direction": "B",
+      "title": "MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval"
+    },
+    "2605.25273": {
+      "date_added": "2026-05-28",
+      "direction": "B",
+      "title": "LLM-as-a-Judge in Healthcare: A Scoping Analysis"
+    },
+    "2605.20591": {
+      "date_added": "2026-05-28",
+      "direction": "C",
+      "title": "Do No Harm? Hallucination and Actor-Level Abuse in Web-Deployed Medical LLMs"
+    },
+    "2605.06720": {
+      "date_added": "2026-05-28",
+      "direction": "D",
+      "title": "Germline-Absorbing Discrete Diffusion for Conditional Antibody Generation"
+    },
+    "2602.02425": {
+      "date_added": "2026-05-28",
+      "direction": "D",
+      "title": "CHASE: Repurposing Protein LMs for Latent Flow-Based Fitness Optimization"
+    },
+    "2605.19343": {
+      "date_added": "2026-05-28",
+      "direction": "E",
+      "title": "What Makes a Representation Good for Single-Cell Perturbation Prediction?"
+    },
+    "2604.07196": {
+      "date_added": "2026-05-28",
+      "direction": "E",
+      "title": "Probing 3D Chromatin Structure Awareness in Evo2 DNA Language Model"
+    },
+    "2605.14113": {
+      "date_added": "2026-05-28",
+      "direction": "F",
+      "title": "ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows"
+    },
+    "2604.18145": {
+      "date_added": "2026-05-28",
+      "direction": "F",
+      "title": "HiRRA: Region-Grounded Report Generation for 3D PET/CT (ACL 2026)"
+    },
+    "2605.05985": {
+      "date_added": "2026-05-28",
+      "direction": "X",
+      "title": "BioResearcher: Scenario-Guided Multi-Agent for Translational Medicine"
+    },
+    "2603.03655": {
+      "date_added": "2026-05-28",
+      "direction": "X",
+      "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents"
     }
   }
 }
