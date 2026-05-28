@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-05-25T09:00:00+08:00",
+  "last_updated": "2026-05-27T09:00:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -650,6 +650,76 @@
       "date_added": "2026-05-25",
       "direction": "X",
       "title": "Generative AI in Bioinformatics: A Systematic Review"
+    },
+    "2605.14442": {
+      "date_added": "2026-05-27",
+      "direction": "A",
+      "title": "GGBound: Genome-Grounded Agent for Microbial Life-Boundary Prediction"
+    },
+    "2603.11141": {
+      "date_added": "2026-05-27",
+      "direction": "A",
+      "title": "Cross-Species Antimicrobial Resistance Prediction from Genomic Foundation Models"
+    },
+    "2605.07058": {
+      "date_added": "2026-05-27",
+      "direction": "B",
+      "title": "MedExAgent: Training LLM Agents to Ask, Examine, and Diagnose"
+    },
+    "2602.01297": {
+      "date_added": "2026-05-27",
+      "direction": "B",
+      "title": "RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Clinical Diagnosis"
+    },
+    "2509.23725": {
+      "date_added": "2026-05-27",
+      "direction": "B",
+      "title": "MedLA: Logic-Driven Multi-Agent Framework (AAAI-26 Oral)"
+    },
+    "2602.06650": {
+      "date_added": "2026-05-27",
+      "direction": "C",
+      "title": "PACT: Hierarchical Policy Control for LLM Safety"
+    },
+    "2605.04992": {
+      "date_added": "2026-05-27",
+      "direction": "C",
+      "title": "NeWTral: Safety Alignment Restoration via Neural Weight Translation"
+    },
+    "2605.07554": {
+      "date_added": "2026-05-27",
+      "direction": "D",
+      "title": "ProteinJEPA: Latent Prediction Complements Protein LMs"
+    },
+    "2605.21610": {
+      "date_added": "2026-05-27",
+      "direction": "D",
+      "title": "AgForce: Antigen-conditioned Generative Antibody Design"
+    },
+    "2605.06728": {
+      "date_added": "2026-05-27",
+      "direction": "E",
+      "title": "OmicsLM: Multimodal LLM for Multi-Sample Omics Reasoning"
+    },
+    "2602.10156": {
+      "date_added": "2026-05-27",
+      "direction": "E",
+      "title": "STRAND: Sequence-Conditioned Transport for Single-Cell Perturbations"
+    },
+    "2605.01779": {
+      "date_added": "2026-05-27",
+      "direction": "F",
+      "title": "MedScribe: Clinically Grounded CT Reporting via Agentic Workflows"
+    },
+    "2603.09909": {
+      "date_added": "2026-05-27",
+      "direction": "F",
+      "title": "MedMASLab: Unified Orchestration for Multimodal Medical MAS"
+    },
+    "2605.15461": {
+      "date_added": "2026-05-27",
+      "direction": "X",
+      "title": "DrugSAGE: Self-evolving Agent Experience for Drug Discovery"
     }
   }
 }
