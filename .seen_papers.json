@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-05-27T09:00:00+08:00",
+  "last_updated": "2026-05-30T15:55:10+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -73,7 +73,7 @@
       "title": "Entropy and Limits of Foundation Models in Genomics"
     },
     "2604.05775": {
-      "date_added": "2026-05-17",
+      "date_added": "2026-05-30",
       "direction": "A",
       "title": "PhageBench: Can LLMs Understand Raw Bacteriophage Genomes?"
     },
@@ -128,9 +128,9 @@
       "title": "dnaHNet: Scalable Hierarchical Foundation Model"
     },
     "2603.27465": {
-      "date_added": "2026-05-17",
+      "date_added": "2026-05-30",
       "direction": "E",
-      "title": "Poisoning the Genome: Backdoor Attacks on DNA FMs"
+      "title": "Targeted Backdoor Attacks on DNA Foundation Models"
     },
     "2603.22179": {
       "date_added": "2026-05-17",
@@ -148,9 +148,9 @@
       "title": "Latent-Y: Lab-Validated Autonomous Agent for Drug Design"
     },
     "2605.02937": {
-      "date_added": "2026-05-17",
-      "direction": "X",
-      "title": "Proteo-R1: Reasoning Foundation Models for Protein Design"
+      "date_added": "2026-05-30",
+      "direction": "D",
+      "title": "Proteo-R1: Reasoning Foundation Models for De Novo Protein Design"
     },
     "2604.17110": {
       "date_added": "2026-05-17",
@@ -173,8 +173,8 @@
       "title": "MedCoG: Meta-Cognitive Agent with Knowledge Graph"
     },
     "2605.02943": {
-      "date_added": "2026-05-19",
-      "direction": "B",
+      "date_added": "2026-05-30",
+      "direction": "C",
       "title": "Healthcare AI GYM for Medical Agents"
     },
     "2605.06226": {
@@ -317,8 +317,9 @@
       "source": "arxiv"
     },
     "2605.03476": {
-      "date_added": "2026-05-21",
-      "source": "arxiv"
+      "date_added": "2026-05-30",
+      "direction": "B",
+      "title": "CuraView: Multi-Agent Framework for Medical Hallucination Detection with GraphRAG"
     },
     "2601.01844": {
       "date_added": "2026-05-21",
@@ -369,8 +370,9 @@
       "source": "arxiv"
     },
     "2605.15766": {
-      "date_added": "2026-05-21",
-      "source": "arxiv"
+      "date_added": "2026-05-30",
+      "direction": "A",
+      "title": "BioXArena: Benchmarking LLM Agents on Multi-Modal Biomedical Coding"
     },
     "2601.21800": {
       "date_added": "2026-05-22",
@@ -487,9 +489,9 @@
       "title": "GAZE: Grounded Agentic Zero-shot Evaluation on Rare Brain MRI"
     },
     "2605.14113": {
-      "date_added": "2026-05-24",
+      "date_added": "2026-05-28",
       "direction": "F",
-      "title": "ProtoMedAgent: Privacy-Aware Agentic Workflows for Clinical Interpretability"
+      "title": "ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows"
     },
     "2604.08559": {
       "date_added": "2026-05-24",
@@ -587,9 +589,9 @@
       "title": "BiomeGPT: Foundation Model for Human Gut Microbiome"
     },
     "2605.07305": {
-      "date_added": "2026-05-25",
+      "date_added": "2026-05-28",
       "direction": "B",
-      "title": "MedAction: Active Multi-turn Clinical Diagnostic LLMs"
+      "title": "MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs"
     },
     "2510.12224": {
       "date_added": "2026-05-25",
@@ -627,7 +629,7 @@
       "title": "CellRefine: Prototype Guided Post-pretraining for Single-Cell"
     },
     "2605.19343": {
-      "date_added": "2026-05-25",
+      "date_added": "2026-05-28",
       "direction": "E",
       "title": "What Makes a Representation Good for Single-Cell Perturbation Prediction?"
     },
@@ -731,11 +733,6 @@
       "direction": "A",
       "title": "GPAS: Online AI System for Pathogen Identification and LLM-Based Interpretation"
     },
-    "2605.07305": {
-      "date_added": "2026-05-28",
-      "direction": "B",
-      "title": "MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs"
-    },
     "2603.05129": {
       "date_added": "2026-05-28",
       "direction": "B",
@@ -761,20 +758,10 @@
       "direction": "D",
       "title": "CHASE: Repurposing Protein LMs for Latent Flow-Based Fitness Optimization"
     },
-    "2605.19343": {
-      "date_added": "2026-05-28",
-      "direction": "E",
-      "title": "What Makes a Representation Good for Single-Cell Perturbation Prediction?"
-    },
     "2604.07196": {
       "date_added": "2026-05-28",
       "direction": "E",
       "title": "Probing 3D Chromatin Structure Awareness in Evo2 DNA Language Model"
-    },
-    "2605.14113": {
-      "date_added": "2026-05-28",
-      "direction": "F",
-      "title": "ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows"
     },
     "2604.18145": {
       "date_added": "2026-05-28",
@@ -790,6 +777,126 @@
       "date_added": "2026-05-28",
       "direction": "X",
       "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents"
+    },
+    "2601.03295": {
+      "date_added": "2026-05-29",
+      "direction": "A",
+      "title": "MetagenBERT: Transformer-based Metagenome Representation via Genomic LLMs"
+    },
+    "2602.08061": {
+      "date_added": "2026-05-29",
+      "direction": "A",
+      "title": "Securing Dual-Use Pathogen Data of Concern"
+    },
+    "2603.22096": {
+      "date_added": "2026-05-29",
+      "direction": "B",
+      "title": "GSEM: Graph-based Self-Evolving Memory for Clinical Reasoning"
+    },
+    "2605.27377": {
+      "date_added": "2026-05-29",
+      "direction": "B",
+      "title": "RAG-Coding: Enhancing LLM Medical Coding with Structured External Knowledge"
+    },
+    "2605.24636": {
+      "date_added": "2026-05-29",
+      "direction": "C",
+      "title": "GlobalDentBench: Multinational Benchmark LLM Clinical Reasoning in Dentistry"
+    },
+    "2605.26942": {
+      "date_added": "2026-05-29",
+      "direction": "C",
+      "title": "Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains"
+    },
+    "2605.22133": {
+      "date_added": "2026-05-29",
+      "direction": "D",
+      "title": "TriProRep: Atom-level Protein Representation Learning"
+    },
+    "2604.13980": {
+      "date_added": "2026-05-29",
+      "direction": "D",
+      "title": "BOAT: Bayesian Optimization for Antibody Traits"
+    },
+    "2605.05913": {
+      "date_added": "2026-05-30",
+      "direction": "E",
+      "title": "Wisteria: A Unified Multi-Scale Feature Learning Framework for DNA LM"
+    },
+    "2604.05774": {
+      "date_added": "2026-05-29",
+      "direction": "E",
+      "title": "GenomeQA: Benchmarking General LLMs for Genome Sequence Understanding"
+    },
+    "2601.13919": {
+      "date_added": "2026-05-29",
+      "direction": "F",
+      "title": "HyperWalker: Dynamic Hypergraph Deep Diagnosis across EHR and X-Ray"
+    },
+    "2604.06180": {
+      "date_added": "2026-05-29",
+      "direction": "F",
+      "title": "MedRoute: RL-Based Dynamic Specialist Routing in Multi-Agent Medical Diagnosis"
+    },
+    "2605.16293": {
+      "date_added": "2026-05-30",
+      "direction": "X",
+      "title": "From Prediction to Intervention: The Evolution of AI in Biomedicine"
+    },
+    "2605.05829": {
+      "date_added": "2026-05-29",
+      "direction": "X",
+      "title": "MP2D: Constrained MCTS-Guided Diffusion for Multi-Objective Protein Design"
+    },
+    "2605.30179": {
+      "date_added": "2026-05-30",
+      "direction": "A",
+      "title": "iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis"
+    },
+    "2604.10389": {
+      "date_added": "2026-05-30",
+      "direction": "B",
+      "title": "BLUEmed: Retrieval-Augmented Multi-Agent Debate for Clinical Error Detection"
+    },
+    "2605.09675": {
+      "date_added": "2026-05-30",
+      "direction": "B",
+      "title": "CodeClinic: Evaluating Automation of Coding Skills for Clinical Reasoning Agents"
+    },
+    "2605.04039": {
+      "date_added": "2026-05-30",
+      "direction": "C",
+      "title": "Safety and accuracy follow different scaling laws in clinical LLMs"
+    },
+    "2605.10189": {
+      "date_added": "2026-05-30",
+      "direction": "D",
+      "title": "ProteinOPD: Effective and Efficient Preference Alignment for Protein Design"
+    },
+    "2605.21600": {
+      "date_added": "2026-05-30",
+      "direction": "D",
+      "title": "ConTact: Contact-First Antibody CDR Design via Explicit Interface Reasoning"
+    },
+    "2605.21522": {
+      "date_added": "2026-05-30",
+      "direction": "D",
+      "title": "Protein Thoughts: Interpretable Reasoning with Tree of Thoughts and Flow Matching"
+    },
+    "2605.24492": {
+      "date_added": "2026-05-30",
+      "direction": "F",
+      "title": "Med-R2: Adversarial Benchmark for Evidence-Grounded Reasoning in Medical VLMs"
+    },
+    "2605.09679": {
+      "date_added": "2026-05-30",
+      "direction": "F",
+      "title": "DeepTumorVQA: Hierarchical 3D CT Benchmark for Medical VLMs"
+    },
+    "2605.10761": {
+      "date_added": "2026-05-30",
+      "direction": "F",
+      "title": "RadThinking: Dataset for Longitudinal Clinical Reasoning in Radiology"
     }
   }
 }
