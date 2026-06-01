@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-05-30T15:55:10+08:00",
+  "last_updated": "2026-05-31T22:00:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -897,6 +897,46 @@
       "date_added": "2026-05-30",
       "direction": "F",
       "title": "RadThinking: Dataset for Longitudinal Clinical Reasoning in Radiology"
+    },
+    "2605.16238": {
+      "date_added": "2026-05-31",
+      "direction": "A",
+      "title": "Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search"
+    },
+    "2602.22673": {
+      "date_added": "2026-05-31",
+      "direction": "A",
+      "title": "AMR Forecasting with ML + RAG on WHO GLASS Data"
+    },
+    "2605.26315": {
+      "date_added": "2026-05-31",
+      "direction": "C",
+      "title": "Curriculum Learning for Safety Alignment"
+    },
+    "2602.00782": {
+      "date_added": "2026-05-31",
+      "direction": "D",
+      "title": "Controlling Repetition in Protein Language Models"
+    },
+    "2512.18114": {
+      "date_added": "2026-05-31",
+      "direction": "D",
+      "title": "Magneton: Building Substructure into Protein Encoding Models"
+    },
+    "2602.17739": {
+      "date_added": "2026-05-31",
+      "direction": "E",
+      "title": "GeneZip: Region-Aware Compression for Long-Context DNA"
+    },
+    "2605.23629": {
+      "date_added": "2026-05-31",
+      "direction": "F",
+      "title": "DDX-TRACE: Diagnostic Trajectory Benchmark for VLMs"
+    },
+    "2605.28655": {
+      "date_added": "2026-05-31",
+      "direction": "X",
+      "title": "AutoScientists: Self-Organizing Agent Teams for Experimentation"
     }
   }
 }
