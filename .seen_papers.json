@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-05-31T22:00:00+08:00",
+  "last_updated": "2026-06-01T23:00:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -937,6 +937,76 @@
       "date_added": "2026-05-31",
       "direction": "X",
       "title": "AutoScientists: Self-Organizing Agent Teams for Experimentation"
+    },
+    "2605.28868": {
+      "date_added": "2026-06-01",
+      "direction": "A",
+      "title": "TaxDistill: Improving Metagenomic Taxonomic Annotation via Distilled Genomic Foundation Models"
+    },
+    "2605.17101": {
+      "date_added": "2026-06-01",
+      "direction": "B",
+      "title": "SEMA-RAG: A Self-Evolving Multi-Agent RAG Framework for Medical Reasoning"
+    },
+    "2603.03292": {
+      "date_added": "2026-06-01",
+      "direction": "B",
+      "title": "MA-RAG: From Conflict to Consensus — Boosting Medical Reasoning via Multi-Round Agentic RAG"
+    },
+    "2602.03305": {
+      "date_added": "2026-06-01",
+      "direction": "C",
+      "title": "medR: Reward Engineering for Clinical Offline RL via Tri-Drive Potential Functions"
+    },
+    "2603.11394": {
+      "date_added": "2026-06-01",
+      "direction": "C",
+      "title": "Stop Listening to Me! How Multi-turn Conversations Can Degrade LLM Reliability"
+    },
+    "2603.10302": {
+      "date_added": "2026-06-01",
+      "direction": "D",
+      "title": "How to Make the Most of Your Masked Language Model for Protein Engineering"
+    },
+    "2605.10978": {
+      "date_added": "2026-06-01",
+      "direction": "D",
+      "title": "VibeProteinBench: An Evaluation Benchmark for Language-interfaced Vibe Protein Design"
+    },
+    "2603.01780": {
+      "date_added": "2026-06-01",
+      "direction": "E",
+      "title": "D3LM: A Discrete DNA Diffusion Language Model for Bidirectional DNA Understanding and Generation"
+    },
+    "2602.09067": {
+      "date_added": "2026-06-01",
+      "direction": "E",
+      "title": "AntigenLM: Structure-Aware DNA Language Modeling for Influenza"
+    },
+    "2605.22872": {
+      "date_added": "2026-06-01",
+      "direction": "F",
+      "title": "MedExpMem: Adapting Experience Memory for Differential Diagnosis (MICCAI 2026 Early Accept)"
+    },
+    "2605.10850": {
+      "date_added": "2026-06-01",
+      "direction": "F",
+      "title": "VeriMap: Mapping the Reliability Boundary of Self-Verification in Medical VQA"
+    },
+    "2601.10949": {
+      "date_added": "2026-06-01",
+      "direction": "F",
+      "title": "MMedExpert-R1: Strengthening Multimodal Medical Reasoning via Domain-Specific Adaptation"
+    },
+    "2604.09554": {
+      "date_added": "2026-06-01",
+      "direction": "X",
+      "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research"
+    },
+    "2602.08013": {
+      "date_added": "2026-06-01",
+      "direction": "X",
+      "title": "Small Agent Group is the Future of Digital Health"
     }
   }
 }
