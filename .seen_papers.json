@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-01T23:00:00+08:00",
+  "last_updated": "2026-06-02T23:00:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1007,6 +1007,56 @@
       "date_added": "2026-06-01",
       "direction": "X",
       "title": "Small Agent Group is the Future of Digital Health"
+    },
+    "2605.29668": {
+      "date_added": "2026-06-02",
+      "direction": "B",
+      "title": "GRASP: Gated Regression-Aware Skill Proposer for Self-Improving LLM Agents"
+    },
+    "2605.30295": {
+      "date_added": "2026-06-02",
+      "direction": "B",
+      "title": "MedCase-Structured: Text-to-FHIR Dataset for Diagnostic Reasoning (ICML 2026 Workshop)"
+    },
+    "2605.31370": {
+      "date_added": "2026-06-02",
+      "direction": "B",
+      "title": "HypoAgent: Agentic Framework for Interactive Abductive Hypothesis Generation over KGs"
+    },
+    "2605.30131": {
+      "date_added": "2026-06-02",
+      "direction": "F",
+      "title": "CCS: Clinical Consensus Selection for Radiology Report Generation"
+    },
+    "2605.31410": {
+      "date_added": "2026-06-02",
+      "direction": "F",
+      "title": "FAM-Bench: Multimodal Benchmark for Food-as-Medicine Reasoning"
+    },
+    "2605.31562": {
+      "date_added": "2026-06-02",
+      "direction": "E",
+      "title": "Effective Biological Representation Learning by Masking Gene Expression (ICLR 2026 Workshop)"
+    },
+    "2605.31522": {
+      "date_added": "2026-06-02",
+      "direction": "E",
+      "title": "Chem-PerturBridge: Harmonized Compendium of Small Molecule Perturbation Transcriptomic Effects"
+    },
+    "2605.31468": {
+      "date_added": "2026-06-02",
+      "direction": "X",
+      "title": "AutoSci: Memory-Centric Agentic System for Full Scientific Research Lifecycle"
+    },
+    "2026.05.01.722313": {
+      "date_added": "2026-06-02",
+      "direction": "D",
+      "title": "Simple Baselines Rival Protein Language Models in Mutation-Dense Protein Design"
+    },
+    "2026.04.18.716776": {
+      "date_added": "2026-06-02",
+      "direction": "D",
+      "title": "sdAbs-LLM: Generative LLMs for De Novo Single-Domain Antibody Design"
     }
   }
 }
