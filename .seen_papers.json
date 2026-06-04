@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-02T23:00:00+08:00",
+  "last_updated": "2026-06-03T18:00:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1057,6 +1057,86 @@
       "date_added": "2026-06-02",
       "direction": "D",
       "title": "sdAbs-LLM: Generative LLMs for De Novo Single-Domain Antibody Design"
+    },
+    "10.64898/2026.02.16.706128": {
+      "date_added": "2026-06-03",
+      "direction": "A",
+      "title": "Nanopore metagenomic sequencing links clinically relevant pathogens and AMR genes"
+    },
+    "10.64898/2026.03.26.714510": {
+      "date_added": "2026-06-03",
+      "direction": "A",
+      "title": "Multi-Cohort Evaluation of Optimized NGS Assay for Pathogen Detection"
+    },
+    "10.64898/2026.02.01.703078": {
+      "date_added": "2026-06-03",
+      "direction": "B",
+      "title": "MEDSTREM: Agentic framework turns patient-sourced records into structured data via GraphRAG"
+    },
+    "10.64898/2026.01.16.696667": {
+      "date_added": "2026-06-03",
+      "direction": "B",
+      "title": "Medea: An omics AI agent for therapeutic discovery"
+    },
+    "2603.01252": {
+      "date_added": "2026-06-03",
+      "direction": "B",
+      "title": "Knowledge Graph-Augmented Medical Follow-Up Question Generation"
+    },
+    "2604.02652": {
+      "date_added": "2026-06-03",
+      "direction": "C",
+      "title": "Generalization Limits of Reinforcement Learning Alignment: Compound Jailbreaks"
+    },
+    "2601.18334": {
+      "date_added": "2026-06-03",
+      "direction": "C",
+      "title": "Overalignment in Frontier LLMs: Sycophantic Behavior in Clinical Context"
+    },
+    "2606.02386": {
+      "date_added": "2026-06-03",
+      "direction": "D",
+      "title": "AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding"
+    },
+    "2602.04916": {
+      "date_added": "2026-06-03",
+      "direction": "D",
+      "title": "AFD-INSTRUCTION: Comprehensive Antibody Instruction Dataset with Functional Annotations"
+    },
+    "2605.27413": {
+      "date_added": "2026-06-03",
+      "direction": "D",
+      "title": "ProtLiD2: Ligand-Conditioned Discrete Diffusion for Protein Sequence-Structure Co-Design"
+    },
+    "2602.02014": {
+      "date_added": "2026-06-03",
+      "direction": "E",
+      "title": "OpticalDNA: Vision-Based DNA Foundation Model via OCR"
+    },
+    "2606.02424": {
+      "date_added": "2026-06-03",
+      "direction": "E",
+      "title": "GC-MoE: Genomics-Guided Cell-Type-Specific Mixture of Experts for Spatial Transcriptomics"
+    },
+    "10.64898/2026.04.10.717844": {
+      "date_added": "2026-06-03",
+      "direction": "E",
+      "title": "EVEE: Interpretable variant effect prediction from genomic foundation models"
+    },
+    "2605.20176": {
+      "date_added": "2026-06-03",
+      "direction": "F",
+      "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning"
+    },
+    "2603.06902": {
+      "date_added": "2026-06-03",
+      "direction": "F",
+      "title": "Empowering Locally Deployable Medical Agent via State Enhanced Reasoning"
+    },
+    "10.64898/2026.05.06.722404": {
+      "date_added": "2026-06-03",
+      "direction": "X",
+      "title": "Tool-First Biomedical LLM Agents with Process-Aware Benchmarking"
     }
   }
 }
