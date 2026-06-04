@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-03T18:00:00+08:00",
+  "last_updated": "2026-06-04T09:00:00+08:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1137,6 +1137,76 @@
       "date_added": "2026-06-03",
       "direction": "X",
       "title": "Tool-First Biomedical LLM Agents with Process-Aware Benchmarking"
+    },
+    "2604.09519": {
+      "date_added": "2026-06-04",
+      "direction": "A",
+      "title": "Toward World Models for Epidemiology"
+    },
+    "2601.16503": {
+      "date_added": "2026-06-04",
+      "direction": "B",
+      "title": "MedRAGBench: Benchmarking RAG for Bio-medicine"
+    },
+    "2605.29744": {
+      "date_added": "2026-06-04",
+      "direction": "B",
+      "title": "Why Specialist Models Still Matter: Heterogeneous Multi-Agent"
+    },
+    "2512.01453": {
+      "date_added": "2026-06-04",
+      "direction": "B",
+      "title": "Reinventing Clinical Dialogue: Agentic Paradigms"
+    },
+    "2601.17918": {
+      "date_added": "2026-06-04",
+      "direction": "C",
+      "title": "Benchmarking DPO for Medical LLMs"
+    },
+    "2603.23085": {
+      "date_added": "2026-06-04",
+      "direction": "C",
+      "title": "MedCausalX: Adaptive Causal Reasoning with Self-Reflection"
+    },
+    "2603.11703": {
+      "date_added": "2026-06-04",
+      "direction": "D",
+      "title": "EvoFlows: Evolutionary Edit-Based Flow-Matching for Protein Generation"
+    },
+    "2505.02022": {
+      "date_added": "2026-06-04",
+      "direction": "D",
+      "title": "Benchmarking Language Models for Nanobody Tasks"
+    },
+    "2601.03019": {
+      "date_added": "2026-06-04",
+      "direction": "E",
+      "title": "DNAChunker: Learnable Tokenization for DNA Language Models"
+    },
+    "2603.08913": {
+      "date_added": "2026-06-04",
+      "direction": "E",
+      "title": "Quantifying Memorization and Privacy Risks in Genomic LMs"
+    },
+    "2605.09384": {
+      "date_added": "2026-06-04",
+      "direction": "F",
+      "title": "LiteMedCoT-VL: Parameter-Efficient Medical VQA"
+    },
+    "2605.30698": {
+      "date_added": "2026-06-04",
+      "direction": "F",
+      "title": "Aligning Multi-Agent Consensus with Visual Evidence"
+    },
+    "2603.28589": {
+      "date_added": "2026-06-04",
+      "direction": "X",
+      "title": "Towards a Medical AI Scientist"
+    },
+    "2601.22128": {
+      "date_added": "2026-06-04",
+      "direction": "X",
+      "title": "A World Model Training Paradigm for Longitudinal EHR"
     }
   }
 }
