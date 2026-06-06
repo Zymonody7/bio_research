@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-04T09:00:00+08:00",
+  "last_updated": "2026-06-05T10:14:10.680967",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1207,6 +1207,81 @@
       "date_added": "2026-06-04",
       "direction": "X",
       "title": "A World Model Training Paradigm for Longitudinal EHR"
+    },
+    "2605.28843": {
+      "date_added": "2026-06-05",
+      "direction": "A",
+      "title": "The Biosecurity Blind Spot: Systematic Dual-use Detection"
+    },
+    "2603.24745": {
+      "date_added": "2026-06-05",
+      "direction": "A",
+      "title": "Learning relationships in epidemiological data using GNNs"
+    },
+    "2606.01094": {
+      "date_added": "2026-06-05",
+      "direction": "B",
+      "title": "CAREAgent: Clinical Agent with Structured Reasoning for Order Generation"
+    },
+    "2606.03416": {
+      "date_added": "2026-06-05",
+      "direction": "B",
+      "title": "MeDxAgent: Multi-Agent Consultation for Interactive Medical Diagnosis"
+    },
+    "2603.25821": {
+      "date_added": "2026-06-05",
+      "direction": "B",
+      "title": "Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI"
+    },
+    "2604.23445": {
+      "date_added": "2026-06-05",
+      "direction": "C",
+      "title": "AI Safety Training Can be Clinically Harmful"
+    },
+    "2606.02530": {
+      "date_added": "2026-06-05",
+      "direction": "C",
+      "title": "SafeSteer: Localized On-Policy Distillation for Safety Alignment"
+    },
+    "2602.21750": {
+      "date_added": "2026-06-05",
+      "direction": "D",
+      "title": "From Words to Amino Acids: Does the Curse of Depth Persist?"
+    },
+    "2603.18505": {
+      "date_added": "2026-06-05",
+      "direction": "D",
+      "title": "From Snapshots to Symphonies: The Evolution of Protein Prediction Review"
+    },
+    "2603.23361": {
+      "date_added": "2026-06-05",
+      "direction": "E",
+      "title": "Central Dogma Transformer III: Interpretable AI Across DNA, RNA, and Protein"
+    },
+    "2509.12266": {
+      "date_added": "2026-06-05",
+      "direction": "E",
+      "title": "Genome-Factory: Library for Tuning, Deploying, and Interpreting Genomic FMs"
+    },
+    "2601.10945": {
+      "date_added": "2026-06-05",
+      "direction": "F",
+      "title": "PatientVLM Meets DocVLM: Pre-Consultation Dialogue for Diagnosis"
+    },
+    "2603.21047": {
+      "date_added": "2026-06-05",
+      "direction": "F",
+      "title": "LLM-Driven Prompt Attack for Medical VLM Robustness in Ultrasound"
+    },
+    "2605.18661": {
+      "date_added": "2026-06-05",
+      "direction": "X",
+      "title": "AI for Auto-Research: Roadmap & User Guide"
+    },
+    "2605.04375": {
+      "date_added": "2026-06-05",
+      "direction": "X",
+      "title": "Experiment-as-Code Labs: Declarative Stack for AI-Driven Discovery"
     }
   }
 }
