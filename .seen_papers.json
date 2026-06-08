@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-05T10:14:10.680967",
+  "last_updated": "2026-06-06T00:00:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1282,6 +1282,76 @@
       "date_added": "2026-06-05",
       "direction": "X",
       "title": "Experiment-as-Code Labs: Declarative Stack for AI-Driven Discovery"
+    },
+    "2503.04413": {
+      "date_added": "2026-06-06",
+      "direction": "A",
+      "title": "Can Large Language Models Predict Antimicrobial Resistance Gene?"
+    },
+    "2506.04405": {
+      "date_added": "2026-06-06",
+      "direction": "B",
+      "title": "MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning"
+    },
+    "2605.11143": {
+      "date_added": "2026-06-06",
+      "direction": "B",
+      "title": "ClinicalBench: Stress-Testing Assertion-Aware Retrieval"
+    },
+    "2503.03687": {
+      "date_added": "2026-06-06",
+      "direction": "C",
+      "title": "Fine-grained Alignment for Medication Recommendation"
+    },
+    "2503.17682": {
+      "date_added": "2026-06-06",
+      "direction": "C",
+      "title": "Safe RLHF-V: Safe RL from Multi-modal Human Feedback"
+    },
+    "2506.09332": {
+      "date_added": "2026-06-06",
+      "direction": "D",
+      "title": "InstructPro: Natural Language Guided Ligand-Binding Protein Design"
+    },
+    "2602.00197": {
+      "date_added": "2026-06-06",
+      "direction": "D",
+      "title": "Rank-and-Reason: Multi-Agent Zero-Shot Protein Mutation"
+    },
+    "2510.01571": {
+      "date_added": "2026-06-06",
+      "direction": "D",
+      "title": "What Does PLM Learn During RL?"
+    },
+    "2606.04552": {
+      "date_added": "2026-06-06",
+      "direction": "E",
+      "title": "LDARNet: DNA Adaptive Representation with Learnable Tokenization"
+    },
+    "2507.05265": {
+      "date_added": "2026-06-06",
+      "direction": "E",
+      "title": "BMFM-DNA: SNP-aware DNA Foundation Model"
+    },
+    "2508.05492": {
+      "date_added": "2026-06-06",
+      "direction": "F",
+      "title": "MoMA: Mixture-of-Multimodal-Agents for Clinical Prediction"
+    },
+    "2511.16333": {
+      "date_added": "2026-06-06",
+      "direction": "F",
+      "title": "Beyond Generative AI: World Models for Clinical Prediction"
+    },
+    "2606.01816": {
+      "date_added": "2026-06-06",
+      "direction": "X",
+      "title": "Site4Drug: Predicting Drug-Binding Target Sites with AI Agent"
+    },
+    "2506.19613": {
+      "date_added": "2026-06-06",
+      "direction": "X",
+      "title": "Intelligent Science Lab: Cognitive and Embodied AI Integration"
     }
   }
 }
