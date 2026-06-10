@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-08T00:00:00",
+  "last_updated": "2026-06-10T00:00:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -519,9 +519,9 @@
       "title": "Agentic AI Healthcare Taxonomy"
     },
     "2604.14892": {
-      "date_added": "2026-05-24",
-      "direction": "B",
-      "title": "LLMs Score Clinical Reasoning"
+      "date_added": "2026-06-08",
+      "direction": "C",
+      "title": "Can LLMs Score Medical Diagnoses as well as Expert Panels?"
     },
     "2601.03023": {
       "date_added": "2026-05-24",
@@ -944,9 +944,9 @@
       "title": "TaxDistill: Improving Metagenomic Taxonomic Annotation via Distilled Genomic Foundation Models"
     },
     "2605.17101": {
-      "date_added": "2026-06-01",
+      "date_added": "2026-06-08",
       "direction": "B",
-      "title": "SEMA-RAG: A Self-Evolving Multi-Agent RAG Framework for Medical Reasoning"
+      "title": "SEMA-RAG: Self-Evolving Multi-Agent RAG for Medical Reasoning"
     },
     "2603.03292": {
       "date_added": "2026-06-01",
@@ -1094,9 +1094,9 @@
       "title": "Overalignment in Frontier LLMs: Sycophantic Behavior in Clinical Context"
     },
     "2606.02386": {
-      "date_added": "2026-06-03",
+      "date_added": "2026-06-08",
       "direction": "D",
-      "title": "AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding"
+      "title": "AgentPLM: Agentic Protein Language Models"
     },
     "2602.04916": {
       "date_added": "2026-06-03",
@@ -1224,7 +1224,7 @@
       "title": "CAREAgent: Clinical Agent with Structured Reasoning for Order Generation"
     },
     "2606.03416": {
-      "date_added": "2026-06-05",
+      "date_added": "2026-06-08",
       "direction": "B",
       "title": "MeDxAgent: Multi-Agent Consultation for Interactive Medical Diagnosis"
     },
@@ -1324,9 +1324,9 @@
       "title": "What Does PLM Learn During RL?"
     },
     "2606.04552": {
-      "date_added": "2026-06-06",
+      "date_added": "2026-06-08",
       "direction": "E",
-      "title": "LDARNet: DNA Adaptive Representation with Learnable Tokenization"
+      "title": "LDARNet: Learnable Tokenization for Genomic Modeling"
     },
     "2507.05265": {
       "date_added": "2026-06-06",
@@ -1358,40 +1358,20 @@
       "direction": "A",
       "title": "C3P: Contrastive Promoter-Protein Pretraining"
     },
-    "2606.03416": {
-      "date_added": "2026-06-08",
-      "direction": "B",
-      "title": "MeDxAgent: Multi-Agent Consultation for Interactive Medical Diagnosis"
-    },
     "2605.22734": {
       "date_added": "2026-06-08",
       "direction": "B",
       "title": "ChronoMedKG: Temporally-Grounded Biomedical KG and Benchmark"
-    },
-    "2605.17101": {
-      "date_added": "2026-06-08",
-      "direction": "B",
-      "title": "SEMA-RAG: Self-Evolving Multi-Agent RAG for Medical Reasoning"
     },
     "2605.05750": {
       "date_added": "2026-06-08",
       "direction": "C",
       "title": "RVPO: Risk-Sensitive Alignment via Variance Regularization"
     },
-    "2604.14892": {
-      "date_added": "2026-06-08",
-      "direction": "C",
-      "title": "Can LLMs Score Medical Diagnoses as well as Expert Panels?"
-    },
     "2606.04228": {
       "date_added": "2026-06-08",
       "direction": "D",
       "title": "When Does Structure Help? Information Bonus of AF2 over PLMs"
-    },
-    "2606.02386": {
-      "date_added": "2026-06-08",
-      "direction": "D",
-      "title": "AgentPLM: Agentic Protein Language Models"
     },
     "2606.00451": {
       "date_added": "2026-06-08",
@@ -1402,11 +1382,6 @@
       "date_added": "2026-06-08",
       "direction": "E",
       "title": "The Dark Regulome: Disentangling Predictability from Regulation"
-    },
-    "2606.04552": {
-      "date_added": "2026-06-08",
-      "direction": "E",
-      "title": "LDARNet: Learnable Tokenization for Genomic Modeling"
     },
     "2606.04525": {
       "date_added": "2026-06-08",
@@ -1427,6 +1402,86 @@
       "date_added": "2026-06-08",
       "direction": "X",
       "title": "LLM-Guided Evolution for Medical Decision Pipelines"
+    },
+    "2507.11950": {
+      "date_added": "2026-06-10",
+      "direction": "A",
+      "title": "RNAMunin: Deep ML for ncRNA Discovery"
+    },
+    "2606.08938": {
+      "date_added": "2026-06-10",
+      "direction": "B",
+      "title": "PACT: Diverse Diagnostic Strategies via Privileged Synthesis"
+    },
+    "2606.03543": {
+      "date_added": "2026-06-10",
+      "direction": "B",
+      "title": "D2MDT: Department-aware Multidisciplinary Team Consultation"
+    },
+    "2602.09945": {
+      "date_added": "2026-06-10",
+      "direction": "B",
+      "title": "Closing Reasoning Gaps in Clinical Agents with DRL"
+    },
+    "2605.28910": {
+      "date_added": "2026-06-10",
+      "direction": "C",
+      "title": "Hallucination Detection-Guided Preference Optimization"
+    },
+    "2604.04842": {
+      "date_added": "2026-06-10",
+      "direction": "C",
+      "title": "Do No Harm: Persona-based Client Simulation Attack"
+    },
+    "2605.30963": {
+      "date_added": "2026-06-10",
+      "direction": "D",
+      "title": "AMix-2: Protein as Native Modality in LLMs"
+    },
+    "2606.04154": {
+      "date_added": "2026-06-10",
+      "direction": "D",
+      "title": "EpiFormer: Geometric DL for Epitope Prediction"
+    },
+    "2605.16581": {
+      "date_added": "2026-06-10",
+      "direction": "D",
+      "title": "Structure-Aware Masking for Protein Representation Learning"
+    },
+    "2606.09558": {
+      "date_added": "2026-06-10",
+      "direction": "E",
+      "title": "scTransformer: Gene Regulatory Priors in Transformer Attention"
+    },
+    "2606.07676": {
+      "date_added": "2026-06-10",
+      "direction": "E",
+      "title": "Single-Cell Cross-Modal Transfer by Adversarial Fine-Tuning"
+    },
+    "2604.16175": {
+      "date_added": "2026-06-10",
+      "direction": "F",
+      "title": "MARCH: Multi-Agent Radiology Clinical Hierarchy"
+    },
+    "2605.04098": {
+      "date_added": "2026-06-10",
+      "direction": "F",
+      "title": "Are Multimodal LLMs Ready for Clinical Dermatology?"
+    },
+    "2605.23169": {
+      "date_added": "2026-06-10",
+      "direction": "X",
+      "title": "PRAXIS: Case-distilled code-verified biological research agents"
+    },
+    "2606.09500": {
+      "date_added": "2026-06-10",
+      "direction": "X",
+      "title": "Deterministic Integrity Gates for LLM-Assisted Clinical Manuscripts"
+    },
+    "2606.02080": {
+      "date_added": "2026-06-10",
+      "direction": "X",
+      "title": "Agentic-J: AI Agent for Biological Microscopy Image Analysis"
     }
   }
 }
