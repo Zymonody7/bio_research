@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-10T00:00:00",
+  "last_updated": "2026-06-11T00:00:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1482,6 +1482,81 @@
       "date_added": "2026-06-10",
       "direction": "X",
       "title": "Agentic-J: AI Agent for Biological Microscopy Image Analysis"
+    },
+    "2509.18153": {
+      "date_added": "2026-06-11",
+      "direction": "A",
+      "title": "ApexAmphion: Deep RL Platform for Antibiotic Discovery"
+    },
+    "2606.09365": {
+      "date_added": "2026-06-11",
+      "direction": "B",
+      "title": "SkeMex: Self-Evolving Skill Memory for Medical Agent Reasoning"
+    },
+    "2606.08982": {
+      "date_added": "2026-06-11",
+      "direction": "B",
+      "title": "Baichuan-M4: Clinical-Grade Medical Agent System for Continuous Care"
+    },
+    "2605.29368": {
+      "date_added": "2026-06-11",
+      "direction": "B",
+      "title": "SURGENT: Surgical Multi-Agent Assistance System"
+    },
+    "2605.28338": {
+      "date_added": "2026-06-11",
+      "direction": "C",
+      "title": "SafeMed-R1: Clinician-Audited Safety and Ethics Alignment"
+    },
+    "2605.12650": {
+      "date_added": "2026-06-11",
+      "direction": "C",
+      "title": "CRAFT: Clinical Reward-Aligned Finetuning for Medical Image Synthesis"
+    },
+    "2606.07567": {
+      "date_added": "2026-06-11",
+      "direction": "D",
+      "title": "SurfDesign: Effective Protein Design on Molecular Surfaces"
+    },
+    "2605.28886": {
+      "date_added": "2026-06-11",
+      "direction": "D",
+      "title": "Computational Modeling of Antibody-Antigen: PLM vs MSA"
+    },
+    "2605.13789": {
+      "date_added": "2026-06-11",
+      "direction": "D",
+      "title": "ENSEMBITS: Protein Conformational Ensembles Tokenizer"
+    },
+    "2606.08147": {
+      "date_added": "2026-06-11",
+      "direction": "E",
+      "title": "R3LM: Biological Reasoning-Informed Regression for DNA Activity"
+    },
+    "2606.04552": {
+      "date_added": "2026-06-11",
+      "direction": "E",
+      "title": "LDARNet: Learnable Tokenization for Genomic Modeling"
+    },
+    "2606.08093": {
+      "date_added": "2026-06-11",
+      "direction": "F",
+      "title": "PathPocket: Multimodal Agentic Co-pilot for Computational Pathology"
+    },
+    "2606.08897": {
+      "date_added": "2026-06-11",
+      "direction": "F",
+      "title": "SpineAgent: Multi-Agent Spine MRI Report Generation"
+    },
+    "2606.11150": {
+      "date_added": "2026-06-11",
+      "direction": "X",
+      "title": "ABC-Bench: Agentic Bio-Capabilities Benchmark for Biosecurity"
+    },
+    "2606.02624": {
+      "date_added": "2026-06-11",
+      "direction": "X",
+      "title": "TadA-Bench: Million-Variant Benchmark for Agentic Protein Engineering"
     }
   }
 }
