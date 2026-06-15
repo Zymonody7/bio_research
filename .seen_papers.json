@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-11T00:00:00",
+  "last_updated": "2026-06-12T00:00:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1324,7 +1324,7 @@
       "title": "What Does PLM Learn During RL?"
     },
     "2606.04552": {
-      "date_added": "2026-06-08",
+      "date_added": "2026-06-11",
       "direction": "E",
       "title": "LDARNet: Learnable Tokenization for Genomic Modeling"
     },
@@ -1533,11 +1533,6 @@
       "direction": "E",
       "title": "R3LM: Biological Reasoning-Informed Regression for DNA Activity"
     },
-    "2606.04552": {
-      "date_added": "2026-06-11",
-      "direction": "E",
-      "title": "LDARNet: Learnable Tokenization for Genomic Modeling"
-    },
     "2606.08093": {
       "date_added": "2026-06-11",
       "direction": "F",
@@ -1557,6 +1552,81 @@
       "date_added": "2026-06-11",
       "direction": "X",
       "title": "TadA-Bench: Million-Variant Benchmark for Agentic Protein Engineering"
+    },
+    "2511.12223": {
+      "date_added": "2026-06-12",
+      "direction": "A",
+      "title": "AMR-MoEGA: Antimicrobial Resistance Prediction using Mixture of Experts and Genetic Algorithms"
+    },
+    "2507.07862": {
+      "date_added": "2026-06-12",
+      "direction": "A",
+      "title": "ApexOracle: Predicting and Generating Antibiotics Against Future Pathogens"
+    },
+    "2605.30590": {
+      "date_added": "2026-06-12",
+      "direction": "B",
+      "title": "Counterfactual Evaluation Reveals Hidden Capability Profiles in Clinical LLMs and Agents"
+    },
+    "2605.02240": {
+      "date_added": "2026-06-12",
+      "direction": "B",
+      "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments"
+    },
+    "2602.00009": {
+      "date_added": "2026-06-12",
+      "direction": "B",
+      "title": "Unlocking EHRs: A Hybrid Graph RAG Approach to Safe Clinical AI for Patient QA"
+    },
+    "2603.10494": {
+      "date_added": "2026-06-12",
+      "direction": "C",
+      "title": "VERI-DPO: Evidence-Aware Alignment for Clinical Summarization"
+    },
+    "2510.14400": {
+      "date_added": "2026-06-12",
+      "direction": "C",
+      "title": "MedTrust-RAG: Evidence Verification and Trust Alignment for Biomedical QA"
+    },
+    "2512.06097": {
+      "date_added": "2026-06-12",
+      "direction": "C",
+      "title": "Empathy by Design: Aligning LLMs for Healthcare Dialogue"
+    },
+    "2606.12209": {
+      "date_added": "2026-06-12",
+      "direction": "D",
+      "title": "Interpretable Enzyme Function via Sparse Autoencoder Features of ESMC"
+    },
+    "2605.06830": {
+      "date_added": "2026-06-12",
+      "direction": "D",
+      "title": "ProtSent: Protein Sentence Transformers"
+    },
+    "2605.00182": {
+      "date_added": "2026-06-12",
+      "direction": "D",
+      "title": "DPLM-Evo: Generative Protein Evolution Machine (ICML 2026)"
+    },
+    "2606.03644": {
+      "date_added": "2026-06-12",
+      "direction": "E",
+      "title": "Spatial Transcriptomics-Guided Alignment for Pathology Foundation Models"
+    },
+    "2603.06950": {
+      "date_added": "2026-06-12",
+      "direction": "E",
+      "title": "How Private Are DNA Embeddings? Inverting FM Representations of Genomes"
+    },
+    "2604.15231": {
+      "date_added": "2026-06-12",
+      "direction": "F",
+      "title": "RadAgent: Tool-Using AI Agent for Stepwise Chest CT Interpretation"
+    },
+    "2606.02568": {
+      "date_added": "2026-06-12",
+      "direction": "X",
+      "title": "ClinEnv: Interactive Multi-Stage EHR Environment for Agents"
     }
   }
 }
