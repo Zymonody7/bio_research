@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-12T00:00:00",
+  "last_updated": "2026-06-15T00:00:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1627,6 +1627,71 @@
       "date_added": "2026-06-12",
       "direction": "X",
       "title": "ClinEnv: Interactive Multi-Stage EHR Environment for Agents"
+    },
+    "2603.20536": {
+      "date_added": "2026-06-15",
+      "direction": "A",
+      "title": "Towards Practical Multimodal Hospital Outbreak Detection"
+    },
+    "2511.19299": {
+      "date_added": "2026-06-15",
+      "direction": "A",
+      "title": "Open-weight genome language model safeguards"
+    },
+    "2606.13945": {
+      "date_added": "2026-06-15",
+      "direction": "B",
+      "title": "MedLatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis"
+    },
+    "2606.03157": {
+      "date_added": "2026-06-15",
+      "direction": "B",
+      "title": "ClinicalMC: Benchmark for Multi-Course Clinical Decision-Making with LLMs"
+    },
+    "10.64898/2026.06.10.26355372": {
+      "date_added": "2026-06-15",
+      "direction": "B",
+      "title": "PCRAgent: Multi-Agent Framework for Clinical Conversations"
+    },
+    "10.64898/2026.06.04.26354950": {
+      "date_added": "2026-06-15",
+      "direction": "C",
+      "title": "Beyond Injection Detection: Positive-Security Prompt Firewall"
+    },
+    "2606.14159": {
+      "date_added": "2026-06-15",
+      "direction": "D",
+      "title": "Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction"
+    },
+    "2606.14111": {
+      "date_added": "2026-06-15",
+      "direction": "D",
+      "title": "Temperature Transferable Machine Learned Coarse Grained Model for Proteins"
+    },
+    "2606.13713": {
+      "date_added": "2026-06-15",
+      "direction": "E",
+      "title": "CisTransCell: Single-Cell Perturbation Prediction"
+    },
+    "2606.13556": {
+      "date_added": "2026-06-15",
+      "direction": "E",
+      "title": "Bayesian Inference Framework for Genomically-Anchored Personalized Physiological Interpretation"
+    },
+    "2604.06925": {
+      "date_added": "2026-06-15",
+      "direction": "F",
+      "title": "LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning"
+    },
+    "2606.14603": {
+      "date_added": "2026-06-15",
+      "direction": "X",
+      "title": "Towards In Silico Cancer Therapy Design: Agent-Based GPU-Accelerated Molecular Pathway Simulation"
+    },
+    "2606.13710": {
+      "date_added": "2026-06-15",
+      "direction": "X",
+      "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher"
     }
   }
 }
