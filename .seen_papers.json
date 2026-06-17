@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-15T00:00:00",
+  "last_updated": "2026-06-16T00:00:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1692,6 +1692,111 @@
       "date_added": "2026-06-15",
       "direction": "X",
       "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher"
+    },
+    "2606.06749": {
+      "date_added": "2026-06-16",
+      "direction": "A",
+      "title": "Deterministic access to global viral sequence data enables robust agentic scientific discovery"
+    },
+    "2605.12286": {
+      "date_added": "2026-06-16",
+      "direction": "A",
+      "title": "Set-Aggregated Genome Embeddings for Microbiome Abundance Prediction"
+    },
+    "2605.08815": {
+      "date_added": "2026-06-16",
+      "direction": "A",
+      "title": "MicroFuse: Protein-to-Genome Expert Fusion for Microbial Operon Reasoning"
+    },
+    "2606.01434": {
+      "date_added": "2026-06-16",
+      "direction": "B",
+      "title": "DrugClaw and DrugAudit: Primary-Source-Grounded Agent for Drug QA"
+    },
+    "2605.27860": {
+      "date_added": "2026-06-16",
+      "direction": "B",
+      "title": "C-MIG: Multi-view Information Gain RAG for Clinical Diagnosis"
+    },
+    "2605.25357": {
+      "date_added": "2026-06-16",
+      "direction": "B",
+      "title": "Reliable Fetal Ultrasound Interpretation with Multi-Agent Collaboration"
+    },
+    "2606.14149": {
+      "date_added": "2026-06-16",
+      "direction": "C",
+      "title": "Trust but Verify: Mitigating Medical Hallucinations via Adversarial Auditing"
+    },
+    "2606.08969": {
+      "date_added": "2026-06-16",
+      "direction": "C",
+      "title": "CARE: A Conformal Safety Layer for Medical Summarization"
+    },
+    "2606.12590": {
+      "date_added": "2026-06-16",
+      "direction": "C",
+      "title": "Fine-grained Preference Optimization in Medical LVLMs"
+    },
+    "2606.11243": {
+      "date_added": "2026-06-16",
+      "direction": "D",
+      "title": "ProHiFlo: Hierarchical Flow Matching for De Novo Protein Generation"
+    },
+    "2606.12609": {
+      "date_added": "2026-06-16",
+      "direction": "D",
+      "title": "Viral Proteins Reveal Geometry of Protein Language Models"
+    },
+    "2606.08100": {
+      "date_added": "2026-06-16",
+      "direction": "D",
+      "title": "Constraint-Aware Optimization for Robust Protein Stability Prediction"
+    },
+    "2606.12838": {
+      "date_added": "2026-06-16",
+      "direction": "E",
+      "title": "OCOO-T: Virtual Cell Model for Perturbation Response Prediction"
+    },
+    "2606.11144": {
+      "date_added": "2026-06-16",
+      "direction": "E",
+      "title": "OncoTraj: Benchmark for Resistance Prediction in NSCLC"
+    },
+    "2606.00685": {
+      "date_added": "2026-06-16",
+      "direction": "E",
+      "title": "Prior-Guided Multi-Omic Transformers for GRN Inference"
+    },
+    "2606.14697": {
+      "date_added": "2026-06-16",
+      "direction": "F",
+      "title": "ClinHallu: Stage-Wise Hallucinations in Medical MLLM Reasoning"
+    },
+    "2606.12953": {
+      "date_added": "2026-06-16",
+      "direction": "F",
+      "title": "OpenMedQ: Broad Open Pretraining for Medical VLMs"
+    },
+    "2606.11702": {
+      "date_added": "2026-06-16",
+      "direction": "F",
+      "title": "MedCTA: A Benchmark for Clinical Tool Agents"
+    },
+    "2606.06562": {
+      "date_added": "2026-06-16",
+      "direction": "X",
+      "title": "Iterative AI-guided Triple-Drug Combinations for Breast Cancer"
+    },
+    "2605.03707": {
+      "date_added": "2026-06-16",
+      "direction": "X",
+      "title": "AgenticPosesRanker: Agentic AI for Protein-Ligand Docking Poses"
+    },
+    "2606.11382": {
+      "date_added": "2026-06-16",
+      "direction": "X",
+      "title": "GLACIER: Multimodal Student-Teacher FM for Molecular Property Prediction"
     }
   }
 }
