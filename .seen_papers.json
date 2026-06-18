@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-16T00:00:00",
+  "last_updated": "2026-06-18T13:56:43.066814",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1797,6 +1797,136 @@
       "date_added": "2026-06-16",
       "direction": "X",
       "title": "GLACIER: Multimodal Student-Teacher FM for Molecular Property Prediction"
+    },
+    "2605.00074": {
+      "date_added": "2026-06-17",
+      "direction": "A",
+      "title": "CRC-Screen: Certified DNA-Synthesis Hazard Screening Under Taxonomic Shift"
+    },
+    "2606.15201": {
+      "date_added": "2026-06-17",
+      "direction": "A",
+      "title": "Koopman-PINN Framework for Epidemic Models"
+    },
+    "2606.17474": {
+      "date_added": "2026-06-17",
+      "direction": "B",
+      "title": "AIPatient Arena: EHR-Grounded Evaluation of LLMs in End-to-End Clinical Consultation"
+    },
+    "2606.15037": {
+      "date_added": "2026-06-17",
+      "direction": "B",
+      "title": "ReportQA: QA-Based Radiology Report Evaluation"
+    },
+    "2606.08247": {
+      "date_added": "2026-06-17",
+      "direction": "B",
+      "title": "AeroSpectra Sentinel: Auditable LLM Prompt-Chaining for Acute Asthma Risk"
+    },
+    "2606.16517": {
+      "date_added": "2026-06-17",
+      "direction": "C",
+      "title": "How Post-Training Shapes Biological Reasoning Models"
+    },
+    "2606.17789": {
+      "date_added": "2026-06-17",
+      "direction": "C",
+      "title": "Mind Companion: Embodied Conversational Agent for Process-Based Psychotherapy"
+    },
+    "2606.15422": {
+      "date_added": "2026-06-17",
+      "direction": "D",
+      "title": "Pepti-Agent: An AI Agent for Peptide Design and Optimization"
+    },
+    "2606.16044": {
+      "date_added": "2026-06-17",
+      "direction": "D",
+      "title": "Circuit Tracing in Autoregressive Protein Language Models (ProGenMech)"
+    },
+    "2506.20686": {
+      "date_added": "2026-06-17",
+      "direction": "D",
+      "title": "MegaFold: Efficient Training of Next-Generation 3D Attention Protein Models"
+    },
+    "2606.12219": {
+      "date_added": "2026-06-17",
+      "direction": "E",
+      "title": "m6A-FORM: An m6A-focused Foundation Model for Decoding m6A Regulatory Function"
+    },
+    "2606.14734": {
+      "date_added": "2026-06-17",
+      "direction": "E",
+      "title": "BRIDGE: Biological Evidence Refinement for Gene Regulatory Networks"
+    },
+    "2606.17791": {
+      "date_added": "2026-06-17",
+      "direction": "F",
+      "title": "The Slop Paradox: Synthetic Standardization Erodes Clinical Uncertainty"
+    },
+    "2606.06760": {
+      "date_added": "2026-06-17",
+      "direction": "F",
+      "title": "MedSIGHT: Towards Grounded Visual Comprehension in Medical LVLMs"
+    },
+    "2606.06407": {
+      "date_added": "2026-06-17",
+      "direction": "F",
+      "title": "Vision-Language Framework for Comparative Reasoning in Radiology"
+    },
+    "2606.16540": {
+      "date_added": "2026-06-17",
+      "direction": "X",
+      "title": "MultiMolecule: A Modular Ecosystem for Biomolecular Sequence-Model Workflows"
+    },
+    "2606.17127": {
+      "date_added": "2026-06-17",
+      "direction": "X",
+      "title": "Agentic Discovery of Non-Canonical Antimicrobial Peptides with AMPGAN v3"
+    },
+    "2606.18672": {
+      "date_added": "2026-06-18T13:56:43.066814",
+      "direction": "A",
+      "title": "scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering"
+    },
+    "2606.18295": {
+      "date_added": "2026-06-18T13:56:43.066814",
+      "direction": "A",
+      "title": "Archetypal Microbiome Profiles as Indicators of Nitrous Oxide Emission States in Activated Sludge"
+    },
+    "2606.18613": {
+      "date_added": "2026-06-18T13:56:43.066814",
+      "direction": "B",
+      "title": "Are LLMs Ready to Assist Physicians? PhysAssistBench for Interactive Doctor-Patient-EHR Assistance"
+    },
+    "2606.18797": {
+      "date_added": "2026-06-18T13:56:43.066814",
+      "direction": "B",
+      "title": "Beyond Scalar Scores: Exploring LLM-based Metrics for Clinical Significance Evaluation in Radiology Reports"
+    },
+    "2606.18889": {
+      "date_added": "2026-06-18T13:56:43.066814",
+      "direction": "B",
+      "title": "Improving Medical Communication using Rubric-Guided Counterfactual Recommendations"
+    },
+    "2606.18471": {
+      "date_added": "2026-06-18T13:56:43.066814",
+      "direction": "C",
+      "title": "Possible or Definite? A Benchmark for Evaluating Diagnostic Uncertainty Preservation in Clinical Text"
+    },
+    "2606.18318": {
+      "date_added": "2026-06-18T13:56:43.066814",
+      "direction": "F",
+      "title": "Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection"
+    },
+    "2606.18420": {
+      "date_added": "2026-06-18T13:56:43.066814",
+      "direction": "X",
+      "title": "Measurement noise limits the advantage of nonlinear models over linear models in biomedical prediction"
+    },
+    "2606.18539": {
+      "date_added": "2026-06-18T13:56:43.066814",
+      "direction": "X",
+      "title": "TS-Fault: Benchmarking Time Series Forecasters Against Structural Faults"
     }
   }
 }
