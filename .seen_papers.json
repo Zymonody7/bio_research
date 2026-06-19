@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-18T13:56:43.066814",
+  "last_updated": "2026-06-19T09:23:19.495791",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -951,7 +951,7 @@
     "2603.03292": {
       "date_added": "2026-06-01",
       "direction": "B",
-      "title": "MA-RAG: From Conflict to Consensus — Boosting Medical Reasoning via Multi-Round Agentic RAG"
+      "title": "MA-RAG: From Conflict to Consensus \u2014 Boosting Medical Reasoning via Multi-Round Agentic RAG"
     },
     "2602.03305": {
       "date_added": "2026-06-01",
@@ -1396,7 +1396,7 @@
     "2604.28011": {
       "date_added": "2026-06-08",
       "direction": "F",
-      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound"
+      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound"
     },
     "2606.07342": {
       "date_added": "2026-06-08",
@@ -1927,6 +1927,91 @@
       "date_added": "2026-06-18T13:56:43.066814",
       "direction": "X",
       "title": "TS-Fault: Benchmarking Time Series Forecasters Against Structural Faults"
+    },
+    "2605.22611": {
+      "date_added": "2026-06-19",
+      "direction": "A",
+      "title": "Benchmarking ML Architectures for Antimicrobial Stewardship in Pediatric ICU"
+    },
+    "2602.22400": {
+      "date_added": "2026-06-19",
+      "direction": "A",
+      "title": "Predicting Multi-Drug Resistance in Bacterial Isolates Through Ensemble Learning"
+    },
+    "2606.16149": {
+      "date_added": "2026-06-19",
+      "direction": "B",
+      "title": "LiteOdyssey: A Lightweight Reasoning AI Agent for Rare-Disease Diagnosis"
+    },
+    "2606.09249": {
+      "date_added": "2026-06-19",
+      "direction": "B",
+      "title": "MAGIS: Evidence-Based Multi-Agent Reasoning for Strabismus Clinical Decision"
+    },
+    "2606.15931": {
+      "date_added": "2026-06-19",
+      "direction": "B",
+      "title": "DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning"
+    },
+    "2606.19818": {
+      "date_added": "2026-06-19",
+      "direction": "C",
+      "title": "Uncertainty-Aware Reward Modeling for Stable RLHF"
+    },
+    "2606.09073": {
+      "date_added": "2026-06-19",
+      "direction": "C",
+      "title": "A Unifying Lens on Reward Uncertainty in RLHF"
+    },
+    "2606.03238": {
+      "date_added": "2026-06-19",
+      "direction": "C",
+      "title": "When RLHF Fails: A Mechanistic Taxonomy of Reward Hacking"
+    },
+    "2605.10985": {
+      "date_added": "2026-06-19",
+      "direction": "D",
+      "title": "Structural Interpretations of Protein Language Model Representations"
+    },
+    "2603.19473": {
+      "date_added": "2026-06-19",
+      "direction": "D",
+      "title": "Reinforcement-guided generative protein language models for AAV capsid design"
+    },
+    "2605.28200": {
+      "date_added": "2026-06-19",
+      "direction": "E",
+      "title": "Geometry-First Generative Spatial Single-Cell Reconstruction"
+    },
+    "2605.18587": {
+      "date_added": "2026-06-19",
+      "direction": "E",
+      "title": "PACE: Geometry-Aware Bridge Transport for Single-Cell Trajectory Inference"
+    },
+    "2606.17412": {
+      "date_added": "2026-06-19",
+      "direction": "F",
+      "title": "Enhancing Pathological VLMs with Cross-scale Reasoning"
+    },
+    "2606.06983": {
+      "date_added": "2026-06-19",
+      "direction": "F",
+      "title": "DaX: Learning General Pathology Representations Across Scales"
+    },
+    "2606.18609": {
+      "date_added": "2026-06-19",
+      "direction": "F",
+      "title": "Hallucination Detection and Correction in Medical VLMs via Counter-Evidence"
+    },
+    "2606.04632": {
+      "date_added": "2026-06-19",
+      "direction": "X",
+      "title": "VentAgent: LLMs for ARDS Ventilation Management"
+    },
+    "2605.05370": {
+      "date_added": "2026-06-19",
+      "direction": "X",
+      "title": "SPADE: Faster Drug Discovery by Learning from Sparse Data"
     }
   }
 }
