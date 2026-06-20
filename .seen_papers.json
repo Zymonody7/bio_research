@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-19T09:23:19.495791",
+  "last_updated": "2026-06-20T09:07:49.583676",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -2012,6 +2012,106 @@
       "date_added": "2026-06-19",
       "direction": "X",
       "title": "SPADE: Faster Drug Discovery by Learning from Sparse Data"
+    },
+    "2606.19405": {
+      "date_added": "2026-06-20T09:07:49.583634",
+      "direction": "A",
+      "title": "Multi-type branching inference on contact trees with application to COVID-19"
+    },
+    "2606.20489": {
+      "date_added": "2026-06-20T09:07:49.583643",
+      "direction": "A",
+      "title": "West Nile virus outbreak in Italy modelled with the quantum Game of Life"
+    },
+    "2606.20164": {
+      "date_added": "2026-06-20T09:07:49.583645",
+      "direction": "B",
+      "title": "MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning"
+    },
+    "2606.19602": {
+      "date_added": "2026-06-20T09:07:49.583647",
+      "direction": "B",
+      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Doesnt"
+    },
+    "2606.19481": {
+      "date_added": "2026-06-20T09:07:49.583648",
+      "direction": "B",
+      "title": "Insulin4RL: Real-Time Insulin Management in the Intensive Care Unit for Offline Reinforcement Learning"
+    },
+    "2606.20508": {
+      "date_added": "2026-06-20T09:07:49.583653",
+      "direction": "C",
+      "title": "What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?"
+    },
+    "2606.19744": {
+      "date_added": "2026-06-20T09:07:49.583655",
+      "direction": "C",
+      "title": "Beyond Uniform Forgetting: A Study of Sequential Direct Preference Optimization"
+    },
+    "2606.19527": {
+      "date_added": "2026-06-20T09:07:49.583657",
+      "direction": "C",
+      "title": "Emergent Alignment"
+    },
+    "2606.18961": {
+      "date_added": "2026-06-20T09:07:49.583659",
+      "direction": "D",
+      "title": "Be Your Own Teacher: Steering Protein Language Models via Unsupervised Reward Optimization"
+    },
+    "2606.18703": {
+      "date_added": "2026-06-20T09:07:49.583660",
+      "direction": "D",
+      "title": "Contextualizing Biological Language Models across Modalities via Logit-Space Consolidation"
+    },
+    "2606.19377": {
+      "date_added": "2026-06-20T09:07:49.583662",
+      "direction": "D",
+      "title": "Emyx: Fast and efficient all-atom protein generation"
+    },
+    "2603.25240": {
+      "date_added": "2026-06-20T09:07:49.583663",
+      "direction": "E",
+      "title": "Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells"
+    },
+    "2606.21280": {
+      "date_added": "2026-06-20T09:07:49.583665",
+      "direction": "E",
+      "title": "CellxPert: Inference-Time MCMC Steering of a Multi-Omics Single-Cell Foundation Model"
+    },
+    "2512.02908": {
+      "date_added": "2026-06-20T09:07:49.583666",
+      "direction": "E",
+      "title": "Imperfect molecular detection can renormalize apparent kinetic rates in stochastic gene networks"
+    },
+    "2603.28387": {
+      "date_added": "2026-06-20T09:07:49.583668",
+      "direction": "F",
+      "title": "The Scaffold Effect: How Prompt Framing Drives Apparent Multimodal Gains in Clinical VLMs"
+    },
+    "2606.20477": {
+      "date_added": "2026-06-20T09:07:49.583669",
+      "direction": "F",
+      "title": "Scalable Training of Spatially Grounded 2D Vision-Language Models for Radiology"
+    },
+    "2606.18970": {
+      "date_added": "2026-06-20T09:07:49.583671",
+      "direction": "F",
+      "title": "A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI"
+    },
+    "2606.19464": {
+      "date_added": "2026-06-20T09:07:49.583672",
+      "direction": "X",
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems"
+    },
+    "2606.20315": {
+      "date_added": "2026-06-20T09:07:49.583673",
+      "direction": "X",
+      "title": "bioETH-Beacon: A Confidential On-Chain Genomic Beacon with Encrypted Counts, Filters, and Differential Privacy"
+    },
+    "2605.00948": {
+      "date_added": "2026-06-20T09:07:49.583675",
+      "direction": "X",
+      "title": "Co-Generative De Novo Functional Protein Design"
     }
   }
 }
