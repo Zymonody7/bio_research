@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-20T09:07:49.583676",
+  "last_updated": "2026-06-21T09:16:41.360720",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -951,7 +951,7 @@
     "2603.03292": {
       "date_added": "2026-06-01",
       "direction": "B",
-      "title": "MA-RAG: From Conflict to Consensus \u2014 Boosting Medical Reasoning via Multi-Round Agentic RAG"
+      "title": "MA-RAG: From Conflict to Consensus — Boosting Medical Reasoning via Multi-Round Agentic RAG"
     },
     "2602.03305": {
       "date_added": "2026-06-01",
@@ -1396,7 +1396,7 @@
     "2604.28011": {
       "date_added": "2026-06-08",
       "direction": "F",
-      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound"
+      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound"
     },
     "2606.07342": {
       "date_added": "2026-06-08",
@@ -2112,6 +2112,91 @@
       "date_added": "2026-06-20T09:07:49.583675",
       "direction": "X",
       "title": "Co-Generative De Novo Functional Protein Design"
+    },
+    "2606.20174": {
+      "date_added": "2026-06-21",
+      "direction": "A",
+      "title": "Computational Methods and Challenges in Cell-Free DNA Analysis for Multi-Cancer Early Detection"
+    },
+    "2606.14823": {
+      "date_added": "2026-06-21",
+      "direction": "A",
+      "title": "Human genetic evidence is associated with drug approval across therapeutic areas"
+    },
+    "2606.19396": {
+      "date_added": "2026-06-21",
+      "direction": "B",
+      "title": "BioHarness: Substrate-Aware Evidence Assembly for Biomedical QA"
+    },
+    "2606.19852": {
+      "date_added": "2026-06-21",
+      "direction": "B",
+      "title": "Prompt, Plan, Extract: Zero-Shot Agentic LLMs for Lung Pathology Extraction"
+    },
+    "2606.19667": {
+      "date_added": "2026-06-21",
+      "direction": "B",
+      "title": "CacheWeaver: Cache-Aware Evidence Ordering for Efficient Grounded RAG"
+    },
+    "2606.20482": {
+      "date_added": "2026-06-21",
+      "direction": "C",
+      "title": "LLM Alignment using Implicit Feedback from Users"
+    },
+    "2606.20225": {
+      "date_added": "2026-06-21",
+      "direction": "C",
+      "title": "Actionable Activation Directions for Emergent Misalignment"
+    },
+    "2606.14510": {
+      "date_added": "2026-06-21",
+      "direction": "D",
+      "title": "PepALD: Macrocyclic Peptide Generation via Autoregressive Latent Diffusion"
+    },
+    "2606.14217": {
+      "date_added": "2026-06-21",
+      "direction": "D",
+      "title": "Curvature-Informed Potential Energy Surface for Protein-Ligand Binding"
+    },
+    "2606.18058": {
+      "date_added": "2026-06-21",
+      "direction": "D",
+      "title": "Multiscale reconstruction of protein conformations from cryo-EM images"
+    },
+    "2606.15357": {
+      "date_added": "2026-06-21",
+      "direction": "E",
+      "title": "Fast genomic read alignment with minibwa"
+    },
+    "2606.17115": {
+      "date_added": "2026-06-21",
+      "direction": "F",
+      "title": "Foundation Model Representations for Multimodal Cancer Pathology"
+    },
+    "2606.17062": {
+      "date_added": "2026-06-21",
+      "direction": "F",
+      "title": "RadSEM: Finding-by-Finding Metric for Clinical Consistency in Radiology Reports"
+    },
+    "2606.20143": {
+      "date_added": "2026-06-21",
+      "direction": "F",
+      "title": "HECKTOR 2025: Benchmark of Segmentation, Diagnosis, and Prognosis in Multimodal PET/CT"
+    },
+    "2606.18640": {
+      "date_added": "2026-06-21",
+      "direction": "F",
+      "title": "MetaboNet-Bench: Multi-modal Benchmark for Glucose Forecasting in T1D"
+    },
+    "2606.20250": {
+      "date_added": "2026-06-21",
+      "direction": "F",
+      "title": "Single-Stage Hierarchical Rectification for Weakly Supervised Histopathology Segmentation"
+    },
+    "2606.19847": {
+      "date_added": "2026-06-21",
+      "direction": "X",
+      "title": "AtomMem: Memory System for LLM Agents via Atomic Facts"
     }
   }
 }
