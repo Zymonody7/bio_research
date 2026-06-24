@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-22T09:29:48.135453",
+  "last_updated": "2026-06-23T09:29:46.807491",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -2342,6 +2342,166 @@
       "date_added": "2026-06-22",
       "direction": "F",
       "title": "SL-S4Wave: Self-Supervised Learning of Physiological Waveforms with Structured State Space Models"
+    },
+    "10.1186/s12879-025-11814-5": {
+      "date_added": "2026-06-23",
+      "direction": "A",
+      "title": "Clinical utility of metagenomic next-generation sequencing (mNGS) and a novel PCR-based point-of-care testing (POCT) for pathogen detection in pulmonary infections: a retrospective study"
+    },
+    "10.1038/s41598-025-03564-w": {
+      "date_added": "2026-06-23",
+      "direction": "A",
+      "title": "Clinical utility of metagenomic next-generation sequencing in pathogen detection for lower respiratory tract infections"
+    },
+    "10.1016/j.mimet.2026.107592": {
+      "date_added": "2026-06-23",
+      "direction": "A",
+      "title": "Artificial intelligence in clinical metagenomic pathogen detection: A critical review of pipeline integrations, challenges, and future directions."
+    },
+    "10.1128/spectrum.01087-24": {
+      "date_added": "2026-06-23",
+      "direction": "A",
+      "title": "Diagnostic value of metagenomic next-generation sequencing using bronchoalveolar lavage fluid samples for pathogen detection in children with severe or refractory pneumonia"
+    },
+    "10.3389/fcimb.2025.1513603": {
+      "date_added": "2026-06-23",
+      "direction": "A",
+      "title": "Application of metagenomic next-generation sequencing in pathogen detection of lung infections"
+    },
+    "10.1097/MD.0000000000045606": {
+      "date_added": "2026-06-23",
+      "direction": "A",
+      "title": "Performance of metagenomic next-generation sequencing in bronchoalveolar lavage fluid for pathogen detection in patients with acute exacerbations of bronchiectasis"
+    },
+    "10.1016/j.labinv.2025.104254": {
+      "date_added": "2026-06-23",
+      "direction": "A",
+      "title": "Unbiased DNA pathogen detection in tissues: Real-world experience with metagenomic sequencing in pathology."
+    },
+    "10.1002/mdr2.70039": {
+      "date_added": "2026-06-23",
+      "direction": "B",
+      "title": "RSA\u2010KG: A Graph\u2010Based Rag Enhanced AI Knowledge Graph for Recurrent Spontaneous Abortions Diagnosis and Clinical Decision Support"
+    },
+    "10.1109/GCAT66372.2025.11368379": {
+      "date_added": "2026-06-23",
+      "direction": "B",
+      "title": "MedRAG-Agent: Medical Query Resolution By Employing A Multi-Agent, Knowledge Graph-Enhanced RAG-Based AI Framework"
+    },
+    "10.1101/2025.06.03.657521": {
+      "date_added": "2026-06-23",
+      "direction": "B",
+      "title": "HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Genetic Biomarker-Based Medical Diagnosis"
+    },
+    "10.1145/3706598.3713526": {
+      "date_added": "2026-06-23",
+      "direction": "B",
+      "title": "Accurate Insights, Trustworthy Interactions: Designing a Collaborative AI-Human Multi-Agent System with Knowledge Graph for Diagnosis Prediction"
+    },
+    "10.1007/978-3-032-18477-1_17": {
+      "date_added": "2026-06-23",
+      "direction": "B",
+      "title": "An Agentic AI Framework for Interpretive Inductive Analysis of Multimodal Clinical Interviews: Leveraging Multi-agent and Bio-Medical Knowledge Graph"
+    },
+    "10.1007/s10115-025-02465-8": {
+      "date_added": "2026-06-23",
+      "direction": "B",
+      "title": "XLR-KGDD: leveraging LLM and RAG for knowledge graph-based explainable disease diagnosis using multimodal clinical information"
+    },
+    "10.1145/3788112.3788138": {
+      "date_added": "2026-06-23",
+      "direction": "B",
+      "title": "Practical Research on Knowledge Graph-Driven Graph RAG in the Differential Diagnosis and Treatment of Modern Medical Case Studies in Traditional Chinese Medicine"
+    },
+    "2512.09403": {
+      "date_added": "2026-06-23",
+      "direction": "C",
+      "title": "Black-Box Behavioral Distillation Breaks Safety Alignment in Medical LLMs"
+    },
+    "10.1038/s41746-025-01589-z": {
+      "date_added": "2026-06-23",
+      "direction": "C",
+      "title": "Expert of Experts Verification and Alignment (EVAL) Framework for Large Language Models Safety in Gastroenterology"
+    },
+    "2505.11413": {
+      "date_added": "2026-06-23",
+      "direction": "C",
+      "title": "CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs"
+    },
+    "10.1007/s11517-025-03412-z": {
+      "date_added": "2026-06-23",
+      "direction": "C",
+      "title": "Towards a radiation-free clinical decision support system for intraoperative spinal alignment assessment"
+    },
+    "2504.10983": {
+      "date_added": "2026-06-23",
+      "direction": "D",
+      "title": "ProtFlow: Fast Protein Sequence Design via Flow Matching on Compressed Protein Language Model Embeddings"
+    },
+    "10.1109/BIBM66473.2025.11356592": {
+      "date_added": "2026-06-23",
+      "direction": "D",
+      "title": "Multi-Task Prompt-Aware Therapeutic Peptide Generation by Protein Language Model"
+    },
+    "10.1016/j.ijbiomac.2025.148441": {
+      "date_added": "2026-06-23",
+      "direction": "D",
+      "title": "Protein language model supervised motif-scaffolding design with GPDL."
+    },
+    "10.1101/2025.09.02.673615": {
+      "date_added": "2026-06-23",
+      "direction": "D",
+      "title": "Improved multimodal protein language model-driven universal biomolecules-binding protein design with EiRA"
+    },
+    "10.64898/2026.03.27.714819": {
+      "date_added": "2026-06-23",
+      "direction": "D",
+      "title": "Protein Language Model Decoys for Target Decoy Competition in Proteomics: Quality Assessment and Benchmarks"
+    },
+    "2504.07336": {
+      "date_added": "2026-06-23",
+      "direction": "F",
+      "title": "Zeus: zero-shot LLM instruction for union segmentation in multimodal medical imaging"
+    },
+    "2508.09177": {
+      "date_added": "2026-06-23",
+      "direction": "F",
+      "title": "Generative Artificial Intelligence in Medical Imaging: Foundations, Progress, and Clinical Translation"
+    },
+    "2512.21623": {
+      "date_added": "2026-06-23",
+      "direction": "X",
+      "title": "Democratizing Drug Discovery with an Orchestrated, Knowledge-Driven Multi-Agent Team for User-Guided Therapeutic Design"
+    },
+    "10.64898/2026.02.23.707551": {
+      "date_added": "2026-06-23",
+      "direction": "X",
+      "title": "The Virtual Biotech: A Multi-Agent AI Framework for Therapeutic Discovery and Development"
+    },
+    "10.1101/2025.04.03.646459": {
+      "date_added": "2026-06-23",
+      "direction": "X",
+      "title": "SpatialAgent: An autonomous AI agent for spatial biology"
+    },
+    "10.1016/j.sbi.2024.102975": {
+      "date_added": "2026-06-23",
+      "direction": "X",
+      "title": "Computational advances in discovering cryptic pockets for drug discovery."
+    },
+    "10.1016/j.drudis.2025.104512": {
+      "date_added": "2026-06-23",
+      "direction": "X",
+      "title": "Gaps between medical biology and AI drug discovery."
+    },
+    "10.3390/ijms26146996": {
+      "date_added": "2026-06-23",
+      "direction": "X",
+      "title": "AI-Driven Polypharmacology in Small-Molecule Drug Discovery"
+    },
+    "10.1038/s44386-025-00019-0": {
+      "date_added": "2026-06-23",
+      "direction": "X",
+      "title": "AI meets physics in computational structure-based drug discovery for GPCRs"
     }
   }
 }
