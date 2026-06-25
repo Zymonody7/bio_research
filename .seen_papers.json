@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-24T09:19:15.674674",
+  "last_updated": "2026-06-25T09:25:55.652825",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -2542,6 +2542,111 @@
       "date_added": "2026-06-24",
       "direction": "X",
       "title": "Towards World Models in Biomedical Research"
+    },
+    "mngs_bloodstream_2026_qiao": {
+      "date_added": "2026-06-25",
+      "direction": "A",
+      "title": "Performance of mNGS for bloodstream infections"
+    },
+    "mngs_ai_2026_manjula": {
+      "date_added": "2026-06-25",
+      "direction": "A",
+      "title": "AI-Augmented Metagenomic Diagnostic for Early Detection"
+    },
+    "mngs_ai_2026_chines": {
+      "date_added": "2026-06-25",
+      "direction": "A",
+      "title": "Next-Generation Target Discovery in ESKAPE Pathogens"
+    },
+    "mngs_ai_2026_chang": {
+      "date_added": "2026-06-25",
+      "direction": "A",
+      "title": "MARM: malignancy risk prediction from host-derived CNV"
+    },
+    "2512.15398": {
+      "date_added": "2026-06-25",
+      "direction": "B",
+      "title": "Mapis: KG Grounded Multi-Agent for PCOS Diagnosis"
+    },
+    "medrag_2025_zhao": {
+      "date_added": "2026-06-25",
+      "direction": "B",
+      "title": "MedRAG: KG-Elicited Reasoning"
+    },
+    "clinical_triage_2025_gaber": {
+      "date_added": "2026-06-25",
+      "direction": "B",
+      "title": "Evaluating LLM workflows in clinical triage"
+    },
+    "llm_healthcare_review_2025": {
+      "date_added": "2026-06-25",
+      "direction": "C",
+      "title": "LLMs in Healthcare: A Review"
+    },
+    "federated_fm_2025_li": {
+      "date_added": "2026-06-25",
+      "direction": "C",
+      "title": "Federated foundation models for biomedical"
+    },
+    "plm_biofoundry_2025_zhang": {
+      "date_added": "2026-06-25",
+      "direction": "D",
+      "title": "Integrating PLMs with biofoundry"
+    },
+    "plm_biophysics_2025_gelman": {
+      "date_added": "2026-06-25",
+      "direction": "D",
+      "title": "Biophysics-based PLMs"
+    },
+    "plm_sae_2025_gujral": {
+      "date_added": "2026-06-25",
+      "direction": "D",
+      "title": "Sparse autoencoders for PLM interpretability"
+    },
+    "peptide_design_2025_bhat": {
+      "date_added": "2026-06-25",
+      "direction": "D",
+      "title": "De novo peptide binder design with contrastive learning"
+    },
+    "genomic_fm_transcription_2025": {
+      "date_added": "2026-06-25",
+      "direction": "E",
+      "title": "Foundation model of transcription across cell types"
+    },
+    "dna_fm_benchmark_2025": {
+      "date_added": "2026-06-25",
+      "direction": "E",
+      "title": "Benchmarking DNA foundation models"
+    },
+    "dna_lm_regulatory_2025": {
+      "date_added": "2026-06-25",
+      "direction": "E",
+      "title": "Evaluating DNA LM for regulatory elements"
+    },
+    "scprint_2025": {
+      "date_added": "2026-06-25",
+      "direction": "E",
+      "title": "scPRINT: pre-training on 50M cells"
+    },
+    "ophthalmology_vlm_2025": {
+      "date_added": "2026-06-25",
+      "direction": "F",
+      "title": "Multimodal VLM for computational ophthalmology"
+    },
+    "digital_pathology_mash_2026": {
+      "date_added": "2026-06-25",
+      "direction": "F",
+      "title": "AI-assisted digital pathology for MASH"
+    },
+    "biochemaigent_2026": {
+      "date_added": "2026-06-25",
+      "direction": "X",
+      "title": "BioChemAIgent: AI protein modeling and docking"
+    },
+    "amp_discovery_2025": {
+      "date_added": "2026-06-25",
+      "direction": "X",
+      "title": "AI-Driven Antimicrobial Peptide Discovery"
     }
   }
 }
