@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-26T09:24:18.876847",
+  "last_updated": "2026-06-27T09:18:12.851217",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -2722,6 +2722,106 @@
       "date_added": "2026-06-26",
       "direction": "X",
       "title": "Lost in Tokenization: Context as Key to Biomolecular Understanding"
+    },
+    "2606.26179": {
+      "date_added": "2026-06-27",
+      "direction": "A",
+      "title": "KG-TRACE: Neuro-Symbolic AMR Prediction"
+    },
+    "2606.25334": {
+      "date_added": "2026-06-27",
+      "direction": "B",
+      "title": "Bridging Post-discharge Gap: Multi-agent Framework"
+    },
+    "2606.26494": {
+      "date_added": "2026-06-27",
+      "direction": "B",
+      "title": "Clinical Harness for Medical AI Skill Ecosystems"
+    },
+    "2606.25651": {
+      "date_added": "2026-06-27",
+      "direction": "B",
+      "title": "MedGuards: Multi-Agent Error Detection"
+    },
+    "2606.23992": {
+      "date_added": "2026-06-27",
+      "direction": "B",
+      "title": "RASC+: Retrieval-Constrained LLM Adjudication"
+    },
+    "2606.26686": {
+      "date_added": "2026-06-27",
+      "direction": "C",
+      "title": "LeanGuard: Safety Guardrails"
+    },
+    "2605.23320": {
+      "date_added": "2026-06-27",
+      "direction": "C",
+      "title": "Human-in-the-Loop Ventilator Decision Support"
+    },
+    "2602.11661": {
+      "date_added": "2026-06-27",
+      "direction": "C",
+      "title": "Quark Medical Alignment"
+    },
+    "2606.21351": {
+      "date_added": "2026-06-27",
+      "direction": "D",
+      "title": "Surveying Adaptive Landscapes of 10,000 Antibodies"
+    },
+    "2512.20263": {
+      "date_added": "2026-06-27",
+      "direction": "D",
+      "title": "Drug-like Antibodies with Latent-X2"
+    },
+    "2601.06214": {
+      "date_added": "2026-06-27",
+      "direction": "D",
+      "title": "Dynamics-inspired Structure Hallucination for PPI"
+    },
+    "2602.16696": {
+      "date_added": "2026-06-27",
+      "direction": "E",
+      "title": "Parameter-free vs Single-Cell Foundation Models"
+    },
+    "2510.25807": {
+      "date_added": "2026-06-27",
+      "direction": "E",
+      "title": "Interpretable Concepts in scRNA-seq FMs"
+    },
+    "2606.26561": {
+      "date_added": "2026-06-27",
+      "direction": "F",
+      "title": "Explainable Ensemble ML for Cirrhosis Detection"
+    },
+    "2606.26722": {
+      "date_added": "2026-06-27",
+      "direction": "X",
+      "title": "Socratic Agents for Scientific Discovery"
+    },
+    "2606.26669": {
+      "date_added": "2026-06-27",
+      "direction": "X",
+      "title": "SKILL-DISCO: Reusable Procedural Skills"
+    },
+    "2606.26205": {
+      "date_added": "2026-06-27",
+      "direction": "X",
+      "title": "Knowledge-augmented Agentic AI for Mental Health"
+    },
+    "2606.26460": {
+      "date_added": "2026-06-27",
+      "direction": "X",
+      "title": "auto-psych: Automating Science of Mind"
+    },
+    "2507.09378": {
+      "date_added": "2026-06-27",
+      "direction": "F",
+      "title": "Context-Aware Regularization for Nucleotide Analysis"
+    },
+    "2605.24520": {
+      "date_added": "2026-06-27",
+      "direction": "A",
+      "title": "AnnotateMissense: Missense Pathogenicity Prediction"
     }
   }
 }
