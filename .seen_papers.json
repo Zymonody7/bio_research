@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-27T09:18:12.851217",
+  "last_updated": "2026-06-28T12:00:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -2822,6 +2822,71 @@
       "date_added": "2026-06-27",
       "direction": "A",
       "title": "AnnotateMissense: Missense Pathogenicity Prediction"
+    },
+    "2606.24779": {
+      "date_added": "2026-06-28",
+      "direction": "B",
+      "title": "DeepBD: Grounded Agentic Workflow for Variant Prioritization and Diagnosis"
+    },
+    "2606.23301": {
+      "date_added": "2026-06-28",
+      "direction": "B",
+      "title": "EHR-Complex: Benchmarking Medical Agents for Complex Clinical Reasoning"
+    },
+    "2606.26458": {
+      "date_added": "2026-06-28",
+      "direction": "B",
+      "title": "MKG-RAG-Bench: Benchmarking Retrieval in Multimodal KG-Augmented Generation"
+    },
+    "2606.25338": {
+      "date_added": "2026-06-28",
+      "direction": "B",
+      "title": "Hybrid-IR: Dual-Path Hybrid Retrieval for Complex Medical QA"
+    },
+    "2606.23888": {
+      "date_added": "2026-06-28",
+      "direction": "C",
+      "title": "E-MRL: Evidence-driven Multimodal RL for Reliable Medical Reasoning"
+    },
+    "2606.25894": {
+      "date_added": "2026-06-28",
+      "direction": "C",
+      "title": "BrReMark: Brain MRI Anomaly Detection with ROI Rethink"
+    },
+    "2605.09584": {
+      "date_added": "2026-06-28",
+      "direction": "C",
+      "title": "CLR-voyance: Reinforcing Open-Ended Reasoning for Clinical Decision"
+    },
+    "2606.23856": {
+      "date_added": "2026-06-28",
+      "direction": "D",
+      "title": "Sesame: Structure-Aware Molecular Generation"
+    },
+    "2605.09964": {
+      "date_added": "2026-06-28",
+      "direction": "D",
+      "title": "Learning the Interaction Prior for PPI Prediction"
+    },
+    "2606.27264": {
+      "date_added": "2026-06-28",
+      "direction": "F",
+      "title": "CORTEX: Structured Reasoning Benchmark for 3D Chest CT"
+    },
+    "2606.25546": {
+      "date_added": "2026-06-28",
+      "direction": "F",
+      "title": "Disease-Centric VLP with Hybrid Visual Encoding for 3D CT"
+    },
+    "2606.24115": {
+      "date_added": "2026-06-28",
+      "direction": "F",
+      "title": "Hallucination Detection in VLMs for GI Endoscopy"
+    },
+    "2606.25246": {
+      "date_added": "2026-06-28",
+      "direction": "F",
+      "title": "Multilingual Hematology VQA Dataset"
     }
   }
 }
