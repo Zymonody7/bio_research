@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-28T12:00:00",
+  "last_updated": "2026-06-29T12:00:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -951,7 +951,7 @@
     "2603.03292": {
       "date_added": "2026-06-01",
       "direction": "B",
-      "title": "MA-RAG: From Conflict to Consensus \u2014 Boosting Medical Reasoning via Multi-Round Agentic RAG"
+      "title": "MA-RAG: From Conflict to Consensus — Boosting Medical Reasoning via Multi-Round Agentic RAG"
     },
     "2602.03305": {
       "date_added": "2026-06-01",
@@ -1396,7 +1396,7 @@
     "2604.28011": {
       "date_added": "2026-06-08",
       "direction": "F",
-      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound"
+      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound"
     },
     "2606.07342": {
       "date_added": "2026-06-08",
@@ -2381,7 +2381,7 @@
     "10.1002/mdr2.70039": {
       "date_added": "2026-06-23",
       "direction": "B",
-      "title": "RSA\u2010KG: A Graph\u2010Based Rag Enhanced AI Knowledge Graph for Recurrent Spontaneous Abortions Diagnosis and Clinical Decision Support"
+      "title": "RSA‐KG: A Graph‐Based Rag Enhanced AI Knowledge Graph for Recurrent Spontaneous Abortions Diagnosis and Clinical Decision Support"
     },
     "10.1109/GCAT66372.2025.11368379": {
       "date_added": "2026-06-23",
@@ -2887,6 +2887,106 @@
       "date_added": "2026-06-28",
       "direction": "F",
       "title": "Multilingual Hematology VQA Dataset"
+    },
+    "10.1186/s13073-025-01480-2": {
+      "date_added": "2026-06-29",
+      "direction": "A",
+      "title": "CZ ID AMR Module: mNGS Pathogen+AMR Detection"
+    },
+    "10.1109/IC2E365635.2025.11167377": {
+      "date_added": "2026-06-29",
+      "direction": "A",
+      "title": "AI-Driven Pathogen Detection Systems"
+    },
+    "10.1093/bib/bbaf592": {
+      "date_added": "2026-06-29",
+      "direction": "A",
+      "title": "FGeneBERT: Metagenomic Gene Language Model"
+    },
+    "10.3389/fmed.2025.1716327": {
+      "date_added": "2026-06-29",
+      "direction": "B",
+      "title": "Self-correcting Agentic Graph RAG Hepatology"
+    },
+    "10.1038/s41746-026-02869-y": {
+      "date_added": "2026-06-29",
+      "direction": "B",
+      "title": "Autonomous AI Agent ED Clinical Decision Support"
+    },
+    "10.1016/j.jbi.2026.105045": {
+      "date_added": "2026-06-29",
+      "direction": "B",
+      "title": "Comprehensive Survey AI Agents Healthcare"
+    },
+    "10.1007/s11548-026-03694-0": {
+      "date_added": "2026-06-29",
+      "direction": "B",
+      "title": "EchoAgent: Guideline-Centric Echo Reasoning"
+    },
+    "10.1016/j.ejrad.2025.111984": {
+      "date_added": "2026-06-29",
+      "direction": "C",
+      "title": "RLAIF Aligning LLMs with Radiologists"
+    },
+    "10.1109/JBHI.2026.3707092": {
+      "date_added": "2026-06-29",
+      "direction": "C",
+      "title": "Multimodal Bidirectional DPO Medical Imaging"
+    },
+    "10.1093/bib/bbag293": {
+      "date_added": "2026-06-29",
+      "direction": "D",
+      "title": "ProtDML: Label-Aware Protein Function"
+    },
+    "10.1093/bib/bbag257": {
+      "date_added": "2026-06-29",
+      "direction": "D",
+      "title": "KSDiffusion: Kinase Phosphorylation Prediction"
+    },
+    "10.1016/j.jare.2025.11.046": {
+      "date_added": "2026-06-29",
+      "direction": "D",
+      "title": "LM+Diffusion Antifungal Generation"
+    },
+    "10.1109/TCBBIO.2026.3705107": {
+      "date_added": "2026-06-29",
+      "direction": "E",
+      "title": "Adapting Evo Genome FM Functional Genomics"
+    },
+    "10.64898/2026.05.14.725245": {
+      "date_added": "2026-06-29",
+      "direction": "E",
+      "title": "DamageFormer: DNA Lesion Detection"
+    },
+    "10.1093/bfgp/elag005": {
+      "date_added": "2026-06-29",
+      "direction": "E",
+      "title": "LM Self-Training 99pct Data Reduction"
+    },
+    "10.1101/2025.08.27.672609": {
+      "date_added": "2026-06-29",
+      "direction": "E",
+      "title": "PlantCAD2: Long-Context DNA LM"
+    },
+    "10.1109/TCBBIO.2025.3614354": {
+      "date_added": "2026-06-29",
+      "direction": "E",
+      "title": "DeepGene: Pan-Genome Foundation Model"
+    },
+    "10.1002/mco2.70833": {
+      "date_added": "2026-06-29",
+      "direction": "F",
+      "title": "GenAI LLMs Clinical Oncology Review"
+    },
+    "10.1038/s41591-026-04503-6": {
+      "date_added": "2026-06-29",
+      "direction": "F",
+      "title": "Generative AI Clinical Decision Support RCT"
+    },
+    "2504.10564": {
+      "date_added": "2026-06-29",
+      "direction": "X",
+      "title": "FLOWR: Flow Matching Drug Design"
     }
   }
 }
