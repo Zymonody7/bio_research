@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-29T12:00:00",
+  "last_updated": "2026-06-30T12:00:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -2987,6 +2987,81 @@
       "date_added": "2026-06-29",
       "direction": "X",
       "title": "FLOWR: Flow Matching Drug Design"
+    },
+    "10.1038/s41467-025-66865-8": {
+      "date_added": "2026-06-30",
+      "direction": "A",
+      "title": "Metagenomic sequencing enables accurate pathogen and AMR profiling"
+    },
+    "10.3390/s25185791": {
+      "date_added": "2026-06-30",
+      "direction": "A",
+      "title": "AI-Enabled Microfluidics for Respiratory Pathogen Detection"
+    },
+    "10.3389/fmicb.2025.1665685": {
+      "date_added": "2026-06-30",
+      "direction": "A",
+      "title": "Diagnosis of NTM infections using genomics and AI"
+    },
+    "10.1038/s41586-025-10097-9": {
+      "date_added": "2026-06-30",
+      "direction": "B",
+      "title": "An agentic system for rare disease diagnosis with traceable reasoning"
+    },
+    "10.1038/s41746-025-01802-z": {
+      "date_added": "2026-06-30",
+      "direction": "B",
+      "title": "RAG elevates local LLM quality in radiology contrast media prescribing"
+    },
+    "10.1016/j.inffus.2025.103557": {
+      "date_added": "2026-06-30",
+      "direction": "B",
+      "title": "Magic: LLM-based multi-agent graph-reasoning collaboration"
+    },
+    "10.1038/s41746-025-02008-z": {
+      "date_added": "2026-06-30",
+      "direction": "C",
+      "title": "When helpfulness backfires: LLMs and false medical info sycophancy"
+    },
+    "10.1038/s44387-025-00011-z": {
+      "date_added": "2026-06-30",
+      "direction": "C",
+      "title": "Large language models for disease diagnosis: scoping review"
+    },
+    "10.1038/s41592-025-02776-2": {
+      "date_added": "2026-06-30",
+      "direction": "D",
+      "title": "Biophysics-based protein language models for protein engineering"
+    },
+    "10.1038/s41587-025-02761-2": {
+      "date_added": "2026-06-30",
+      "direction": "D",
+      "title": "Target sequence-conditioned design of peptide binders using MLM"
+    },
+    "10.1038/s42256-025-01044-4": {
+      "date_added": "2026-06-30",
+      "direction": "D",
+      "title": "Generalized biological foundation model with unified nucleic acid and protein language"
+    },
+    "10.1186/s13059-025-03674-8": {
+      "date_added": "2026-06-30",
+      "direction": "E",
+      "title": "Evaluating DNA language models for regulatory genomics"
+    },
+    "10.1038/s41467-025-65823-8": {
+      "date_added": "2026-06-30",
+      "direction": "E",
+      "title": "Benchmarking DNA foundation models for genomic tasks"
+    },
+    "10.1038/s41586-026-10181-8": {
+      "date_added": "2026-06-30",
+      "direction": "F",
+      "title": "Merlin: CT vision-language foundation model and dataset"
+    },
+    "10.1038/s41467-025-62385-7": {
+      "date_added": "2026-06-30",
+      "direction": "F",
+      "title": "Towards generalist foundation model for radiology"
     }
   }
 }
