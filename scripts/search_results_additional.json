@@ -1,0 +1,784 @@
+{
+  "A": [
+    {
+      "id": "10.3390/diagnostics15161991",
+      "title": "Metagenomic Next-Generation Sequencing in Infectious Diseases: Clinical Applications, Translational Challenges, and Future Directions",
+      "date": "2025-08-08",
+      "authors": "Ayman Elbehiry, Adil Abalkhail",
+      "venue": "Diagnostics",
+      "doi": "https://doi.org/10.3390/diagnostics15161991"
+    },
+    {
+      "id": "10.1021/acs.accounts.0c00594",
+      "title": "AI-Driven Antimicrobial Peptide Discovery: Mining and Generation",
+      "date": "2025-06-03",
+      "authors": "Paulina Szymczak, Wojciech Zarzecki, Jiejing Wang",
+      "venue": "Accounts of Chemical Research",
+      "doi": "https://doi.org/10.1021/acs.accounts.0c00594"
+    },
+    {
+      "id": "10.3390/ijms26189206",
+      "title": "Computational Metagenomics: State of the Art",
+      "date": "2025-09-20",
+      "authors": "Marco Antonio Pita-Galeana, Martín Ruhle, Lucía López-Vázquez",
+      "venue": "International Journal of Molecular Sciences",
+      "doi": "https://doi.org/10.3390/ijms26189206"
+    },
+    {
+      "id": "10.3389/fmicb.2025.1614301",
+      "title": "Overcoming challenges in metagenomic AMR surveillance with nanopore sequencing: a case study on fluoroquinolone resistance",
+      "date": "2025-07-23",
+      "authors": "Bram Bloemen, Mathieu Gand, Moniek Ringenier",
+      "venue": "Frontiers in Microbiology",
+      "doi": "https://doi.org/10.3389/fmicb.2025.1614301"
+    },
+    {
+      "id": "10.1038/s41467-025-66865-8",
+      "title": "Metagenomic sequencing enables accurate pathogen and antimicrobial susceptibility profiling in complicated UTIs in approximately four hours",
+      "date": "2025-12-03",
+      "authors": "Anurag Basavaraj Bellankimath, Sverre Branders, Isabell Kegel",
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-025-66865-8"
+    },
+    {
+      "id": "10.3390/jox15040133",
+      "title": "Harnessing Engineered Microbial Consortia for Xenobiotic Bioremediation: Integrating Multi-Omics and AI for Next-Generation Wastewater Treatment",
+      "date": "2025-08-19",
+      "authors": "P Renganathan, Lira A. Gaysina, Cipriano García-Gutiérrez",
+      "venue": "Journal of Xenobiotics",
+      "doi": "https://doi.org/10.3390/jox15040133"
+    },
+    {
+      "id": "10.1080/19490976.2025.2569739",
+      "title": "G <b>ut microbiome metagenomics in clinical practice: bridging the gap between research and precision medicine</b>",
+      "date": "2025-10-25",
+      "authors": "Henok Ayalew Tegegne, Tor Savidge",
+      "venue": "Gut Microbes",
+      "doi": "https://doi.org/10.1080/19490976.2025.2569739"
+    },
+    {
+      "id": "10.3389/fmicb.2025.1578681",
+      "title": "Exploring vaginal microbiome: from traditional methods to metagenomic next-generation sequencing—a systematic review",
+      "date": "2025-08-14",
+      "authors": "Siying Liu, Yuxin Chen, Kun Zhang",
+      "venue": "Frontiers in Microbiology",
+      "doi": "https://doi.org/10.3389/fmicb.2025.1578681"
+    },
+    {
+      "id": "10.3390/microorganisms13071508",
+      "title": "hMPV Outbreaks: Worldwide Implications of a Re-Emerging Respiratory Pathogen",
+      "date": "2025-06-27",
+      "authors": "Alexandra Lianou, Andreas G. Tsantes, Πέτρος Ιωάννου",
+      "venue": "Microorganisms",
+      "doi": "https://doi.org/10.3390/microorganisms13071508"
+    },
+    {
+      "id": "10.3390/vetsci12090862",
+      "title": "From Farm to Fork: Antimicrobial-Resistant Bacterial Pathogens in Livestock Production and the Food Chain",
+      "date": "2025-09-04",
+      "authors": "Ayman Elbehiry, Eman Marzouk",
+      "venue": "Veterinary Sciences",
+      "doi": "https://doi.org/10.3390/vetsci12090862"
+    },
+    {
+      "id": "10.3390/s25185791",
+      "title": "AI-Enabled Microfluidics for Respiratory Pathogen Detection",
+      "date": "2025-09-17",
+      "authors": "Daoguangyao Zhang, Xuefei Lv, Hao Jiang",
+      "venue": "Sensors",
+      "doi": "https://doi.org/10.3390/s25185791"
+    },
+    {
+      "id": "10.3389/fmicb.2025.1665685",
+      "title": "Diagnosis of nontuberculous mycobacterial infections using genomics and artificial intelligence-machine learning approaches: scope, progress and challenges",
+      "date": "2025-09-03",
+      "authors": "Madhan Kumar Murthy, Vivek Kumar Gupta, Anand Prakash Maurya",
+      "venue": "Frontiers in Microbiology",
+      "doi": "https://doi.org/10.3389/fmicb.2025.1665685"
+    },
+    {
+      "id": "10.1016/j.jinf.2025.106618",
+      "title": "Bacteriophage combined with mNGS enhances the specificity of bacterial infection diagnosis",
+      "date": "2025-10-01",
+      "authors": "Ying Liu, Yafeng Zheng, Lu Wang",
+      "venue": "Journal of Infection",
+      "doi": "https://doi.org/10.1016/j.jinf.2025.106618"
+    }
+  ],
+  "B": [
+    {
+      "id": "10.70777/si.v2i3.15161",
+      "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+      "date": "2025-07-20",
+      "authors": "Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee",
+      "venue": "SuperIntelligence - Robotics - Safety & Alignment",
+      "doi": "https://doi.org/10.70777/si.v2i3.15161"
+    },
+    {
+      "id": "10.1016/j.inffus.2025.103599",
+      "title": "AI Agents vs. Agentic AI: A Conceptual taxonomy, applications and challenges",
+      "date": "2025-08-22",
+      "authors": "Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee",
+      "venue": "Information Fusion",
+      "doi": "https://doi.org/10.1016/j.inffus.2025.103599"
+    },
+    {
+      "id": "10.1038/s43018-025-00991-6",
+      "title": "Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology",
+      "date": "2025-06-06",
+      "authors": "Dyke Ferber, Omar S. M. El Nahhas, Georg Wölflein",
+      "venue": "Nature Cancer",
+      "doi": "https://doi.org/10.1038/s43018-025-00991-6"
+    },
+    {
+      "id": "10.1016/j.cell.2025.05.018",
+      "title": "The generative era of medical AI",
+      "date": "2025-07-01",
+      "authors": "John Fahrner, Emma Chen, Eric J. Topol",
+      "venue": "Cell",
+      "doi": "https://doi.org/10.1016/j.cell.2025.05.018"
+    },
+    {
+      "id": "10.1038/s43856-025-01283-x",
+      "title": "Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education",
+      "date": "2025-12-19",
+      "authors": "Huizi Yu, Jiayan Zhou, Lingyao Li",
+      "venue": "Communications Medicine",
+      "doi": "https://doi.org/10.1038/s43856-025-01283-x"
+    },
+    {
+      "id": "10.3390/fi17090404",
+      "title": "The Rise of Agentic AI: A Review of Definitions, Frameworks, Architectures, Applications, Evaluation Metrics, and Challenges",
+      "date": "2025-09-04",
+      "authors": "Ajay Bandi, Bhavani Kongari, Roshini Naguru",
+      "venue": "Future Internet",
+      "doi": "https://doi.org/10.3390/fi17090404"
+    },
+    {
+      "id": "10.1007/s10238-025-01965-9",
+      "title": "AI-driven multi-omics integration in precision oncology: bridging the data deluge to clinical decisions",
+      "date": "2025-11-21",
+      "authors": "Chou‐Yi Hsu, Shavan Askar, Samer Saleem Alshkarchy",
+      "venue": "Clinical and Experimental Medicine",
+      "doi": "https://doi.org/10.1007/s10238-025-01965-9"
+    },
+    {
+      "id": "10.1038/s41746-025-01789-7",
+      "title": "A perspective for adapting generalist AI to specialized medical AI applications and their challenges",
+      "date": "2025-07-11",
+      "authors": "Zifeng Wang, Hanyin Wang, Benjamin Danek",
+      "venue": "npj Digital Medicine",
+      "doi": "https://doi.org/10.1038/s41746-025-01789-7"
+    }
+  ],
+  "C": [
+    {
+      "id": "10.1038/s41746-025-02008-z",
+      "title": "When helpfulness backfires: LLMs and the risk of false medical information due to sycophantic behavior",
+      "date": "2025-10-17",
+      "authors": "Shan Chen, Mingye Gao, Kuleen Sasse",
+      "venue": "npj Digital Medicine",
+      "doi": "https://doi.org/10.1038/s41746-025-02008-z"
+    },
+    {
+      "id": "10.1038/s44387-025-00011-z",
+      "title": "Large language models for disease diagnosis: a scoping review",
+      "date": "2025-06-09",
+      "authors": "Shuang Zhou, Zidu Xu, Mian Zhang",
+      "venue": "npj Artificial Intelligence",
+      "doi": "https://doi.org/10.1038/s44387-025-00011-z"
+    },
+    {
+      "id": "10.1609/aies.v8i1.36598",
+      "title": "SycEval: Evaluating LLM Sycophancy",
+      "date": "2025-10-15",
+      "authors": "Aaron Fanous, Jacob Goldberg, Ank A Agarwal",
+      "venue": "Proceedings of the AAAI/ACM Conference on AI Ethics and Society",
+      "doi": "https://doi.org/10.1609/aies.v8i1.36598"
+    },
+    {
+      "id": "10.1145/3711896.3736570",
+      "title": "Evaluation and Benchmarking of LLM Agents: A Survey",
+      "date": "2025-08-03",
+      "authors": "Mahmoud Mohammadi, Yipeng Li, Jane C. Lo",
+      "venue": "",
+      "doi": "https://doi.org/10.1145/3711896.3736570"
+    },
+    {
+      "id": "10.1007/s41019-025-00296-9",
+      "title": "LLM-Based Agents for Tool Learning: A Survey",
+      "date": "2025-06-26",
+      "authors": "Weikai Xu, Chengrui Huang, Shen Gao",
+      "venue": "Data Science and Engineering",
+      "doi": "https://doi.org/10.1007/s41019-025-00296-9"
+    },
+    {
+      "id": "10.1007/s10462-025-11389-2",
+      "title": "Safeguarding large language models: a survey",
+      "date": "2025-10-17",
+      "authors": "Yi Dong, Ronghui Mu, Yanghao Zhang",
+      "venue": "Artificial Intelligence Review",
+      "doi": "https://doi.org/10.1007/s10462-025-11389-2"
+    },
+    {
+      "id": "10.70777/si.v2i3.15159",
+      "title": "Deliberative Alignment: Reasoning Enables Safer Language Models",
+      "date": "2025-07-20",
+      "authors": "Melody Y. Guan, Manas Joglekar, Eric Wallace",
+      "venue": "SuperIntelligence - Robotics - Safety & Alignment",
+      "doi": "https://doi.org/10.70777/si.v2i3.15159"
+    },
+    {
+      "id": "10.1038/s44387-025-00019-5",
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery",
+      "date": "2025-08-05",
+      "authors": "Yanbo Zhang, Sumeer Ahmad Khan, A. K. M. Firoj Mahmud",
+      "venue": "npj Artificial Intelligence",
+      "doi": "https://doi.org/10.1038/s44387-025-00019-5"
+    },
+    {
+      "id": "10.70777/si.v2i3.15161",
+      "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+      "date": "2025-07-20",
+      "authors": "Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee",
+      "venue": "SuperIntelligence - Robotics - Safety & Alignment",
+      "doi": "https://doi.org/10.70777/si.v2i3.15161"
+    },
+    {
+      "id": "10.1016/j.inffus.2025.103599",
+      "title": "AI Agents vs. Agentic AI: A Conceptual taxonomy, applications and challenges",
+      "date": "2025-08-22",
+      "authors": "Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee",
+      "venue": "Information Fusion",
+      "doi": "https://doi.org/10.1016/j.inffus.2025.103599"
+    },
+    {
+      "id": "10.1186/s41239-025-00540-2",
+      "title": "Design and assessment of AI-based learning tools in higher education: a systematic review",
+      "date": "2025-07-10",
+      "authors": "Jihao Luo, Chenxu Zheng, Jiamin Yin",
+      "venue": "International Journal of Educational Technology in Higher Education",
+      "doi": "https://doi.org/10.1186/s41239-025-00540-2"
+    },
+    {
+      "id": "10.1007/s10238-025-01965-9",
+      "title": "AI-driven multi-omics integration in precision oncology: bridging the data deluge to clinical decisions",
+      "date": "2025-11-21",
+      "authors": "Chou‐Yi Hsu, Shavan Askar, Samer Saleem Alshkarchy",
+      "venue": "Clinical and Experimental Medicine",
+      "doi": "https://doi.org/10.1007/s10238-025-01965-9"
+    },
+    {
+      "id": "10.1016/j.cell.2025.05.018",
+      "title": "The generative era of medical AI",
+      "date": "2025-07-01",
+      "authors": "John Fahrner, Emma Chen, Eric J. Topol",
+      "venue": "Cell",
+      "doi": "https://doi.org/10.1016/j.cell.2025.05.018"
+    },
+    {
+      "id": "10.70777/si.v2i2.14755",
+      "title": "The First International AI Safety Report",
+      "date": "2025-06-03",
+      "authors": "Yoshua Bengio",
+      "venue": "SuperIntelligence - Robotics - Safety & Alignment",
+      "doi": "https://doi.org/10.70777/si.v2i2.14755"
+    },
+    {
+      "id": "10.3390/healthcare13141752",
+      "title": "Reinforcement Learning and Its Clinical Applications Within Healthcare: A Systematic Review of Precision Medicine and Dynamic Treatment Regimes",
+      "date": "2025-07-19",
+      "authors": "Timothy C. Frommeyer, Michael M. Gilbert, Reid Fursmidt",
+      "venue": "Healthcare",
+      "doi": "https://doi.org/10.3390/healthcare13141752"
+    },
+    {
+      "id": "10.3390/electronics14132512",
+      "title": "A Review on Federated Learning Architectures for Privacy-Preserving AI: Lightweight and Secure Cloud–Edge–End Collaboration",
+      "date": "2025-06-20",
+      "authors": "Shanhao Zhan, Lianfen Huang, Gaoyu Luo",
+      "venue": "Electronics",
+      "doi": "https://doi.org/10.3390/electronics14132512"
+    }
+  ],
+  "D": [
+    {
+      "id": "10.1038/s41592-025-02776-2",
+      "title": "Biophysics-based protein language models for protein engineering",
+      "date": "2025-09-01",
+      "authors": "Sam Gelman, Bryce Johnson, Chase R. Freschlin",
+      "venue": "Nature Methods",
+      "doi": "https://doi.org/10.1038/s41592-025-02776-2"
+    },
+    {
+      "id": "10.1038/s41587-025-02761-2",
+      "title": "Target sequence-conditioned design of peptide binders using masked language modeling",
+      "date": "2025-08-13",
+      "authors": "Tianlai Chen, Zachary Quinn, Madeleine Dumas",
+      "venue": "Nature Biotechnology",
+      "doi": "https://doi.org/10.1038/s41587-025-02761-2"
+    },
+    {
+      "id": "10.3390/biology14091268",
+      "title": "The Role of AI-Driven De Novo Protein Design in the Exploration of the Protein Functional Universe",
+      "date": "2025-09-15",
+      "authors": "Guohao Zhang, Chuanyang Liu, Jiajie Lu",
+      "venue": "Biology",
+      "doi": "https://doi.org/10.3390/biology14091268"
+    },
+    {
+      "id": "10.1080/19420862.2025.2528902",
+      "title": "Artificial intelligence-driven computational methods for antibody design and optimization",
+      "date": "2025-07-18",
+      "authors": "Luiz Felipe Vecchietti, Bryan Nathanael Wijaya, Azamat Armanuly",
+      "venue": "mAbs",
+      "doi": "https://doi.org/10.1080/19420862.2025.2528902"
+    },
+    {
+      "id": "10.1038/s41598-025-05674-x",
+      "title": "Medium-sized protein language models perform well at transfer learning on realistic datasets",
+      "date": "2025-07-01",
+      "authors": "Luiz Carlos Vieira, Morgan L. Handojo, Claus O. Wilke",
+      "venue": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-025-05674-x"
+    },
+    {
+      "id": "10.1038/s41467-025-67971-3",
+      "title": "Learning the language of protein-protein interactions",
+      "date": "2026-01-07",
+      "authors": "Varun Ullanat, Bowen Jing, Samuel Sledzieski",
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-025-67971-3"
+    },
+    {
+      "id": "10.1038/s41592-025-02723-1",
+      "title": "Sliding Window Interaction Grammar (SWING): a generalized interaction language model for peptide and protein interactions",
+      "date": "2025-07-28",
+      "authors": "Jane C Siwek, Alisa A. Omelchenko, Prabal Chhibbar",
+      "venue": "Nature Methods",
+      "doi": "https://doi.org/10.1038/s41592-025-02723-1"
+    },
+    {
+      "id": "10.1093/bib/bbaf691",
+      "title": "TCRdesign: an antigen-specific generative language model for <i>de novo</i> design of T-cell receptors",
+      "date": "2025-11-01",
+      "authors": "Xiaokun Li, Qiang Yang, Long Xu",
+      "venue": "Briefings in Bioinformatics",
+      "doi": "https://doi.org/10.1093/bib/bbaf691"
+    },
+    {
+      "id": "10.1016/j.copbio.2025.103380",
+      "title": "Artificial intelligence–powered biofoundries for protein engineering and metabolic engineering",
+      "date": "2025-11-04",
+      "authors": "Junyu Chen, Nilmani Singh, Jingxia Lu",
+      "venue": "Current Opinion in Biotechnology",
+      "doi": "https://doi.org/10.1016/j.copbio.2025.103380"
+    },
+    {
+      "id": "10.1016/j.cell.2025.05.018",
+      "title": "The generative era of medical AI",
+      "date": "2025-07-01",
+      "authors": "John Fahrner, Emma Chen, Eric J. Topol",
+      "venue": "Cell",
+      "doi": "https://doi.org/10.1016/j.cell.2025.05.018"
+    },
+    {
+      "id": "10.1038/s41467-025-67609-4",
+      "title": "Generalizable and scalable protein stability prediction with rewired protein generative models",
+      "date": "2025-12-20",
+      "authors": "Ziang Li, Yunan Luo",
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-025-67609-4"
+    },
+    {
+      "id": "10.1038/s41467-025-63947-5",
+      "title": "Investigating whether deep learning models for co-folding learn the physics of protein-ligand interactions",
+      "date": "2025-10-06",
+      "authors": "Matthew R. Masters, Amr H. Mahmoud, Markus A. Lill",
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-025-63947-5"
+    },
+    {
+      "id": "10.3390/biomedinformatics5030037",
+      "title": "Generative Artificial Intelligence in Healthcare: Applications, Implementation Challenges, and Future Directions",
+      "date": "2025-07-07",
+      "authors": "Syed Arman Rabbani, Syed Arman Rabbani, Mohamed El‐Tanani",
+      "venue": "BioMedInformatics",
+      "doi": "https://doi.org/10.3390/biomedinformatics5030037"
+    },
+    {
+      "id": "10.1007/s13534-025-00497-1",
+      "title": "From large language models to multimodal AI: a scoping review on the potential of generative AI in medicine",
+      "date": "2025-08-22",
+      "authors": "Lukas Buess, Matthias Keicher, Nassir Navab",
+      "venue": "Biomedical Engineering Letters",
+      "doi": "https://doi.org/10.1007/s13534-025-00497-1"
+    },
+    {
+      "id": "10.1038/s41467-025-61209-y",
+      "title": "A generalized platform for artificial intelligence-powered autonomous enzyme engineering",
+      "date": "2025-07-01",
+      "authors": "Nilmani Singh, Stephan Lane, Tianhao Yu",
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-025-61209-y"
+    }
+  ],
+  "E": [
+    {
+      "id": "10.1186/s13059-025-03674-8",
+      "title": "Evaluating the representational power of pre-trained DNA language models for regulatory genomics",
+      "date": "2025-07-14",
+      "authors": "Ziqi Tang, Nirali Somia, Yiyang Yu",
+      "venue": "Genome biology",
+      "doi": "https://doi.org/10.1186/s13059-025-03674-8"
+    },
+    {
+      "id": "10.1038/s41467-025-60872-5",
+      "title": "RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks",
+      "date": "2025-07-01",
+      "authors": "Rafael Josip Penić, Tin Vlašić, Roland G. Huber",
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-025-60872-5"
+    },
+    {
+      "id": "10.1038/s41467-025-65823-8",
+      "title": "Benchmarking DNA foundation models for genomic and genetic tasks",
+      "date": "2025-11-28",
+      "authors": "Haonan Feng, Lang Wu, Bingxin Zhao",
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-025-65823-8"
+    },
+    {
+      "id": "10.1038/s44387-025-00019-5",
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery",
+      "date": "2025-08-05",
+      "authors": "Yanbo Zhang, Sumeer Ahmad Khan, A. K. M. Firoj Mahmud",
+      "venue": "npj Artificial Intelligence",
+      "doi": "https://doi.org/10.1038/s44387-025-00019-5"
+    },
+    {
+      "id": "10.1038/s41588-025-02347-3",
+      "title": "Nucleotide dependency analysis of genomic language models detects functional elements",
+      "date": "2025-10-01",
+      "authors": "Pedro Tomaz da Silva, Alexander Karollus, Johannes Hingerl",
+      "venue": "Nature Genetics",
+      "doi": "https://doi.org/10.1038/s41588-025-02347-3"
+    },
+    {
+      "id": "10.3389/fgene.2025.1636438",
+      "title": "Genomic prediction powered by multi-omics data",
+      "date": "2025-09-17",
+      "authors": "Osval A. Montesinos-López, Abelardo Montesinos-López, B. González",
+      "venue": "Frontiers in Genetics",
+      "doi": "https://doi.org/10.3389/fgene.2025.1636438"
+    },
+    {
+      "id": "10.3389/fgene.2025.1634882",
+      "title": "Gene-LLMs: a comprehensive survey of transformer-based genomic language models for regulatory and clinical genomics",
+      "date": "2025-10-13",
+      "authors": "P. Balakrishnan, A. Anny Leema, V. Dhivya Shree",
+      "venue": "Frontiers in Genetics",
+      "doi": "https://doi.org/10.3389/fgene.2025.1634882"
+    },
+    {
+      "id": "10.1007/s11103-025-01604-7",
+      "title": "Genomic language models with k-mer tokenization strategies for plant genome annotation and regulatory element strength prediction",
+      "date": "2025-07-31",
+      "authors": "S. Suzuki, Kazumasa Horie, Toshiyuki Amagasa",
+      "venue": "Plant Molecular Biology",
+      "doi": "https://doi.org/10.1007/s11103-025-01604-7"
+    },
+    {
+      "id": "10.1038/s41592-025-02772-6",
+      "title": "Deep-learning-based gene perturbation effect prediction does not yet outperform simple linear baselines",
+      "date": "2025-08-01",
+      "authors": "Constantin Ahlmann-Eltze, Wolfgang Huber, Simon Anders",
+      "venue": "Nature Methods",
+      "doi": "https://doi.org/10.1038/s41592-025-02772-6"
+    },
+    {
+      "id": "10.1038/s41592-025-02980-0",
+      "title": "Benchmarking algorithms for generalizable single-cell perturbation response prediction",
+      "date": "2025-12-11",
+      "authors": "Zhiting Wei, Yiheng Wang, Yicheng Gao",
+      "venue": "Nature Methods",
+      "doi": "https://doi.org/10.1038/s41592-025-02980-0"
+    },
+    {
+      "id": "10.1038/s41592-025-02822-z",
+      "title": "EpiAgent: foundation model for single-cell epigenomics",
+      "date": "2025-09-25",
+      "authors": "Xiaoyang Chen, Keyi Li, Xuejian Cui",
+      "venue": "Nature Methods",
+      "doi": "https://doi.org/10.1038/s41592-025-02822-z"
+    },
+    {
+      "id": "10.1038/s12276-025-01547-5",
+      "title": "Single-cell foundation models: bringing artificial intelligence into cell biology",
+      "date": "2025-10-01",
+      "authors": "Seungbyn Baek, Kyungwoo Song, Insuk Lee",
+      "venue": "Experimental & Molecular Medicine",
+      "doi": "https://doi.org/10.1038/s12276-025-01547-5"
+    },
+    {
+      "id": "10.1038/s41587-025-02777-8",
+      "title": "Systema: a framework for evaluating genetic perturbation response prediction beyond systematic variation",
+      "date": "2025-08-25",
+      "authors": "Ramón Viñas, Maciej Wiatrak, Zoe Piran",
+      "venue": "Nature Biotechnology",
+      "doi": "https://doi.org/10.1038/s41587-025-02777-8"
+    },
+    {
+      "id": "10.1186/s13059-025-03781-6",
+      "title": "Biology-driven insights into the power of single-cell foundation models",
+      "date": "2025-10-03",
+      "authors": "Jialu Wu, Qing Ye, Yilin Wang",
+      "venue": "Genome biology",
+      "doi": "https://doi.org/10.1186/s13059-025-03781-6"
+    },
+    {
+      "id": "10.1038/s42256-025-01055-1",
+      "title": "A framework to evaluate machine learning crystal stability predictions",
+      "date": "2025-06-23",
+      "authors": "Janosh Riebesell, Rhys E. A. Goodall, Philipp Benner",
+      "venue": "Nature Machine Intelligence",
+      "doi": "https://doi.org/10.1038/s42256-025-01055-1"
+    },
+    {
+      "id": "10.1016/j.cell.2025.06.008",
+      "title": "Virtual Cell Challenge: Toward a Turing test for the virtual cell",
+      "date": "2025-06-01",
+      "authors": "Yusuf Roohani, Tony J. Hua, Po‐Yuan Tung",
+      "venue": "Cell",
+      "doi": "https://doi.org/10.1016/j.cell.2025.06.008"
+    }
+  ],
+  "F": [
+    {
+      "id": "10.1038/s41467-025-62385-7",
+      "title": "Towards generalist foundation model for radiology by leveraging web-scale 2D&amp;3D medical data",
+      "date": "2025-08-23",
+      "authors": "Chaoyi Wu, Xiaoman Zhang, Ya Zhang",
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-025-62385-7"
+    },
+    {
+      "id": "10.1038/s44387-025-00015-9",
+      "title": "Vision-language foundation model for 3D medical imaging",
+      "date": "2025-08-06",
+      "authors": "Jing Wu, Yuli Wang, Zhusi Zhong",
+      "venue": "npj Artificial Intelligence",
+      "doi": "https://doi.org/10.1038/s44387-025-00015-9"
+    },
+    {
+      "id": "10.1007/s13534-025-00484-6",
+      "title": "Vision-language foundation models for medical imaging: a review of current practices and innovations",
+      "date": "2025-06-06",
+      "authors": "Jeong-Wan Ryu, Hyunyoung Kang, Yuseong Chu",
+      "venue": "Biomedical Engineering Letters",
+      "doi": "https://doi.org/10.1007/s13534-025-00484-6"
+    },
+    {
+      "id": "10.4274/dir.2025.253445",
+      "title": "Foundation models for radiology: fundamentals, applications, opportunities, challenges, risks, and prospects",
+      "date": "2025-07-08",
+      "authors": "Tugba Akinci D’Antonoli, Christian Bluethgen, Renato Cuocolo",
+      "venue": "Diagnostic and Interventional Radiology",
+      "doi": "https://doi.org/10.4274/dir.2025.253445"
+    },
+    {
+      "id": "10.1038/s41746-025-01772-2",
+      "title": "A multimodal visual–language foundation model for computational ophthalmology",
+      "date": "2025-06-21",
+      "authors": "Danli Shi, Weiyi Zhang, J. Yang",
+      "venue": "npj Digital Medicine",
+      "doi": "https://doi.org/10.1038/s41746-025-01772-2"
+    },
+    {
+      "id": "10.3390/bioengineering12060631",
+      "title": "Large Language Models in Healthcare and Medical Applications: A Review",
+      "date": "2025-06-10",
+      "authors": "Subhankar Maity, Manob Jyoti Saikia",
+      "venue": "Bioengineering",
+      "doi": "https://doi.org/10.3390/bioengineering12060631"
+    },
+    {
+      "id": "10.3390/bioengineering12070693",
+      "title": "Advancements in Radiology Report Generation: A Comprehensive Analysis",
+      "date": "2025-06-25",
+      "authors": "Dima Mamdouh, M. Attia, Osama Mohamed",
+      "venue": "Bioengineering",
+      "doi": "https://doi.org/10.3390/bioengineering12070693"
+    },
+    {
+      "id": "10.1038/s41586-026-10181-8",
+      "title": "Merlin: a computed tomography vision–language foundation model and dataset",
+      "date": "2026-03-04",
+      "authors": "Louis Blankemeier, Ashwin Kumar, Joseph Paul Cohen",
+      "venue": "Nature",
+      "doi": "https://doi.org/10.1038/s41586-026-10181-8"
+    }
+  ],
+  "X": [
+    {
+      "id": "10.1038/s43018-025-00991-6",
+      "title": "Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology",
+      "date": "2025-06-06",
+      "authors": "Dyke Ferber, Omar S. M. El Nahhas, Georg Wölflein",
+      "venue": "Nature Cancer",
+      "doi": "https://doi.org/10.1038/s43018-025-00991-6"
+    },
+    {
+      "id": "10.3390/ph18091271",
+      "title": "Artificial Intelligence in Small-Molecule Drug Discovery: A Critical Review of Methods, Applications, and Real-World Outcomes",
+      "date": "2025-08-26",
+      "authors": "Sarfaraz K. Niazi",
+      "venue": "Pharmaceuticals",
+      "doi": "https://doi.org/10.3390/ph18091271"
+    },
+    {
+      "id": "10.3390/fi17090404",
+      "title": "The Rise of Agentic AI: A Review of Definitions, Frameworks, Architectures, Applications, Evaluation Metrics, and Challenges",
+      "date": "2025-09-04",
+      "authors": "Ajay Bandi, Bhavani Kongari, Roshini Naguru",
+      "venue": "Future Internet",
+      "doi": "https://doi.org/10.3390/fi17090404"
+    },
+    {
+      "id": "10.3390/pharmaceutics17091119",
+      "title": "Explainable Artificial Intelligence: A Perspective on Drug Discovery",
+      "date": "2025-08-27",
+      "authors": "Yazdan Ahmad Qadri, Sibhghatulla Shaikh, Khurshid Ahmad",
+      "venue": "Pharmaceutics",
+      "doi": "https://doi.org/10.3390/pharmaceutics17091119"
+    },
+    {
+      "id": "10.1016/j.matt.2025.102263",
+      "title": "El Agente: An autonomous agent for quantum chemistry",
+      "date": "2025-07-01",
+      "authors": "Yushi Zou, Austin H. Cheng, Abdulrahman Aldossary",
+      "venue": "Matter",
+      "doi": "https://doi.org/10.1016/j.matt.2025.102263"
+    },
+    {
+      "id": "10.1007/s44395-025-00007-3",
+      "title": "Artificial intelligence in drug discovery and development: transforming challenges into opportunities",
+      "date": "2025-06-02",
+      "authors": "Shashi Kant, Deepika, S. C. Roy",
+      "venue": "Discover Pharmaceutical Sciences",
+      "doi": "https://doi.org/10.1007/s44395-025-00007-3"
+    },
+    {
+      "id": "10.1016/j.drudis.2026.104650",
+      "title": "AI agents in drug discovery: applications and case studies",
+      "date": "2026-03-24",
+      "authors": "Dinh Long Huynh, Srijit Seal, Srijit Seal",
+      "venue": "Drug Discovery Today",
+      "doi": "https://doi.org/10.1016/j.drudis.2026.104650"
+    },
+    {
+      "id": "10.1093/bioinformatics/btaf359",
+      "title": "AI-HOPE: an AI-driven conversational agent for enhanced clinical and genomic data integration in precision medicine research",
+      "date": "2025-06-18",
+      "authors": "Ei-Wen Yang, Enrique Velazquez‐Villarreal",
+      "venue": "Bioinformatics",
+      "doi": "https://doi.org/10.1093/bioinformatics/btaf359"
+    },
+    {
+      "id": "10.3390/toxins17100494",
+      "title": "Ricin and Abrin in Biosecurity: Detection Technologies and Strategic Responses",
+      "date": "2025-10-03",
+      "authors": "Wojciech Zajączkowski, Ewelina Bojarska, Elwira Furtak",
+      "venue": "Toxins",
+      "doi": "https://doi.org/10.3390/toxins17100494"
+    },
+    {
+      "id": "10.1038/s44385-025-00021-1",
+      "title": "The convergence of AI and synthetic biology: the looming deluge",
+      "date": "2025-07-01",
+      "authors": "Cindy S. Groff-Vindman, Benjamin D. Trump, Christopher L. Cummings",
+      "venue": "npj Biomedical Innovations.",
+      "doi": "https://doi.org/10.1038/s44385-025-00021-1"
+    },
+    {
+      "id": "10.3389/fdgth.2025.1622123",
+      "title": "Emerging technologies transforming the future of global biosecurity",
+      "date": "2025-06-04",
+      "authors": "Renan Chaves de Lima, Juarez Antônio Simões Quaresma",
+      "venue": "Frontiers in Digital Health",
+      "doi": "https://doi.org/10.3389/fdgth.2025.1622123"
+    },
+    {
+      "id": "10.3390/microorganisms13071592",
+      "title": "Microbial Food Safety and Antimicrobial Resistance in Foods: A Dual Threat to Public Health",
+      "date": "2025-07-06",
+      "authors": "Ayman Elbehiry, Eman Marzouk, Adil Abalkhail",
+      "venue": "Microorganisms",
+      "doi": "https://doi.org/10.3390/microorganisms13071592"
+    },
+    {
+      "id": "10.3390/jox15040133",
+      "title": "Harnessing Engineered Microbial Consortia for Xenobiotic Bioremediation: Integrating Multi-Omics and AI for Next-Generation Wastewater Treatment",
+      "date": "2025-08-19",
+      "authors": "P Renganathan, Lira A. Gaysina, Cipriano García-Gutiérrez",
+      "venue": "Journal of Xenobiotics",
+      "doi": "https://doi.org/10.3390/jox15040133"
+    },
+    {
+      "id": "10.3389/fpubh.2025.1711344",
+      "title": "From pandemics to preparedness: harnessing AI, CRISPR, and synthetic biology to counter biosecurity threats",
+      "date": "2025-11-26",
+      "authors": "Michael Ben Okon, Okechukwu Paul-Chima Ugwu, Chinyere Nneoma Ugwu",
+      "venue": "Frontiers in Public Health",
+      "doi": "https://doi.org/10.3389/fpubh.2025.1711344"
+    },
+    {
+      "id": "10.1007/s00146-025-02576-4",
+      "title": "Synthetic biology/AI convergence (SynBioAI): security threats in frontier science and regulatory challenges",
+      "date": "2025-09-01",
+      "authors": "Nik Hynek",
+      "venue": "AI & Society",
+      "doi": "https://doi.org/10.1007/s00146-025-02576-4"
+    },
+    {
+      "id": "10.1002/bit.70132",
+      "title": "Prioritizing Feasible and Impactful Actions to Enable Secure AI Development and Use in Biology",
+      "date": "2026-01-17",
+      "authors": "Josh Dettman, Emily Lathrop, Aurelia Attal‐Juncqua",
+      "venue": "Biotechnology and Bioengineering",
+      "doi": "https://doi.org/10.1002/bit.70132"
+    },
+    {
+      "id": "10.1021/acs.accounts.0c00594",
+      "title": "AI-Driven Antimicrobial Peptide Discovery: Mining and Generation",
+      "date": "2025-06-03",
+      "authors": "Paulina Szymczak, Wojciech Zarzecki, Jiejing Wang",
+      "venue": "Accounts of Chemical Research",
+      "doi": "https://doi.org/10.1021/acs.accounts.0c00594"
+    },
+    {
+      "id": "10.3389/frai.2025.1649155",
+      "title": "AI, agentic models and lab automation for scientific discovery — the beginning of scAInce",
+      "date": "2025-08-29",
+      "authors": "Thomas Hartung",
+      "venue": "Frontiers in Artificial Intelligence",
+      "doi": "https://doi.org/10.3389/frai.2025.1649155"
+    },
+    {
+      "id": "10.1038/s41586-026-10652-y",
+      "title": "A multi-agent system for automating scientific discovery",
+      "date": "2026-05-19",
+      "authors": "Ali Essam Ghareeb, Benjamin Chang, Ludovico Mitchener",
+      "venue": "Nature",
+      "doi": "https://doi.org/10.1038/s41586-026-10652-y"
+    },
+    {
+      "id": "10.1038/s44387-025-00019-5",
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery",
+      "date": "2025-08-05",
+      "authors": "Yanbo Zhang, Sumeer Ahmad Khan, A. K. M. Firoj Mahmud",
+      "venue": "npj Artificial Intelligence",
+      "doi": "https://doi.org/10.1038/s44387-025-00019-5"
+    }
+  ]
+}

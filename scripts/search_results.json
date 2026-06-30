@@ -1,0 +1,277 @@
+{
+  "A": [],
+  "B": [
+    {
+      "title": "Neural Augmentation of MIMO-OFDM Receivers for Universal LLR Reconstruction",
+      "id": "2606.29345",
+      "year": "2026",
+      "authors": "Ory Eger, Nir Shlezinger"
+    },
+    {
+      "title": "Sample Complexity of Scientific Discovery: PAC Learnability of Compositional Function Trees",
+      "id": "2606.29331",
+      "year": "2026",
+      "authors": "Şuayp Talha Kocabay, Talha Rüzgar Akkuş, Kerem Yalçın"
+    },
+    {
+      "title": "Covering the Unseen: Information Demand Coverage Optimization for Retrieval-Augmented Generation",
+      "id": "2606.29328",
+      "year": "2026",
+      "authors": "Bingxue Zhang, Jianying Jia, Feida Zhu"
+    },
+    {
+      "title": "Hierarchical Experimentalist Agents",
+      "id": "2606.29315",
+      "year": "2026",
+      "authors": "Abhranil Chandra, Sankaran Vaidyanathan, Utsav Dhanuka"
+    },
+    {
+      "title": "Scalar Vacuum Polarization in Loop Quantum Gravity Black Holes",
+      "id": "2606.29307",
+      "year": "2026",
+      "authors": "Antonino Flachi, Marco Pasini"
+    },
+    {
+      "title": "W4A4 Quantization for Inference on Wan2.2-I2V-A14B",
+      "id": "2606.29337",
+      "year": "2026",
+      "authors": "Yidong Chen, Chengyu Shi, Jiahao Liu"
+    },
+    {
+      "title": "Bayesian Optimization on the Equilibrium Manifold",
+      "id": "2606.29299",
+      "year": "2026",
+      "authors": "Felix Kubler"
+    },
+    {
+      "title": "Private training in quantum machine learning",
+      "id": "2606.29293",
+      "year": "2026",
+      "authors": "Tigran Sedrakyan, Frédéric Grosshans, Elham Kashefi"
+    },
+    {
+      "title": "Deterministic Decisions for High-Stakes AI. A Zero-Egress Pipeline with the Deployability of RAG and the Accuracy of Machine Learning",
+      "id": "2606.29280",
+      "year": "2026",
+      "authors": "Craig Atkinson"
+    },
+    {
+      "title": "Monosemanticity in Recommender Systems",
+      "id": "2606.29341",
+      "year": "2026",
+      "authors": "Yagel Alfasi, Eden Rzezak, Eadan Schechter"
+    },
+    {
+      "title": "HiReFF: High-Resolution Feedforward Human Reconstruction from Uncalibrated Sparse-View Video",
+      "id": "2606.29333",
+      "year": "2026",
+      "authors": "Yiming Jiang, Hanzhang Tu, Wenfeng Song"
+    }
+  ],
+  "C": [
+    {
+      "title": "Adaptive Financial Transformer with Regime-Gated Attention for Stock Return Prediction",
+      "id": "2606.29347",
+      "year": "2026",
+      "authors": "Dishan Sarkar"
+    },
+    {
+      "title": "Monosemanticity in Recommender Systems",
+      "id": "2606.29341",
+      "year": "2026",
+      "authors": "Yagel Alfasi, Eden Rzezak, Eadan Schechter"
+    },
+    {
+      "title": "PHF: Privileged Hidden Flow for On-Policy Self-Distillation",
+      "id": "2606.29340",
+      "year": "2026",
+      "authors": "Yuhan Li, Mingxu Zhang, Dazhong Shen"
+    },
+    {
+      "title": "Multi-scale Object-Aware Gaze Estimation via Geometric Reasoning",
+      "id": "2606.29334",
+      "year": "2026",
+      "authors": "Jiajie Mi, Xinyu Liu, Mengke Song"
+    },
+    {
+      "title": "FDM-MFVT: Few-step Sampling Diffusion Model for Mask-Free Virtual Try-On",
+      "id": "2606.29319",
+      "year": "2026",
+      "authors": "Jiaxin Liu, Xiaoye Liang, Lai Jiang"
+    },
+    {
+      "title": "W4A4 Quantization for Inference on Wan2.2-I2V-A14B",
+      "id": "2606.29337",
+      "year": "2026",
+      "authors": "Yidong Chen, Chengyu Shi, Jiahao Liu"
+    },
+    {
+      "title": "Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models",
+      "id": "2606.29346",
+      "year": "2026",
+      "authors": "Nick Oh, Helen Jin"
+    },
+    {
+      "title": "Neural Augmentation of MIMO-OFDM Receivers for Universal LLR Reconstruction",
+      "id": "2606.29345",
+      "year": "2026",
+      "authors": "Ory Eger, Nir Shlezinger"
+    }
+  ],
+  "D": [
+    {
+      "title": "Adaptive Financial Transformer with Regime-Gated Attention for Stock Return Prediction",
+      "id": "2606.29347",
+      "year": "2026",
+      "authors": "Dishan Sarkar"
+    },
+    {
+      "title": "Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models",
+      "id": "2606.29346",
+      "year": "2026",
+      "authors": "Nick Oh, Helen Jin"
+    },
+    {
+      "title": "Neural Augmentation of MIMO-OFDM Receivers for Universal LLR Reconstruction",
+      "id": "2606.29345",
+      "year": "2026",
+      "authors": "Ory Eger, Nir Shlezinger"
+    },
+    {
+      "title": "Monosemanticity in Recommender Systems",
+      "id": "2606.29341",
+      "year": "2026",
+      "authors": "Yagel Alfasi, Eden Rzezak, Eadan Schechter"
+    },
+    {
+      "title": "PHF: Privileged Hidden Flow for On-Policy Self-Distillation",
+      "id": "2606.29340",
+      "year": "2026",
+      "authors": "Yuhan Li, Mingxu Zhang, Dazhong Shen"
+    },
+    {
+      "title": "An Exact Algorithm for Mixed-Integer Bilevel Stochastic Problem",
+      "id": "2606.29344",
+      "year": "2026",
+      "authors": "Tomás Lagos, Dmytro Matsypura"
+    },
+    {
+      "title": "Bounded Chaos in a Ghost-Coupled Hamiltonian System",
+      "id": "2606.29342",
+      "year": "2026",
+      "authors": "Zahra Molaee, Soleyman Fatholahzadeh"
+    }
+  ],
+  "E": [
+    {
+      "title": "Adaptive Financial Transformer with Regime-Gated Attention for Stock Return Prediction",
+      "id": "2606.29347",
+      "year": "2026",
+      "authors": "Dishan Sarkar"
+    },
+    {
+      "title": "Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models",
+      "id": "2606.29346",
+      "year": "2026",
+      "authors": "Nick Oh, Helen Jin"
+    },
+    {
+      "title": "Neural Augmentation of MIMO-OFDM Receivers for Universal LLR Reconstruction",
+      "id": "2606.29345",
+      "year": "2026",
+      "authors": "Ory Eger, Nir Shlezinger"
+    },
+    {
+      "title": "Monosemanticity in Recommender Systems",
+      "id": "2606.29341",
+      "year": "2026",
+      "authors": "Yagel Alfasi, Eden Rzezak, Eadan Schechter"
+    },
+    {
+      "title": "PHF: Privileged Hidden Flow for On-Policy Self-Distillation",
+      "id": "2606.29340",
+      "year": "2026",
+      "authors": "Yuhan Li, Mingxu Zhang, Dazhong Shen"
+    },
+    {
+      "title": "An Exact Algorithm for Mixed-Integer Bilevel Stochastic Problem",
+      "id": "2606.29344",
+      "year": "2026",
+      "authors": "Tomás Lagos, Dmytro Matsypura"
+    }
+  ],
+  "F": [
+    {
+      "title": "AMR: Adaptive Modality Routing for Multimodal Polyglot Speaker Identification",
+      "id": "2606.29335",
+      "year": "2026",
+      "authors": "Chuxiao Zuo, Yao Zhu, Minqiang Xu"
+    },
+    {
+      "title": "Hierarchical Experimentalist Agents",
+      "id": "2606.29315",
+      "year": "2026",
+      "authors": "Abhranil Chandra, Sankaran Vaidyanathan, Utsav Dhanuka"
+    },
+    {
+      "title": "Bayesian Optimization on the Equilibrium Manifold",
+      "id": "2606.29299",
+      "year": "2026",
+      "authors": "Felix Kubler"
+    },
+    {
+      "title": "A Signal Analysis Framework for Unshielded Room-Temperature Magnetocardiography",
+      "id": "2606.29285",
+      "year": "2026",
+      "authors": "Kushal Patel, Kesavaraja C, Pranab Dutta"
+    },
+    {
+      "title": "Deterministic Decisions for High-Stakes AI. A Zero-Egress Pipeline with the Deployability of RAG and the Accuracy of Machine Learning",
+      "id": "2606.29280",
+      "year": "2026",
+      "authors": "Craig Atkinson"
+    },
+    {
+      "title": "When Does Synthetic CT Transfer? A Label-Free Donor/Host Diagnostic for Medical Vision-Language Model Routing on Real Lung CT",
+      "id": "2606.29232",
+      "year": "2026",
+      "authors": "Fakrul Islam Tushar"
+    },
+    {
+      "title": "Can OCR-VLMs Read Devanagari? A Stress-Test Benchmark and Post-Correction Study",
+      "id": "2606.29213",
+      "year": "2026",
+      "authors": "Aditya Pratap Singh"
+    },
+    {
+      "title": "BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis",
+      "id": "2606.29200",
+      "year": "2026",
+      "authors": "Kunyu Zhang, Tianxiang Xu"
+    },
+    {
+      "title": "A Multi-Dataset Benchmark for Evaluating LLM Agents in Microservice Failure Diagnosis",
+      "id": "2606.29193",
+      "year": "2026",
+      "authors": "Yuanhong Cai, Xiaohui Nie, Kanglin Yin"
+    },
+    {
+      "title": "BTI-Net: Bidirectional Decoder-Level Task Interaction via Uncertainty-Aware Gating for Multi-Task Medical Image Analysis",
+      "id": "2606.29102",
+      "year": "2026",
+      "authors": "Abdullah Al Shafi, Md Kawsar Mahmud Khan Zunayed, Safin Ahmmed"
+    },
+    {
+      "title": "W4A4 Quantization for Inference on Wan2.2-I2V-A14B",
+      "id": "2606.29337",
+      "year": "2026",
+      "authors": "Yidong Chen, Chengyu Shi, Jiahao Liu"
+    },
+    {
+      "title": "Private training in quantum machine learning",
+      "id": "2606.29293",
+      "year": "2026",
+      "authors": "Tigran Sedrakyan, Frédéric Grosshans, Elham Kashefi"
+    }
+  ]
+}
