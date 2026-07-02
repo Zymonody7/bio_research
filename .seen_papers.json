@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-06-30T12:00:00",
+  "last_updated": "2026-07-02T09:10:37.031602",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -3062,6 +3062,86 @@
       "date_added": "2026-06-30",
       "direction": "F",
       "title": "Towards generalist foundation model for radiology"
+    },
+    "2603.25322": {
+      "date_added": "2026-07-02",
+      "direction": "B",
+      "title": "AD-CARE: Guideline-grounded LLM Agent for Alzheimer's Diagnosis"
+    },
+    "2606.00610": {
+      "date_added": "2026-07-02",
+      "direction": "B",
+      "title": "MemGraphRAG: Memory-based Multi-Agent System for Graph RAG"
+    },
+    "2606.28332": {
+      "date_added": "2026-07-02",
+      "direction": "C",
+      "title": "MedHarm: High-Risk Medical Safety Benchmark"
+    },
+    "2606.00686": {
+      "date_added": "2026-07-02",
+      "direction": "C",
+      "title": "Dialectics of Alignment: Dynamic Safety Routing"
+    },
+    "2603.02229": {
+      "date_added": "2026-07-02",
+      "direction": "C",
+      "title": "Safety Training Persists Through Helpfulness Optimization"
+    },
+    "2606.09735": {
+      "date_added": "2026-07-02",
+      "direction": "C",
+      "title": "The Neutral Mask: RLHF Shallow Alignment"
+    },
+    "2602.20449": {
+      "date_added": "2026-07-02",
+      "direction": "D",
+      "title": "Protein Language Models Diverge from Natural Language"
+    },
+    "2603.00253": {
+      "date_added": "2026-07-02",
+      "direction": "D",
+      "title": "CoPeP: Benchmarking Continual Pretraining for Protein LMs"
+    },
+    "2603.04045": {
+      "date_added": "2026-07-02",
+      "direction": "D",
+      "title": "Inference-Time Toxicity Mitigation in PLMs"
+    },
+    "2604.08574": {
+      "date_added": "2026-07-02",
+      "direction": "E",
+      "title": "Distilling Genomic Models for mRNA Representation Learning"
+    },
+    "2602.03569": {
+      "date_added": "2026-07-02",
+      "direction": "E",
+      "title": "EHRWorld: Patient-Centric Medical World Model"
+    },
+    "2604.02695": {
+      "date_added": "2026-07-02",
+      "direction": "F",
+      "title": "XrayClaw: Cooperative-Competitive Multi-Agent for CXR"
+    },
+    "2606.02276": {
+      "date_added": "2026-07-02",
+      "direction": "F",
+      "title": "Cross-modal Linkage Risk in Clinical VLMs"
+    },
+    "2606.27500": {
+      "date_added": "2026-07-02",
+      "direction": "F",
+      "title": "Aloe-Vision: Robust VLMs for Healthcare"
+    },
+    "2606.31273": {
+      "date_added": "2026-07-02",
+      "direction": "X",
+      "title": "The Calibration Turn in AI-Assisted Research"
+    },
+    "2606.31085": {
+      "date_added": "2026-07-02",
+      "direction": "X",
+      "title": "DDIAgents: Mechanism-Conditioned DDI Prediction"
     }
   }
 }
