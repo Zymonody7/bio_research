@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-05T09:06:03.124979",
+  "last_updated": "2026-07-06T12:00:00",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -3303,6 +3303,81 @@
       "date_added": "2026-07-05",
       "direction": "X",
       "title": "ILLUME+: Explainable AI for Cancer Drug Response Prediction"
+    },
+    "2607.00972": {
+      "date_added": "2026-07-06",
+      "direction": "B",
+      "title": "Bayesian Uncertainty Propagation for Agentic RAG Pipelines"
+    },
+    "2607.01814": {
+      "date_added": "2026-07-06",
+      "direction": "B",
+      "title": "MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support"
+    },
+    "2607.00870": {
+      "date_added": "2026-07-06",
+      "direction": "B",
+      "title": "Dynamic Bidirectional Pattern Memory"
+    },
+    "2607.01440": {
+      "date_added": "2026-07-06",
+      "direction": "C",
+      "title": "FaithMed: Training LLMs For Faithful Evidence-Based Medical Reasoning"
+    },
+    "2607.01103": {
+      "date_added": "2026-07-06",
+      "direction": "C",
+      "title": "Clinician-Level Agreement Without Clinical Caution"
+    },
+    "2607.00147": {
+      "date_added": "2026-07-06",
+      "direction": "C",
+      "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis"
+    },
+    "2607.01307": {
+      "date_added": "2026-07-06",
+      "direction": "E",
+      "title": "Novel ML Approach for CNS Tumor Classification from DNA Methylation"
+    },
+    "2607.00060": {
+      "date_added": "2026-07-06",
+      "direction": "F",
+      "title": "Synergistic Perception-Reasoning Governance: Grounding Medical MLLMs"
+    },
+    "2607.01908": {
+      "date_added": "2026-07-06",
+      "direction": "F",
+      "title": "Towards Real-World Ultrasound Understanding"
+    },
+    "2607.00260": {
+      "date_added": "2026-07-06",
+      "direction": "F",
+      "title": "Do MLLMs Need Reasoning to Classify Dementia from Speech?"
+    },
+    "2607.02091": {
+      "date_added": "2026-07-06",
+      "direction": "F",
+      "title": "Multimodal Fusion for Fine-Grained Classification of Breast Tumors"
+    },
+    "2607.01982": {
+      "date_added": "2026-07-06",
+      "direction": "X",
+      "title": "MolSight: A Graph-Aware Vision-Language Model"
+    },
+    "2607.01656": {
+      "date_added": "2026-07-06",
+      "direction": "X",
+      "title": "CALM: Interpretable Cross-Modal Alignment"
+    },
+    "2607.01470": {
+      "date_added": "2026-07-06",
+      "direction": "X",
+      "title": "World Feedback for Clinical Agents"
+    },
+    "2607.00464": {
+      "date_added": "2026-07-06",
+      "direction": "X",
+      "title": "MolSafeEval: Benchmark for Safety Risks in AI-Generated Molecules"
     }
   }
 }
