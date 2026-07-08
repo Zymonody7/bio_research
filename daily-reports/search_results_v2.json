@@ -1,0 +1,470 @@
+{
+  "A": [
+    {
+      "id": "2407.05055",
+      "title": "Metagenomic analysis revealed significant changes in cattle rectum microbiome and antimicrobial resistome under fescue toxicosis",
+      "published": "2024-07-06",
+      "summary": "Fescue toxicity causes reduced growth and reproductive issues in cattle grazing endophyte-infected tall fescue. To characterize the gut microbiota and its response to fescue toxicosis, we collected fecal samples before and after a 30-days toxic fescue seeds supplementation from eight Angus Simmental pregnant cows and heifers. We sequenced the 16 metagenomes using the whole-genome shotgun approach and generated 157 Gbp of metagenomic sequences. Through de novo assembly and annotation, we obtained"
+    },
+    {
+      "id": "2311.02029",
+      "title": "MetaTrinity: Enabling Fast Metagenomic Classification via Seed Counting and Edit Distance Approximation",
+      "published": "2023-11-03",
+      "summary": "Metagenomics, the study of genome sequences of diverse organisms cohabiting in a shared environment, has experienced significant advancements across various medical and biological fields. Metagenomic analysis is crucial, for instance, in clinical applications such as infectious disease screening and the diagnosis and early detection of diseases such as cancer. A key task in metagenomics is to determine the species present in a sample and their relative abundances. Currently, the field is dominat"
+    },
+    {
+      "id": "2111.08001",
+      "title": "Metagenome2Vec: Building Contextualized Representations for Scalable Metagenome Analysis",
+      "published": "2021-11-09",
+      "summary": "Advances in next-generation metagenome sequencing have the potential to revolutionize the point-of-care diagnosis of novel pathogen infections, which could help prevent potential widespread transmission of diseases. Given the high volume of metagenome sequences, there is a need for scalable frameworks to analyze and segment metagenome sequences from clinical samples, which can be highly imbalanced. There is an increased need for learning robust representations from metagenome reads since pathoge"
+    },
+    {
+      "id": "2107.09883",
+      "title": "MG-NET: Leveraging Pseudo-Imaging for Multi-Modal Metagenome Analysis",
+      "published": "2021-07-21",
+      "summary": "The emergence of novel pathogens and zoonotic diseases like the SARS-CoV-2 have underlined the need for developing novel diagnosis and intervention pipelines that can learn rapidly from small amounts of labeled data. Combined with technological advances in next-generation sequencing, metagenome-based diagnostic tools hold much promise to revolutionize rapid point-of-care diagnosis. However, there are significant challenges in developing such an approach, the chief among which is to learn self-su"
+    },
+    {
+      "id": "1911.11304",
+      "title": "Metagenomics for clinical diagnostics: technologies and informatics",
+      "published": "2019-11-26",
+      "summary": "The human-associated microbiome is closely tied to human health and is of substantial clinical interest. Metagenomics-based tools are emerging for clinical diagnostics, tracking the spread of diseases, and surveillance of potential pathogens. In some cases, these tools are overcoming limitations of traditional clinical approaches. Metagenomics has limitations barring the tools from clinical validation. Once these hurdles are overcome, clinical metagenomics will inform doctors of the best, target"
+    },
+    {
+      "id": "1901.11015",
+      "title": "GeNet: Deep Representations for Metagenomics",
+      "published": "2019-01-30",
+      "summary": "We introduce GeNet, a method for shotgun metagenomic classification from raw DNA sequences that exploits the known hierarchical structure between labels for training. We provide a comparison with state-of-the-art methods Kraken and Centrifuge on datasets obtained from several sequencing technologies, in which dataset shift occurs. We show that GeNet obtains competitive precision and good recall, with orders of magnitude less memory requirements. Moreover, we show that a linear model trained on t"
+    },
+    {
+      "id": "2607.05317",
+      "title": "Topological Shape Representation for Aneurysm -- Bifurcation Detection",
+      "published": "2026-07-06",
+      "summary": "Automated detection of intracranial aneurysms (IAs) from CT angiography (CTA) is severely hindered by high false-positive rates. Convolutional neural networks (CNNs) rely on local pixel intensities, causing systematic confusion between saccular aneurysms and vascular bifurcations -- a problem especially acute for small lesions (<3 mm), where detection sensitivity falls below 60%. We propose a plug-and-play, topology-aware false-positive reduction framework evaluating the Smooth Euler Characteris"
+    },
+    {
+      "id": "2607.05311",
+      "title": "Deep Learning for Semen Analysis in Male Infertility: Computer Vision, Multimodal Fusion, and Clinical Translation",
+      "published": "2026-07-06",
+      "summary": "Male infertility contributes substantially to the global infertility burden, and sperm analysis remains central to diagnosis, treatment planning, and assisted reproductive technology. Conventional semen evaluation, however, is labor-intensive, operator-dependent, and limited by inter- and intra-observer variability, motivating the development of objective and reproducible computational approaches. This review provides a comprehensive and perspective-oriented synthesis of artificial intelligence-"
+    },
+    {
+      "id": "2607.05310",
+      "title": "Evaluating and Understanding Model Editing for Medical Vision Language Models",
+      "published": "2026-07-06",
+      "summary": "Model editing promises a fast, targeted way to correct post-deployment mistakes in medical vision-language models (VLMs) without costly retraining. However, existing multimodal model editing benchmarks focus on general-purpose tasks and do not reflect realistic clinical domain requirements and variability. To address this, we introduce M3Bench, a clinically grounded benchmark for multimodal model editing that evaluates whether an edit remains reliable, precise, and generalizable under the challe"
+    },
+    {
+      "id": "2607.05306",
+      "title": "Biologically Informed Deep Neural Networks for Multi-Omic Integration, Pathway Activity Inference and Risk Stratification in Cancer",
+      "published": "2026-07-06",
+      "summary": "Integrating complex, multi-omics data presents significant challenges. Existing approaches often face a trade-off between model interpretability and representational capacity, with most either relying on post-hoc interpretation or use linear models that may overlook complex interactions. We report Pathway Activity Autoencoders for the multi-omics setting, which embed prior knowledge via pathway-informed architectural constraints, fostering interpretability, while preserving representational powe"
+    },
+    {
+      "id": "2607.05293",
+      "title": "Doubly robust Methods for Recurrent Event Outcomes: Causal Effects of Blood Pressure Medications on Acute Kidney Injuries",
+      "published": "2026-07-06",
+      "summary": "Evaluating the average causal effects of treatment strategies on recurrent event outcomes, such as heart attacks or renal failure, is important in clinical and medical research. However, the analysis becomes increasingly complex as multiple interacting factors are considered within a longitudinal setting. In this paper, we use advanced methodologies to estimate the average causal effects of standard versus intensive blood pressure-lowering therapies on acute kidney injury recurrences. We address"
+    },
+    {
+      "id": "2607.05282",
+      "title": "Wavelet Scattering Transform for Interpretable Schizophrenia Biomarker Discovery and Classification from Resting-State EEG",
+      "published": "2026-07-06",
+      "summary": "Schizophrenia is a debilitating neuropsychiatric disorder characterized by profound cortical network dysregulation, for which objective, clinically translatable EEG based biomarkers remain underdeveloped. Existing automated classification pipelines rely predominantly on static power spectral density features inherently blind to amplitude modulation dynamics and cross-frequency coupling, phenomena central to schizophrenia pathophysiology, while adopting epoch level cross validation strategies tha"
+    },
+    {
+      "id": "2607.05230",
+      "title": "Video-based detection of cessation of breathing in pre-term infants using machine learning",
+      "published": "2026-07-06",
+      "summary": "Pre-term infants are susceptible to potentially harmful apnoea-related cessations of breathing due to immature respiratory control. However, reliable respiratory monitoring in the neonatal intensive care unit (NICU) remains challenging because motion artefacts, sensor displacement, and skin fragility can compromise contact-based measurements. Non-contact video monitoring offers a complementary approach that does not depend on adhesive sensors while providing additional respiratory information.  "
+    },
+    {
+      "id": "2607.05110",
+      "title": "Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective",
+      "published": "2026-07-06",
+      "summary": "Social robots are increasingly deployed in clinical settings to support the well-being of children, where effective support must be personalized to each child. Personalization, choosing the robot action best suited to each child, can be framed as a recommendation problem, and a recently proposed recommender-system framework for social robots offers a principled approach through user profiling, ranking, and responsible computing. Instantiating it, however, is blocked not by the model but by the d"
+    }
+  ],
+  "B": [
+    {
+      "id": "2603.23520",
+      "title": "From Physician Expertise to Clinical Agents: Preserving, Standardizing, and Scaling Physicians' Medical Expertise with Lightweight LLM",
+      "published": "2026-03-06",
+      "summary": "Medicine is an empirical discipline refined through long-term observation and the messy, high-variance reality of clinical practice. Physicians build diagnostic and therapeutic competence through repeated cycles of application, reflection, and improvement, forming individualized methodologies. Yet outcomes vary widely, and master physicians' knowledge systems are slow to develop and hard to transmit at scale, contributing to the scarcity of high-quality clinical expertise. To address this, we pr"
+    },
+    {
+      "id": "2606.24145",
+      "title": "T2D-Bench: Evidence-Gated Evaluation of LLM Outputs for Type 2 Diabetes Using a Multi-Layer Clinical-Lifestyle Knowledge Graph",
+      "published": "2026-06-23",
+      "summary": "Large language models (LLMs) can produce clinically fluent recommendations for type 2 diabetes while failing to satisfy guideline constraints or explicitly justify lifestyle-related glycemic claims. We present T2D-Bench, a reproducible benchmark and evidence-gated evaluation framework for testing whether LLM outputs satisfy explicit, graph-checkable evidence requirements. T2D-Bench is built on a multi-layer clinical-lifestyle knowledge graph that combines a biomedical spine (UMLS, DrugBank, SIDE"
+    },
+    {
+      "id": "2606.22419",
+      "title": "Knowledge-Graph Grounding Helps LLMs Only for Out-of-Training Knowledge: A Controlled Study on Clinical Question Answering",
+      "published": "2026-06-21",
+      "summary": "A recent Nature Medicine study reports that general-purpose frontier LLMs outperform specialized retrieval-augmented clinical tools on medical benchmarks, and that retrieval can hurt strong models. We ask the natural follow-up: does structured knowledge-graph (KG) grounding change this, and when does grounding help at all? We contribute two results. First, a reproduction: the study's headline HealthBench score (~88) is the Consensus variant, not full HealthBench, where frontier models and ideal "
+    },
+    {
+      "id": "2604.17114",
+      "title": "The Provenance Gap in Clinical AI: Evidence-Traceable Temporal Knowledge Graphs for Rare Disease Reasoning",
+      "published": "2026-04-18",
+      "summary": "Frontier large language models generate clinically accurate outputs, but their citations are often fabricated. We term this the Provenance Gap. We tested five frontier LLMs across 36 clinician-validated scenarios for three rare neuromuscular disease pairs. No model produced a clinically relevant PubMed identifier without prompting. When explicitly asked to cite, the best model achieved 15.3% relevant PMIDs; the majority resolved to real publications in unrelated fields. We present HEG-TKG (Hiera"
+    },
+    {
+      "id": "2603.08321",
+      "title": "CORE-Acu: Structured Reasoning Traces and Knowledge Graph Safety Verification for Acupuncture Clinical Decision Support",
+      "published": "2026-03-09",
+      "summary": "Large language models (LLMs) show significant potential for clinical decision support (CDS), yet their black-box nature -- characterized by untraceable reasoning and probabilistic hallucinations -- poses severe challenges in acupuncture, a field demanding rigorous interpretability and safety. To address this, we propose CORE-Acu, a neuro-symbolic framework for acupuncture clinical decision support that integrates Structured Chain-of-Thought (S-CoT) with knowledge graph (KG) safety verification. "
+    },
+    {
+      "id": "2512.05256",
+      "title": "Enhancing Clinical Note Generation with ICD-10, Clinical Ontology Knowledge Graphs, and Chain-of-Thought Prompting Using GPT-4",
+      "published": "2025-12-04",
+      "summary": "In the past decade a surge in the amount of electronic health record (EHR) data in the United States, attributed to a favorable policy environment created by the Health Information Technology for Economic and Clinical Health (HITECH) Act of 2009 and the 21st Century Cures Act of 2016. Clinical notes for patients' assessments, diagnoses, and treatments are captured in these EHRs in free-form text by physicians, who spend a considerable amount of time entering and editing them. Manually writing cl"
+    },
+    {
+      "id": "2606.29580",
+      "title": "MAM-AI: An On-Device Medical Retrieval-Augmented Generation System for Nurses and Midwives in Zanzibar",
+      "published": "2026-06-28",
+      "summary": "Maternal and newborn mortality remain among the highest in sub-Saharan Africa, where midwifery care is often delivered by nurses who lack midwifery training to international standards, and consulting authoritative guidance at the point of care is hard: the guidelines are long and connectivity is intermittent. We present MAM-AI, a medical question-answering assistant for nurse-midwives in Zanzibar that runs entirely on a commodity Android device: a question is embedded (EmbeddingGemma, 300M) and "
+    },
+    {
+      "id": "2606.29467",
+      "title": "mamabench and mamaretrieval: Benchmarks for Evaluating Medical Retrieval-Augmented Generation in Maternal, Neonatal, and Reproductive Health",
+      "published": "2026-06-28",
+      "summary": "Medical question-answering benchmarks rarely cover the maternal, neonatal, child, and reproductive-health questions a nurse-midwife asks, and, to our knowledge, no public chunk-level relevance benchmark exists for maternal-health guideline retrieval. We release two benchmarks that fill these gaps. mamabench is a scope-filtered QA set of 25,949 items assembled from seven existing expert-authored sources across multiple-choice, short-answer, and rubric-graded tracks; to help users calibrate the LL"
+    },
+    {
+      "id": "2605.21949",
+      "title": "Claim-Selective Certification for High-Risk Medical Retrieval-Augmented Generation",
+      "published": "2026-05-21",
+      "summary": "Medical RAG systems in high-risk QA settings are often evaluated through a single answer-or-abstain decision, but mixed evidence may support one claim, require conditions for another, and contradict a third. We study claim-selective certification: each response is decomposed into verifiable claims, scored against retrieved evidence, and mapped by an intent-aware selector to {full, partial, conflict, abstain}. On the primary weak-label certificate protocol, whose real-source-only dev/test rows co"
+    },
+    {
+      "id": "2605.10253",
+      "title": "Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation",
+      "published": "2026-05-11",
+      "summary": "Retrieval-augmented generation (RAG) is a widely adopted paradigm for enhancing LLMs in medical applications by incorporating expert multimodal knowledge during generation. However, the underlying retrieval databases may naturally contain, or be intentionally injected with, adversarial knowledge, which can perturb model outputs and undermine system reliability. To investigate this risk, prior studies have explored knowledge poisoning attacks in medical RAG systems. Nevertheless, most of them rel"
+    },
+    {
+      "id": "2604.27724",
+      "title": "Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering",
+      "published": "2026-04-30",
+      "summary": "Medical retrieval-augmented generation (RAG) systems typically operate on text chunks extracted from biomedical literature, discarding the rich visual content (tables, figures, structured layouts) of original document pages. We propose MED-VRAG, an iterative multimodal RAG framework that retrieves and reasons over PMC document page images instead of OCR'd text. The system pairs ColQwen2.5 patch-level page embeddings with a sharded MapReduce LLM filter, scaling to ~350K pages while keeping Stage-"
+    },
+    {
+      "id": "2604.23801",
+      "title": "Domain Fine-Tuning vs. Retrieval-Augmented Generation for Medical Multiple-Choice Question Answering: A Controlled Comparison at the 4B-Parameter Scale",
+      "published": "2026-04-26",
+      "summary": "Practitioners deploying small open-weight large language models (LLMs) for medical question answering face a recurring design choice: invest in a domain-fine-tuned model, or keep a general-purpose model and inject domain knowledge at inference time via retrieval-augmented generation (RAG). We isolate this trade-off by holding model size, prompt template, decoding temperature, retrieval pipeline, and evaluation protocol fixed, and varying only (i) whether the model has been domain-adapted (Gemma "
+    },
+    {
+      "id": "2604.17360",
+      "title": "T-DuMpRa: Teacher-guided Dual-path Multi-prototype Retrieval Augmented framework for fine-grained medical image classification",
+      "published": "2026-04-19",
+      "summary": "Fine-grained medical image classification is challenged by subtle inter-class variations and visually ambiguous cases, where confidence estimates often exhibit uncertainty rather than being overconfident. In such scenarios, purely discriminative classifiers may achieve high overall accuracy yet still fail to distinguish between highly similar categories, leading to miscalibrated predictions. We propose T-DuMpRa, a teacher-guided dual-path multi-prototype retrieval-augmented framework, where disc"
+    },
+    {
+      "id": "2606.16337",
+      "title": "Medical Heuristic Learning: An LLM-Driven Framework for Interpretable and Auditable Clinical Decision Rules",
+      "published": "2026-06-15",
+      "summary": "Predictive modeling for clinical decision support requires not only strong predictive performance but also transparent decision logic. Although deep learning and tree-based ensemble methods can achieve high accuracy, their black-box nature remains a major obstacle to clinical deployment. This challenge is further compounded by common characteristics of medical data, including limited sample sizes, severe class imbalance, and feature evolution arising from changes in diagnostic criteria and clini"
+    },
+    {
+      "id": "2605.30637",
+      "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+      "published": "2026-05-28",
+      "summary": "Clinical decision-making (CDM) is central to real-world clinical workflows, where clinicians infer diagnoses, select treatments, or anticipate future health outcomes under incomplete evidence. LLMs are increasingly used to support these decisions due to strong language capabilities, broad biomedical knowledge, and efficiency, yet the reliability of LLMs on real-world clinical decision tasks remains insufficiently understood. To evaluate CDM models, especially LLM-based models, an ideal and pract"
+    },
+    {
+      "id": "2602.22771",
+      "title": "ClinDet-Bench: Beyond Abstention, Evaluating Judgment Determinability of LLMs in Clinical Decision-Making",
+      "published": "2026-02-26",
+      "summary": "Clinical decisions are often required under incomplete information. Clinical experts must identify whether available information is sufficient for judgment, as both premature conclusion and unnecessary abstention can compromise patient safety. To evaluate this capability of large language models (LLMs), we developed ClinDet-Bench, a benchmark based on clinical scoring systems that decomposes incomplete-information scenarios into determinable and undeterminable conditions. Identifying determinabi"
+    },
+    {
+      "id": "2601.03266",
+      "title": "Benchmarking and Adapting On-Device LLMs for Clinical Decision Support",
+      "published": "2025-12-18",
+      "summary": "Large language models (LLMs) have rapidly advanced in clinical decision-making, yet the deployment of proprietary systems is hindered by privacy concerns and reliance on cloud-based infrastructure. Open-source alternatives allow local inference but often have large model sizes that limit their use in resource-constrained clinical settings. Here, we benchmark on-device LLMs from the gpt-oss (20b, 120b), Qwen3.5 (9B, 27B, 35B), and Gemma 4 (31B) families across three representative clinical tasks:"
+    },
+    {
+      "id": "2511.06592",
+      "title": "MedVoiceBias: A Controlled Study of Audio LLM Behavior in Clinical Decision-Making",
+      "published": "2025-11-10",
+      "summary": "As large language models transition from text-based interfaces to audio interactions in clinical settings, they might introduce new vulnerabilities through paralinguistic cues in audio. We evaluated these models on 170 clinical cases, each synthesized into speech from 36 distinct voice profiles spanning variations in age, gender, and emotion. Our findings reveal a severe modality bias: surgical recommendations for audio inputs varied by as much as 35% compared to identical text-based inputs, wit"
+    },
+    {
+      "id": "2510.20001",
+      "title": "Beyond MedQA: Towards Real-world Clinical Decision Making in the Era of LLMs",
+      "published": "2025-10-22",
+      "summary": "Large language models (LLMs) show promise for clinical use. They are often evaluated using datasets such as MedQA. However, Many medical datasets, such as MedQA, rely on simplified Question-Answering (Q\\A) that underrepresents real-world clinical decision-making. Based on this, we propose a unifying paradigm that characterizes clinical decision-making tasks along two dimensions: Clinical Backgrounds and Clinical Questions. As the background and questions approach the real clinical environment, t"
+    },
+    {
+      "id": "2510.01363",
+      "title": "Retrieval-Augmented Framework for LLM-Based Clinical Decision Support",
+      "published": "2025-10-01",
+      "summary": "The increasing complexity of clinical decision-making, alongside the rapid expansion of electronic health records (EHR), presents both opportunities and challenges for delivering data-informed care. This paper proposes a clinical decision support system powered by Large Language Models (LLMs) to assist prescribing clinicians. The system generates therapeutic suggestions by analyzing historical EHR data, including patient demographics, presenting complaints, clinical symptoms, diagnostic informat"
+    },
+    {
+      "id": "2506.13800",
+      "title": "Enhancing Clinical Decision Support and EHR Insights through LLMs and the Model Context Protocol: An Open-Source MCP-FHIR Framework",
+      "published": "2025-06-13",
+      "summary": "Enhancing clinical decision support (CDS), reducing documentation burdens, and improving patient health literacy remain persistent challenges in digital health. This paper presents an open-source, agent-based framework that integrates Large Language Models (LLMs) with HL7 FHIR data via the Model Context Protocol (MCP) for dynamic extraction and reasoning over electronic health records (EHRs). Built on the established MCP-FHIR implementation, the framework enables declarative access to diverse FH"
+    },
+    {
+      "id": "2605.27194",
+      "title": "Not All Tokens Matter Equally: Dynamic In-context Vector Distillation with Decisive-Token Supervision for Long-form Medical Report Generation",
+      "published": "2026-05-26",
+      "summary": "Distilling demonstration effects into hidden-space interventions offers a lightweight alternative to full finetuning. However, existing multimodal variants are mostly evaluated on short-form tasks, where outputs end after a few tokens. Extending these methods to long-form generation exposes a fundamental yet underexamined limitation: token-level distillation implicitly treats all output tokens as equally informative, but long-form outputs are dominated by high-frequency template and grammatical "
+    },
+    {
+      "id": "2605.02376",
+      "title": "Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation",
+      "published": "2026-05-04",
+      "summary": "Automated medical report generation, MRG, holds substantial value for alleviating radiologist workload and enhancing diagnostic efficiency. However, mainstream approaches typically treat diverse chest abnormalities as isolated classification targets. This paradigm often overlooks inherent disease co-occurrences and struggles to translate medical topological structures into explicit data correlations, constraining the model's reasoning capacity on complex or subtle lesions. To address this, we pr"
+    },
+    {
+      "id": "2604.21082",
+      "title": "Weighting What Matters: Boosting Sample Efficiency in Medical Report Generation via Token Reweighting",
+      "published": "2026-04-22",
+      "summary": "Training vision-language models (VLMs) for medical report generation is often hindered by the scarcity of high-quality annotated data. This work evaluates the use of a weighted loss function to improve data efficiency. Compared to standard cross-entropy loss, which treats all token prediction errors equally, the reweighted loss shifts the focus to semantically salient tokens with outsized clinical importance. In experiments on ophthalmological report generation, we show that this simple method i"
+    },
+    {
+      "id": "2604.17209",
+      "title": "DREAM: Dynamic Retinal Enhancement with Adaptive Multi-modal Fusion for Expert Precision Medical Report Generation",
+      "published": "2026-04-19",
+      "summary": "Automating medical reports for retinal images requires a sophisticated blend of visual pattern recognition and deep clinical knowledge. Current Large Vision-Language Models (LVLMs) often struggle in specialized medical fields where data is scarce, leading to models that overfit and miss subtle but critical pathologies. To address this, we introduce DREAM (Dynamic Retinal Enhancement with Adaptive Multi-modal Fusion), a novel framework for high-fidelity medical report generation that excels even "
+    },
+    {
+      "id": "2604.10410",
+      "title": "CWCD: Category-Wise Contrastive Decoding for Structured Medical Report Generation",
+      "published": "2026-04-12",
+      "summary": "Interpreting chest X-rays is inherently challenging due to the overlap between anatomical structures and the subtle presentation of many clinically significant pathologies, making accurate diagnosis time-consuming even for experienced radiologists. Recent radiology-focused foundation models, such as LLaVA-Rad and Maira-2, have positioned multi-modal large language models (MLLMs) at the forefront of automated radiology report generation (RRG). However, despite these advances, current foundation m"
+    },
+    {
+      "id": "2603.00426",
+      "title": "LLM-Bootstrapped Targeted Finding Guidance for Factual MLLM-based Medical Report Generation",
+      "published": "2026-02-28",
+      "summary": "The automatic generation of medical reports utilizing Multimodal Large Language Models (MLLMs) frequently encounters challenges related to factual instability, which may manifest as the omission of findings or the incorporation of inaccurate information, thereby constraining their applicability in clinical settings. Current methodologies typically produce reports based directly on image features, which inherently lack a definitive factual basis. In response to this limitation, we introduce Fact-"
+    },
+    {
+      "id": "2602.19668",
+      "title": "Personalized Longitudinal Medical Report Generation via Temporally-Aware Federated Adaptation",
+      "published": "2026-02-23",
+      "summary": "Longitudinal medical report generation is clinically important yet remains challenging due to strict privacy constraints and the evolving nature of disease progression. Although federated learning (FL) enables collaborative training without data sharing, existing FL methods largely overlook longitudinal dynamics by assuming stationary client distributions, making them unable to model temporal shifts across visits or patient-specific heterogeneity-ultimately leading to unstable optimization and s"
+    },
+    {
+      "id": "2601.15745",
+      "title": "Hallucination Mitigating for Medical Report Generation",
+      "published": "2026-01-22",
+      "summary": "In the realm of medical report generation (MRG), the integration of natural language processing has emerged as a vital tool to alleviate the workload of radiologists. Despite the impressive capabilities demonstrated by large vision language models (LVLMs) in understanding natural language, their susceptibility to generating plausible yet inaccurate claims, known as ``hallucinations'', raises concerns-especially in the nuanced and critical field of medical. In this work, we introduce a framework,"
+    }
+  ],
+  "C": [
+    {
+      "id": "2604.17282",
+      "title": "MedPRMBench: A Fine-grained Benchmark for Process Reward Models in Medical Reasoning",
+      "published": "2026-04-19",
+      "summary": "Process-Level Reward Models (PRMs) are essential for guiding complex reasoning in large language models, yet existing PRM benchmarks cover only general domains such as mathematics, failing to address medical reasoning -- which is uniquely characterized by safety criticality, knowledge intensity, and diverse error patterns. Without a reliable medical PRM evaluation framework, we cannot quantify models' error detection capabilities in clinical reasoning, leaving their safety in real-world healthca"
+    },
+    {
+      "id": "2508.21430",
+      "title": "Med-RewardBench: Benchmarking Reward Models and Judges for Medical Multimodal Large Language Models",
+      "published": "2025-08-29",
+      "summary": "Multimodal large language models (MLLMs) hold significant potential in medical applications, including disease diagnosis and clinical decision-making. However, these tasks require highly accurate, context-sensitive, and professionally aligned responses, making reliable reward models and judges critical. Despite their importance, medical reward models (MRMs) and judges remain underexplored, with no dedicated benchmarks addressing clinical requirements. Existing benchmarks focus on general MLLM ca"
+    }
+  ],
+  "D": [
+    {
+      "id": "2409.06090",
+      "title": "AbGPT: De Novo Antibody Design via Generative Language Modeling",
+      "published": "2024-09-09",
+      "summary": "The adaptive immune response, largely mediated by B-cell receptors (BCRs), plays a crucial role for effective pathogen neutralization due to its diversity and antigen specificity. Designing BCRs de novo, or from scratch, has been challenging because of their complex structure and diverse binding requirements. Protein language models (PLMs) have shown remarkable performance in contextualizing and performing various downstream tasks without relying on structural information. However, these models "
+    },
+    {
+      "id": "2301.02748",
+      "title": "Generative Antibody Design for Complementary Chain Pairing Sequences through Encoder-Decoder Language Model",
+      "published": "2023-01-06",
+      "summary": "Current protein language models (pLMs) predominantly focus on single-chain protein sequences and often have not accounted for constraints on generative design imposed by protein-protein interactions. To address this gap, we present paired Antibody T5 (pAbT5), an encoder-decoder model to generate complementary heavy or light chain from its pairing partner. We show that our model respects conservation in framework regions and variability in hypervariable domains, demonstrated by agreement with seq"
+    },
+    {
+      "id": "2511.19184",
+      "title": "Torsion-Space Diffusion for Protein Backbone Generation with Geometric Refinement",
+      "published": "2025-11-24",
+      "summary": "Designing new protein structures is fundamental to computational biology, enabling advances in therapeutic molecule discovery and enzyme engineering. Existing diffusion-based generative models typically operate in Cartesian coordinate space, where adding noise disrupts strict geometric constraints such as fixed bond lengths and angles, often producing physically invalid structures. To address this limitation, we propose a Torsion-Space Diffusion Model that generates protein backbones by denoisin"
+    },
+    {
+      "id": "2511.09529",
+      "title": "SiDGen: Structure-informed Diffusion for Generative modeling of Ligands for Proteins",
+      "published": "2025-11-12",
+      "summary": "Structure-based drug design (SBDD) faces a fundamental scaling fidelity dilemma: rich pocket-aware conditioning captures interaction geometry but can be costly, often scales quadratically ($O(L^2)$) or worse with protein length ($L$), while efficient sequence-only conditioning can miss key interaction structure. We propose SiDGen, a structure-informed discrete diffusion framework that resolves this trade-off through a Topological Information Bottleneck (TIB). SiDGen leverages a learned, soft ass"
+    },
+    {
+      "id": "2511.04984",
+      "title": "Peptide2Mol: A Diffusion Model for Generating Small Molecules as Peptide Mimics for Targeted Protein Binding",
+      "published": "2025-11-07",
+      "summary": "Structure-based drug design has seen significant advancements with the integration of artificial intelligence (AI), particularly in the generation of hit and lead compounds. However, most AI-driven approaches neglect the importance of endogenous protein interactions with peptides, which may result in suboptimal molecule designs. In this work, we present Peptide2Mol, an E(3)-equivariant graph neural network diffusion model that generates small molecules by referencing both the original peptide bi"
+    },
+    {
+      "id": "2508.16587",
+      "title": "HemePLM-Diffuse: A Scalable Generative Framework for Protein-Ligand Dynamics in Large Biomolecular System",
+      "published": "2025-08-07",
+      "summary": "Comprehending the long-timescale dynamics of protein-ligand complexes is very important for drug discovery and structural biology, but it continues to be computationally challenging for large biomolecular systems. We introduce HemePLM-Diffuse, an innovative generative transformer model that is designed for accurate simulation of protein-ligand trajectories, inpaints the missing ligand fragments, and sample transition paths in systems with more than 10,000 atoms. HemePLM-Diffuse has features of S"
+    },
+    {
+      "id": "2507.18603",
+      "title": "Demystify Protein Generation with Hierarchical Conditional Diffusion Models",
+      "published": "2025-07-24",
+      "summary": "Generating novel and functional protein sequences is critical to a wide range of applications in biology. Recent advancements in conditional diffusion models have shown impressive empirical performance in protein generation tasks. However, reliable generations of protein remain an open research question in de novo protein design, especially when it comes to conditional diffusion models. Considering the biological function of a protein is determined by multi-level structures, we propose a novel m"
+    },
+    {
+      "id": "2506.17064",
+      "title": "Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings",
+      "published": "2025-06-20",
+      "summary": "Generating diverse, all-atom conformational ensembles of dynamic proteins such as G-protein-coupled receptors (GPCRs) is critical for understanding their function, yet most generative models simplify atomic detail or ignore conformational diversity altogether. We present latent diffusion for full protein generation (LD-FPG), a framework that constructs complete all-atom protein structures, including every side-chain heavy atom, directly from molecular dynamics (MD) trajectories. LD-FPG employs a"
+    },
+    {
+      "id": "2506.08293",
+      "title": "Diffusion Sequence Models for Enhanced Protein Representation and Generation",
+      "published": "2025-06-09",
+      "summary": "Proteins are fundamental to biology, executing diverse functions through complex physicochemical interactions, and they hold transformative potential across medicine, materials science, and environmental applications. Protein Language Models (pLMs) aim to unlock insights from the vast space of unlabeled protein sequences by learning rich, semantic representations from primary sequences via masked language modeling. However, these models typically exhibit limited generative capacity. In this work"
+    },
+    {
+      "id": "2505.22869",
+      "title": "CFP-Gen: Combinatorial Functional Protein Generation via Diffusion Language Models",
+      "published": "2025-05-28",
+      "summary": "Existing PLMs generate protein sequences based on a single-condition constraint from a specific modality, struggling to simultaneously satisfy multiple constraints across different modalities. In this work, we introduce CFP-Gen, a novel diffusion language model for Combinatorial Functional Protein GENeration. CFP-Gen facilitates the de novo protein design by integrating multimodal conditions with functional, sequence, and structural constraints. Specifically, an Annotation-Guided Feature Modulat"
+    }
+  ],
+  "E": [
+    {
+      "id": "2507.21706",
+      "title": "EnTao-GPM: DNA Foundation Model for Predicting the Germline Pathogenic Mutations",
+      "published": "2025-07-29",
+      "summary": "Distinguishing pathogenic mutations from benign polymorphisms remains a critical challenge in precision medicine. EnTao-GPM, developed by Fudan University and BioMap, addresses this through three innovations: (1) Cross-species targeted pre-training on disease-relevant mammalian genomes (human, pig, mouse), leveraging evolutionary conservation to enhance interpretation of pathogenic motifs, particularly in non-coding regions; (2) Germline mutation specialization via fine-tuning on ClinVar and HGM"
+    },
+    {
+      "id": "2502.18405",
+      "title": "Enhancing DNA Foundation Models to Address Masking Inefficiencies",
+      "published": "2025-02-25",
+      "summary": "Masked language modelling (MLM) as a pretraining objective has been widely adopted in genomic sequence modelling. While pretrained models can successfully serve as encoders for various downstream tasks, the distribution shift between pretraining and inference detrimentally impacts performance, as the pretraining task is to map [MASK] tokens to predictions, yet the [MASK] is absent during downstream applications. This means the encoder does not prioritize its encodings of non-[MASK] tokens, and e"
+    },
+    {
+      "id": "2502.18538",
+      "title": "Revisiting Convolution Architecture in the Realm of DNA Foundation Models",
+      "published": "2025-02-25",
+      "summary": "In recent years, a variety of methods based on Transformer and state space model (SSM) architectures have been proposed, advancing foundational DNA language models. However, there is a lack of comparison between these recent approaches and the classical architecture convolutional networks (CNNs) on foundation model benchmarks. This raises the question: are CNNs truly being surpassed by these recent approaches based on transformer and SSM architectures? In this paper, we develop a simple but well"
+    },
+    {
+      "id": "2310.07644",
+      "title": "Toward Understanding BERT-Like Pre-Training for DNA Foundation Models",
+      "published": "2023-10-11",
+      "summary": "With the success of large-scale pre-training in language tasks, there is an increasing trend of applying it to the domain of life sciences. In particular, pre-training methods based on DNA sequences have received increasing attention because of their potential to capture general information about genes. However, existing pre-training methods for DNA sequences largely rely on direct adoptions of BERT pre-training from NLP, lacking a comprehensive understanding and a specifically tailored approach"
+    },
+    {
+      "id": "2604.21690",
+      "title": "Evaluating Post-hoc Explanations of the Transformer-based Genome Language Model DNABERT-2",
+      "published": "2026-04-23",
+      "summary": "Explaining deep neural network predictions on genome sequences enables biological insight and hypothesis generation-often of greater interest than predictive performance alone. While explanations of convolutional neural networks (CNNs) have been shown to capture relevant patterns in genome sequences, it is unclear whether this transfers to more expressive Transformer-based genome language models (gLMs). To answer this question, we adapt AttnLRP, an extension of layer-wise relevance propagation t"
+    },
+    {
+      "id": "2509.25274",
+      "title": "DNABERT-2: Fine-Tuning a Genomic Language Model for Colorectal Gene Enhancer Classification",
+      "published": "2025-09-28",
+      "summary": "Gene enhancers control when and where genes switch on, yet their sequence diversity and tissue specificity make them hard to pinpoint in colorectal cancer. We take a sequence-only route and fine-tune DNABERT-2, a transformer genomic language model that uses byte-pair encoding to learn variable-length tokens from DNA. Using assays curated via the Johnston Cancer Research Centre at Queen's University Belfast, we assembled a balanced corpus of 2.34 million 1 kb enhancer sequences, applied summit-ce"
+    },
+    {
+      "id": "2506.10271",
+      "title": "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences",
+      "published": "2025-06-12",
+      "summary": "Genomic language models (gLMs) hold promise for generating novel, functional DNA sequences for synthetic biology. However, realizing this potential requires models to go beyond evolutionary plausibility and understand how DNA sequence encodes gene expression and regulation. We introduce a benchmark called Nullsettes, which assesses how well models can predict in silico loss-of-function (LOF) mutations, in synthetic expression cassettes with little evolutionary precedent. Testing 12 state-of-the-"
+    },
+    {
+      "id": "2504.00020",
+      "title": "Celler:A Genomic Language Model for Long-Tailed Single-Cell Annotation",
+      "published": "2025-03-28",
+      "summary": "Recent breakthroughs in single-cell technology have ushered in unparalleled opportunities to decode the molecular intricacy of intricate biological systems, especially those linked to diseases unique to humans. However, these progressions have also ushered in novel obstacles-specifically, the efficient annotation of extensive, long-tailed single-cell data pertaining to disease conditions. To effectively surmount this challenge, we introduce Celler, a state-of-the-art generative pre-training mode"
+    },
+    {
+      "id": "2503.03773",
+      "title": "A Phylogenetic Approach to Genomic Language Modeling",
+      "published": "2025-03-04",
+      "summary": "Genomic language models (gLMs) have shown mostly modest success in identifying evolutionarily constrained elements in mammalian genomes. To address this issue, we introduce a novel framework for training gLMs that explicitly models nucleotide evolution on phylogenetic trees using multispecies whole-genome alignments. Our approach integrates an alignment into the loss function during training but does not require it for making predictions, thereby enhancing the model's applicability. We applied t"
+    }
+  ],
+  "F": [
+    {
+      "id": "2604.16333",
+      "title": "A Discordance-Aware Multimodal Framework with Multi-Agent Clinical Reasoning",
+      "published": "2026-03-12",
+      "summary": "Knee osteoarthritis frequently exhibits discordance between structural damage observed in imaging and patient-reported symptoms such as pain. This mismatch complicates clinical interpretation and patient stratification and remains insufficiently modeled in existing decision support systems. We propose a discordance aware multimodal framework that combines machine learning prediction models with a tool grounded multi agent reasoning system. Using baseline data from the FNIH Osteoarthritis Biomark"
+    },
+    {
+      "id": "2604.09596",
+      "title": "DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings",
+      "published": "2026-03-06",
+      "summary": "Dermatologic diseases impose a large and growing global burden, affecting billions and substantially reducing quality of life. While modern therapies can rapidly control acute symptoms, long-term outcomes are often limited by single-target paradigms, recurrent courses, and insufficient attention to systemic comorbidities. Traditional Chinese medicine (TCM) provides a complementary holistic approach via syndrome differentiation and individualized treatment, but practice is hindered by non-standar"
+    },
+    {
+      "id": "2602.19502",
+      "title": "Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark",
+      "published": "2026-02-23",
+      "summary": "Agentic AI systems are increasingly capable of autonomous data science workflows, yet clinical prediction tasks demand domain expertise that purely automated approaches struggle to provide. We investigate how human guidance of agentic AI can improve multimodal clinical prediction, presenting our approach to all three AgentDS Healthcare benchmark challenges: 30-day hospital readmission prediction (Macro-F1 = 0.8986), emergency department cost forecasting (MAE = $465.13), and discharge readiness a"
+    },
+    {
+      "id": "2511.09394",
+      "title": "EyeAgent: An Agentic AI System for Multimodal Clinical Decision Support in Ophthalmology",
+      "published": "2025-11-12",
+      "summary": "Artificial intelligence has shown promise in medical imaging, yet most existing systems lack flexibility, interpretability, and adaptability - challenges especially pronounced in ophthalmology, where diverse imaging modalities are essential. We present EyeAgent, the first agentic AI framework for comprehensive and interpretable clinical decision support in ophthalmology. Using a large language model (DeepSeek-V3) as its central reasoning engine, EyeAgent interprets user queries and dynamically o"
+    },
+    {
+      "id": "2509.24314",
+      "title": "MedMMV: A Controllable Multimodal Multi-Agent Framework for Reliable and Verifiable Clinical Reasoning",
+      "published": "2025-09-29",
+      "summary": "Recent progress in multimodal large language models (MLLMs) has demonstrated promising performance on medical benchmarks and in preliminary trials as clinical assistants. Yet, our pilot audit of diagnostic cases uncovers a critical failure mode: instability in early evidence interpretation precedes hallucination, creating branching reasoning trajectories that cascade into globally inconsistent conclusions. This highlights the need for clinical reasoning agents that constrain stochasticity and ha"
+    },
+    {
+      "id": "2607.03853",
+      "title": "CogRad: A Cognitively-Inspired Multi-Agent Framework for Radiology Report Generation",
+      "published": "2026-07-04",
+      "summary": "Automated radiology report generation (RRG) can ease radiologist workload, yet most existing systems produce a report in a single forward pass, with no mechanism to check a claim against the image or revisit a finding once stated. We present CogRad, a cognitively inspired multi-agent framework that structures generation around four stages of a radiologist's reading process. A Scout agent discovers anatomical regions directly from image patches via slot attention and assigns region and disease-le"
+    },
+    {
+      "id": "2606.31099",
+      "title": "Seeing Through Multiple Views: Parameter-Efficient Fine-Tuning via Selective Neurons for Consistent Radiology Report Generation",
+      "published": "2026-06-30",
+      "summary": "Recent years have seen substantial advances in radiology report generation (RRG), yet existing approaches predominantly adopt direct feature fusion when handling multi-view X-ray images. Such approaches overlook the potential clinical inconsistencies and inaccuracies arising when a single model processes different views, adversely impacting performance and clinical reliability. To this end, we introduce View-PNDF (View-specific Pattern Neuron Detection and Fine-tuning), a parameter-efficient fra"
+    },
+    {
+      "id": "2606.30201",
+      "title": "SHOVIR: A Benchmark for Evaluating Vision Shortcut Learning in Radiology Report Generation",
+      "published": "2026-06-29",
+      "summary": "Current evaluation protocols for Vision-Language Models (VLMs) in Radiology Report Generation (RRG) rely on report-level metrics that measure lexical overlap or aggregate clinical correctness. However, such metrics do not test whether individual diagnostic statements stem from the actual pathological evidence visible in the image. This allows models to achieve competitive scores by exploiting learned priors or spurious correlations, a failure mode we refer to as vision shortcut. We introduce SHO"
+    },
+    {
+      "id": "2606.21447",
+      "title": "Precision Recall Controllable Radiology Report Generation via Hybrid Natural Language and Clinical Reward Learning",
+      "published": "2026-06-19",
+      "summary": "Automated radiology report generation (RRG) has gained increasing attention because it can reduce the heavy workload of clinical report writing. However, most existing methods mainly optimize for natural language generation (NLG) metrics that focus on language fluency, while providing little control over clinically important factors such as precision and recall. As consequence, generated reports may be fluent but not well aligned with different clinical needs. To address this challenge, we propo"
+    },
+    {
+      "id": "2606.02035",
+      "title": "RL-ACRGNet: Reinforcement Learning-Based Chest Radiology Report Generation Network",
+      "published": "2026-06-01",
+      "summary": "Medical imaging interpretation is a foundational pillar of modern clinical diagnostics, yet the manual generation of radiology reports remains a time-consuming process prone to interpretation inconsistencies. Within the field of medical AI, automating these descriptions through deep learning promises to streamline clinical workflows and standardise diagnostic output. However, accurate disease detection and precise report generation remain significant challenges due to limitations in capturing fi"
+    },
+    {
+      "id": "2606.00440",
+      "title": "SDR: Set-Distance Rewards for Radiology Report Generation",
+      "published": "2026-05-30",
+      "summary": "Reinforcement learning with verifiable rewards has rapidly advanced reasoning in vision--language models. However, for chest X-ray report generation, the standard rewards (i.e. exact-match accuracy and step-level processes) are incompatible because the reports consist of unordered and orthogonal findings, rather than a causal reasoning chain. We address this gap with a set-based view: each report is split into sentences and embedded by a frozen sentence transformer, yielding unordered embedding "
+    },
+    {
+      "id": "2605.22635",
+      "title": "The Double Dilemma in Multi-Task Radiology Report Generation: A Gradient Dynamics Analysis and Solution",
+      "published": "2026-05-21",
+      "summary": "While multi-task learning based automatic radiology report generation (RRG) is widely adopted to ensure clinical consistency, most focus on architectural designs yet remain limited to coarse linear scalarization strategies. These strategies cannot effectively balance the hard constraints of discriminative clinical supervision with the smoothness requirements of report generation. To address these problems, we analyze the failure mechanism of linear scalarization from the perspective of gradient "
+    }
+  ]
+}
