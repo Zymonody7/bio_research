@@ -1,6 +1,6 @@
 {
     "description": "Tracked paper IDs for deduplication across daily reports",
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "papers": {
         "10.3389/fmicb.2025.1634194": {
             "date_added": "2025-05-17",
@@ -952,7 +952,7 @@
         "2603.03292": {
             "date_added": "2026-06-01",
             "direction": "B",
-            "title": "MA-RAG: From Conflict to Consensus — Boosting Medical Reasoning via Multi-Round Agentic RAG"
+            "title": "MA-RAG: From Conflict to Consensus \u2014 Boosting Medical Reasoning via Multi-Round Agentic RAG"
         },
         "2602.03305": {
             "date_added": "2026-06-01",
@@ -1397,7 +1397,7 @@
         "2604.28011": {
             "date_added": "2026-06-08",
             "direction": "F",
-            "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound"
+            "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound"
         },
         "2606.07342": {
             "date_added": "2026-06-08",
@@ -2382,7 +2382,7 @@
         "10.1002/mdr2.70039": {
             "date_added": "2026-06-23",
             "direction": "B",
-            "title": "RSA‐KG: A Graph‐Based Rag Enhanced AI Knowledge Graph for Recurrent Spontaneous Abortions Diagnosis and Clinical Decision Support"
+            "title": "RSA\u2010KG: A Graph\u2010Based Rag Enhanced AI Knowledge Graph for Recurrent Spontaneous Abortions Diagnosis and Clinical Decision Support"
         },
         "10.1109/GCAT66372.2025.11368379": {
             "date_added": "2026-06-23",
@@ -3568,6 +3568,81 @@
             "date_added": "2026-07-09",
             "direction": "X",
             "title": "MIMIC: A Generative Multimodal Foundation Model for Biomolecules"
+        },
+        "2025.12.08.692896": {
+            "date_added": "2026-07-10",
+            "direction": "A",
+            "title": "Sputum Respiratory Pathogen Genomic Surveillance: A Practical Approach for Long-Read Metagenomic Sequencing"
+        },
+        "2026.05.03.722517": {
+            "date_added": "2026-07-10",
+            "direction": "A",
+            "title": "Evaluating Reference-Independent Pipelines for the Detection of Spreading Organisms in Metagenomic Datasets"
+        },
+        "2504.21252": {
+            "date_added": "2026-07-10",
+            "direction": "B",
+            "title": "Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA"
+        },
+        "2505.20096": {
+            "date_added": "2026-07-10",
+            "direction": "B",
+            "title": "MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning"
+        },
+        "2602.01002": {
+            "date_added": "2026-07-10",
+            "direction": "C",
+            "title": "How RLHF Amplifies Sycophancy"
+        },
+        "2502.11026": {
+            "date_added": "2026-07-10",
+            "direction": "C",
+            "title": "RLHF in an SFT Way: From Optimal Solution to Reward-Weighted Alignment"
+        },
+        "2508.04724": {
+            "date_added": "2026-07-10",
+            "direction": "D",
+            "title": "Understanding protein function with a multimodal retrieval-augmented foundation model"
+        },
+        "2025.11.12.688125": {
+            "date_added": "2026-07-10",
+            "direction": "D",
+            "title": "E1: Retrieval-Augmented Protein Encoder Models"
+        },
+        "2025.11.27.690975": {
+            "date_added": "2026-07-10",
+            "direction": "D",
+            "title": "Rewriting protein alphabets with language models"
+        },
+        "2025.06.04.656517": {
+            "date_added": "2026-07-10",
+            "direction": "E",
+            "title": "GENERanno: A Genomic Foundation Model for Metagenomic Sequencing"
+        },
+        "2025.03.27.645711": {
+            "date_added": "2026-07-10",
+            "direction": "E",
+            "title": "BioToken and BioFM \u2013 Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models"
+        },
+        "2405.07960": {
+            "date_added": "2026-07-10",
+            "direction": "F",
+            "title": "AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments"
+        },
+        "2511.08649": {
+            "date_added": "2026-07-10",
+            "direction": "X",
+            "title": "Bio AI Agent: A Multi-Agent Artificial Intelligence System for Autonomous CAR-T Cell Therapy Development with Integrated Target Discovery, Toxicity Prediction, and Rational Molecular Design"
+        },
+        "2025.07.05.663295": {
+            "date_added": "2026-07-10",
+            "direction": "X",
+            "title": "PromptBio: A Multi-Agent AI Platform for Bioinformatics Data Analysis"
+        },
+        "2604.02145": {
+            "date_added": "2026-07-10",
+            "direction": "X",
+            "title": "MTI: A Behavior-Based Temperament Profiling System for AI Agents"
         }
     }
 }
