@@ -1,6 +1,6 @@
 {
     "description": "Tracked paper IDs for deduplication across daily reports",
-    "last_updated": "2026-07-11",
+    "last_updated": "2026-07-12",
     "papers": {
         "10.3389/fmicb.2025.1634194": {
             "date_added": "2025-05-17",
@@ -795,7 +795,7 @@
             "title": "GSEM: Graph-based Self-Evolving Memory for Clinical Reasoning"
         },
         "2605.27377": {
-            "date_added": "2026-05-29",
+            "date_added": "2026-07-12",
             "direction": "B",
             "title": "RAG-Coding: Enhancing LLM Medical Coding with Structured External Knowledge"
         },
@@ -940,9 +940,9 @@
             "title": "AutoScientists: Self-Organizing Agent Teams for Experimentation"
         },
         "2605.28868": {
-            "date_added": "2026-06-01",
+            "date_added": "2026-07-12",
             "direction": "A",
-            "title": "TaxDistill: Improving Metagenomic Taxonomic Annotation via Distilled Genomic Foundation Models"
+            "title": "TaxDistill: Improving Metagenomic Taxonomic Annotation via Knowledge Distillation"
         },
         "2605.17101": {
             "date_added": "2026-06-08",
@@ -1110,9 +1110,9 @@
             "title": "ProtLiD2: Ligand-Conditioned Discrete Diffusion for Protein Sequence-Structure Co-Design"
         },
         "2602.02014": {
-            "date_added": "2026-06-03",
+            "date_added": "2026-07-12",
             "direction": "E",
-            "title": "OpticalDNA: Vision-Based DNA Foundation Model via OCR"
+            "title": "OpticalDNA: Rethinking Genomic Modeling Through OCR (ICML 2026)"
         },
         "2606.02424": {
             "date_added": "2026-06-03",
@@ -1495,9 +1495,9 @@
             "title": "SkeMex: Self-Evolving Skill Memory for Medical Agent Reasoning"
         },
         "2606.08982": {
-            "date_added": "2026-07-04",
-            "direction": "B",
-            "title": "Baichuan-M4: Clinical-Grade Medical Agent"
+            "date_added": "2026-07-12",
+            "direction": "F",
+            "title": "Baichuan-M4: Clinical-Grade Medical Agent System for Continuous Care"
         },
         "2605.29368": {
             "date_added": "2026-06-11",
@@ -2515,9 +2515,9 @@
             "title": "3D Masked Autoencoders for Volumetric Cellular Representations"
         },
         "2606.22181": {
-            "date_added": "2026-06-24",
+            "date_added": "2026-07-12",
             "direction": "D",
-            "title": "Residue-Level Attributions in PLMs Do Not Recover Allergen Epitopes"
+            "title": "Residue-Level Attributions in Protein Language Models Do Not"
         },
         "2605.12784": {
             "date_added": "2026-06-24",
@@ -3105,9 +3105,9 @@
             "title": "CoPeP: Benchmarking Continual Pretraining for Protein Language Models"
         },
         "2603.04045": {
-            "date_added": "2026-07-02",
+            "date_added": "2026-07-12",
             "direction": "D",
-            "title": "Inference-Time Toxicity Mitigation in PLMs"
+            "title": "Inference-Time Toxicity Mitigation in Protein Language Models"
         },
         "2604.08574": {
             "date_added": "2026-07-02",
@@ -3260,9 +3260,9 @@
             "title": "Quantifying Uncertainty in Protein Representations"
         },
         "2607.02217": {
-            "date_added": "2026-07-04",
-            "direction": "E",
-            "title": "Affinage: Genome-Scale Gene Annotation from Literature"
+            "date_added": "2026-07-12",
+            "direction": "X",
+            "title": "Affinage: Genome-Scale Mechanistic Gene Annotation (ICML Workshop)"
         },
         "nature_comms_cellvq_2026": {
             "date_added": "2026-07-04",
@@ -3590,7 +3590,7 @@
             "title": "MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning"
         },
         "2602.01002": {
-            "date_added": "2026-07-10",
+            "date_added": "2026-07-12",
             "direction": "C",
             "title": "How RLHF Amplifies Sycophancy"
         },
@@ -3640,9 +3640,9 @@
             "title": "PromptBio: A Multi-Agent AI Platform for Bioinformatics Data Analysis"
         },
         "2604.02145": {
-            "date_added": "2026-07-10",
-            "direction": "X",
-            "title": "MTI: A Behavior-Based Temperament Profiling System for AI Agents"
+            "date_added": "2026-07-12",
+            "direction": "C",
+            "title": "MTI: Behavior-Based Temperament Profiling System for AI Agents"
         },
         "10.64898/2026.04.20.719780": {
             "date_added": "2026-07-11",
@@ -3655,7 +3655,7 @@
             "title": "Enabling Fast, Efficient, and Low-Cost Genomic and Metagenomic Data Analysis"
         },
         "2605.24699": {
-            "date_added": "2026-07-11",
+            "date_added": "2026-07-12",
             "direction": "B",
             "title": "MDIA: Multi-Agent Diagnostic Intelligence Pipeline on HealthBench Professional"
         },
@@ -3693,6 +3693,26 @@
             "date_added": "2026-07-11",
             "direction": "X",
             "title": "Prospective Clinical Feasibility Study of Conversational Diagnostic AI (AMIE)"
+        },
+        "2602.17680": {
+            "date_added": "2026-07-12",
+            "direction": "D",
+            "title": "BioBridge: Bridging Proteins and Language for Enhanced Biological Reasoning"
+        },
+        "2606.21123": {
+            "date_added": "2026-07-12",
+            "direction": "F",
+            "title": "Multi-Agent Audit Framework for High-Stakes Reasoning"
+        },
+        "2607.06224": {
+            "date_added": "2026-07-12",
+            "direction": "X",
+            "title": "Canopy: Heterograph Foundation Model for Metabolic Engineering"
+        },
+        "2607.08404": {
+            "date_added": "2026-07-12",
+            "direction": "X",
+            "title": "DrugGen 2: Disease-Aware Language Model for Drug Discovery"
         }
     }
 }
