@@ -1,6 +1,6 @@
 {
     "description": "Tracked paper IDs for deduplication across daily reports",
-    "last_updated": "2026-07-12",
+    "last_updated": "2026-07-13",
     "papers": {
         "10.3389/fmicb.2025.1634194": {
             "date_added": "2025-05-17",
@@ -3330,9 +3330,9 @@
             "title": "Clinician-Level Agreement Without Clinical Caution"
         },
         "2607.00147": {
-            "date_added": "2026-07-06",
-            "direction": "C",
-            "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis"
+            "date_added": "2026-07-13",
+            "direction": "X",
+            "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease"
         },
         "2607.01307": {
             "date_added": "2026-07-06",
@@ -3340,9 +3340,9 @@
             "title": "Novel ML Approach for CNS Tumor Classification from DNA Methylation"
         },
         "2607.00060": {
-            "date_added": "2026-07-06",
+            "date_added": "2026-07-13",
             "direction": "F",
-            "title": "Synergistic Perception-Reasoning Governance: Grounding Medical MLLMs"
+            "title": "Grounding Medical MLLMs with Verifiable Anatomical Evidence"
         },
         "2607.01908": {
             "date_added": "2026-07-06",
@@ -3375,7 +3375,7 @@
             "title": "World Feedback for Clinical Agents"
         },
         "2607.00464": {
-            "date_added": "2026-07-06",
+            "date_added": "2026-07-13",
             "direction": "X",
             "title": "MolSafeEval: Benchmark for Safety Risks in AI-Generated Molecules"
         },
@@ -3500,9 +3500,9 @@
             "title": "Generative AI for Biosciences: Emerging Threats and Roadmap to Biosecurity"
         },
         "2607.05055": {
-            "date_added": "2026-07-09",
+            "date_added": "2026-07-13",
             "direction": "B",
-            "title": "CareConnect: Toward Trustworthy Large Language Model Agents in Healthcare"
+            "title": "CareConnect: Toward Trustworthy LLM Agents in Healthcare"
         },
         "2605.19630": {
             "date_added": "2026-07-09",
@@ -3665,7 +3665,7 @@
             "title": "CoDaS: AI Co-Data-Scientist for Biomarker Discovery via Wearable Sensors"
         },
         "2607.07766": {
-            "date_added": "2026-07-11",
+            "date_added": "2026-07-13",
             "direction": "C",
             "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare"
         },
@@ -3710,9 +3710,54 @@
             "title": "Canopy: Heterograph Foundation Model for Metabolic Engineering"
         },
         "2607.08404": {
-            "date_added": "2026-07-12",
-            "direction": "X",
+            "date_added": "2026-07-13",
+            "direction": "D",
             "title": "DrugGen 2: Disease-Aware Language Model for Drug Discovery"
+        },
+        "2607.07761": {
+            "date_added": "2026-07-13",
+            "direction": "B",
+            "title": "Aligning Clinical Needs and AI Capabilities: Survey on LLMs for Medical Reasoning"
+        },
+        "2607.02781": {
+            "date_added": "2026-07-13",
+            "direction": "C",
+            "title": "Safe Inference-Time Alignment via Lagrangian Reward Augmentation (LARA)"
+        },
+        "2607.02983": {
+            "date_added": "2026-07-13",
+            "direction": "C",
+            "title": "RL for Evidence-Seeking Diagnostic Reasoning"
+        },
+        "2607.06583": {
+            "date_added": "2026-07-13",
+            "direction": "E",
+            "title": "Trajectory Inference of Human Aging from DNA Methylation"
+        },
+        "2607.04740": {
+            "date_added": "2026-07-13",
+            "direction": "E",
+            "title": "DriftST: One-Step Spatial Transcriptomics from H&E Histology"
+        },
+        "2607.07673": {
+            "date_added": "2026-07-13",
+            "direction": "F",
+            "title": "MedPMC: Scaling High-Fidelity Medical Multimodal Data"
+        },
+        "2607.06531": {
+            "date_added": "2026-07-13",
+            "direction": "F",
+            "title": "Large Cancer Assistant (LCA): Model-Agnostic Orchestration"
+        },
+        "2607.03863": {
+            "date_added": "2026-07-13",
+            "direction": "X",
+            "title": "Rethinking Scientific Discovery in the Agentic Era"
+        },
+        "2607.03740": {
+            "date_added": "2026-07-13",
+            "direction": "A",
+            "title": "Triple-Phase Multimodal Knowledge Aggregation for Microbial Keratitis"
         }
     }
 }
