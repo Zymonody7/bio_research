@@ -1,6 +1,6 @@
 {
     "description": "Tracked paper IDs for deduplication across daily reports",
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "papers": {
         "10.3389/fmicb.2025.1634194": {
             "date_added": "2025-05-17",
@@ -952,7 +952,7 @@
         "2603.03292": {
             "date_added": "2026-06-01",
             "direction": "B",
-            "title": "MA-RAG: From Conflict to Consensus \u2014 Boosting Medical Reasoning via Multi-Round Agentic RAG"
+            "title": "MA-RAG: From Conflict to Consensus — Boosting Medical Reasoning via Multi-Round Agentic RAG"
         },
         "2602.03305": {
             "date_added": "2026-06-01",
@@ -1397,7 +1397,7 @@
         "2604.28011": {
             "date_added": "2026-06-08",
             "direction": "F",
-            "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound"
+            "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound"
         },
         "2606.07342": {
             "date_added": "2026-06-08",
@@ -2382,7 +2382,7 @@
         "10.1002/mdr2.70039": {
             "date_added": "2026-06-23",
             "direction": "B",
-            "title": "RSA\u2010KG: A Graph\u2010Based Rag Enhanced AI Knowledge Graph for Recurrent Spontaneous Abortions Diagnosis and Clinical Decision Support"
+            "title": "RSA‐KG: A Graph‐Based Rag Enhanced AI Knowledge Graph for Recurrent Spontaneous Abortions Diagnosis and Clinical Decision Support"
         },
         "10.1109/GCAT66372.2025.11368379": {
             "date_added": "2026-06-23",
@@ -3622,7 +3622,7 @@
         "2025.03.27.645711": {
             "date_added": "2026-07-10",
             "direction": "E",
-            "title": "BioToken and BioFM \u2013 Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models"
+            "title": "BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models"
         },
         "2405.07960": {
             "date_added": "2026-07-10",
@@ -3813,6 +3813,151 @@
             "date_added": "2026-07-14",
             "direction": "X",
             "title": "scMPT: LLM + Single-Cell FM"
+        },
+        "2607.11175": {
+            "date_added": "2026-07-15",
+            "direction": "B",
+            "title": "The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Automation"
+        },
+        "2607.10275": {
+            "date_added": "2026-07-15",
+            "direction": "B",
+            "title": "Information-seeking Failures of LLMs in Agentic Clinical Reasoning"
+        },
+        "2607.09322": {
+            "date_added": "2026-07-15",
+            "direction": "B",
+            "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making"
+        },
+        "2607.02879": {
+            "date_added": "2026-07-15",
+            "direction": "B",
+            "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents"
+        },
+        "2606.31292": {
+            "date_added": "2026-07-15",
+            "direction": "F",
+            "title": "AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation"
+        },
+        "2606.31179": {
+            "date_added": "2026-07-15",
+            "direction": "B",
+            "title": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments"
+        },
+        "2606.31036": {
+            "date_added": "2026-07-15",
+            "direction": "B",
+            "title": "Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care"
+        },
+        "2607.09142": {
+            "date_added": "2026-07-15",
+            "direction": "F",
+            "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation"
+        },
+        "2606.28981": {
+            "date_added": "2026-07-15",
+            "direction": "C",
+            "title": "Bad company corrupts good morals: Understanding and Measuring Narrative-Induced Moral Reasoning"
+        },
+        "2606.08457": {
+            "date_added": "2026-07-15",
+            "direction": "C",
+            "title": "The Consistency Illusion: How Multi-Agent Debate Hides Reasoning Misalignment"
+        },
+        "2607.12474": {
+            "date_added": "2026-07-15",
+            "direction": "D",
+            "title": "From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery"
+        },
+        "2607.12349": {
+            "date_added": "2026-07-15",
+            "direction": "D",
+            "title": "Generating Developable 3D Molecules via Pocket-Conditioned Diffusion"
+        },
+        "2607.12196": {
+            "date_added": "2026-07-15",
+            "direction": "D",
+            "title": "AlphaFunctor: Bridging The Gap Between Protein Function Annotation and Property Prediction"
+        },
+        "2607.09039": {
+            "date_added": "2026-07-15",
+            "direction": "D",
+            "title": "Variable-Length Generative Protein Design via Generalized Poisson Flow"
+        },
+        "2607.05439": {
+            "date_added": "2026-07-15",
+            "direction": "D",
+            "title": "Design-CP: Context Parallelism for Design of Protein Nanoparticles"
+        },
+        "2607.02834": {
+            "date_added": "2026-07-15",
+            "direction": "X",
+            "title": "On the Design Space of Discrete Diffusion Online Adaptation for Molecular Optimization"
+        },
+        "2607.11084": {
+            "date_added": "2026-07-15",
+            "direction": "E",
+            "title": "NVAITC AI Scientist: A Governed End-to-End Research System -- A Hypertension GWAS Case Study"
+        },
+        "2607.08803": {
+            "date_added": "2026-07-15",
+            "direction": "E",
+            "title": "TheBioCollection: Unified Pre-Training Scale LLM Corpus for Biology"
+        },
+        "2607.07725": {
+            "date_added": "2026-07-15",
+            "direction": "E",
+            "title": "SHIFT: Survival Prediction from Incomplete and Heterogeneous Genomic Data"
+        },
+        "2607.04987": {
+            "date_added": "2026-07-15",
+            "direction": "E",
+            "title": "Data-Driven Soft Labeling Scales DNA Read Classification to Whole-Body Cell-Type Deconvolution"
+        },
+        "2607.08423": {
+            "date_added": "2026-07-15",
+            "direction": "F",
+            "title": "OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice"
+        },
+        "2606.02809": {
+            "date_added": "2026-07-15",
+            "direction": "F",
+            "title": "Automated Report-Derived Oncology VQA Benchmark for Evaluating Vision-Language Models"
+        },
+        "2605.29163": {
+            "date_added": "2026-07-15",
+            "direction": "F",
+            "title": "BCER Agent: Reliable Long-Horizon MRI Workflow Execution"
+        },
+        "2605.10397": {
+            "date_added": "2026-07-15",
+            "direction": "F",
+            "title": "AnomalyClaw: A Universal Visual Anomaly Detection Agent via Tool-Grounded Refutation"
+        },
+        "42208292": {
+            "date_added": "2026-07-15",
+            "direction": "A",
+            "title": "The One Health Resistome: Integrating Environmental, Microbial, and Human AMR Data"
+        },
+        "42440194": {
+            "date_added": "2026-07-15",
+            "direction": "B",
+            "title": "JADE-Plus: A Multimodal Agentic RAG Framework for Diagnosis"
+        },
+        "42443524": {
+            "date_added": "2026-07-15",
+            "direction": "D",
+            "title": "Understanding Language Model Scaling for Protein Fitness Prediction"
+        },
+        "42444608": {
+            "date_added": "2026-07-15",
+            "direction": "E",
+            "title": "scDifformer: Diffusion-Based Post-Training for Virtual Cell Modeling"
+        },
+        "42437856": {
+            "date_added": "2026-07-15",
+            "direction": "F",
+            "title": "A Clinician Aligned Vision Language Framework for Fundus Fluorescein Angiography"
         }
     }
 }
