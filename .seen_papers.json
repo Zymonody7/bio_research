@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -3983,6 +3983,51 @@
       "date_added": "2026-07-16",
       "direction": "F",
       "title": "FM2: Unified Federated Foundation Models for Medical Data"
+    },
+    "2607.15101": {
+      "date_added": "2026-07-17",
+      "direction": "D",
+      "title": "Accelerated Descriptor-Free Path Sampling for Protein-Ligand Binding Kinetics"
+    },
+    "2607.14264": {
+      "date_added": "2026-07-17",
+      "direction": "F",
+      "title": "MonteRET: AI Agent Enhancing Multimodal LLMs with Multi-granularity Knowledge Retrieval for Chest CT Report Generation"
+    },
+    "2607.14070": {
+      "date_added": "2026-07-17",
+      "direction": "A",
+      "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes"
+    },
+    "2607.13940": {
+      "date_added": "2026-07-17",
+      "direction": "X",
+      "title": "A Self-Evolving Agent for Longitudinal Personal Health Management"
+    },
+    "2607.13503": {
+      "date_added": "2026-07-17",
+      "direction": "D",
+      "title": "Exploring the Alignment of Generation and Understanding in Protein Structure Modeling"
+    },
+    "2607.10522": {
+      "date_added": "2026-07-17",
+      "direction": "F",
+      "title": "Towards Autonomous and Auditable Medical Imaging Model Development"
+    },
+    "2607.07866": {
+      "date_added": "2026-07-17",
+      "direction": "D",
+      "title": "UMA-Inverse: Ligand-Conditioned Protein Inverse Folding with a Distogram-Supervised Dense Pair Encoder"
+    },
+    "2606.29746": {
+      "date_added": "2026-07-17",
+      "direction": "B",
+      "title": "DEEPMED Search: An Open-Source Agentic Platform for Medical Deep Research with Introspective Verification"
+    },
+    "2606.22955": {
+      "date_added": "2026-07-17",
+      "direction": "F",
+      "title": "Evo-RAD: Navigating Rare Retinal Disease Diagnosis via Self-Evolving Agentic Retrieval"
     }
   }
 }
