@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -4028,6 +4028,91 @@
       "date_added": "2026-07-17",
       "direction": "F",
       "title": "Evo-RAD: Navigating Rare Retinal Disease Diagnosis via Self-Evolving Agentic Retrieval"
+    },
+    "2512.23545": {
+      "date_added": "2026-07-18",
+      "direction": "A",
+      "title": "PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Reasoning"
+    },
+    "2512.23304": {
+      "date_added": "2026-07-18",
+      "direction": "B",
+      "title": "MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot Medical Disease Classification"
+    },
+    "2512.14157": {
+      "date_added": "2026-07-18",
+      "direction": "B",
+      "title": "Ophiuchus: Incentivizing Tool-augmented 'Think with Images' for Joint Medical Segmentation and Diagnosis"
+    },
+    "2510.10461": {
+      "date_added": "2026-07-18",
+      "direction": "B",
+      "title": "MedCoAct: Confidence-Aware Multi-Agent Collaboration for Complete Clinical Decision"
+    },
+    "2507.09279": {
+      "date_added": "2026-07-18",
+      "direction": "C",
+      "title": "Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinical Safety"
+    },
+    "2508.04278": {
+      "date_added": "2026-07-18",
+      "direction": "C",
+      "title": "Large Language Model's Multi-Capability Alignment in Biomedical Domain"
+    },
+    "2512.24192": {
+      "date_added": "2026-07-18",
+      "direction": "D",
+      "title": "SeedProteo: Accurate De Novo All-Atom Design of Protein Binders"
+    },
+    "2512.23175": {
+      "date_added": "2026-07-18",
+      "direction": "D",
+      "title": "HELM-BERT: A Transformer for Medium-sized Peptide Property Prediction"
+    },
+    "2512.10515": {
+      "date_added": "2026-07-18",
+      "direction": "D",
+      "title": "UNAAGI: Atom-Level Diffusion for Generating Non-Canonical Amino Acid Substitutions"
+    },
+    "2512.17126": {
+      "date_added": "2026-07-18",
+      "direction": "E",
+      "title": "DNAMotifTokenizer: Towards Biologically Informed Tokenization of Genomic Sequences"
+    },
+    "2509.18529": {
+      "date_added": "2026-07-18",
+      "direction": "E",
+      "title": "Reverse-Complement Consistency for DNA Language Models"
+    },
+    "2603.10261": {
+      "date_added": "2026-07-18",
+      "direction": "E",
+      "title": "Discovery of a Hematopoietic Manifold in scGPT Yields a Method for Extracting Potent Single-Cell Representations"
+    },
+    "2512.22275": {
+      "date_added": "2026-07-18",
+      "direction": "F",
+      "title": "The Illusion of Clinical Reasoning: A Benchmark Reveals the Pervasive Gap in Visual Medical AI"
+    },
+    "2512.17213": {
+      "date_added": "2026-07-18",
+      "direction": "F",
+      "title": "CheXPO-v2: Preference Optimization for Chest X-ray VLMs with Knowledge Graph Grounding"
+    },
+    "2512.06581": {
+      "date_added": "2026-07-18",
+      "direction": "F",
+      "title": "MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding"
+    },
+    "2512.20586": {
+      "date_added": "2026-07-18",
+      "direction": "X",
+      "title": "Automated Stereotactic Radiosurgery Planning Using a Human-in-the-Loop Reasoning Agent"
+    },
+    "2512.18440": {
+      "date_added": "2026-07-18",
+      "direction": "X",
+      "title": "An Agentic AI Framework for Training General Practitioner Student Skills"
     }
   }
 }
