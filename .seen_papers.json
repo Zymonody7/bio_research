@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -4113,6 +4113,86 @@
       "date_added": "2026-07-18",
       "direction": "X",
       "title": "An Agentic AI Framework for Training General Practitioner Student Skills"
+    },
+    "2406.13133": {
+      "date_added": "2026-07-19",
+      "direction": "A",
+      "title": "PathoLM: Identifying Pathogenicity from DNA through Genome Foundation Model"
+    },
+    "2606.22419": {
+      "date_added": "2026-07-19",
+      "direction": "B",
+      "title": "Knowledge-Graph Grounding Helps LLMs Only for Out-of-Training Knowledge"
+    },
+    "2604.10386": {
+      "date_added": "2026-07-19",
+      "direction": "B",
+      "title": "TrajOnco: Multi-Agent Framework for Longitudinal EHR Cancer Detection"
+    },
+    "2605.05386": {
+      "date_added": "2026-07-19",
+      "direction": "B",
+      "title": "BALAR: Bayesian Agentic Loop for Active Reasoning"
+    },
+    "2603.02216": {
+      "date_added": "2026-07-19",
+      "direction": "C",
+      "title": "ATPO: Adaptive Tree Policy Optimization for Medical Dialogue"
+    },
+    "2601.03321": {
+      "date_added": "2026-07-19",
+      "direction": "C",
+      "title": "Self-Consistent RL for Trustworthy Radiology Reporting"
+    },
+    "2606.27440": {
+      "date_added": "2026-07-19",
+      "direction": "D",
+      "title": "PairSAE: Mechanistic Interpretability in Protein Co-Folding"
+    },
+    "2606.11057": {
+      "date_added": "2026-07-19",
+      "direction": "D",
+      "title": "Flexible Kernels for Protein Property Prediction"
+    },
+    "2601.05531": {
+      "date_added": "2026-07-19",
+      "direction": "E",
+      "title": "DNATokenizer: GPU-First Tokenizer for DNA Language Models"
+    },
+    "2605.00930": {
+      "date_added": "2026-07-19",
+      "direction": "E",
+      "title": "CellxPert: MCMC Steering of Multi-Omics Single-Cell FM"
+    },
+    "2607.14163": {
+      "date_added": "2026-07-19",
+      "direction": "E",
+      "title": "scVision: Vision Foundation Model for Single-Cell Biology"
+    },
+    "2606.31825": {
+      "date_added": "2026-07-19",
+      "direction": "F",
+      "title": "Breaking Failure Cascades: Step-Aware RL for Medical Multimodal Reasoning"
+    },
+    "2606.31599": {
+      "date_added": "2026-07-19",
+      "direction": "F",
+      "title": "Token-Sparse Medical Multimodal Reasoning via Dual-Stream RL"
+    },
+    "2606.17702": {
+      "date_added": "2026-07-19",
+      "direction": "F",
+      "title": "SegTME-UNI2: Foundation Model Cell Segmentation + LLM TME"
+    },
+    "2601.11560": {
+      "date_added": "2026-07-19",
+      "direction": "X",
+      "title": "DeepEvidence: Deep Knowledge Graph Research for Biomedical Discovery"
+    },
+    "2507.02925": {
+      "date_added": "2026-07-19",
+      "direction": "X",
+      "title": "LLM Agent for Modular Drug Discovery"
     }
   }
 }
