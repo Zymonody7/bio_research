@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1325,9 +1325,9 @@
       "title": "What Does PLM Learn During RL?"
     },
     "2606.04552": {
-      "date_added": "2026-07-16",
+      "date_added": "2026-07-20",
       "direction": "E",
-      "title": "LDARNet: DNA Adaptive Representation Network"
+      "title": "LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Models"
     },
     "2507.05265": {
       "date_added": "2026-06-06",
@@ -1380,12 +1380,12 @@
       "title": "ProtStructQA: Denotation Threshold in Protein Structural Reasoning"
     },
     "2606.06834": {
-      "date_added": "2026-06-08",
+      "date_added": "2026-07-20",
       "direction": "E",
-      "title": "The Dark Regulome: Disentangling Predictability from Regulation"
+      "title": "The Dark Regulome: Disentangling Predictability from Regulation in Genomic Foundation Models"
     },
     "2606.04525": {
-      "date_added": "2026-06-08",
+      "date_added": "2026-07-20",
       "direction": "E",
       "title": "GENEB: Why Genomic Models Are Hard to Compare"
     },
@@ -1495,9 +1495,9 @@
       "title": "SkeMex: Self-Evolving Skill Memory for Medical Agent Reasoning"
     },
     "2606.08982": {
-      "date_added": "2026-07-12",
+      "date_added": "2026-07-20",
       "direction": "F",
-      "title": "Baichuan-M4: Clinical-Grade Medical Agent System for Continuous Care"
+      "title": "Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care"
     },
     "2605.29368": {
       "date_added": "2026-06-11",
@@ -1610,9 +1610,9 @@
       "title": "DPLM-Evo: Generative Protein Evolution Machine (ICML 2026)"
     },
     "2606.03644": {
-      "date_added": "2026-06-12",
-      "direction": "E",
-      "title": "Spatial Transcriptomics-Guided Alignment for Pathology Foundation Models"
+      "date_added": "2026-07-20",
+      "direction": "X",
+      "title": "Spatial Transcriptomics-Guided Alignment Enhances Molecular Profiling in Pathology Foundation Models"
     },
     "2603.06950": {
       "date_added": "2026-06-12",
@@ -1720,9 +1720,9 @@
       "title": "C-MIG: Multi-view Information Gain RAG for Clinical Diagnosis"
     },
     "2605.25357": {
-      "date_added": "2026-06-16",
+      "date_added": "2026-07-20",
       "direction": "B",
-      "title": "Reliable Fetal Ultrasound Interpretation with Multi-Agent Collaboration"
+      "title": "Towards Reliable Fetal Ultrasound Interpretation with Multi-Agent Collaboration"
     },
     "2606.14149": {
       "date_added": "2026-06-16",
@@ -2025,14 +2025,14 @@
       "title": "West Nile virus outbreak in Italy modelled with the quantum Game of Life"
     },
     "2606.20164": {
-      "date_added": "2026-07-16",
-      "direction": "F",
-      "title": "MedRLM: Recursive Multimodal Health Intelligence"
+      "date_added": "2026-07-20",
+      "direction": "B",
+      "title": "MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning"
     },
     "2606.19602": {
-      "date_added": "2026-06-20T09:07:49.583647",
+      "date_added": "2026-07-20",
       "direction": "B",
-      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Doesnt"
+      "title": "Configurable Clinical Information Extraction with Agentic RAG"
     },
     "2606.19481": {
       "date_added": "2026-06-20T09:07:49.583648",
@@ -2055,9 +2055,9 @@
       "title": "Emergent Alignment"
     },
     "2606.18961": {
-      "date_added": "2026-07-04",
+      "date_added": "2026-07-20",
       "direction": "D",
-      "title": "Be Your Own Teacher: Steering PLMs via Unsupervised Reward"
+      "title": "Be Your Own Teacher: Steering Protein Language Models via Unsupervised Reward Optimization"
     },
     "2606.18703": {
       "date_added": "2026-06-20T09:07:49.583660",
@@ -2200,7 +2200,7 @@
       "title": "AtomMem: Memory System for LLM Agents via Atomic Facts"
     },
     "2602.16728": {
-      "date_added": "2026-06-22",
+      "date_added": "2026-07-20",
       "direction": "A",
       "title": "FUNGAR: a pipeline for detecting antifungal resistance mutations directly from metagenomic short reads"
     },
@@ -2270,9 +2270,9 @@
       "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages"
     },
     "2606.14766": {
-      "date_added": "2026-07-04",
+      "date_added": "2026-07-20",
       "direction": "F",
-      "title": "XMedFusion: Knowledge-Guided Multimodal Perception"
+      "title": "XMedFusion: A Knowledge-Guided Multimodal Perception and Reasoning Framework for Autonomous Medical Diagnosis"
     },
     "2606.11740": {
       "date_added": "2026-06-22",
@@ -2305,8 +2305,8 @@
       "title": "Evaluation of EEG Foundation Models for Event-Based Burst-Suppression Detection in ICU"
     },
     "2606.15504": {
-      "date_added": "2026-06-22",
-      "direction": "X",
+      "date_added": "2026-07-20",
+      "direction": "F",
       "title": "Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support"
     },
     "2605.21740": {
@@ -2660,14 +2660,14 @@
       "title": "RCSB PDB AI Help Desk: RAG for Protein Structure Deposition Support"
     },
     "2603.29608": {
-      "date_added": "2026-06-26",
+      "date_added": "2026-07-20",
       "direction": "C",
       "title": "Learning Diagnostic Reasoning for Decision Support in Toxicology"
     },
     "2603.03677": {
-      "date_added": "2026-06-26",
+      "date_added": "2026-07-20",
       "direction": "C",
-      "title": "MIND: Unified Inquiry and Diagnosis RL with Criteria Grounded Clinical Supports"
+      "title": "MIND: Unified Inquiry and Diagnosis RL with Criteria Grounded Clinical Supports for Psychiatry"
     },
     "2602.23363": {
       "date_added": "2026-06-26",
@@ -2675,14 +2675,14 @@
       "title": "MediX-R1: Open Ended Medical Reinforcement Learning"
     },
     "2606.25865": {
-      "date_added": "2026-06-26",
+      "date_added": "2026-07-20",
       "direction": "D",
       "title": "Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design"
     },
     "2606.22138": {
-      "date_added": "2026-06-26",
+      "date_added": "2026-07-20",
       "direction": "D",
-      "title": "BioMatrix: Comprehensive Biological Foundation Model"
+      "title": "BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix"
     },
     "2603.20825": {
       "date_added": "2026-06-26",
@@ -3285,9 +3285,9 @@
       "title": "Beyond Safe Data: Pretraining-Stage Alignment with Regular Safety Reflection"
     },
     "2606.27939": {
-      "date_added": "2026-07-05",
+      "date_added": "2026-07-20",
       "direction": "D",
-      "title": "Two-Stage Fine-Tuning for Protein Sequence Generation with Targeted AA Composition"
+      "title": "Two-Stage Fine-Tuning for Protein Sequence Generation with Targeted Amino-Acid Composition"
     },
     "2607.00879": {
       "date_added": "2026-07-05",
@@ -3995,7 +3995,7 @@
       "title": "MonteRET: AI Agent Enhancing Multimodal LLMs with Multi-granularity Knowledge Retrieval for Chest CT Report Generation"
     },
     "2607.14070": {
-      "date_added": "2026-07-17",
+      "date_added": "2026-07-20",
       "direction": "A",
       "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes"
     },
@@ -4193,6 +4193,16 @@
       "date_added": "2026-07-19",
       "direction": "X",
       "title": "LLM Agent for Modular Drug Discovery"
+    },
+    "2602.10740": {
+      "date_added": "2026-07-20",
+      "direction": "C",
+      "title": "Reinforced Curriculum Pre-Alignment for Domain-Adaptive VLMs"
+    },
+    "2606.01961": {
+      "date_added": "2026-07-20",
+      "direction": "X",
+      "title": "AutoMedBench: Towards Medical AutoResearch with Agentic AI Models"
     }
   }
 }
