@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -4203,6 +4203,91 @@
       "date_added": "2026-07-20",
       "direction": "X",
       "title": "AutoMedBench: Towards Medical AutoResearch with Agentic AI Models"
+    },
+    "2407.21080": {
+      "date_added": "2026-07-21",
+      "direction": "A",
+      "title": "AI Enhanced Digital NAAT for Precision Medicine"
+    },
+    "2506.15761": {
+      "date_added": "2026-07-21",
+      "direction": "A",
+      "title": "BioMapAI: Multi-Modal Omics for Chronic Fatigue"
+    },
+    "2603.11721": {
+      "date_added": "2026-07-21",
+      "direction": "B",
+      "title": "OpenClaw Hospital Agentic OS"
+    },
+    "2603.09018": {
+      "date_added": "2026-07-21",
+      "direction": "B",
+      "title": "Meissa: Multi-modal Medical Agentic Intelligence"
+    },
+    "2606.01301": {
+      "date_added": "2026-07-21",
+      "direction": "B",
+      "title": "Med-HEAL: Hallucination-Aware ICL for Medical LLMs"
+    },
+    "2605.15168": {
+      "date_added": "2026-07-21",
+      "direction": "B",
+      "title": "Clinical Timeline Reconstruction via RAG"
+    },
+    "2606.22692": {
+      "date_added": "2026-07-21",
+      "direction": "B",
+      "title": "VISTA Architect: Graph DB Health AI"
+    },
+    "2506.14375": {
+      "date_added": "2026-07-21",
+      "direction": "C",
+      "title": "Safe Mechanical Ventilation via Offline RL"
+    },
+    "2511.06222": {
+      "date_added": "2026-07-21",
+      "direction": "C",
+      "title": "SPA: Consensus LLM Alignment via Self-Priority"
+    },
+    "2507.02983": {
+      "date_added": "2026-07-21",
+      "direction": "C",
+      "title": "Truth Trust Trouble: Medical AI on the Edge"
+    },
+    "2607.16263": {
+      "date_added": "2026-07-21",
+      "direction": "D",
+      "title": "Preference-based Antibody Expression Ranking"
+    },
+    "2606.10080": {
+      "date_added": "2026-07-21",
+      "direction": "D",
+      "title": "VFUSE: Virulent Feature Understanding with SAE"
+    },
+    "2509.06465": {
+      "date_added": "2026-07-21",
+      "direction": "D",
+      "title": "CAME-AB: Cross-Modality Attention for Antibody"
+    },
+    "2412.20984": {
+      "date_added": "2026-07-21",
+      "direction": "D",
+      "title": "Pareto-Optimal Energy Alignment for Antibodies"
+    },
+    "2511.14694": {
+      "date_added": "2026-07-21",
+      "direction": "E",
+      "title": "Near-Lossless Compression for DNA LLMs"
+    },
+    "2507.21648": {
+      "date_added": "2026-07-21",
+      "direction": "E",
+      "title": "Hyperbolic Genome Embeddings"
+    },
+    "2601.22382": {
+      "date_added": "2026-07-21",
+      "direction": "X",
+      "title": "Purely Agent-Driven Black-Box Optimization for Biological Design"
     }
   }
 }
