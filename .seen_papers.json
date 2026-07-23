@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -4288,6 +4288,81 @@
       "date_added": "2026-07-21",
       "direction": "X",
       "title": "Purely Agent-Driven Black-Box Optimization for Biological Design"
+    },
+    "2602.16737": {
+      "date_added": "2026-07-22",
+      "direction": "A",
+      "title": "Exploring the Utility of MALDI-TOF Mass Spectrometry and Antimicrobial Resistance in Hospital Outbre"
+    },
+    "2606.30658": {
+      "date_added": "2026-07-22",
+      "direction": "B",
+      "title": "Agentic AI Enhances Physician Trust in Clinical Decision Making"
+    },
+    "2606.25108": {
+      "date_added": "2026-07-22",
+      "direction": "B",
+      "title": "The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing"
+    },
+    "2606.21168": {
+      "date_added": "2026-07-22",
+      "direction": "B",
+      "title": "Dementia-Agents: A Multi-Modal Multi-Agent System for Dementia Staging and Phenotyping"
+    },
+    "2607.18927": {
+      "date_added": "2026-07-22",
+      "direction": "C",
+      "title": "OntoBook: Ontology-Grounded Synthetic Textbooks for Medical Encoder Pretraining"
+    },
+    "2607.11891": {
+      "date_added": "2026-07-22",
+      "direction": "C",
+      "title": "CANDI: Contextual Alignment for Niche Domains Question Answering"
+    },
+    "2607.19083": {
+      "date_added": "2026-07-22",
+      "direction": "D",
+      "title": "GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across "
+    },
+    "2607.16553": {
+      "date_added": "2026-07-22",
+      "direction": "D",
+      "title": "Discrete Ricci Curvature on Protein Contact Graphs for Lightweight Fold Classification"
+    },
+    "2605.29980": {
+      "date_added": "2026-07-22",
+      "direction": "E",
+      "title": "Genetically Aligned Patient Representations Improve Hematological Diagnosis"
+    },
+    "2607.16234": {
+      "date_added": "2026-07-22",
+      "direction": "E",
+      "title": "HantaWatch: Federated Learning for Hantavirus Genomic Surveillance"
+    },
+    "2607.18988": {
+      "date_added": "2026-07-22",
+      "direction": "F",
+      "title": "DobicVLM: Aligning Chest X-Ray Report Generation with Clinically-Grounded Programmatic Rewards via G"
+    },
+    "2607.18577": {
+      "date_added": "2026-07-22",
+      "direction": "F",
+      "title": "Attention Without Grounding: Causal Evaluation of Visual Explanations in Medical VLMs"
+    },
+    "2607.17693": {
+      "date_added": "2026-07-22",
+      "direction": "F",
+      "title": "Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation"
+    },
+    "2607.18564": {
+      "date_added": "2026-07-22",
+      "direction": "X",
+      "title": "HALO: Interactive Co-abductive Reasoning in Scientific Hypothesis Generation"
+    },
+    "2607.17601": {
+      "date_added": "2026-07-22",
+      "direction": "X",
+      "title": "Trustworthy Protein-Ligand Binding Affinity Prediction via Reliability-Aware Multi-Engine Fusion"
     }
   }
 }
