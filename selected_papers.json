@@ -1,0 +1,128 @@
+[
+  {
+    "id": "2607.21065",
+    "title": "Do Pathology Vision-Language Models Truly See Pathology?",
+    "url": "https://arxiv.org/abs/2607.21065",
+    "summary": "Evaluating whether pathology VLMs truly understand pathology vs. rely on superficial cues and shortcuts.",
+    "published": "2026-07-23",
+    "direction": "F",
+    "badge": "\ud83d\udd25\ud83d\udd25"
+  },
+  {
+    "id": "2607.20323",
+    "title": "Multi-modal transformer for signal classification in nanopore blockade experiments",
+    "url": "https://arxiv.org/abs/2607.20323",
+    "summary": "Multi-modal transformer for nanopore single-molecule sensing with potential for rapid portable diagnostics.",
+    "published": "2026-07-22",
+    "direction": "A",
+    "badge": "\ud83d\udd25\ud83d\udd25"
+  },
+  {
+    "id": "2607.18144",
+    "title": "Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints",
+    "url": "https://arxiv.org/abs/2607.18144",
+    "summary": "Benchmarking LLMs for structure-based drug design under 3D spatial constraints.",
+    "published": "2026-07-20",
+    "direction": "D",
+    "badge": "\ud83d\udd25\ud83d\udd25"
+  },
+  {
+    "id": "2607.18056",
+    "title": "An Early Warning of Emerging Biosecurity Risks in Frontier LLMs",
+    "url": "https://arxiv.org/abs/2607.18056",
+    "summary": "Assessing biological capabilities and biosecurity risks of frontier LLMs.",
+    "published": "2026-07-20",
+    "direction": "D",
+    "badge": "\ud83d\udd25"
+  },
+  {
+    "id": "2607.19261",
+    "title": "PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image",
+    "url": "https://arxiv.org/abs/2607.19261",
+    "summary": "Benchmark for VLMs that seek multi-scale evidence across WSIs for diagnosis.",
+    "published": "2026-07-21",
+    "direction": "F",
+    "badge": "\ud83d\udd25"
+  },
+  {
+    "id": "2607.16053",
+    "title": "Deep and Probabilistic Models for Gene Regulatory Network Inference",
+    "url": "https://arxiv.org/abs/2607.16053",
+    "summary": "Deep probabilistic models for reconstructing gene regulatory networks from genome-wide data.",
+    "published": "2026-07-17",
+    "direction": "E",
+    "badge": "\ud83d\udd25"
+  },
+  {
+    "id": "2607.12380",
+    "title": "SinAE: A Single-Architecture Flow-Matching Autoencoder for Cross-Domain Atomic Systems",
+    "url": "https://arxiv.org/abs/2607.12380",
+    "summary": "Unified flow-matching autoencoder spanning molecules, crystals, and proteins.",
+    "published": "2026-07-14",
+    "direction": "D",
+    "badge": "\ud83d\udd25\ud83d\udd25"
+  },
+  {
+    "id": "2607.14314",
+    "title": "NeuroGRIP: Retrieval-Augmented Graph Refinement for Knowledge-Grounded EEG Seizure Diagnosis",
+    "url": "https://arxiv.org/abs/2607.14314",
+    "summary": "RAG-enhanced graph refinement for EEG seizure diagnosis with knowledge grounding.",
+    "published": "2026-07-15",
+    "direction": "B",
+    "badge": "\ud83d\udd25"
+  },
+  {
+    "id": "2607.17902",
+    "title": "Benchmarking Resource-Efficient LLMs for Research Topic Ontology Generation in the Biomedical Field",
+    "url": "https://arxiv.org/abs/2607.17902",
+    "summary": "Benchmarking small LLMs for automated biomedical ontology generation.",
+    "published": "2026-07-20",
+    "direction": "B",
+    "badge": "\ud83d\udcce"
+  },
+  {
+    "id": "2607.12527",
+    "title": "Evidence-Grounded AI for Musculoskeletal Care",
+    "url": "https://arxiv.org/abs/2607.12527",
+    "summary": "Evidence-grounded AI system integrating clinical guidelines for musculoskeletal rehabilitation.",
+    "published": "2026-07-14",
+    "direction": "B",
+    "badge": "\ud83d\udd25"
+  },
+  {
+    "id": "2605.05750",
+    "title": "RVPO: Risk-Sensitive Alignment via Variance Regularization",
+    "url": "https://arxiv.org/abs/2605.05750",
+    "summary": "Risk-sensitive RLHF alignment that prevents constraint neglect through variance regularization.",
+    "published": "2026-05-07",
+    "direction": "C",
+    "badge": "\ud83d\udd25\ud83d\udd25"
+  },
+  {
+    "id": "2604.11137",
+    "title": "From Answers to Arguments: Toward Trustworthy Clinical Diagnostic Reasoning with Toulmin-Guided Curriculum Goal-Conditioned Learning",
+    "url": "https://arxiv.org/abs/2604.11137",
+    "summary": "Toulmin argumentation framework for transparent, trustworthy clinical reasoning in LLMs.",
+    "published": "2026-04-13",
+    "direction": "C",
+    "badge": "\ud83d\udd25"
+  },
+  {
+    "id": "2604.07196",
+    "title": "Probing 3D Chromatin Structure Awareness in Evo2 DNA Language Model",
+    "url": "https://arxiv.org/abs/2604.07196",
+    "summary": "Investigating whether Evo2 learns 3D chromatin structure from primary DNA sequence.",
+    "published": "2026-04-08",
+    "direction": "E",
+    "badge": "\ud83d\udd25"
+  },
+  {
+    "id": "2606.19245",
+    "title": "TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology",
+    "url": "https://arxiv.org/abs/2606.19245",
+    "summary": "Benchmarking AI agents on preclinical pharmacology prediction and interpretation tasks.",
+    "published": "2026-06-17",
+    "direction": "X",
+    "badge": "\ud83d\udd25"
+  }
+]

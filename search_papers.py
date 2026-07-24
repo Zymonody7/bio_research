@@ -1,64 +1,72 @@
 #!/usr/bin/env python3
-"""Search arxiv for papers in 7 directions."""
+"""Search arxiv via API for papers in our directions."""
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 import json
-import time
 import re
+import sys
 
-ns = {'a': 'http://www.w3.org/2005/Atom', 'arxiv': 'http://arxiv.org/schemas/atom'}
-
-def search_arxiv(query, max_results=8):
-    """Search arxiv API."""
-    url = f"https://export.arxiv.org/api/query?search_query={query}&max_results={max_results}&sortBy=submittedDate&sortOrder=descending"
+def search_arxiv(query, max_results=3):
+    """Search arxiv API and return papers."""
+    base_url = "https://export.arxiv.org/api/query"
+    encoded_query = urllib.parse.quote(query)
+    params = f"search_query={encoded_query}&sortBy=submittedDate&sortOrder=descending&max_results={max_results}"
+    url = f"{base_url}?{params}"
     try:
-        resp = urllib.request.urlopen(url, timeout=30)
-        root = ET.fromstring(resp.read())
+        req = urllib.request.Request(url, headers={'User-Agent': 'Hermes-Research/1.0'})
+        resp = urllib.request.urlopen(req, timeout=20)
+        xml_data = resp.read().decode('utf-8')
+        ns = {'atom': 'http://www.w3.org/2005/Atom'}
+        root = ET.fromstring(xml_data)
         papers = []
-        for entry in root.findall('a:entry', ns):
-            title = entry.find('a:title', ns).text.strip().replace('\n', ' ')
-            arxiv_id = entry.find('a:id', ns).text.strip().split('/abs/')[-1]
-            arxiv_id_clean = re.sub(r'v\d+$', '', arxiv_id)
-            published = entry.find('a:published', ns).text[:10]
-            authors = ', '.join(a.find('a:name', ns).text for a in entry.findall('a:author', ns)[:5])
-            summary = entry.find('a:summary', ns).text.strip()[:400]
-            cats = ', '.join(c.get('term') for c in entry.findall('a:category', ns)[:3])
+        for entry in root.findall('atom:entry', ns):
+            title_el = entry.find('atom:title', ns)
+            summary_el = entry.find('atom:summary', ns)
+            published_el = entry.find('atom:published', ns)
+            id_el = entry.find('atom:id', ns)
+            if title_el is None or id_el is None:
+                continue
+            title = ' '.join(title_el.text.strip().split())
+            summary = ' '.join(summary_el.text.strip().split())[:200] if summary_el is not None and summary_el.text else ""
+            published = published_el.text if published_el is not None else ""
+            arxiv_url = id_el.text.strip()
+            arxiv_match = re.search(r'(\d{4}\.\d{4,5})', arxiv_url)
+            paper_id = arxiv_match.group(1) if arxiv_match else arxiv_url
             papers.append({
-                'id': arxiv_id_clean,
-                'title': title,
-                'authors': authors,
-                'published': published,
-                'abstract': summary,
-                'categories': cats
+                'id': paper_id, 'title': title, 'url': arxiv_url,
+                'summary': summary, 'published': published,
             })
         return papers
     except Exception as e:
-        return [{'error': str(e)}]
+        print(f"Error: {e}", file=sys.stderr)
+        return []
 
-# Search queries for each direction
-queries = {
-    'A': 'all:mNGS+AND+all:pathogen+AND+all:detection',
-    'B': 'all:clinical+AND+all:agent+AND+all:RAG+AND+all:diagnosis',
-    'C': 'all:RLHF+AND+all:medical+AND+all:safety',
-    'D': 'all:protein+AND+all:language+AND+all:generation',
-    'E': 'all:genomic+AND+all:foundation+AND+all:DNA',
-    'F': 'all:multimodal+AND+all:medical+AND+all:imaging',
-    'X': 'all:drug+AND+all:discovery+AND+all:agent'
-}
+queries = [
+    ("A", "cat:q-bio.GN AND all:metagenomic AND all:AI"),
+    ("A", "all:microbiome AND all:AI AND all:pathogen AND all:detection"),
+    ("B", "all:clinical AND all:agent AND all:RAG AND all:medical"),
+    ("B", "all:medical AND all:knowledge AND all:graph AND all:diagnosis"),
+    ("C", "all:RLHF AND all:medical AND all:alignment"),
+    ("C", "all:healthcare AND all:safety AND all:LLM AND all:reinforcement"),
+    ("D", "all:protein AND all:language AND all:model AND all:design"),
+    ("D", "all:antibody AND all:design AND all:deep AND all:learning"),
+    ("E", "cat:q-bio.GN AND all:foundation AND all:model AND all:DNA"),
+    ("E", "all:genomic AND all:language AND all:model AND all:DNA"),
+    ("F", "all:multimodal AND all:medical AND all:agent AND all:diagnosis"),
+    ("F", "all:medical AND all:imaging AND all:agent AND all:VLM"),
+    ("X", "all:drug AND all:discovery AND all:agent AND all:AI"),
+    ("X", "all:protein AND all:folding AND all:AI AND all:design"),
+]
 
-all_results = {}
-for d, query in queries.items():
-    print(f"Searching Direction {d}...")
-    r = search_arxiv(query, max_results=8)
-    all_results[d] = r
-    if r and 'error' not in r[0]:
-        print(f"  Found {len(r)} papers")
-        for p in r[:3]:
-            print(f"  [{p['id']}] {p['title'][:80]}")
-    else:
-        print(f"  Error: {r[0].get('error', 'unknown') if r else 'empty'}")
-    time.sleep(6)  # Rate limit
+all_papers = {}
+for direction, query in queries:
+    papers = search_arxiv(query, max_results=3)
+    for p in papers:
+        if p['id'] not in all_papers:
+            p['direction'] = direction
+            all_papers[p['id']] = p
+    print(f"[{direction}] '{query[:50]}...' -> {len(papers)} papers", file=sys.stderr)
 
-with open('/tmp/arxiv_final.json', 'w') as f:
-    json.dump(all_results, f)
-print("\nAll results saved to /tmp/arxiv_final.json")
+print(json.dumps(list(all_papers.values()), indent=2))
+print(f"\nTotal: {len(all_papers)}", file=sys.stderr)
