@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-25",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1623,6 +1623,151 @@
       "date_added": "2026-07-23",
       "direction": "B",
       "title": "Beyond Protein Language Models: An Agentic LLM Framework for Mechanistic Enzyme Design"
+    },
+    "2607.21065": {
+      "date_added": "2026-07-24",
+      "direction": "F",
+      "title": "Do Pathology Vision-Language Models Truly See Pathology?"
+    },
+    "2607.20323": {
+      "date_added": "2026-07-24",
+      "direction": "A",
+      "title": "Multi-modal transformer for signal classification in nanopore blockade experimen"
+    },
+    "2607.18144": {
+      "date_added": "2026-07-24",
+      "direction": "D",
+      "title": "Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial C"
+    },
+    "2607.18056": {
+      "date_added": "2026-07-24",
+      "direction": "D",
+      "title": "An Early Warning of Emerging Biosecurity Risks in Frontier LLMs"
+    },
+    "2607.19261": {
+      "date_added": "2026-07-24",
+      "direction": "F",
+      "title": "PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Sl"
+    },
+    "2607.16053": {
+      "date_added": "2026-07-24",
+      "direction": "E",
+      "title": "Deep and Probabilistic Models for Gene Regulatory Network Inference"
+    },
+    "2607.12380": {
+      "date_added": "2026-07-24",
+      "direction": "D",
+      "title": "SinAE: A Single-Architecture Flow-Matching Autoencoder for Cross-Domain Atomic S"
+    },
+    "2607.14314": {
+      "date_added": "2026-07-24",
+      "direction": "B",
+      "title": "NeuroGRIP: Retrieval-Augmented Graph Refinement for Knowledge-Grounded EEG Seizu"
+    },
+    "2607.17902": {
+      "date_added": "2026-07-24",
+      "direction": "B",
+      "title": "Benchmarking Resource-Efficient LLMs for Research Topic Ontology Generation in t"
+    },
+    "2607.12527": {
+      "date_added": "2026-07-24",
+      "direction": "B",
+      "title": "Evidence-Grounded AI for Musculoskeletal Care"
+    },
+    "2605.05750": {
+      "date_added": "2026-07-24",
+      "direction": "C",
+      "title": "RVPO: Risk-Sensitive Alignment via Variance Regularization"
+    },
+    "2604.11137": {
+      "date_added": "2026-07-24",
+      "direction": "C",
+      "title": "From Answers to Arguments: Toward Trustworthy Clinical Diagnostic Reasoning with"
+    },
+    "2604.07196": {
+      "date_added": "2026-07-24",
+      "direction": "E",
+      "title": "Probing 3D Chromatin Structure Awareness in Evo2 DNA Language Model"
+    },
+    "2606.19245": {
+      "date_added": "2026-07-24",
+      "direction": "X",
+      "title": "TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmac"
+    },
+    "2605.28868": {
+      "date_added": "2026-07-25",
+      "direction": "A",
+      "title": "Title:TaxDistill: Improving Metagenomic Taxonomic Annotation via Distilled Genomic Foundation Models"
+    },
+    "2606.12209": {
+      "date_added": "2026-07-25",
+      "direction": "A",
+      "title": "Title:Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the mi"
+    },
+    "2607.18270": {
+      "date_added": "2026-07-25",
+      "direction": "B",
+      "title": "Title:Trajectory-Aware Clinical Risk Prediction via Severity-Grounded Knowledge Graphs and Retrieval"
+    },
+    "2607.10151": {
+      "date_added": "2026-07-25",
+      "direction": "B",
+      "title": "Title:MC-RAG System: A Structure-Driven RAG System for Multi-Constraint Queries"
+    },
+    "2606.28364": {
+      "date_added": "2026-07-25",
+      "direction": "B",
+      "title": "Title:LLM based Knowledge Graph Approach to Automating Medical Device Regulatory Compliance"
+    },
+    "2606.23888": {
+      "date_added": "2026-07-25",
+      "direction": "C",
+      "title": "Title:E-MRL: Cross-view Aligned Evidence-driven Multimodal Reinforcement Learning for Reliable 3D Tu"
+    },
+    "2606.11740": {
+      "date_added": "2026-07-25",
+      "direction": "C",
+      "title": "Title:UniReason-Med: A Shared Grounded Reasoning Interface for 2D-to-3D Transfer in Medical VQA"
+    },
+    "2606.27939": {
+      "date_added": "2026-07-25",
+      "direction": "D",
+      "title": "Title:Two-Stage Fine-Tuning for Protein Sequence Generation with Targeted Amino-Acid Composition"
+    },
+    "2606.30902": {
+      "date_added": "2026-07-25",
+      "direction": "D",
+      "title": "Title:Structure-Regularized Interpretable TCR-Epitope Prediction"
+    },
+    "2607.20572": {
+      "date_added": "2026-07-25",
+      "direction": "E",
+      "title": "Title:Auditing pretraining contamination in single-cell foundation model benchmarks"
+    },
+    "2607.20896": {
+      "date_added": "2026-07-25",
+      "direction": "E",
+      "title": "Title:HierarchicalDAEW: Domain-Aware Edge-Weighted Graph Convolution with Evidential Uncertainty for"
+    },
+    "2607.20691": {
+      "date_added": "2026-07-25",
+      "direction": "F",
+      "title": "Title:Spatially Grounded Concept Bottleneck Models for Trustworthy Breast Ultrasound Diagnosis"
+    },
+    "2607.20955": {
+      "date_added": "2026-07-25",
+      "direction": "F",
+      "title": "Title:FSB-Net: Frequency-Spatial Boundary Network for Brain Stroke Lesion Segmentation in Non-Contra"
+    },
+    "2606.17127": {
+      "date_added": "2026-07-25",
+      "direction": "X",
+      "title": "Title:Agentic Discovery of Non-Canonical Antimicrobial Peptides with AMPGAN v3"
+    },
+    "2606.15931": {
+      "date_added": "2026-07-25",
+      "direction": "X",
+      "title": "Title:DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medica"
     }
   }
 }
