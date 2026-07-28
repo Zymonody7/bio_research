@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-25",
+  "last_updated": "2026-07-26",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1768,6 +1768,81 @@
       "date_added": "2026-07-25",
       "direction": "X",
       "title": "Title:DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medica"
+    },
+    "s44197-025-00455-1": {
+      "date_added": "2026-07-26",
+      "direction": "A",
+      "title": "Unveiling the Future of Infective Endocarditis Diagnosis: The Transformative Role of Metagenomic Nex"
+    },
+    "diagnostics15161991": {
+      "date_added": "2026-07-26",
+      "direction": "A",
+      "title": "Metagenomic Next-Generation Sequencing in Infectious Diseases: Clinical Applications, Translational "
+    },
+    "ijms26199831": {
+      "date_added": "2026-07-26",
+      "direction": "A",
+      "title": "Viral Metagenomic Next-Generation Sequencing for One Health Discovery and Surveillance of (Re)Emergi"
+    },
+    "fmed.2025.1716327": {
+      "date_added": "2026-07-26",
+      "direction": "B",
+      "title": "A self-correcting Agentic Graph RAG for clinical decision support in hepatology"
+    },
+    "aidbp2500144": {
+      "date_added": "2026-07-26",
+      "direction": "B",
+      "title": "MedAgentBench: A Virtual EHR Environment to Benchmark Medical LLM Agents"
+    },
+    "ai6080188": {
+      "date_added": "2026-07-26",
+      "direction": "B",
+      "title": "Automated Clinical Trial Data Analysis and Report Generation by Integrating Retrieval-Augmented Gene"
+    },
+    "frai.2025.1616145": {
+      "date_added": "2026-07-26",
+      "direction": "C",
+      "title": "Medical reasoning in LLMs: an in-depth analysis of DeepSeek R1"
+    },
+    "bioengineering12060631": {
+      "date_added": "2026-07-26",
+      "direction": "C",
+      "title": "Large Language Models in Healthcare and Medical Applications: A Review"
+    },
+    "s41598-025-05674-x": {
+      "date_added": "2026-07-26",
+      "direction": "D",
+      "title": "Medium-sized protein language models perform well at transfer learning on realistic datasets"
+    },
+    "s41592-025-02836-7": {
+      "date_added": "2026-07-26",
+      "direction": "D",
+      "title": "InterPLM: discovering interpretable features in protein language models via sparse autoencoders"
+    },
+    "s13059-025-03674-8": {
+      "date_added": "2026-07-26",
+      "direction": "E",
+      "title": "Evaluating the representational power of pre-trained DNA language models for regulatory genomics"
+    },
+    "s41467-025-65823-8": {
+      "date_added": "2026-07-26",
+      "direction": "E",
+      "title": "Benchmarking DNA foundation models for genomic and genetic tasks"
+    },
+    "info16070591": {
+      "date_added": "2026-07-26",
+      "direction": "F",
+      "title": "Multimodal Artificial Intelligence in Medical Diagnostics"
+    },
+    "s13534-025-00484-6": {
+      "date_added": "2026-07-26",
+      "direction": "F",
+      "title": "Vision-language foundation models for medical imaging: a review of current practices and innovations"
+    },
+    "ijms26146996": {
+      "date_added": "2026-07-26",
+      "direction": "X",
+      "title": "AI-Driven Polypharmacology in Small-Molecule Drug Discovery"
     }
   }
 }

@@ -1,0 +1,180 @@
+[
+  {
+    "id": "10.1038/s41746-026-02945-3",
+    "title": "QoQ-Med3: a multimodal reasoning foundation model for clinical analysis",
+    "authors": [
+      "David Dai",
+      "Jeannie She",
+      "Jiaee Cheong"
+    ],
+    "abstract": "Multimodal reasoning-based foundation models (MRFMs) hold considerable promise for addressing key challenges in medical practice, yet their readiness for real-world deployment remains insufficiently explored. We developed two MRFMs (QoQ-Med3 and QoQ-Med3-MIMIC) and systematically evaluated their generalizability to previously unseen clinical modalities and tasks, transferability to held-out datasets collected across different clinical sites, and robustness to real-world distribution shifts.",
+    "pub_date": "2026-07-25",
+    "source": "npj Digital Medicine",
+    "doi": "10.1038/s41746-026-02945-3",
+    "direction": "F",
+    "url": "https://doi.org/10.1038/s41746-026-02945-3"
+  },
+  {
+    "id": "10.1038/s41746-026-02994-8",
+    "title": "Interpretable agentic AI system with localized reasoning for radiology",
+    "authors": [
+      "Wenting Chen",
+      "Yi Dong",
+      "Zhaojun Ding"
+    ],
+    "abstract": "Medical AI has produced many radiology models, each excelling at isolated tasks. Large language models now enable interfacing heterogeneous models within an agentic framework. We present an interpretable agentic AI system with localized reasoning for radiology that integrates specialized models for lesion detection, report generation, and differential diagnosis.",
+    "pub_date": "2026-07-15",
+    "source": "npj Digital Medicine",
+    "doi": "10.1038/s41746-026-02994-8",
+    "direction": "F",
+    "url": "https://doi.org/10.1038/s41746-026-02994-8"
+  },
+  {
+    "id": "10.1038/s41746-026-03038-x",
+    "title": "A knowledge-enhanced domain-aware large language model agent for atrial fibrillation management",
+    "authors": [
+      "Yijun Wang",
+      "Chen Peng",
+      "Ruijie Hu"
+    ],
+    "abstract": "LLMs show considerable potential for AF management, yet current clinical applications remain suboptimal due to accuracy limitations. This study developed PULSE (Potentiated User-friendly LLM-driven Search Engine), a knowledge-enhanced, domain-aware LLM agent designed to improve AF patient self-management across the entire care continuum, integrating multimodal inputs, medical knowledge graphs, and retrieval-augmented generation.",
+    "pub_date": "2026-07-20",
+    "source": "npj Digital Medicine",
+    "doi": "10.1038/s41746-026-03038-x",
+    "direction": "B",
+    "url": "https://doi.org/10.1038/s41746-026-03038-x"
+  },
+  {
+    "id": "10.1038/s41746-026-03034-1",
+    "title": "Reinforcement learning for treatment decision-making in sepsis: a scoping review",
+    "authors": [
+      "Ziyi Tang",
+      "Peilin Sun",
+      "Ruitong Liang"
+    ],
+    "abstract": "This scoping review summarizes the progress of reinforcement learning (RL) in clinical decision-making for sepsis at the intersection of medicine and AI. All 72 included studies were retrospective, with the majority using the MIMIC database (58 studies [80.6%]), and relatively few employing private datasets (10 studies [13.9%]). Key challenges include sim-to-real gap, safety constraints, and clinical validation.",
+    "pub_date": "2026-07-18",
+    "source": "npj Digital Medicine",
+    "doi": "10.1038/s41746-026-03034-1",
+    "direction": "C",
+    "url": "https://doi.org/10.1038/s41746-026-03034-1"
+  },
+  {
+    "id": "10.1038/s41746-026-02985-9",
+    "title": "Safety boundary maintenance in consumer AI systems responding to pediatric health queries: a cross-platform benchmark evaluation under naturalistic and adversarially pressured conditions",
+    "authors": [
+      "Vahideh Zolfaghari",
+      "Leila Mashhadi",
+      "Mitra Ahadi"
+    ],
+    "abstract": "Consumer AI chatbots are now accessed by hundreds of millions of users seeking health information, yet systematic evaluation of their safety boundary maintenance under real-world caregiver pressure remains scarce. We evaluated PediatricSafetyBench-v2, a benchmark of 600 pediatric health queries comprising 300 authentic caregiver queries and 300 adversarially crafted queries across multiple LLM platforms.",
+    "pub_date": "2026-07-14",
+    "source": "npj Digital Medicine",
+    "doi": "10.1038/s41746-026-02985-9",
+    "direction": "C",
+    "url": "https://doi.org/10.1038/s41746-026-02985-9"
+  },
+  {
+    "id": "10.1038/s41467-026-74501-2",
+    "title": "Empowering clinical trial design with agentic intelligence and real-world data",
+    "authors": [
+      "Haoyang Li",
+      "Weishen Pan",
+      "Suraj Rajendran"
+    ],
+    "abstract": "Clinical trial design (CTD) is a time-consuming process requiring substantial domain expertise. We present an agentic AI framework that leverages large-scale real-world data (RWD) from electronic health records to inform clinical trial design through multi-agent collaboration, knowledge retrieval, and iterative refinement.",
+    "pub_date": "2026-07-07",
+    "source": "Nature Communications",
+    "doi": "10.1038/s41467-026-74501-2",
+    "direction": "X",
+    "url": "https://doi.org/10.1038/s41467-026-74501-2"
+  },
+  {
+    "id": "10.1038/s41598-026-62430-5",
+    "title": "Application of vision transformers to protein-ligand affinity prediction",
+    "authors": [
+      "Jakub Poziemski",
+      "Pawe\u0142 Siedlecki"
+    ],
+    "abstract": "Predicting protein-ligand binding affinity from 3D structural data is central to structure-based drug discovery. We investigate the application of vision transformers (ViTs) to affinity prediction, comparing patch-based ViT architectures against established graph neural network and 3D CNN baselines on standard benchmarks.",
+    "pub_date": "2026-07-25",
+    "source": "Scientific Reports",
+    "doi": "10.1038/s41598-026-62430-5",
+    "direction": "D",
+    "url": "https://doi.org/10.1038/s41598-026-62430-5"
+  },
+  {
+    "id": "10.1038/s41467-026-75718-x",
+    "title": "A multimodal vision-language model for comprehensive dental diagnosis and enhanced clinical practice",
+    "authors": [
+      "Zijie Meng",
+      "Jin Hao",
+      "Xiwei Dai"
+    ],
+    "abstract": "Oral diseases affect billions, yet specialist dental expertise remains unevenly distributed. Existing AI systems mostly address isolated tasks. We present a multimodal vision-language model that integrates panoramic radiographs, intraoral photos, and clinical text for comprehensive dental diagnosis across multiple conditions simultaneously.",
+    "pub_date": "2026-07-22",
+    "source": "Nature Communications",
+    "doi": "10.1038/s41467-026-75718-x",
+    "direction": "F",
+    "url": "https://doi.org/10.1038/s41467-026-75718-x"
+  },
+  {
+    "id": "10.1038/s41746-026-02467-y",
+    "title": "Large language models for interpretation of health checkup results",
+    "authors": [
+      "JeongBong You",
+      "Hang-Sik Shin"
+    ],
+    "abstract": "LLMs show strong generalization, yet their ability to interpret structured medical data remains insufficiently studied. This work evaluated four LLMs (Claude Sonnet 4, Gemini 2.5 Pro, GPT-4o, LLaMA 3.1-70B) using comprehensive health checkup data from the Korean National Health Insurance Service. Zero-shot accuracy averaged 0.69, increasing to 0.92 with optimized prompting strategies.",
+    "pub_date": "2026-07-22",
+    "source": "npj Digital Medicine",
+    "doi": "10.1038/s41746-026-02467-y",
+    "direction": "B",
+    "url": "https://doi.org/10.1038/s41746-026-02467-y"
+  },
+  {
+    "id": "10.1038/s41746-026-03047-w",
+    "title": "Shaping the future of cancer screening with artificial intelligence-empowered multi-cancer early detection",
+    "authors": [
+      "Yongjie Xu",
+      "Sibo Zhu",
+      "Hui Yu"
+    ],
+    "abstract": "Multi-cancer early detection (MCED) via blood tests expands single-cancer screening. AI can enhance MCED across the screening lifecycle. Key challenges include algorithmic bias, generalizability, overdiagnosis, and governance. Emerging AI paradigms, digital twins, and personal health agents may support dynamic learning health systems.",
+    "pub_date": "2026-07-22",
+    "source": "npj Digital Medicine",
+    "doi": "10.1038/s41746-026-03047-w",
+    "direction": "X",
+    "url": "https://doi.org/10.1038/s41746-026-03047-w"
+  },
+  {
+    "id": "2607.19262",
+    "title": "BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance",
+    "authors": [
+      "Harmon Bhasin",
+      "Kevin Flyangolts",
+      "Dianzhuo Wang"
+    ],
+    "abstract": "As pathogen genomic surveillance scales, the bottleneck is shifting from data generation to analysis. We present BioSecBench-Surveillance, a verifiable benchmark of 100 evaluations testing whether AI agents can infer the right analysis pipeline from raw sequencing data and surveillance context. Each evaluation gives an agent only the data and context a human analyst would have, then grades its structured answer deterministically.",
+    "pub_date": "2026-07-21",
+    "source": "arXiv",
+    "doi": "",
+    "direction": "A",
+    "url": "https://arxiv.org/abs/2607.19262"
+  },
+  {
+    "id": "2607.23694",
+    "title": "Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation",
+    "authors": [
+      "Changjing Liu",
+      "Yiming Huang",
+      "Beilei Cui"
+    ],
+    "abstract": "Efficient surgical segmentation empowers clinical diagnosis, intraoperative monitoring, and downstream robotic pipelines. Although prompt-driven foundation models like SAM3 achieve strong segmentation on natural images, surgical data exhibits domain gaps. We propose parameter-efficient adaptation methods using LoRA and adapter modules for surgical concept segmentation.",
+    "pub_date": "2026-07-26",
+    "source": "arXiv",
+    "doi": "",
+    "direction": "F",
+    "url": "https://arxiv.org/abs/2607.23694"
+  }
+]
