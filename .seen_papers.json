@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-26",
+  "last_updated": "2026-07-29",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -1843,6 +1843,136 @@
       "date_added": "2026-07-26",
       "direction": "X",
       "title": "AI-Driven Polypharmacology in Small-Molecule Drug Discovery"
+    },
+    "10.1038/s41746-026-02945-3": {
+      "date_added": "2026-07-28",
+      "direction": "F",
+      "title": "QoQ-Med3: A Multimodal Reasoning Foundation Model for Clinical Analysis"
+    },
+    "10.1038/s41746-026-02994-8": {
+      "date_added": "2026-07-28",
+      "direction": "F",
+      "title": "Interpretable Agentic AI System with Localized Reasoning for Radiology"
+    },
+    "10.1038/s41746-026-03038-x": {
+      "date_added": "2026-07-28",
+      "direction": "B",
+      "title": "PULSE: Knowledge-Enhanced Domain-Aware LLM Agent for AF Management"
+    },
+    "10.1038/s41746-026-03034-1": {
+      "date_added": "2026-07-28",
+      "direction": "C",
+      "title": "Reinforcement Learning for Treatment Decision-Making in Sepsis: A Scoping Review"
+    },
+    "10.1038/s41746-026-02985-9": {
+      "date_added": "2026-07-28",
+      "direction": "C",
+      "title": "Safety Boundary Maintenance in Consumer AI Systems Responding to Pediatric Health Queries"
+    },
+    "10.1038/s41467-026-74501-2": {
+      "date_added": "2026-07-28",
+      "direction": "X",
+      "title": "Empowering Clinical Trial Design with Agentic Intelligence and Real-World Data"
+    },
+    "10.1038/s41598-026-62430-5": {
+      "date_added": "2026-07-28",
+      "direction": "D",
+      "title": "Application of Vision Transformers to Protein-Ligand Affinity Prediction"
+    },
+    "10.1038/s41467-026-75718-x": {
+      "date_added": "2026-07-28",
+      "direction": "F",
+      "title": "A Multimodal Vision-Language Model for Comprehensive Dental Diagnosis"
+    },
+    "10.1038/s41746-026-02467-y": {
+      "date_added": "2026-07-28",
+      "direction": "B",
+      "title": "Large Language Models for Interpretation of Health Checkup Results"
+    },
+    "10.1038/s41746-026-03047-w": {
+      "date_added": "2026-07-28",
+      "direction": "X",
+      "title": "Shaping the Future of Cancer Screening with AI-Empowered MCED"
+    },
+    "2607.19262": {
+      "date_added": "2026-07-28",
+      "direction": "A",
+      "title": "BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance"
+    },
+    "2607.23694": {
+      "date_added": "2026-07-28",
+      "direction": "F",
+      "title": "Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation"
+    },
+    "10.1186/s13073-025-01480-2": {
+      "date_added": "2026-07-29",
+      "direction": "A",
+      "title": "Simultaneous detection of pathogens and antimicrobial resistance genes with the open source, cloud-based, CZ ID platform."
+    },
+    "10.1016/j.ebiom.2024.105307": {
+      "date_added": "2026-07-29",
+      "direction": "A",
+      "title": "Enhancing lower respiratory tract infection diagnosis: implementation and clinical assessment of multiplex PCR-based and hybrid capture-based targeted next-generation sequencing."
+    },
+    "10.1038/s41591-025-03727-2": {
+      "date_added": "2026-07-29",
+      "direction": "B",
+      "title": "Benchmark evaluation of DeepSeek large language models in clinical decision-making."
+    },
+    "10.1016/j.xcrm.2025.102323": {
+      "date_added": "2026-07-29",
+      "direction": "B",
+      "title": "Large language model as clinical decision support system augments medication safety in 16 clinical specialties."
+    },
+    "10.1038/s41467-025-62781-z": {
+      "date_added": "2026-07-29",
+      "direction": "B",
+      "title": "Large language model powered knowledge graph construction for mental health exploration."
+    },
+    "10.1007/s11604-025-01907-1": {
+      "date_added": "2026-07-29",
+      "direction": "C",
+      "title": "Artificial superintelligence alignment in healthcare."
+    },
+    "10.1126/science.ado9336": {
+      "date_added": "2026-07-29",
+      "direction": "D",
+      "title": "Sequence modeling and design from molecular to genome scale with Evo."
+    },
+    "10.1038/s41586-026-10328-7": {
+      "date_added": "2026-07-29",
+      "direction": "D",
+      "title": "The past, present and future of de novo protein design."
+    },
+    "10.1126/science.adt1630": {
+      "date_added": "2026-07-29",
+      "direction": "D",
+      "title": "Predicting protein-protein interactions in the human proteome."
+    },
+    "10.1126/science.adr8470": {
+      "date_added": "2026-07-29",
+      "direction": "D",
+      "title": "Deep generative models design mRNA sequences with enhanced translational capacity and stability."
+    },
+    "10.1016/j.cell.2026.04.023": {
+      "date_added": "2026-07-29",
+      "direction": "E",
+      "title": "AI-predicted spatial transcriptomics unlocks breast cancer biomarkers from pathology."
+    },
+    "10.1016/j.xcrm.2025.102132": {
+      "date_added": "2026-07-29",
+      "direction": "F",
+      "title": "AI-powered integration of multimodal imaging in precision medicine for neuropsychiatric disorders."
+    },
+    "10.1038/s44161-025-00679-1": {
+      "date_added": "2026-07-29",
+      "direction": "F",
+      "title": "Multimodal AI to forecast arrhythmic death in hypertrophic cardiomyopathy."
+    },
+    "10.1038/s41591-024-02971-2": {
+      "date_added": "2026-07-29",
+      "direction": "X",
+      "title": "Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging."
     }
   }
 }
