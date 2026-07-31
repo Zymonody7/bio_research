@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-30",
+  "last_updated": "2026-07-31",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -787,7 +787,7 @@
     "2025.03.27.645711": {
       "date_added": "2026-07-10",
       "direction": "E",
-      "title": "BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models"
+      "title": "BioToken and BioFM \u2013 Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models"
     },
     "2405.07960": {
       "date_added": "2026-07-10",
@@ -1973,107 +1973,196 @@
       "date_added": "2026-07-29",
       "direction": "X",
       "title": "Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging."
+    },
+    "10.3390/diagnostics15161991": {
+      "date_added": "2026-07-31",
+      "direction": "A",
+      "title": "mNGS in Infectious Diseases: Clinical Applications Review"
+    },
+    "10.1186/s12982-025-01167-4": {
+      "date_added": "2026-07-31",
+      "direction": "A",
+      "title": "AI for Climate-Driven Infectious Disease Prediction"
+    },
+    "10.1002/mbo3.70104": {
+      "date_added": "2026-07-31",
+      "direction": "A",
+      "title": "NGS in Infectious-Disease Diagnostics: Pathways to Adoption"
+    },
+    "2607.22555": {
+      "date_added": "2026-07-31",
+      "direction": "B",
+      "title": "DeepLens Diagnosis Agent: Small Model Catches Rare Diagnoses"
+    },
+    "2605.17101": {
+      "date_added": "2026-07-31",
+      "direction": "B",
+      "title": "SEMA-RAG: Self-Evolving Multi-Agent RAG for Medical QA"
+    },
+    "10.3390/ai6090226": {
+      "date_added": "2026-07-31",
+      "direction": "B",
+      "title": "RAG in Healthcare: Comprehensive Review"
+    },
+    "10.1109/tkde.2026.3709941": {
+      "date_added": "2026-07-31",
+      "direction": "C",
+      "title": "Survey on Medical LLMs: Trustworthiness and Future"
+    },
+    "10.1038/s41746-025-02008-z": {
+      "date_added": "2026-07-31",
+      "direction": "C",
+      "title": "When Helpfulness Backfires: Sycophantic Medical LLMs"
+    },
+    "10.1038/s41592-025-02776-2": {
+      "date_added": "2026-07-31",
+      "direction": "D",
+      "title": "Biophysics-based Protein Language Models"
+    },
+    "10.1038/s41587-025-02761-2": {
+      "date_added": "2026-07-31",
+      "direction": "D",
+      "title": "Peptide Binder Design via Masked Language Modeling"
+    },
+    "2606.18961": {
+      "date_added": "2026-07-31",
+      "direction": "D",
+      "title": "Be Your Own Teacher: Steering PLMs via Unsupervised Reward"
+    },
+    "10.1038/s41467-025-65823-8": {
+      "date_added": "2026-07-31",
+      "direction": "E",
+      "title": "Benchmarking DNA Foundation Models"
+    },
+    "2606.22138": {
+      "date_added": "2026-07-31",
+      "direction": "E",
+      "title": "BioMatrix: Comprehensive Biological Foundation Model"
+    },
+    "10.1038/s41586-026-10181-8": {
+      "date_added": "2026-07-31",
+      "direction": "F",
+      "title": "Merlin: CT Vision-Language Foundation Model"
+    },
+    "2607.16303": {
+      "date_added": "2026-07-31",
+      "direction": "F",
+      "title": "Med-OPD: Evidence-Aware On-Policy DPO for Medical VLMs"
+    },
+    "2605.23629": {
+      "date_added": "2026-07-31",
+      "direction": "F",
+      "title": "DDX-TRACE: Medical Diagnostic Trajectories in VLMs"
+    },
+    "2606.01816": {
+      "date_added": "2026-07-31",
+      "direction": "X",
+      "title": "Site4Drug: Drug-Binding Target Sites with AI Agent"
+    },
+    "2603.03655": {
+      "date_added": "2026-07-31",
+      "direction": "X",
+      "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents"
     }
   },
-    "42289215": {
-      "date_added": "2026-07-30",
-      "direction": "A",
-      "title": "AI in clinical metagenomic pathogen detection: Critical review"
-    },
-    "42367641": {
-      "date_added": "2026-07-30",
-      "direction": "A",
-      "title": "Plasma cfDNA metagenomic sequencing in hematological malignancies"
-    },
-    "41769339": {
-      "date_added": "2026-07-30",
-      "direction": "A",
-      "title": "Analytical validation of mNGS diagnostic platform for UTI"
-    },
-    "42233650": {
-      "date_added": "2026-07-30",
-      "direction": "A",
-      "title": "MxA rapid testing combined with pathogen sequencing"
-    },
-    "42477060": {
-      "date_added": "2026-07-30",
-      "direction": "B",
-      "title": "AI agents for diabetic kidney disease management"
-    },
-    "42426795": {
-      "date_added": "2026-07-30",
-      "direction": "B",
-      "title": "Enhancing patient care with AI agents and chatbot technologies"
-    },
-    "42384291": {
-      "date_added": "2026-07-30",
-      "direction": "B",
-      "title": "Organ Transplantation Agent Based on LLM"
-    },
-    "41875309": {
-      "date_added": "2026-07-30",
-      "direction": "B",
-      "title": "RAG Chatbot for Antimicrobial Resistance Research"
-    },
-    "39954322": {
-      "date_added": "2026-07-30",
-      "direction": "C",
-      "title": "Aligning LLMs with radiologists by RL"
-    },
-    "41254654": {
-      "date_added": "2026-07-30",
-      "direction": "C",
-      "title": "RL for LLM-based TCM prescription recommendation"
-    },
-    "42521015": {
-      "date_added": "2026-07-30",
-      "direction": "C",
-      "title": "AI in antimicrobial stewardship"
-    },
-    "42517630": {
-      "date_added": "2026-07-30",
-      "direction": "D",
-      "title": "ViralMap: viral protein feature prediction from sequence"
-    },
-    "42471368": {
-      "date_added": "2026-07-30",
-      "direction": "D",
-      "title": "Developability engineering of scFvs for CAR function"
-    },
-    "42521815": {
-      "date_added": "2026-07-30",
-      "direction": "E",
-      "title": "xDecoder: genomic FM for few-shot gene expression"
-    },
-    "42475685": {
-      "date_added": "2026-07-30",
-      "direction": "E",
-      "title": "Contextual biases in SegmentNT"
-    },
-    "42398069": {
-      "date_added": "2026-07-30",
-      "direction": "E",
-      "title": "EssTFNet: time-frequency + DNA LM for TF binding"
-    },
-    "42313599": {
-      "date_added": "2026-07-30",
-      "direction": "E",
-      "title": "Adapting Genome FM Evo for Functional Genomics via Prompt Tuning"
-    },
-    "42482794": {
-      "date_added": "2026-07-30",
-      "direction": "F",
-      "title": "OCR-mediated modality dominance in VLMs for radiology"
-    },
-    "42451242": {
-      "date_added": "2026-07-30",
-      "direction": "F",
-      "title": "Medical VLMs: Technologies Applications Future"
-    },
-    "42450887": {
-      "date_added": "2026-07-30",
-      "direction": "F",
-      "title": "Do Multimodal VLMs Enhance Medical Diagnostic Process"
-    },
+  "42289215": {
+    "date_added": "2026-07-30",
+    "direction": "A",
+    "title": "AI in clinical metagenomic pathogen detection: Critical review"
+  },
+  "42367641": {
+    "date_added": "2026-07-30",
+    "direction": "A",
+    "title": "Plasma cfDNA metagenomic sequencing in hematological malignancies"
+  },
+  "41769339": {
+    "date_added": "2026-07-30",
+    "direction": "A",
+    "title": "Analytical validation of mNGS diagnostic platform for UTI"
+  },
+  "42233650": {
+    "date_added": "2026-07-30",
+    "direction": "A",
+    "title": "MxA rapid testing combined with pathogen sequencing"
+  },
+  "42477060": {
+    "date_added": "2026-07-30",
+    "direction": "B",
+    "title": "AI agents for diabetic kidney disease management"
+  },
+  "42426795": {
+    "date_added": "2026-07-30",
+    "direction": "B",
+    "title": "Enhancing patient care with AI agents and chatbot technologies"
+  },
+  "42384291": {
+    "date_added": "2026-07-30",
+    "direction": "B",
+    "title": "Organ Transplantation Agent Based on LLM"
+  },
+  "41875309": {
+    "date_added": "2026-07-30",
+    "direction": "B",
+    "title": "RAG Chatbot for Antimicrobial Resistance Research"
+  },
+  "39954322": {
+    "date_added": "2026-07-30",
+    "direction": "C",
+    "title": "Aligning LLMs with radiologists by RL"
+  },
+  "41254654": {
+    "date_added": "2026-07-30",
+    "direction": "C",
+    "title": "RL for LLM-based TCM prescription recommendation"
+  },
+  "42521015": {
+    "date_added": "2026-07-30",
+    "direction": "C",
+    "title": "AI in antimicrobial stewardship"
+  },
+  "42517630": {
+    "date_added": "2026-07-30",
+    "direction": "D",
+    "title": "ViralMap: viral protein feature prediction from sequence"
+  },
+  "42471368": {
+    "date_added": "2026-07-30",
+    "direction": "D",
+    "title": "Developability engineering of scFvs for CAR function"
+  },
+  "42521815": {
+    "date_added": "2026-07-30",
+    "direction": "E",
+    "title": "xDecoder: genomic FM for few-shot gene expression"
+  },
+  "42475685": {
+    "date_added": "2026-07-30",
+    "direction": "E",
+    "title": "Contextual biases in SegmentNT"
+  },
+  "42398069": {
+    "date_added": "2026-07-30",
+    "direction": "E",
+    "title": "EssTFNet: time-frequency + DNA LM for TF binding"
+  },
+  "42313599": {
+    "date_added": "2026-07-30",
+    "direction": "E",
+    "title": "Adapting Genome FM Evo for Functional Genomics via Prompt Tuning"
+  },
+  "42482794": {
+    "date_added": "2026-07-30",
+    "direction": "F",
+    "title": "OCR-mediated modality dominance in VLMs for radiology"
+  },
+  "42451242": {
+    "date_added": "2026-07-30",
+    "direction": "F",
+    "title": "Medical VLMs: Technologies Applications Future"
+  },
+  "42450887": {
+    "date_added": "2026-07-30",
+    "direction": "F",
+    "title": "Do Multimodal VLMs Enhance Medical Diagnostic Process"
   }
 }
