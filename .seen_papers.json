@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-01",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -2063,6 +2063,81 @@
       "date_added": "2026-07-31",
       "direction": "X",
       "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents"
+    },
+    "2601.03295": {
+      "date_added": "2026-08-01",
+      "direction": "A",
+      "title": "MetagenBERT: Transformer Architecture for Metagenome Representation"
+    },
+    "2607.22758": {
+      "date_added": "2026-08-01",
+      "direction": "B",
+      "title": "Spectral Dynamics of Semantic Drift in Clinical Multi-Agent Networks"
+    },
+    "2606.19602": {
+      "date_added": "2026-08-01",
+      "direction": "B",
+      "title": "Configurable Clinical Information Extraction with Agentic RAG"
+    },
+    "2604.08927": {
+      "date_added": "2026-08-01",
+      "direction": "B",
+      "title": "Virtualizing Multi-Disciplinary Reasoning for Clinical Intake"
+    },
+    "2607.27566": {
+      "date_added": "2026-08-01",
+      "direction": "C",
+      "title": "Objective-Aligned Direct Answer SFT for Medical VQA"
+    },
+    "2607.26885": {
+      "date_added": "2026-08-01",
+      "direction": "C",
+      "title": "SCALPEL: Semantic Cross-modal Alignment for Medical VLP"
+    },
+    "2607.15447": {
+      "date_added": "2026-08-01",
+      "direction": "C",
+      "title": "LLM4EHR: Aligning Clinical Time Series with LLMs"
+    },
+    "2606.16044": {
+      "date_added": "2026-08-01",
+      "direction": "D",
+      "title": "Circuit Tracing in Autoregressive Protein Language Models"
+    },
+    "2606.12609": {
+      "date_added": "2026-08-01",
+      "direction": "D",
+      "title": "Viral Proteins Reveal Geometry of Protein Language Models"
+    },
+    "2606.04228": {
+      "date_added": "2026-08-01",
+      "direction": "D",
+      "title": "When Does Structure Help? AlphaFold2 vs PLMs"
+    },
+    "2607.20583": {
+      "date_added": "2026-08-01",
+      "direction": "E",
+      "title": "Foundation-model-guided radiogenomic discovery"
+    },
+    "2605.25388": {
+      "date_added": "2026-08-01",
+      "direction": "E",
+      "title": "ViroBench: Benchmarking Nucleotide Foundation Models"
+    },
+    "2607.26155": {
+      "date_added": "2026-08-01",
+      "direction": "F",
+      "title": "ClinLens: Long-Horizon Coding Agents for Clinical Data Science"
+    },
+    "2605.20176": {
+      "date_added": "2026-08-01",
+      "direction": "F",
+      "title": "ClinSeekAgent: Multimodal Evidence Seeking for Clinical Reasoning"
+    },
+    "2605.00948": {
+      "date_added": "2026-08-01",
+      "direction": "X",
+      "title": "Co-Generative De Novo Functional Protein Design"
     }
   },
   "42289215": {
