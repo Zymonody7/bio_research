@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-08-02",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2025-05-17",
@@ -787,7 +787,7 @@
     "2025.03.27.645711": {
       "date_added": "2026-07-10",
       "direction": "E",
-      "title": "BioToken and BioFM \u2013 Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models"
+      "title": "BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models"
     },
     "2405.07960": {
       "date_added": "2026-07-10",
@@ -1850,9 +1850,9 @@
       "title": "QoQ-Med3: A Multimodal Reasoning Foundation Model for Clinical Analysis"
     },
     "10.1038/s41746-026-02994-8": {
-      "date_added": "2026-07-28",
+      "date_added": "2026-08-02",
       "direction": "F",
-      "title": "Interpretable Agentic AI System with Localized Reasoning for Radiology"
+      "title": "Interpretable agentic AI system for radiology"
     },
     "10.1038/s41746-026-03038-x": {
       "date_added": "2026-07-28",
@@ -1880,9 +1880,9 @@
       "title": "Application of Vision Transformers to Protein-Ligand Affinity Prediction"
     },
     "10.1038/s41467-026-75718-x": {
-      "date_added": "2026-07-28",
+      "date_added": "2026-08-02",
       "direction": "F",
-      "title": "A Multimodal Vision-Language Model for Comprehensive Dental Diagnosis"
+      "title": "Multimodal VLM for comprehensive dental diagnosis"
     },
     "10.1038/s41746-026-02467-y": {
       "date_added": "2026-07-28",
@@ -2138,6 +2138,81 @@
       "date_added": "2026-08-01",
       "direction": "X",
       "title": "Co-Generative De Novo Functional Protein Design"
+    },
+    "10.3389/fcimb.2026.1868618": {
+      "date_added": "2026-08-02",
+      "direction": "A",
+      "title": "Viral metagenomic analysis of human bocavirus in pediatric pneumonia"
+    },
+    "10.3389/fcimb.2026.1824160": {
+      "date_added": "2026-08-02",
+      "direction": "A",
+      "title": "Metagenomic next-generation sequencing: new horizons in microbiology"
+    },
+    "10.1128/spectrum.00121-25": {
+      "date_added": "2026-08-02",
+      "direction": "A",
+      "title": "Diagnosis of invasive pulmonary aspergillosis using mNGS"
+    },
+    "10.1016/j.patter.2026.101610": {
+      "date_added": "2026-08-02",
+      "direction": "B",
+      "title": "MedicalAgentsBench for complex medical reasoning"
+    },
+    "10.1038/s43856-025-01283-x": {
+      "date_added": "2026-08-02",
+      "direction": "B",
+      "title": "Simulated patient systems powered by LLM agents"
+    },
+    "10.1038/s43587-026-01186-z": {
+      "date_added": "2026-08-02",
+      "direction": "B",
+      "title": "Agentic AI for scaling diagnosis in neurodegenerative disease"
+    },
+    "10.1016/j.ejrad.2025.111984": {
+      "date_added": "2026-08-02",
+      "direction": "C",
+      "title": "Aligning LLMs with radiologists by RL"
+    },
+    "10.3390/fi18070365": {
+      "date_added": "2026-08-02",
+      "direction": "C",
+      "title": "Knowledge Graphs vs. SQL over Structured EHR Data"
+    },
+    "10.1038/s44386-026-00054-5": {
+      "date_added": "2026-08-02",
+      "direction": "D",
+      "title": "Generative AI for controllable protein sequence design survey"
+    },
+    "10.1038/s41467-026-75138-x": {
+      "date_added": "2026-08-02",
+      "direction": "D",
+      "title": "InstaNovo-P: de novo peptide sequencing for phosphoproteomics"
+    },
+    "10.1093/bioinformatics/btag579": {
+      "date_added": "2026-08-02",
+      "direction": "E",
+      "title": "Accelerating inference in genomic/proteomic FMs via speculative decoding"
+    },
+    "10.1186/s13059-025-03862-6": {
+      "date_added": "2026-08-02",
+      "direction": "E",
+      "title": "scKGBERT: knowledge-enhanced foundation model for single-cell"
+    },
+    "10.1038/s44484-026-00014-6": {
+      "date_added": "2026-08-02",
+      "direction": "F",
+      "title": "Prompt injection attacks on VLMs for surgical decision support"
+    },
+    "10.1038/s41591-026-04502-7": {
+      "date_added": "2026-08-02",
+      "direction": "X",
+      "title": "Generalizable AI predicts immunotherapy outcomes"
+    },
+    "10.1038/s41586-025-09749-7": {
+      "date_added": "2026-08-02",
+      "direction": "X",
+      "title": "Semantic design of functional de novo genes from genomic LM"
     }
   },
   "42289215": {
