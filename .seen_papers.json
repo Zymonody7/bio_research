@@ -2314,5 +2314,100 @@
     "date_added": "2026-07-30",
     "direction": "F",
     "title": "Do Multimodal VLMs Enhance Medical Diagnostic Process"
+  },
+  "2607.26160": {
+    "date_added": "2026-08-03",
+    "direction": "B",
+    "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning"
+  },
+  "2607.28677": {
+    "date_added": "2026-08-03",
+    "direction": "B",
+    "title": "Reasoning in Real World Clinical Care: Why LLMs Are Not Yet Safe for Autonomous Clinical Decision Support"
+  },
+  "2607.00147": {
+    "date_added": "2026-08-03",
+    "direction": "B",
+    "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation"
+  },
+  "2605.27860": {
+    "date_added": "2026-08-03",
+    "direction": "B",
+    "title": "C-MIG: Multi-view Information Gain-based Retrieval-Augmented Generation for Clinical Diagnosis Reasoning"
+  },
+  "2607.25485": {
+    "date_added": "2026-08-03",
+    "direction": "C",
+    "title": "PatientAgentBench: A Benchmark Framework for Evaluating Patient-Facing Health AI Agents"
+  },
+  "2606.12169": {
+    "date_added": "2026-08-03",
+    "direction": "C",
+    "title": "OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Language Models"
+  },
+  "2606.01094": {
+    "date_added": "2026-08-03",
+    "direction": "C",
+    "title": "CAREAgent: Clinical Agent with Structured Reasoning and Tool-Integrated for Order Generation"
+  },
+  "2605.09584": {
+    "date_added": "2026-08-03",
+    "direction": "C",
+    "title": "CLR-voyance: Reinforcing Open-Ended Reasoning for Inpatient Clinical Decision Support with Outcome-Aware Rubrics"
+  },
+  "2607.27431": {
+    "date_added": "2026-08-03",
+    "direction": "D",
+    "title": "SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups"
+  },
+  "2607.25156": {
+    "date_added": "2026-08-03",
+    "direction": "D",
+    "title": "Accurate structural modeling of chemically diverse molecular interfaces with Vilya-2"
+  },
+  "2606.12772": {
+    "date_added": "2026-08-03",
+    "direction": "D",
+    "title": "EasyNano: rapid epitope-targeted nanobody CDR design via differentiable distogram optimization with ESMFold2"
+  },
+  "2607.27712": {
+    "date_added": "2026-08-03",
+    "direction": "E",
+    "title": "VESTIGE: A Knowledge-Guided Masking Strategy for Corruption-Aware Fine-Tuning of Genomic Transformers"
+  },
+  "2511.03976": {
+    "date_added": "2026-08-03",
+    "direction": "E",
+    "title": "PETRA: Pretrained Evolutionary Transformer for SARS-CoV-2 Mutation Prediction"
+  },
+  "2607.26886": {
+    "date_added": "2026-08-03",
+    "direction": "F",
+    "title": "Hearsay: Vision-Language Medical Diagnoses Without an Image"
+  },
+  "2607.23794": {
+    "date_added": "2026-08-03",
+    "direction": "F",
+    "title": "PathScale-R1: Cross-scale Reasoning for Pathological Image Analysis"
+  },
+  "2607.22293": {
+    "date_added": "2026-08-03",
+    "direction": "F",
+    "title": "RadSight: Towards Perceptually Reliable Multimodal Radiology Image Understanding"
+  },
+  "2607.27556": {
+    "date_added": "2026-08-03",
+    "direction": "X",
+    "title": "Evaluating Agentic Bioinformatics through Function, Evidence, and Validation"
+  },
+  "2607.16262": {
+    "date_added": "2026-08-03",
+    "direction": "X",
+    "title": "Autonomous mechanistic discovery of colorectal cancer vulnerabilities via multi-scale AI swarms"
+  },
+  "2606.31085": {
+    "date_added": "2026-08-03",
+    "direction": "X",
+    "title": "DDIAgents: Mechanism-Conditioned Context Flow for Drug-Drug Interaction Prediction"
   }
 }
