@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1368,6 +1368,101 @@
       "date_added": "2026-08-04",
       "direction": "X",
       "title": "AI agentic models and lab automation for scientific discovery"
+    },
+    "2607.20057": {
+      "date_added": "2026-08-05",
+      "direction": "A",
+      "title": "Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Discovery"
+    },
+    "2606.30140": {
+      "date_added": "2026-08-05",
+      "direction": "A",
+      "title": "DNA Language Models: An Assessment of Pre-Training for Fine-Tuning Tasks"
+    },
+    "19490976.2025.2569739": {
+      "date_added": "2026-08-05",
+      "direction": "A",
+      "title": "Gut microbiome metagenomics in clinical practice: bridging the gap between research and application"
+    },
+    "2603.05129": {
+      "date_added": "2026-08-05",
+      "direction": "B",
+      "title": "MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval"
+    },
+    "2602.09945": {
+      "date_added": "2026-08-05",
+      "direction": "B",
+      "title": "Closing Reasoning Gaps in Clinical Agents with Differential Reasoning"
+    },
+    "s41746-025-01802-z": {
+      "date_added": "2026-08-05",
+      "direction": "B",
+      "title": "RAG elevates local LLM in radiology contrast media safety"
+    },
+    "2311.06025": {
+      "date_added": "2026-08-05",
+      "direction": "C",
+      "title": "ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Pipeline"
+    },
+    "s10586-025-05281-5": {
+      "date_added": "2026-08-05",
+      "direction": "C",
+      "title": "Explainable AI for medical imaging systems using deep learning: A comprehensive review"
+    },
+    "2606.02386": {
+      "date_added": "2026-08-05",
+      "direction": "D",
+      "title": "AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Design"
+    },
+    "2607.16263": {
+      "date_added": "2026-08-05",
+      "direction": "D",
+      "title": "Preference-based Antibody Expression Ranking: Scaling with Large-scale Data"
+    },
+    "2605.06720": {
+      "date_added": "2026-08-05",
+      "direction": "D",
+      "title": "Conditional generation of antibody sequences with classifier-guided diffusion"
+    },
+    "2606.16517": {
+      "date_added": "2026-08-05",
+      "direction": "E",
+      "title": "How Post-Training Shapes Biological Reasoning Models"
+    },
+    "2606.04552": {
+      "date_added": "2026-08-05",
+      "direction": "E",
+      "title": "LDARNet: DNA Adaptive Representation Network with Learnable Tokenization"
+    },
+    "s41467-025-60872-5": {
+      "date_added": "2026-08-05",
+      "direction": "E",
+      "title": "RiNALMo: general-purpose RNA language models can generalize well on structure prediction"
+    },
+    "2601.07107": {
+      "date_added": "2026-08-05",
+      "direction": "F",
+      "title": "MEDVISTAGYM: A Scalable Training Environment for Thinking with Medical Images"
+    },
+    "2511.11751": {
+      "date_added": "2026-08-05",
+      "direction": "F",
+      "title": "Concept-RuleNet: Grounded Multi-Agent Neurosymbolic Reasoning in Visual Medical Diagnosis"
+    },
+    "2607.03863": {
+      "date_added": "2026-08-05",
+      "direction": "X",
+      "title": "Rethinking Scientific Discovery in the Agentic Era"
+    },
+    "2605.02351": {
+      "date_added": "2026-08-05",
+      "direction": "X",
+      "title": "MolViBench: Evaluating LLMs on Molecular Vibe Coding"
+    },
+    "2409.14040": {
+      "date_added": "2026-08-05",
+      "direction": "X",
+      "title": "PepINVENT: Generative peptide design beyond the natural amino acids"
     }
   },
   "42289215": {
