@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1463,6 +1463,126 @@
       "date_added": "2026-08-05",
       "direction": "X",
       "title": "PepINVENT: Generative peptide design beyond the natural amino acids"
+    },
+    "2607.14070": {
+      "date_added": "2026-08-06",
+      "direction": "A",
+      "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes"
+    },
+    "2509.26116": {
+      "date_added": "2026-08-06",
+      "direction": "A",
+      "title": "UncertainGen: Uncertainty-Aware Representations of DNA Sequences for Metagenomic Binning"
+    },
+    "2501.15472": {
+      "date_added": "2026-08-06",
+      "direction": "A",
+      "title": "GiantHunter: Accurate Detection of Giant Virus in Metagenomic Data Using RL"
+    },
+    "2607.01440": {
+      "date_added": "2026-08-06",
+      "direction": "B",
+      "title": "FaithMed: Training LLMs For Faithful Evidence-Based Medical Reasoning"
+    },
+    "2606.29746": {
+      "date_added": "2026-08-06",
+      "direction": "B",
+      "title": "DEEPMED Search: Agentic Platform for Medical Deep Research"
+    },
+    "2606.26205": {
+      "date_added": "2026-08-06",
+      "direction": "B",
+      "title": "Knowledge-augmented Agentic AI for Mental Health Medication"
+    },
+    "2607.25340": {
+      "date_added": "2026-08-06",
+      "direction": "B",
+      "title": "Cardiologent: Multi-Agent Clinical Decision Support for Arrhythmia"
+    },
+    "2608.03028": {
+      "date_added": "2026-08-06",
+      "direction": "C",
+      "title": "Evaluating Counterfactual Sensitivity in Medication-Safety Reasoning"
+    },
+    "2607.17270": {
+      "date_added": "2026-08-06",
+      "direction": "C",
+      "title": "Safety That Does Not Transfer: Cross-Lingual Clinical Correctness Drift"
+    },
+    "2607.15166": {
+      "date_added": "2026-08-06",
+      "direction": "C",
+      "title": "MedFailBench: Clinician-Built Benchmark for Medical AI Safety"
+    },
+    "2606.25442": {
+      "date_added": "2026-08-06",
+      "direction": "C",
+      "title": "PolicyAlign: Direct Policy-Based Safety Alignment for LLMs"
+    },
+    "2605.30963": {
+      "date_added": "2026-08-06",
+      "direction": "D",
+      "title": "AMix-2: Establishing Protein as a Native Modality in LLMs"
+    },
+    "2605.07554": {
+      "date_added": "2026-08-06",
+      "direction": "D",
+      "title": "ProteinJEPA: Latent prediction complements protein language models"
+    },
+    "2607.18835": {
+      "date_added": "2026-08-06",
+      "direction": "D",
+      "title": "ABOPD: Antibody CDR Design via On-Policy Distillation"
+    },
+    "2603.26110": {
+      "date_added": "2026-08-06",
+      "direction": "D",
+      "title": "TurboESM: Ultra-Efficient 3-Bit KV Cache Quantization for PLMs"
+    },
+    "2607.14163": {
+      "date_added": "2026-08-06",
+      "direction": "E",
+      "title": "Vision foundation model for single-cell biology via spatial gene cartography"
+    },
+    "2607.17227": {
+      "date_added": "2026-08-06",
+      "direction": "E",
+      "title": "Harmonised benchmarking of foundation models for single-cell and spatial transcriptomics"
+    },
+    "2602.09067": {
+      "date_added": "2026-08-06",
+      "direction": "E",
+      "title": "AntigenLM: Structure-Aware DNA Language Modeling for Influenza"
+    },
+    "2608.04514": {
+      "date_added": "2026-08-06",
+      "direction": "F",
+      "title": "RESPClinBench: Benchmarking Multimodal Clinical Decision-Making"
+    },
+    "2608.03322": {
+      "date_added": "2026-08-06",
+      "direction": "F",
+      "title": "LocAnyMed: Vision-Language Grounding for Multimodal Medical Images"
+    },
+    "2607.25933": {
+      "date_added": "2026-08-06",
+      "direction": "F",
+      "title": "Evaluating Multi-Turn Multimodal Diagnostic Reasoning"
+    },
+    "2607.24743": {
+      "date_added": "2026-08-06",
+      "direction": "F",
+      "title": "ClinFusion: Vision-Centric Multimodal LLM for Holistic Medical Understanding"
+    },
+    "2607.25489": {
+      "date_added": "2026-08-06",
+      "direction": "X",
+      "title": "Agentic AI in medicine: architectures, applications, evaluation"
+    },
+    "2605.03707": {
+      "date_added": "2026-08-06",
+      "direction": "X",
+      "title": "AgenticPosesRanker: Agentic AI for Protein-Ligand Pose Ranking"
     }
   },
   "42289215": {
