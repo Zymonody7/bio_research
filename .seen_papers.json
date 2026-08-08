@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1643,6 +1643,86 @@
       "date_added": "2026-08-07",
       "direction": "X",
       "title": "Deep Evolution of Viruses in AI Structure Prediction Era"
+    },
+    "10.3389/fcimb.2026.1857200": {
+      "date_added": "2026-08-08",
+      "direction": "A",
+      "title": "Development and validation of an interpretable ML model for early diagnosis of invasive pulmonary aspergillosis"
+    },
+    "10.54105/ijpmh.e1162.06050726": {
+      "date_added": "2026-08-08",
+      "direction": "A",
+      "title": "AI-Driven Multi-Omics Diagnostic Pipelines for Infectious, Neurodegenerative, and Oncological Diseases"
+    },
+    "10.3389/fsysb.2026.1892418": {
+      "date_added": "2026-08-08",
+      "direction": "B",
+      "title": "A generative AI multi-agent framework with integrated XAI governance for cancer diagnostics"
+    },
+    "10.1038/s41598-026-63525-9": {
+      "date_added": "2026-08-08",
+      "direction": "B",
+      "title": "Temporal-spatial reasoning over hypergraph knowledge structures for multimodal RAG"
+    },
+    "10.3389/frai.2026.1785766": {
+      "date_added": "2026-08-08",
+      "direction": "B",
+      "title": "Overview of RAG-based and LLM-based approaches to personalization in healthcare AI"
+    },
+    "10.64539/sjcs.v2i2.2026.506": {
+      "date_added": "2026-08-08",
+      "direction": "C",
+      "title": "D2ANN-RL: Defense-in-Depth ANN-RL Framework for LLM Chatbot Code Injection Mitigation"
+    },
+    "10.1145/3831684": {
+      "date_added": "2026-08-08",
+      "direction": "C",
+      "title": "LLMs are Also Effective Embedding Models: An In-depth Overview"
+    },
+    "10.3389/fgene.2026.1875066": {
+      "date_added": "2026-08-08",
+      "direction": "D",
+      "title": "AI in peptide cancer vaccine design: from neoantigen discovery to immunogenicity prediction"
+    },
+    "10.3389/fmicb.2026.1839420": {
+      "date_added": "2026-08-08",
+      "direction": "D",
+      "title": "TPT: a compact CNN-transformer encoder for efficient microbial small protein modeling"
+    },
+    "10.1093/bioinformatics/btag584": {
+      "date_added": "2026-08-08",
+      "direction": "E",
+      "title": "DeepGeSeq: Deep learning library for Genomic Sequence modeling and analysis"
+    },
+    "10.3390/ijms27156755": {
+      "date_added": "2026-08-08",
+      "direction": "E",
+      "title": "AI and Genomic Data Analysis: New Frontiers in Precision Medicine"
+    },
+    "10.1038/s41746-026-03030-5": {
+      "date_added": "2026-08-08",
+      "direction": "F",
+      "title": "Intersectional fairness in vision-language models for medical image disease classification"
+    },
+    "10.1007/s11263-026-02973-2": {
+      "date_added": "2026-08-08",
+      "direction": "F",
+      "title": "A Survey of Medical Vision-and-Language Applications and Their Techniques"
+    },
+    "10.3390/technologies14080464": {
+      "date_added": "2026-08-08",
+      "direction": "F",
+      "title": "Adaptive Diffusion Vision-Language Models for Reliable Medical Image Understanding"
+    },
+    "10.65649/ukh4n33x": {
+      "date_added": "2026-08-08",
+      "direction": "X",
+      "title": "A New Paradigm: Agentic AI for Scientific Discovery"
+    },
+    "10.1016/j.ibmed.2026.100442": {
+      "date_added": "2026-08-08",
+      "direction": "X",
+      "title": "AI in healthcare and drug discovery: A scoping review"
     }
   },
   "42289215": {
