@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-06",
+  "last_updated": "2026-08-07",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1583,6 +1583,66 @@
       "date_added": "2026-08-06",
       "direction": "X",
       "title": "AgenticPosesRanker: Agentic AI for Protein-Ligand Pose Ranking"
+    },
+    "10.1038/s41746-026-03058-7": {
+      "date_added": "2026-08-07",
+      "direction": "B",
+      "title": "MedKGent: LLM Agent for Temporally Evolving Medical Knowledge Graph"
+    },
+    "10.1038/s44401-026-00127-7": {
+      "date_added": "2026-08-07",
+      "direction": "B",
+      "title": "COMPOSER-LLM: LLM-Enhanced Sepsis Prediction System"
+    },
+    "10.1371/journal.pdig.0001474": {
+      "date_added": "2026-08-07",
+      "direction": "B",
+      "title": "LLM + Clinical KG for Personalized Perioperative Fluid Therapy"
+    },
+    "10.1007/s10462-026-11590-x": {
+      "date_added": "2026-08-07",
+      "direction": "C",
+      "title": "AI Safety Landscape for LLMs: Taxonomy and Future Directions"
+    },
+    "10.1038/s41746-026-02509-5": {
+      "date_added": "2026-08-07",
+      "direction": "C",
+      "title": "AI4Doctor: Clinical LLM Centered on EMR"
+    },
+    "10.1371/journal.pcbi.1014365": {
+      "date_added": "2026-08-07",
+      "direction": "D",
+      "title": "Masked PLM Multi-Site Protein Sequence Design"
+    },
+    "10.64898/2026.06.18.733146": {
+      "date_added": "2026-08-07",
+      "direction": "E",
+      "title": "VCBench: Multi-Dimensional Benchmark for Single-Cell FM"
+    },
+    "10.1093/bib/bbag367": {
+      "date_added": "2026-08-07",
+      "direction": "E",
+      "title": "Advancing Bioinformatics with Language Models"
+    },
+    "10.1007/s00247-026-06687-y": {
+      "date_added": "2026-08-07",
+      "direction": "F",
+      "title": "Zero-shot VLM for Pediatric Appendicitis Diagnosis"
+    },
+    "10.1038/s41746-026-02907-9": {
+      "date_added": "2026-08-07",
+      "direction": "F",
+      "title": "FetalCLIP: VLFM for Fetal Ultrasound"
+    },
+    "10.1038/s41392-026-02631-6": {
+      "date_added": "2026-08-07",
+      "direction": "X",
+      "title": "Multi-omics and AI for Precision Drug Discovery"
+    },
+    "10.1146/annurev-virology-100424-122154": {
+      "date_added": "2026-08-07",
+      "direction": "X",
+      "title": "Deep Evolution of Viruses in AI Structure Prediction Era"
     }
   },
   "42289215": {
