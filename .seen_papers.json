@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-08",
+  "last_updated": "2026-08-09",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1723,6 +1723,81 @@
       "date_added": "2026-08-08",
       "direction": "X",
       "title": "AI in healthcare and drug discovery: A scoping review"
+    },
+    "10.1186/s12931-026-03786-0": {
+      "date_added": "2026-08-09",
+      "direction": "A",
+      "title": "Blood-based targeted sequencing of microbial cell-free DNA in severe pneumonia-associated sepsis"
+    },
+    "10.1371/journal.pdig.0001553": {
+      "date_added": "2026-08-09",
+      "direction": "A",
+      "title": "AI risk prediction model for common respiratory pathogens in China"
+    },
+    "10.1093/bib/bbag430": {
+      "date_added": "2026-08-09",
+      "direction": "B",
+      "title": "GeneGenie: enhancing biomedical question-answering with agentic graphs"
+    },
+    "10.3389/fmed.2026.1890014": {
+      "date_added": "2026-08-09",
+      "direction": "B",
+      "title": "Retrieval-augmented clinical decision support for hip-joint disease"
+    },
+    "10.31744/einstein_journal/2026AO2175": {
+      "date_added": "2026-08-09",
+      "direction": "B",
+      "title": "Enhancing antimicrobial stewardship using RAG LLM"
+    },
+    "10.1038/s42256-026-01266-0": {
+      "date_added": "2026-08-09",
+      "direction": "B",
+      "title": "Empowering biomedical evidence exploration with deep knowledge graph research"
+    },
+    "10.1109/JBHI.2026.3707092": {
+      "date_added": "2026-08-09",
+      "direction": "C",
+      "title": "Multimodal Bidirectional DPO for Medical Imaging"
+    },
+    "10.1126/science.aec2657": {
+      "date_added": "2026-08-09",
+      "direction": "D",
+      "title": "Generative design of bacteriophages with genome language models"
+    },
+    "10.1016/j.bbapap.2026.141170": {
+      "date_added": "2026-08-09",
+      "direction": "D",
+      "title": "Local energetic frustration: Protein evolution and design in AI era"
+    },
+    "10.1016/j.xgen.2026.101329": {
+      "date_added": "2026-08-09",
+      "direction": "E",
+      "title": "PlantCAD2: DNA foundation model for flowering plants"
+    },
+    "10.1016/j.xgen.2026.101305": {
+      "date_added": "2026-08-09",
+      "direction": "E",
+      "title": "Agentic genomics: From pipeline automation to autonomous validation"
+    },
+    "10.1016/j.xcrm.2026.102969": {
+      "date_added": "2026-08-09",
+      "direction": "F",
+      "title": "Autonomous multimodal AI agent for ophthalmic diagnosis"
+    },
+    "10.3389/fmed.2026.1766266": {
+      "date_added": "2026-08-09",
+      "direction": "F",
+      "title": "Multimodal ML for pulmonary disease diagnostic accuracy"
+    },
+    "10.64898/2026.07.08.737358": {
+      "date_added": "2026-08-09",
+      "direction": "X",
+      "title": "EcoXAI: Autonomous Agentic Ecosystem for XAI and Biomedical Discovery"
+    },
+    "10.1016/j.jbiosc.2026.06.003": {
+      "date_added": "2026-08-09",
+      "direction": "X",
+      "title": "Automatic prompt engineering using multimodal LLMs for biological research"
     }
   },
   "42289215": {
