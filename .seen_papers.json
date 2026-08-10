@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-10",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1105,9 +1105,9 @@
       "title": "RAG in Healthcare: Comprehensive Review"
     },
     "10.1109/tkde.2026.3709941": {
-      "date_added": "2026-07-31",
+      "date_added": "2026-08-10",
       "direction": "C",
-      "title": "Survey on Medical LLMs: Trustworthiness and Future"
+      "title": "A Survey on Medical Large Language Models"
     },
     "10.1038/s41746-025-02008-z": {
       "date_added": "2026-07-31",
@@ -1360,7 +1360,7 @@
       "title": "VL foundation model for 3D medical imaging"
     },
     "10.1038/s41586-026-10644-y": {
-      "date_added": "2026-08-04",
+      "date_added": "2026-08-10",
       "direction": "X",
       "title": "Accelerating scientific discovery with Co-Scientist"
     },
@@ -1385,14 +1385,14 @@
       "title": "Gut microbiome metagenomics in clinical practice: bridging the gap between research and application"
     },
     "2603.05129": {
-      "date_added": "2026-08-05",
+      "date_added": "2026-08-10",
       "direction": "B",
       "title": "MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval"
     },
     "2602.09945": {
-      "date_added": "2026-08-05",
+      "date_added": "2026-08-10",
       "direction": "B",
-      "title": "Closing Reasoning Gaps in Clinical Agents with Differential Reasoning"
+      "title": "Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning"
     },
     "s41746-025-01802-z": {
       "date_added": "2026-08-05",
@@ -1485,9 +1485,9 @@
       "title": "FaithMed: Training LLMs For Faithful Evidence-Based Medical Reasoning"
     },
     "2606.29746": {
-      "date_added": "2026-08-06",
+      "date_added": "2026-08-10",
       "direction": "B",
-      "title": "DEEPMED Search: Agentic Platform for Medical Deep Research"
+      "title": "DEEPMED Search: An Open-Source Agentic Platform for Medical Deep Research"
     },
     "2606.26205": {
       "date_added": "2026-08-06",
@@ -1798,6 +1798,71 @@
       "date_added": "2026-08-09",
       "direction": "X",
       "title": "Automatic prompt engineering using multimodal LLMs for biological research"
+    },
+    "10.3390/diagnostics16070991": {
+      "date_added": "2026-08-10",
+      "direction": "A",
+      "title": "Metagenomic and Targeted Next-Generation Sequencing in Infectious Disease Diagnostics"
+    },
+    "10.3390/s25185791": {
+      "date_added": "2026-08-10",
+      "direction": "A",
+      "title": "AI-Enabled Microfluidics for Respiratory Pathogen Detection"
+    },
+    "10.7554/elife.106187": {
+      "date_added": "2026-08-10",
+      "direction": "C",
+      "title": "Critique of impure reason: Unveiling reasoning behaviour of medical LLMs"
+    },
+    "10.1126/science.aea1820": {
+      "date_added": "2026-08-10",
+      "direction": "D",
+      "title": "Rapid directed evolution guided by protein language models"
+    },
+    "10.1038/s41467-025-67971-3": {
+      "date_added": "2026-08-10",
+      "direction": "D",
+      "title": "Learning the language of protein-protein interactions"
+    },
+    "2605.28886": {
+      "date_added": "2026-08-10",
+      "direction": "D",
+      "title": "Computational Modeling of Antibody-Antigen Complexes"
+    },
+    "10.1038/s41588-025-02347-3": {
+      "date_added": "2026-08-10",
+      "direction": "E",
+      "title": "Nucleotide dependency analysis of genomic language models"
+    },
+    "10.1038/s41592-025-02881-2": {
+      "date_added": "2026-08-10",
+      "direction": "E",
+      "title": "Annotating the genome at single-nucleotide resolution with DNA foundation models"
+    },
+    "2608.05329": {
+      "date_added": "2026-08-10",
+      "direction": "E",
+      "title": "Frozen but Not Always Accessible: A Representation Analysis of Genomic Language Models"
+    },
+    "10.1038/s41746-026-02676-5": {
+      "date_added": "2026-08-10",
+      "direction": "F",
+      "title": "Key concept learning for medical vision language model"
+    },
+    "2508.05996": {
+      "date_added": "2026-08-10",
+      "direction": "F",
+      "title": "Mediator-Guided Multi-Agent Collaboration for Medical Decision-Making"
+    },
+    "10.1007/s10796-026-10741-3": {
+      "date_added": "2026-08-10",
+      "direction": "F",
+      "title": "Concept-Enhanced Multimodal RAG for Radiology Report Generation"
+    },
+    "2605.28655": {
+      "date_added": "2026-08-10",
+      "direction": "X",
+      "title": "AutoScientists: Self-Organizing Agent Teams for Scientific Experimentation"
     }
   },
   "42289215": {
