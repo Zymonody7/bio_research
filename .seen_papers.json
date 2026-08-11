@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-10",
+  "last_updated": "2026-08-11",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1863,6 +1863,96 @@
       "date_added": "2026-08-10",
       "direction": "X",
       "title": "AutoScientists: Self-Organizing Agent Teams for Scientific Experimentation"
+    },
+    "2607.15314": {
+      "date_added": "2026-08-11",
+      "direction": "B",
+      "title": "Cura 1T: Specialized Model for Agentic Healthcare"
+    },
+    "2607.15280": {
+      "date_added": "2026-08-11",
+      "direction": "B",
+      "title": "GraphDx: Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis"
+    },
+    "2606.08938": {
+      "date_added": "2026-08-11",
+      "direction": "B",
+      "title": "PACT: Learning Diverse Diagnostic Strategies via Privileged Synthesis and Branch Consensus"
+    },
+    "2606.21123": {
+      "date_added": "2026-08-11",
+      "direction": "B",
+      "title": "Multi-Agent Audit Framework for High-Stakes Reasoning in Clinical"
+    },
+    "2605.02240": {
+      "date_added": "2026-08-11",
+      "direction": "B",
+      "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments"
+    },
+    "2605.25273": {
+      "date_added": "2026-08-11",
+      "direction": "C",
+      "title": "LLM-as-a-Judge in Healthcare: Scoping Analysis"
+    },
+    "2605.10978": {
+      "date_added": "2026-08-11",
+      "direction": "D",
+      "title": "VibeProteinBench: Language-interfaced Vibe Protein Design"
+    },
+    "2604.17175": {
+      "date_added": "2026-08-11",
+      "direction": "D",
+      "title": "RosettaSearch: Multi-Objective Inference-Time Search for Protein Sequence Design"
+    },
+    "2603.26994": {
+      "date_added": "2026-08-11",
+      "direction": "D",
+      "title": "ImmSET: Sequence-Based Predictor of TCR-pMHC Specificity"
+    },
+    "2608.02615": {
+      "date_added": "2026-08-11",
+      "direction": "F",
+      "title": "OncoTriad-QA: Patient-Level Radiology-Pathology-Genomics Benchmark"
+    },
+    "2607.26886": {
+      "date_added": "2026-08-11",
+      "direction": "F",
+      "title": "Hearsay: Vision-Language Medical Diagnoses Without an Image"
+    },
+    "2607.07673": {
+      "date_added": "2026-08-11",
+      "direction": "F",
+      "title": "MedPMC: Scaling High-Fidelity Medical Multimodal Data for Foundation Models"
+    },
+    "2606.29586": {
+      "date_added": "2026-08-11",
+      "direction": "F",
+      "title": "SonoCLIP: Vision-Language Pretraining for Fetal Ultrasound"
+    },
+    "2509.25559": {
+      "date_added": "2026-08-11",
+      "direction": "F",
+      "title": "Radiology's Last Exam: Benchmarking Frontier Multimodal AI"
+    },
+    "2509.24231": {
+      "date_added": "2026-08-11",
+      "direction": "F",
+      "title": "EVLF-FM: Explainable Vision Language Foundation Model for Medicine"
+    },
+    "2604.09554": {
+      "date_added": "2026-08-11",
+      "direction": "X",
+      "title": "LABBench2: Benchmark for AI Systems Performing Biology Research"
+    },
+    "2601.12542": {
+      "date_added": "2026-08-11",
+      "direction": "X",
+      "title": "Rethinking the AI Scientist: Interactive Multi-Agent Workflows"
+    },
+    "2605.06607": {
+      "date_added": "2026-08-11",
+      "direction": "X",
+      "title": "AI CFD Scientist: Open-Ended Computational Fluid Dynamics Discovery"
     }
   },
   "42289215": {
