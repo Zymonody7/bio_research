@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2150,4 +2150,75 @@
     "direction": "X",
     "title": "DDIAgents: Mechanism-Conditioned Context Flow for Drug-Drug Interaction Prediction"
   }
-}
+,
+    "2606.22692": {
+      "date_added": "2026-08-12",
+      "direction": "B",
+      "title": "VISTA Architect: A graph database-oriented health AI system"
+    },
+    "2604.03509": {
+      "date_added": "2026-08-12",
+      "direction": "B",
+      "title": "Applications of Large Language Models in Radiation Oncology"
+    },
+    "2607.08404": {
+      "date_added": "2026-08-12",
+      "direction": "D",
+      "title": "DrugGen 2: A disease-aware language model for drug discovery"
+    },
+    "2607.12474": {
+      "date_added": "2026-08-12",
+      "direction": "D",
+      "title": "From Observation to Insight: Mechanistic World Models"
+    },
+    "2608.02684": {
+      "date_added": "2026-08-12",
+      "direction": "D",
+      "title": "A Blind Spot in Alignment: Biosecurity Risks in LLMs"
+    },
+    "2608.08366": {
+      "date_added": "2026-08-12",
+      "direction": "E",
+      "title": "VOICE: A Vision-Omics Foundation Model"
+    },
+    "2608.09722": {
+      "date_added": "2026-08-12",
+      "direction": "E",
+      "title": "Decoding Gene Regulatory Networks from Single-Cell RNA Velocity"
+    },
+    "2608.02961": {
+      "date_added": "2026-08-12",
+      "direction": "E",
+      "title": "Scaling an Autoregressive Transformer for Single-Cell Generation"
+    },
+    "2604.06569": {
+      "date_added": "2026-08-12",
+      "direction": "E",
+      "title": "ECLIPSE: A Composable Pipeline for Predicting ecDNA"
+    },
+    "2606.20164": {
+      "date_added": "2026-08-12",
+      "direction": "F",
+      "title": "MedRLM: Recursive Multimodal Health Intelligence"
+    },
+    "2606.14766": {
+      "date_added": "2026-08-12",
+      "direction": "F",
+      "title": "XMedFusion: A Knowledge-Guided Multimodal Perception"
+    },
+    "2606.13572": {
+      "date_added": "2026-08-12",
+      "direction": "F",
+      "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning"
+    },
+    "2606.11702": {
+      "date_added": "2026-08-12",
+      "direction": "F",
+      "title": "MedCTA: A Benchmark for Clinical Tool Agents"
+    },
+    "2604.07512": {
+      "date_added": "2026-08-12",
+      "direction": "X",
+      "title": "Rhizome OS-1: Semi-Autonomous Operating System for Drug Discovery"
+    }
+  }
