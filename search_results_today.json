@@ -1,0 +1,1330 @@
+[
+  {
+    "direction": "B",
+    "title": "DEEPMED Search: An Open-Source <span class=\"search-hit mathjax\">Agentic</span> Platform for <span class=\"search-hit mathjax\">Medical</span> Deep Research with Introspective Verification",
+    "id": "2606.29746",
+    "authors": "Maolin Liu, \n      \n      Fanyu Xu, \n      \n      Ruoqing Xu, \n      \n      Jiahang Zhang, \n      \n      Hao Wang, \n      \n      Rui Wang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.29746"
+  },
+  {
+    "direction": "B",
+    "title": "MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus",
+    "id": "2603.05129",
+    "authors": "Zheng Li, \n      \n      Jiayi Xu, \n      \n      Zhikai Hu, \n      \n      Hechang Chen, \n      \n      Lele Cong, \n      \n      Yunyun Wang, \n      \n      Shuchao Pang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2603.05129"
+  },
+  {
+    "direction": "B",
+    "title": "Closing Reasoning Gaps in <span class=\"search-hit mathjax\">Clinical</span> <span class=\"search-hit mathjax\">Agents</span> with Differential Reasoning Learning",
+    "id": "2602.09945",
+    "authors": "Jinsong Liu, \n      \n      Yuhang Jiang, \n      \n      Ramayya Krishnan, \n      \n      Rema Padman, \n      \n      Yiye Zhang, \n      \n      Jiang Bian",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.09945"
+  },
+  {
+    "direction": "B",
+    "title": "<span class=\"search-hit mathjax\">Agentic</span> <span class=\"search-hit mathjax\">Medical</span> <span class=\"search-hit mathjax\">Knowledge</span> <span class=\"search-hit mathjax\">Graphs</span> Enhance <span class=\"search-hit mathjax\">Medical</span> Question Answering: Bridging the Gap Between LLMs and Evolving <span class=\"search-hit mathjax\">Medical</span> <span class=\"search-hit mathjax\">Knowledge</span>",
+    "id": "2502.13010",
+    "authors": "Mohammad Reza Rezaei, \n      \n      Reza Saadati Fard, \n      \n      Jayson L. Parker, \n      \n      Rahul G. Krishnan, \n      \n      Milad Lankarany",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2502.13010"
+  },
+  {
+    "direction": "B",
+    "title": "Simulated patient systems powered by large language model-based AI <span class=\"search-hit mathjax\">agents</span> offer potential for transforming <span class=\"search-hit mathjax\">medical</span> education",
+    "id": "2409.18924",
+    "authors": "Huizi Yu, \n      \n      Jiayan Zhou, \n      \n      Lingyao Li, \n      \n      Shan Chen, \n      \n      Jack Gallifant, \n      \n      Anye Shi, \n      \n      Xiang Li, \n      \n      Jingxian He, \n      ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2409.18924"
+  },
+  {
+    "direction": "C",
+    "title": "ChiMed-GPT: A Chinese <span class=\"search-hit mathjax\">Medical</span> Large Language Model with Full Training Regime and Better <span class=\"search-hit mathjax\">Alignment</span> to Human Preferences",
+    "id": "2311.06025",
+    "authors": "Yuanhe Tian, \n      \n      Ruyi Gan, \n      \n      Yan Song, \n      \n      Jiaxing Zhang, \n      \n      Yongdong Zhang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2311.06025"
+  },
+  {
+    "direction": "D",
+    "title": "A Blind Spot in Alignment: Quantifying Biosecurity Risks in Large <span class=\"search-hit mathjax\">Language</span> <span class=\"search-hit mathjax\">Models</span>",
+    "id": "2608.02684",
+    "authors": "Shu Quan, \n      \n      Tianfang Hao, \n      \n      Sitong Fang, \n      \n      He Geng, \n      \n      Jiayi Zhou, \n      \n      Boyuan Chen, \n      \n      Kaile Wang, \n      \n      Donghai Hong, \n    ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2608.02684"
+  },
+  {
+    "direction": "D",
+    "title": "Evaluating Agentic Bioinformatics through Function, Evidence, and Validation",
+    "id": "2607.27556",
+    "authors": "Phuc Pham, \n      \n      Truong-Son Hy",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.27556"
+  },
+  {
+    "direction": "D",
+    "title": "Antigen-specific Antibody Multi-modal Foundation <span class=\"search-hit mathjax\">Model</span> for Functional Antibody <span class=\"search-hit mathjax\">Design</span>",
+    "id": "2607.20057",
+    "authors": "Xiaoliang Shi, \n      \n      Zichen Wang, \n      \n      Runze Ma, \n      \n      Zhongyue Zhang, \n      \n      Shuangjia Zheng",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.20057"
+  },
+  {
+    "direction": "D",
+    "title": "An Early Warning of Emerging Biosecurity Risks in Frontier LLMs",
+    "id": "2607.18056",
+    "authors": "Zhida He, \n      \n      Xia Hu, \n      \n      Baichen Le, \n      \n      Chunxiao Li, \n      \n      Jiajia Li, \n      \n      Lijun Li, \n      \n      Chaochao Lu, \n      \n      Jing Shao, \n      \n      ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.18056"
+  },
+  {
+    "direction": "D",
+    "title": "Preference-based Antibody Expression Ranking: Scaling with Large-scale Weak Supervision",
+    "id": "2607.16263",
+    "authors": "Josh Qixuan Sun, \n      \n      Morteza Babaie, \n      \n      Wenyang Hou, \n      \n      Mark Crowley, \n      \n      David Young",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.16263"
+  },
+  {
+    "direction": "D",
+    "title": "DrugGen 2: A disease-aware <span class=\"search-hit mathjax\">language</span> <span class=\"search-hit mathjax\">model</span> for enhancing drug discovery",
+    "id": "2607.08404",
+    "authors": "Ali Motahharynia, \n      \n      Mohammadreza Ghaffarzadeh-Esfahani, \n      \n      Mahsa Sheikholeslami, \n      \n      Navid Mazrouei, \n      \n      Matin Irajpour, \n      \n      Yousof Gheisari, \n    ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.08404"
+  },
+  {
+    "direction": "D",
+    "title": "Rethinking Scientific Discovery in the Agentic Era",
+    "id": "2607.03863",
+    "authors": "Yining Zheng, \n      \n      Yuxin Wang, \n      \n      Jiahao Lu, \n      \n      Shicheng Fang, \n      \n      Weiyi Wang, \n      \n      Yongzhuo Yang, \n      \n      Bowen Li, \n      \n      Haochen Ma, \n",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.03863"
+  },
+  {
+    "direction": "D",
+    "title": "Affinage: genome-scale mechanistic gene annotation from the published literature",
+    "id": "2607.02217",
+    "authors": "Matteo Di Bernardo, \n      \n      Iain M. Cheeseman",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.02217"
+  },
+  {
+    "direction": "D",
+    "title": "MolSafeEval: A Benchmark for Uncovering Safety Risks in AI-Generated Molecules",
+    "id": "2607.00464",
+    "authors": "Tong Xu, \n      \n      Xinzhe Cao, \n      \n      Zhihui Zhu, \n      \n      Keyan Ding, \n      \n      Huajun Chen",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.00464"
+  },
+  {
+    "direction": "D",
+    "title": "Structure-Regularized Interpretable TCR-Epitope Prediction",
+    "id": "2606.30902",
+    "authors": "Jiarui Li, \n      \n      Zixiang Yin, \n      \n      Yunbei Zhang, \n      \n      Janet Wang, \n      \n      Samuel J. Landry, \n      \n      Zhengming Ding, \n      \n      Ramgopal R. Mettu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.30902"
+  },
+  {
+    "direction": "D",
+    "title": "Two-Stage Fine-Tuning for <span class=\"search-hit mathjax\">Protein</span> Sequence Generation with Targeted Amino-Acid Composition",
+    "id": "2606.27939",
+    "authors": "Violeta Basten-Romero, \n      \n      Rub\u00e9n Mu\u00f1oz-Tafalla, \n      \n      Anna Mar\u00eda D\u00edaz-Rovira, \n      \n      Bertran Miquel-Oliver, \n      \n      Isaac Filella-Merce, \n      \n      V\u00edctor Guallar",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.27939"
+  },
+  {
+    "direction": "D",
+    "title": "Molexar: A Unified Multimodal Molecular Foundation <span class=\"search-hit mathjax\">Model</span> for Drug <span class=\"search-hit mathjax\">Design</span>",
+    "id": "2606.25865",
+    "authors": "Haoyu Lin, \n      \n      Yiyan Liao, \n      \n      Jinmei Pan, \n      \n      Xinliao Ling, \n      \n      Luhua Lai, \n      \n      Jianfeng Pei",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.25865"
+  },
+  {
+    "direction": "D",
+    "title": "Residue-Level Attributions in <span class=\"search-hit mathjax\">Protein</span> <span class=\"search-hit mathjax\">Language</span> <span class=\"search-hit mathjax\">Models</span> Do Not Recover Allergen Epitopes",
+    "id": "2606.22181",
+    "authors": "Jianzhou Yao, \n      \n      Anxiong Song, \n      \n      Katja Baerenfaller, \n      \n      Damir Zhakparov",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.22181"
+  },
+  {
+    "direction": "D",
+    "title": "BioMatrix: Towards a Comprehensive Biological Foundation <span class=\"search-hit mathjax\">Model</span> Spanning the Modality Matrix of Sequences, Structures, and <span class=\"search-hit mathjax\">Language</span>",
+    "id": "2606.22138",
+    "authors": "Qizhi Pei, \n      \n      Zhimeng Zhou, \n      \n      Yi Duan, \n      \n      Yiyang Zhao, \n      \n      Wei Li, \n      \n      Han Guo, \n      \n      Liang He, \n      \n      Chengping Li, \n      \n      ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.22138"
+  },
+  {
+    "direction": "D",
+    "title": "Be Your Own Teacher: Steering <span class=\"search-hit mathjax\">Protein</span> <span class=\"search-hit mathjax\">Language</span> <span class=\"search-hit mathjax\">Models</span> via Unsupervised Reward Optimization",
+    "id": "2606.18961",
+    "authors": "Lanqing Li, \n      \n      Shentong Mo, \n      \n      Yang Yu, \n      \n      Pheng-Ann Heng",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.18961"
+  },
+  {
+    "direction": "D",
+    "title": "Contextualizing Biological <span class=\"search-hit mathjax\">Language</span> <span class=\"search-hit mathjax\">Models</span> across Modalities via Logit-Space Contrastive Alignment",
+    "id": "2606.18703",
+    "authors": "Yanjun Shao, \n      \n      Yundi Chen, \n      \n      Yashvi Patel, \n      \n      Aurelien Pelissier, \n      \n      Mar\u00eda Rodr\u00edguez Mart\u00ednez",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.18703"
+  },
+  {
+    "direction": "D",
+    "title": "Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial <span class=\"search-hit mathjax\">protein</span> universe",
+    "id": "2606.12209",
+    "authors": "Yue Hu, \n      \n      Wanyu Cheng, \n      \n      Junqing Wang, \n      \n      Yingchao Liu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.12209"
+  },
+  {
+    "direction": "D",
+    "title": "Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics",
+    "id": "2606.11833",
+    "authors": "Sam Gijsen, \n      \n      Micha\u0142 \u0141ukomski, \n      \n      Marc-Andr\u00e9 Schulz, \n      \n      Kerstin Ritter",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.11833"
+  },
+  {
+    "direction": "D",
+    "title": "SurfDesign: Effective <span class=\"search-hit mathjax\">Protein</span> <span class=\"search-hit mathjax\">Design</span> on Molecular Surfaces",
+    "id": "2606.07567",
+    "authors": "Fang Wu, \n      \n      Shuting Jin, \n      \n      Xiangru Tang, \n      \n      Mark Gerstein, \n      \n      Xiangxiang Zeng, \n      \n      Yejin Choi, \n      \n      Jure Leskovec, \n      \n      Jinbo X",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.07567"
+  },
+  {
+    "direction": "D",
+    "title": "AgentPLM: Agentic <span class=\"search-hit mathjax\">Protein</span> <span class=\"search-hit mathjax\">Language</span> <span class=\"search-hit mathjax\">Models</span> with Reasoning-Augmented Decoding for <span class=\"search-hit mathjax\">Protein</span> Sequence <span class=\"search-hit mathjax\">Design</span>",
+    "id": "2606.02386",
+    "authors": "Sahil Rahman, \n      \n      Maxx Richard Rahman",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.02386"
+  },
+  {
+    "direction": "D",
+    "title": "AMix-2: Establishing <span class=\"search-hit mathjax\">Protein</span> as a Native Modality in Large <span class=\"search-hit mathjax\">Language</span> <span class=\"search-hit mathjax\">Models</span>",
+    "id": "2605.30963",
+    "authors": "Keyue Qiu, \n      \n      Yixin Wu, \n      \n      Lihao Wang, \n      \n      Yawen Ouyang, \n      \n      Jixiang Yu, \n      \n      Zihan Zhou, \n      \n      Changze Lv, \n      \n      Dongyu Xue, \n      ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.30963"
+  },
+  {
+    "direction": "D",
+    "title": "Computational <span class=\"search-hit mathjax\">Modeling</span> of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches",
+    "id": "2605.28886",
+    "authors": "Xiao Luo",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.28886"
+  },
+  {
+    "direction": "D",
+    "title": "AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation",
+    "id": "2605.28655",
+    "authors": "Shanghua Gao, \n      \n      Ada Fang, \n      \n      Marinka Zitnik",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.28655"
+  },
+  {
+    "direction": "D",
+    "title": "Ligand-Conditioned Discrete Diffusion for <span class=\"search-hit mathjax\">Protein</span> Sequence-Structure Co-<span class=\"search-hit mathjax\">Design</span>",
+    "id": "2605.27413",
+    "authors": "Chen Wei, \n      \n      Fanding Xu, \n      \n      Minghao Sun, \n      \n      Zhiyuan Liu, \n      \n      Lin Wang, \n      \n      Tianrui Jia, \n      \n      Yihang Zhou, \n      \n      Yang Zhang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.27413"
+  },
+  {
+    "direction": "D",
+    "title": "Multimodal Alignment and Preference Optimization for Zero-Shot Conditional RNA Generation",
+    "id": "2605.23961",
+    "authors": "Roman Klypa, \n      \n      Alberto Bietti, \n      \n      Sergei Grudinin",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.23961"
+  },
+  {
+    "direction": "D",
+    "title": "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion",
+    "id": "2605.23346",
+    "authors": "Jaihoon Kim, \n      \n      Taehoon Yoon, \n      \n      Prin Phunyaphibarn, \n      \n      Seungjun Kim, \n      \n      Morteza Mardani, \n      \n      Minhyuk Sung",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.23346"
+  },
+  {
+    "direction": "D",
+    "title": "EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR <span class=\"search-hit mathjax\">Design</span> via <span class=\"search-hit mathjax\">Protein</span> <span class=\"search-hit mathjax\">Language</span> <span class=\"search-hit mathjax\">Model</span> Adaptation",
+    "id": "2605.21485",
+    "authors": "Mansoor Ahmed, \n      \n      Sujin Lee, \n      \n      Umar Khayaz, \n      \n      Murray Patterson",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.21485"
+  },
+  {
+    "direction": "D",
+    "title": "Towards Discovery of Polymers for Insulin Delivery via Physics-Grounded Agentic Workflows",
+    "id": "2605.18831",
+    "authors": "Martins Otun",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.18831"
+  },
+  {
+    "direction": "D",
+    "title": "VQ-Atom: Semantic Discretization of Local Atomic Environments for Molecular Representation Learning",
+    "id": "2605.16823",
+    "authors": "Takayuki Kimura",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.16823"
+  },
+  {
+    "direction": "D",
+    "title": "BioXArena: Benchmarking LLM Agents on Multi-Modal Biomedical Machine Learning Tasks",
+    "id": "2605.15766",
+    "authors": "Loka Li, \n      \n      Duzhen Zhang, \n      \n      Xingbo Du, \n      \n      Leonard Song, \n      \n      Zixiao Wang, \n      \n      Assanali Aukenov, \n      \n      Noel Thomas, \n      \n      Shakhnazar",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.15766"
+  },
+  {
+    "direction": "D",
+    "title": "MetaGEM: Bottom-Up Reconstruction of Genome-Scale Metabolic Networks via Deep Enzyme-Metabolite Anchoring",
+    "id": "2605.14812",
+    "authors": "Weiyu Xiao, \n      \n      Jiangbin Zheng, \n      \n      Stan Z. Li",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.14812"
+  },
+  {
+    "direction": "D",
+    "title": "ENSEMBITS: an alphabet of <span class=\"search-hit mathjax\">protein</span> conformational ensembles",
+    "id": "2605.13789",
+    "authors": "Kaiwen Shi, \n      \n      Carlos Oliver",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.13789"
+  },
+  {
+    "direction": "D",
+    "title": "ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery",
+    "id": "2605.12784",
+    "authors": "Andrew Y. Zhou, \n      \n      Sharvaree Vadgama, \n      \n      Sumanth Varambally, \n      \n      Peter Eckmann, \n      \n      Michael K. Gilson, \n      \n      Rose Yu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.12784"
+  },
+  {
+    "direction": "D",
+    "title": "Decomposing the Generalization Gap in PROTAC Activity Prediction: Variance Attribution and the Inter-Laboratory Ceiling",
+    "id": "2605.11764",
+    "authors": "Thor Klamt, \n      \n      Wolfgang Nejdl, \n      \n      Ming Tang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.11764"
+  },
+  {
+    "direction": "D",
+    "title": "VibeProteinBench: An Evaluation Benchmark for <span class=\"search-hit mathjax\">Language</span>-interfaced Vibe <span class=\"search-hit mathjax\">Protein</span> <span class=\"search-hit mathjax\">Design</span>",
+    "id": "2605.10978",
+    "authors": "Hyunjin Seo, \n      \n      Hongjoon Ahn, \n      \n      Jimin Park, \n      \n      Sungjun Han, \n      \n      Gyubok Lee, \n      \n      Soojung Yang, \n      \n      Joseph S Brown, \n      \n      Leo Chen",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.10978"
+  },
+  {
+    "direction": "D",
+    "title": "ProteinOPD: Towards Effective and Efficient Preference Alignment for <span class=\"search-hit mathjax\">Protein</span> <span class=\"search-hit mathjax\">Design</span>",
+    "id": "2605.10189",
+    "authors": "Yulin Zhang, \n      \n      He Cao, \n      \n      Zihao Jiang, \n      \n      Chenyi Zi, \n      \n      Zhipeng Zhou, \n      \n      Zijing Liu, \n      \n      Yu Li, \n      \n      Jia Li, \n      \n      Zi",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.10189"
+  },
+  {
+    "direction": "D",
+    "title": "POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles",
+    "id": "2605.07775",
+    "authors": "Nicolas Menet, \n      \n      Andreas Krause, \n      \n      Abbas Rahimi",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.07775"
+  },
+  {
+    "direction": "D",
+    "title": "ProteinJEPA: Latent prediction complements <span class=\"search-hit mathjax\">protein</span> <span class=\"search-hit mathjax\">language</span> <span class=\"search-hit mathjax\">models</span>",
+    "id": "2605.07554",
+    "authors": "Dan Ofer, \n      \n      Dafna Shahaf, \n      \n      Michal Linial",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.07554"
+  },
+  {
+    "direction": "D",
+    "title": "Self-Driving Datasets: From 20 Million Papers to Nuanced Biomedical Knowledge at Scale",
+    "id": "2605.07022",
+    "authors": "Haydn Jones, \n      \n      Yimeng Zeng, \n      \n      Alden Rose, \n      \n      Li S. Yifei, \n      \n      Yining Huang, \n      \n      Kaiwen Wu, \n      \n      Jiaming Liang, \n      \n      Maggie Ziyu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.07022"
+  },
+  {
+    "direction": "D",
+    "title": "Conditional generation of antibody sequences with classifier-guided germline-absorbing discrete diffusion",
+    "id": "2605.06720",
+    "authors": "Justin Sanders, \n      \n      Luca Giancardo, \n      \n      Lan Guo, \n      \n      Yue Zhao, \n      \n      Kemal Sonmez, \n      \n      Nina Cheng, \n      \n      Melih Yilmaz",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.06720"
+  },
+  {
+    "direction": "D",
+    "title": "AgenticPosesRanker: An Agentic AI Framework for Physically Grounded Ranking of <span class=\"search-hit mathjax\">Protein</span>-Ligand Docking Poses",
+    "id": "2605.03707",
+    "authors": "Sofiene Khiari, \n      \n      Amr H. Mahmoud, \n      \n      Markus A. Lill",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.03707"
+  },
+  {
+    "direction": "D",
+    "title": "Proteo-R1: Reasoning Foundation <span class=\"search-hit mathjax\">Models</span> for De Novo <span class=\"search-hit mathjax\">Protein</span> <span class=\"search-hit mathjax\">Design</span>",
+    "id": "2605.02937",
+    "authors": "Fang Wu, \n      \n      Weihao Xuan, \n      \n      Heli Qi, \n      \n      Hanqun Cao, \n      \n      Heng-Jui Chang, \n      \n      Zeqi Zhou, \n      \n      Haokai Zhao, \n      \n      Ma Jian, \n      \n  ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.02937"
+  },
+  {
+    "direction": "D",
+    "title": "Co-Generative De Novo Functional <span class=\"search-hit mathjax\">Protein</span> <span class=\"search-hit mathjax\">Design</span>",
+    "id": "2605.00948",
+    "authors": "Xinrui Chen, \n      \n      Yizhen Luo, \n      \n      Siqi Fan, \n      \n      Zaiqing Nie",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.00948"
+  },
+  {
+    "direction": "D",
+    "title": "Dual Triangle Attention: Effective Bidirectional Attention Without Positional Embeddings",
+    "id": "2604.18603",
+    "authors": "Logan Hallee, \n      \n      Jason P. Gleghorn",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.18603"
+  },
+  {
+    "direction": "D",
+    "title": "RosettaSearch: Multi-Objective Inference-Time Search for <span class=\"search-hit mathjax\">Protein</span> Sequence <span class=\"search-hit mathjax\">Design</span>",
+    "id": "2604.17175",
+    "authors": "Meghana Kshirsagar, \n      \n      Allen Nie, \n      \n      Ching-An Cheng, \n      \n      Fanglei Xue, \n      \n      Rahul Dodhia, \n      \n      Juan Lavista Ferres, \n      \n      Kevin K. Yang, \n     ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.17175"
+  },
+  {
+    "direction": "D",
+    "title": "Calibrated Abstention for Reliable TCR--pMHC Binding Prediction under Epitope Shift",
+    "id": "2604.13254",
+    "authors": "Arman Bekov, \n      \n      Timur Bekzhanov, \n      \n      Bekzat Sadykov",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.13254"
+  },
+  {
+    "direction": "D",
+    "title": "CAGenMol: Condition-Aware Diffusion <span class=\"search-hit mathjax\">Language</span> <span class=\"search-hit mathjax\">Model</span> for Goal-Directed Molecular Generation",
+    "id": "2604.11483",
+    "authors": "Yanting Li, \n      \n      Zhuoyang Jiang, \n      \n      Enyan Dai, \n      \n      Lei Wang, \n      \n      Wen-Cai Ye, \n      \n      Li Liu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.11483"
+  },
+  {
+    "direction": "D",
+    "title": "Biologically-Grounded Multi-Encoder Architectures as Developability Oracles for Antibody <span class=\"search-hit mathjax\">Design</span>",
+    "id": "2604.09369",
+    "authors": "Simon J. Crouzet",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.09369"
+  },
+  {
+    "direction": "D",
+    "title": "Flow Learners for PDEs: Toward a Physics-to-Physics Paradigm for Scientific Computing",
+    "id": "2604.07366",
+    "authors": "Yilong Dai, \n      \n      Shengyu Chen, \n      \n      Xiaowei Jia, \n      \n      Runlong Yu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.07366"
+  },
+  {
+    "direction": "D",
+    "title": "DrugPlayGround: Benchmarking Large <span class=\"search-hit mathjax\">Language</span> <span class=\"search-hit mathjax\">Models</span> and Embeddings for Drug Discovery",
+    "id": "2604.02346",
+    "authors": "Tianyu Liu, \n      \n      Sihan Jiang, \n      \n      Fan Zhang, \n      \n      Kunyang Sun, \n      \n      Teresa Head-Gordon, \n      \n      Hongyu Zhao",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.02346"
+  },
+  {
+    "direction": "E",
+    "title": "Frozen but Not Always Accessible: A Representation Analysis of <span class=\"search-hit mathjax\">Genomic</span> Language <span class=\"search-hit mathjax\">Models</span>",
+    "id": "2608.05329",
+    "authors": "Nirjhor Datta, \n      \n      Swakkhar Shatabda, \n      \n      M. Sohel Rahman",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2608.05329"
+  },
+  {
+    "direction": "E",
+    "title": "<span class=\"search-hit mathjax\">DNA</span> Language <span class=\"search-hit mathjax\">Models</span>: An Assessment of Pre-Training for Fine-Tuning Tasks",
+    "id": "2606.30140",
+    "authors": "Romain Karpinsky, \n      \n      Julien Mozziconacci, \n      \n      Micka\u00ebl Delcey",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.30140"
+  },
+  {
+    "direction": "E",
+    "title": "How Post-Training Shapes Biological Reasoning <span class=\"search-hit mathjax\">Models</span>",
+    "id": "2606.16517",
+    "authors": "Lukas Fesser, \n      \n      Hanlin Zhang, \n      \n      Michelle M. Li, \n      \n      Eric Wang, \n      \n      Bryan Perozzi, \n      \n      Shekoofeh Azizi, \n      \n      Sham M. Kakade, \n      \n     ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.16517"
+  },
+  {
+    "direction": "E",
+    "title": "LDARNet: <span class=\"search-hit mathjax\">DNA</span> Adaptive Representation Network with Learnable Tokenization for <span class=\"search-hit mathjax\">Genomic</span> <span class=\"search-hit mathjax\">Modeling</span>",
+    "id": "2606.04552",
+    "authors": "Daria Ledneva, \n      \n      Denis Kuznetsov",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.04552"
+  },
+  {
+    "direction": "E",
+    "title": "TaxDistill: Improving Metagenomic Taxonomic Annotation via Distilled <span class=\"search-hit mathjax\">Genomic</span> <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Models</span>",
+    "id": "2605.28868",
+    "authors": "Rongye Ye, \n      \n      Lun Li, \n      \n      Zheng Luo, \n      \n      Yiran Zhan, \n      \n      Shuhui Song",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.28868"
+  },
+  {
+    "direction": "E",
+    "title": "In Search of Lost <span class=\"search-hit mathjax\">DNA</span> Sequence Pretraining",
+    "id": "2604.16570",
+    "authors": "Zhijiang Tang, \n      \n      Jiaxin Qi, \n      \n      Yan Cui, \n      \n      Jinli Ou, \n      \n      Yuhua Zheng, \n      \n      Jianqiang Huang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.16570"
+  },
+  {
+    "direction": "E",
+    "title": "ECLIPSE: A Composable Pipeline for Predicting ecDNA Formation, Evolution, and Therapeutic Vulnerabilities in Cancer",
+    "id": "2604.06569",
+    "authors": "Bryan Cheng, \n      \n      Jasper Zhang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.06569"
+  },
+  {
+    "direction": "E",
+    "title": "Entropy, Disagreement, and the Limits of <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Models</span> in <span class=\"search-hit mathjax\">Genomics</span>",
+    "id": "2604.04287",
+    "authors": "Maxime Rochkoulets, \n      \n      Lovro Vr\u010dek, \n      \n      Mile \u0160iki\u0107",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.04287"
+  },
+  {
+    "direction": "E",
+    "title": "Poisoning the <span class=\"search-hit mathjax\">Genome</span>: Targeted Backdoor Attacks on <span class=\"search-hit mathjax\">DNA</span> <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Models</span>",
+    "id": "2603.27465",
+    "authors": "Charalampos Koilakos, \n      \n      Ioannis Mouratidis, \n      \n      Ilias Georgakopoulos-Soares",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2603.27465"
+  },
+  {
+    "direction": "E",
+    "title": "How Private Are <span class=\"search-hit mathjax\">DNA</span> Embeddings? Inverting <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Model</span> Representations of <span class=\"search-hit mathjax\">Genomic</span> Sequences",
+    "id": "2603.06950",
+    "authors": "Sofiane Ouaari, \n      \n      Jules Kreuer, \n      \n      Nico Pfeifer",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2603.06950"
+  },
+  {
+    "direction": "E",
+    "title": "JEPA-<span class=\"search-hit mathjax\">DNA</span>: Grounding <span class=\"search-hit mathjax\">Genomic</span> <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Models</span> through Joint-Embedding Predictive Architectures",
+    "id": "2602.17162",
+    "authors": "Ariel Larey, \n      \n      Elay Dahan, \n      \n      Amit Bleiweiss, \n      \n      Raizy Kellerman, \n      \n      Guy Leib, \n      \n      Omri Nayshool, \n      \n      Dan Ofer, \n      \n      Tal Zinge",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.17162"
+  },
+  {
+    "direction": "E",
+    "title": "dnaHNet: A Scalable and Hierarchical <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Model</span> for <span class=\"search-hit mathjax\">Genomic</span> Sequence Learning",
+    "id": "2602.10603",
+    "authors": "Arnav Shah, \n      \n      Junzhe Li, \n      \n      Parsa Idehpour, \n      \n      Adibvafa Fallahpour, \n      \n      Brandon Wang, \n      \n      Sukjun Hwang, \n      \n      Bo Wang, \n      \n      Patri",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.10603"
+  },
+  {
+    "direction": "E",
+    "title": "STRAND: Sequence-Conditioned Transport for Single-Cell Perturbations",
+    "id": "2602.10156",
+    "authors": "Boyang Fu, \n      \n      George Dasoulas, \n      \n      Sameer Gabbita, \n      \n      Xiang Lin, \n      \n      Shanghua Gao, \n      \n      Xiaorui Su, \n      \n      Soumya Ghosh, \n      \n      Marinka",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.10156"
+  },
+  {
+    "direction": "E",
+    "title": "AntigenLM: Structure-Aware <span class=\"search-hit mathjax\">DNA</span> Language <span class=\"search-hit mathjax\">Modeling</span> for Influenza",
+    "id": "2602.09067",
+    "authors": "Yue Pei, \n      \n      Xuebin Chi, \n      \n      Yu Kang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.09067"
+  },
+  {
+    "direction": "E",
+    "title": "Rethinking <span class=\"search-hit mathjax\">Genomic</span> <span class=\"search-hit mathjax\">Modeling</span> Through Optical Character Recognition",
+    "id": "2602.02014",
+    "authors": "Hongxin Xiang, \n      \n      Pengsen Ma, \n      \n      Yunkang Cao, \n      \n      Di Yu, \n      \n      Haowen Chen, \n      \n      Xinyu Yang, \n      \n      Xiangxiang Zeng",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.02014"
+  },
+  {
+    "direction": "E",
+    "title": "DNATokenizer: A GPU-First Byte-to-Identifier Tokenizer for High-Throughput <span class=\"search-hit mathjax\">DNA</span> Language <span class=\"search-hit mathjax\">Models</span>",
+    "id": "2601.05531",
+    "authors": "Eliatan Niktab, \n      \n      Hardip Patel",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2601.05531"
+  },
+  {
+    "direction": "E",
+    "title": "MetagenBERT: a Transformer-based Architecture using <span class=\"search-hit mathjax\">Foundational</span> <span class=\"search-hit mathjax\">genomic</span> Large Language <span class=\"search-hit mathjax\">Models</span> for novel Metagenome Representation",
+    "id": "2601.03295",
+    "authors": "Gaspar Roy, \n      \n      Eugeni Belda, \n      \n      Baptiste Hennecart, \n      \n      Yann Chevaleyre, \n      \n      Edi Prifti, \n      \n      Jean-Daniel Zucker",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2601.03295"
+  },
+  {
+    "direction": "E",
+    "title": "Central Dogma Transformer: Towards Mechanism-Oriented AI for Cellular Understanding",
+    "id": "2601.01089",
+    "authors": "Nobuyuki Ota",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2601.01089"
+  },
+  {
+    "direction": "E",
+    "title": "BarcodeMamba+: Advancing State-Space <span class=\"search-hit mathjax\">Models</span> for Fungal Biodiversity Research",
+    "id": "2512.15931",
+    "authors": "Tiancheng Gao, \n      \n      Scott C. Lowe, \n      \n      Brendan Furneaux, \n      \n      Angel X Chang, \n      \n      Graham W. Taylor",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2512.15931"
+  },
+  {
+    "direction": "E",
+    "title": "PlantBiMoE: A Bidirectional <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Model</span> with SparseMoE for Plant <span class=\"search-hit mathjax\">Genomes</span>",
+    "id": "2512.07113",
+    "authors": "Kepeng Lin, \n      \n      Qizhe Zhang, \n      \n      Rui Wang, \n      \n      Xuehai Hu, \n      \n      Wei Xu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2512.07113"
+  },
+  {
+    "direction": "E",
+    "title": "Nature of frontier quasi-particle states in nitrogen-base systems",
+    "id": "2511.23171",
+    "authors": "Raul Quintero-Monsebaiz, \n      \n      Per Hyldgaard, \n      \n      Elsebeth Schr\u00f6der",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2511.23171"
+  },
+  {
+    "direction": "E",
+    "title": "MergeDNA: Context-aware <span class=\"search-hit mathjax\">Genome</span> <span class=\"search-hit mathjax\">Modeling</span> with Dynamic Tokenization through Token Merging",
+    "id": "2511.14806",
+    "authors": "Siyuan Li, \n      \n      Kai Yu, \n      \n      Anna Wang, \n      \n      Zicheng Liu, \n      \n      Chang Yu, \n      \n      Jingbo Zhou, \n      \n      Qirong Yang, \n      \n      Yucheng Guo, \n      \n  ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2511.14806"
+  },
+  {
+    "direction": "E",
+    "title": "Automated <span class=\"search-hit mathjax\">Genomic</span> Interpretation via Concept Bottleneck <span class=\"search-hit mathjax\">Models</span> for Medical Robotics",
+    "id": "2510.01618",
+    "authors": "Zijun Li, \n      \n      Jinchang Zhang, \n      \n      Ming Zhang, \n      \n      Guoyu Lu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2510.01618"
+  },
+  {
+    "direction": "E",
+    "title": "nDNA -- the Semantic Helix of Artificial Cognition",
+    "id": "2509.18216",
+    "authors": "Amitava Das",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2509.18216"
+  },
+  {
+    "direction": "E",
+    "title": "<span class=\"search-hit mathjax\">Genome</span>-Factory: A Library for Tuning, Deploying, and Interpreting <span class=\"search-hit mathjax\">Genomic</span> <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Models</span>",
+    "id": "2509.12266",
+    "authors": "Weimin Wu, \n      \n      Xuefeng Song, \n      \n      Yibo Wen, \n      \n      Qinjie Lin, \n      \n      Zhihan Zhou, \n      \n      Jerry Yao-Chieh Hu, \n      \n      Zhong Wang, \n      \n      Han Liu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2509.12266"
+  },
+  {
+    "direction": "E",
+    "title": "NucEL: Single-Nucleotide ELECTRA-Style <span class=\"search-hit mathjax\">Genomic</span> Pre-training for Efficient and Interpretable Representations",
+    "id": "2508.13191",
+    "authors": "Ke Ding, \n      \n      Brian Parker, \n      \n      Jiayu Wen",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2508.13191"
+  },
+  {
+    "direction": "E",
+    "title": "TrinityDNA: A Bio-Inspired <span class=\"search-hit mathjax\">Foundational</span> <span class=\"search-hit mathjax\">Model</span> for Efficient Long-Sequence <span class=\"search-hit mathjax\">DNA</span> <span class=\"search-hit mathjax\">Modeling</span>",
+    "id": "2507.19229",
+    "authors": "Qirong Yang, \n      \n      Yucheng Guo, \n      \n      Zicheng Liu, \n      \n      Yujie Yang, \n      \n      Qijin Yin, \n      \n      Siyuan Li, \n      \n      Shaomin Ji, \n      \n      Linlin Chao, \n   ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2507.19229"
+  },
+  {
+    "direction": "E",
+    "title": "Hybrid Tokenization Strategy for <span class=\"search-hit mathjax\">DNA</span> Language <span class=\"search-hit mathjax\">Model</span> using Byte Pair Encoding and K-MER Methods",
+    "id": "2507.18570",
+    "authors": "Ganesh Sapkota, \n      \n      Md Hasibur Rahman",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2507.18570"
+  },
+  {
+    "direction": "E",
+    "title": "CircFormerMoE: An End-to-End Deep Learning Framework for Circular RNA Splice Site Detection and Pairing in Plant <span class=\"search-hit mathjax\">Genomes</span>",
+    "id": "2507.08542",
+    "authors": "Tianyou Jiang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2507.08542"
+  },
+  {
+    "direction": "E",
+    "title": "BMFM-<span class=\"search-hit mathjax\">DNA</span>: A SNP-aware <span class=\"search-hit mathjax\">DNA</span> <span class=\"search-hit mathjax\">foundation</span> <span class=\"search-hit mathjax\">model</span> to capture variant effects",
+    "id": "2507.05265",
+    "authors": "Hongyang Li, \n      \n      Sanjoy Dey, \n      \n      Bum Chul Kwon, \n      \n      Michael Danziger, \n      \n      Michal Rosen-Tzvi, \n      \n      Jianying Hu, \n      \n      James Kozloski, \n      \n  ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2507.05265"
+  },
+  {
+    "direction": "E",
+    "title": "SPACE: Your <span class=\"search-hit mathjax\">Genomic</span> Profile Predictor is a Powerful <span class=\"search-hit mathjax\">DNA</span> <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Model</span>",
+    "id": "2506.01833",
+    "authors": "Zhao Yang, \n      \n      Jiwei Zhu, \n      \n      Bing Su",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2506.01833"
+  },
+  {
+    "direction": "E",
+    "title": "GeneBreaker: Jailbreak Attacks against <span class=\"search-hit mathjax\">DNA</span> Language <span class=\"search-hit mathjax\">Models</span> with Pathogenicity Guidance",
+    "id": "2505.23839",
+    "authors": "Zaixi Zhang, \n      \n      Zhenghong Zhou, \n      \n      Ruofan Jin, \n      \n      Le Cong, \n      \n      Mengdi Wang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2505.23839"
+  },
+  {
+    "direction": "E",
+    "title": "BioReason: Incentivizing Multimodal Biological Reasoning within a <span class=\"search-hit mathjax\">DNA</span>-LLM <span class=\"search-hit mathjax\">Model</span>",
+    "id": "2505.23579",
+    "authors": "Adibvafa Fallahpour, \n      \n      Andrew Magnuson, \n      \n      Purav Gupta, \n      \n      Shihao Ma, \n      \n      Jack Naimer, \n      \n      Arnav Shah, \n      \n      Haonan Duan, \n      \n      Om",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2505.23579"
+  },
+  {
+    "direction": "E",
+    "title": "JanusDNA: A Powerful Bi-directional Hybrid <span class=\"search-hit mathjax\">DNA</span> <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Model</span>",
+    "id": "2505.17257",
+    "authors": "Qihao Duan, \n      \n      Bingding Huang, \n      \n      Zhenqiao Song, \n      \n      Irina Lehmann, \n      \n      Lei Gu, \n      \n      Roland Eils, \n      \n      Benjamin Wild",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2505.17257"
+  },
+  {
+    "direction": "E",
+    "title": "OmniGenBench: A Modular Platform for Reproducible <span class=\"search-hit mathjax\">Genomic</span> <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Models</span> Benchmarking",
+    "id": "2505.14402",
+    "authors": "Heng Yang, \n      \n      Jack Cole, \n      \n      Yuan Li, \n      \n      Renzhi Chen, \n      \n      Geyong Min, \n      \n      Ke Li",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2505.14402"
+  },
+  {
+    "direction": "E",
+    "title": "Multi-modal single-cell <span class=\"search-hit mathjax\">foundation</span> <span class=\"search-hit mathjax\">models</span> via dynamic token adaptation",
+    "id": "2504.13049",
+    "authors": "Wenmin Zhao, \n      \n      Ana Solaguren-Beascoa, \n      \n      Grant Neilson, \n      \n      Louwai Muhammed, \n      \n      Liisi Laaniste, \n      \n      Sera Aylin Cakiroglu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2504.13049"
+  },
+  {
+    "direction": "E",
+    "title": "GENERator: A Long-Context Generative <span class=\"search-hit mathjax\">Genomic</span> <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Model</span>",
+    "id": "2502.07272",
+    "authors": "Wei Wu, \n      \n      Qiuyi Li, \n      \n      Yuanyuan Zhang, \n      \n      Zhihao Zhan, \n      \n      Ruipu Chen, \n      \n      Mingyang Li, \n      \n      Kun Fu, \n      \n      Junyan Qi, \n      \n   ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2502.07272"
+  },
+  {
+    "direction": "E",
+    "title": "Omni-<span class=\"search-hit mathjax\">DNA</span>: A Unified <span class=\"search-hit mathjax\">Genomic</span> <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Model</span> for Cross-Modal and Multi-Task Learning",
+    "id": "2502.03499",
+    "authors": "Zehui Li, \n      \n      Vallijah Subasri, \n      \n      Yifei Shen, \n      \n      Dongsheng Li, \n      \n      Yiren Zhao, \n      \n      Guy-Bart Stan, \n      \n      Caihua Shan",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2502.03499"
+  },
+  {
+    "direction": "E",
+    "title": "Human <span class=\"search-hit mathjax\">Genome</span> Book: Words, Sentences and Paragraphs",
+    "id": "2501.16982",
+    "authors": "Wang Liang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2501.16982"
+  },
+  {
+    "direction": "E",
+    "title": "METAGENE-1: Metagenomic <span class=\"search-hit mathjax\">Foundation</span> <span class=\"search-hit mathjax\">Model</span> for Pandemic Monitoring",
+    "id": "2501.02045",
+    "authors": "Ollie Liu, \n      \n      Sami Jaghouar, \n      \n      Johannes Hagemann, \n      \n      Shangshang Wang, \n      \n      Jason Wiemels, \n      \n      Jeff Kaufman, \n      \n      Willie Neiswanger",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2501.02045"
+  },
+  {
+    "direction": "E",
+    "title": "<span class=\"search-hit mathjax\">Model</span> Decides How to Tokenize: Adaptive <span class=\"search-hit mathjax\">DNA</span> Sequence Tokenization with MxDNA",
+    "id": "2412.13716",
+    "authors": "Lifeng Qiao, \n      \n      Peng Ye, \n      \n      Yuchen Ren, \n      \n      Weiqiang Bai, \n      \n      Chaoqi Liang, \n      \n      Xinzhu Ma, \n      \n      Nanqing Dong, \n      \n      Wanli Ouyang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2412.13716"
+  },
+  {
+    "direction": "E",
+    "title": "Artificial Intelligence for Central Dogma-Centric Multi-Omics: Challenges and Breakthroughs",
+    "id": "2412.12668",
+    "authors": "Lei Xin, \n      \n      Caiyun Huang, \n      \n      Hao Li, \n      \n      Shihong Huang, \n      \n      Yuling Feng, \n      \n      Zhenglun Kong, \n      \n      Zicheng Liu, \n      \n      Siyuan Li, \n   ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2412.12668"
+  },
+  {
+    "direction": "E",
+    "title": "BarcodeMamba: State Space <span class=\"search-hit mathjax\">Models</span> for Biodiversity Analysis",
+    "id": "2412.11084",
+    "authors": "Tiancheng Gao, \n      \n      Graham W. Taylor",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2412.11084"
+  },
+  {
+    "direction": "E",
+    "title": "A multimodal ensemble approach for clear cell renal cell carcinoma treatment outcome prediction",
+    "id": "2412.07136",
+    "authors": "Meixu Chen, \n      \n      Kai Wang, \n      \n      Payal Kapur, \n      \n      James Brugarolas, \n      \n      Raquibul Hannan, \n      \n      Jing Wang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2412.07136"
+  },
+  {
+    "direction": "E",
+    "title": "Does your <span class=\"search-hit mathjax\">model</span> understand genes? A benchmark of gene properties for biological and text <span class=\"search-hit mathjax\">models</span>",
+    "id": "2412.04075",
+    "authors": "Yoav Kan-Tor, \n      \n      Michael Morris Danziger, \n      \n      Eden Zohar, \n      \n      Matan Ninio, \n      \n      Yishai Shimoni",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2412.04075"
+  },
+  {
+    "direction": "E",
+    "title": "Revisiting K-mer Profile for Effective and Scalable <span class=\"search-hit mathjax\">Genome</span> Representation Learning",
+    "id": "2411.02125",
+    "authors": "Abdulkadir Celikkanat, \n      \n      Andres R. Masegosa, \n      \n      Thomas D. Nielsen",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2411.02125"
+  },
+  {
+    "direction": "E",
+    "title": "Condensation and activator/repressor control of a transcription-regulated biomolecular liquid",
+    "id": "2410.21624",
+    "authors": "Sam Wilken, \n      \n      Gabrielle R. Abraham, \n      \n      Omar A. Saleh",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2410.21624"
+  },
+  {
+    "direction": "E",
+    "title": "<span class=\"search-hit mathjax\">DNA</span> Language <span class=\"search-hit mathjax\">Model</span> and Interpretable Graph Neural Network Identify Genes and Pathways Involved in Rare Diseases",
+    "id": "2410.15367",
+    "authors": "Ali Saadat, \n      \n      Jacques Fellay",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2410.15367"
+  },
+  {
+    "direction": "E",
+    "title": "dnaGrinder: a lightweight and high-capacity <span class=\"search-hit mathjax\">genomic</span> <span class=\"search-hit mathjax\">foundation</span> <span class=\"search-hit mathjax\">model</span>",
+    "id": "2409.15697",
+    "authors": "Qihang Zhao, \n      \n      Chi Zhang, \n      \n      Weixiong Zhang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2409.15697"
+  },
+  {
+    "direction": "E",
+    "title": "GV-Rep: A Large-Scale Dataset for Genetic Variant Representation Learning",
+    "id": "2407.16940",
+    "authors": "Zehui Li, \n      \n      Vallijah Subasri, \n      \n      Guy-Bart Stan, \n      \n      Yiren Zhao, \n      \n      Bo Wang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2407.16940"
+  },
+  {
+    "direction": "F",
+    "title": "Rethinking Artificial Intelligence in <span class=\"search-hit mathjax\">Medical</span> Imaging: Assumptions, Reality, and Reframing",
+    "id": "2607.27428",
+    "authors": "Arman Rahmim, \n      \n      Nourhan Bayasi, \n      \n      Xiaoxiao Li, \n      \n      Babak Saboury, \n      \n      Fereshteh Yousefirizi",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.27428"
+  },
+  {
+    "direction": "F",
+    "title": "ClinLens: Towards Long-Horizon Coding <span class=\"search-hit mathjax\">Agents</span> for Longitudinal <span class=\"search-hit mathjax\">Multimodal</span> <span class=\"search-hit mathjax\">Clinical</span> Data Science",
+    "id": "2607.26155",
+    "authors": "Yuan Zhu, \n      \n      Ethan B. Liu, \n      \n      Frank Nie, \n      \n      Jindong Han",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.26155"
+  },
+  {
+    "direction": "F",
+    "title": "<span class=\"search-hit mathjax\">Agentic</span> AI in medicine: architectures, applications, evaluation, and challenges for <span class=\"search-hit mathjax\">clinical</span> translation",
+    "id": "2607.25489",
+    "authors": "Zheng Tong, \n      \n      Yang Liu, \n      \n      Wanshu Fan, \n      \n      Jing Qin, \n      \n      Zhongbin Han, \n      \n      Haifan Gong, \n      \n      Congyu Liao, \n      \n      Xiaofeng Liu, \n   ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.25489"
+  },
+  {
+    "direction": "F",
+    "title": "ClinFusion: A Vision-Centric <span class=\"search-hit mathjax\">Multimodal</span> LLM System for Holistic <span class=\"search-hit mathjax\">Medical</span> Understanding",
+    "id": "2607.24743",
+    "authors": "Hangjie Yuan, \n      \n      Yichen Qian, \n      \n      Zhiwei Tang, \n      \n      Xianzhe Xu, \n      \n      Lirong Wu, \n      \n      Sicheng Yang, \n      \n      Jinwang Wang, \n      \n      Pengju Wang",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.24743"
+  },
+  {
+    "direction": "F",
+    "title": "One-for-All Adaptive Radiotherapy Planning <span class=\"search-hit mathjax\">Agent</span>: A Foundation Framework for Daily CBCT-guided Radiotherapy",
+    "id": "2607.14870",
+    "authors": "Shaoyan Pan, \n      \n      Kirk Jon Luca, \n      \n      Yuan Gao, \n      \n      Shansong Wang, \n      \n      Mingzhe Hu, \n      \n      Ryan Sanford, \n      \n      Mojtaba Safari, \n      \n      Justin ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.14870"
+  },
+  {
+    "direction": "F",
+    "title": "MonteRET: AI <span class=\"search-hit mathjax\">Agent</span> Enhancing <span class=\"search-hit mathjax\">Multimodal</span> LLMs with Multi-granularity Knowledge Retrieval for Chest CT Report Generation",
+    "id": "2607.14264",
+    "authors": "Yi Lin, \n      \n      Yihao Ding, \n      \n      Elana Benishay, \n      \n      Elefterios Trikantzopoulos, \n      \n      David Nauheim, \n      \n      Hanley Ong, \n      \n      Jiang Bian, \n      \n     ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2607.14264"
+  },
+  {
+    "direction": "F",
+    "title": "<span class=\"search-hit mathjax\">Agentic</span> AI Enhances Physician Trust in <span class=\"search-hit mathjax\">Clinical</span> Decision Making",
+    "id": "2606.30658",
+    "authors": "Zhiling Yan, \n      \n      Zhe Fang, \n      \n      David J King, \n      \n      Ann Pongsakul, \n      \n      Eashan Adhikarla, \n      \n      Hui Ren, \n      \n      Sunyang Fu, \n      \n      Quanzheng L",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.30658"
+  },
+  {
+    "direction": "F",
+    "title": "MedBench v5: A Dynamic, Process-Oriented, and Hallucination-Aware Benchmark for <span class=\"search-hit mathjax\">Clinical</span> <span class=\"search-hit mathjax\">Multimodal</span> Models",
+    "id": "2606.24155",
+    "authors": "Jinru Ding, \n      \n      Chuchu Jiang, \n      \n      Lu Lu, \n      \n      Wenrao Pang, \n      \n      Mouxiao Bian, \n      \n      Zhuangzhi Gao, \n      \n      Jiangyuan Chen, \n      \n      Xinwei Peng",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.24155"
+  },
+  {
+    "direction": "F",
+    "title": "MedRLM: Recursive <span class=\"search-hit mathjax\">Multimodal</span> Health Intelligence for Long-Context <span class=\"search-hit mathjax\">Clinical</span> Reasoning, Sensor-Guided Screening, Evidence-Grounded Decision Support, and Community-to-Tertiary Referral Optimization",
+    "id": "2606.20164",
+    "authors": "Aueaphum Aueawatthanaphisut",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.20164"
+  },
+  {
+    "direction": "F",
+    "title": "Toward Vibe Medicine: A Self-Evolving Multi-<span class=\"search-hit mathjax\">Agent</span> Framework for <span class=\"search-hit mathjax\">Clinical</span> Decision Support",
+    "id": "2606.15504",
+    "authors": "Qianxue Zhang, \n      \n      Yiming Ren, \n      \n      Shihuan Qin, \n      \n      Xiao Zhang, \n      \n      Liao Zhang, \n      \n      Jinyang Huang, \n      \n      Zhengliang Liu, \n      \n      Chenbin",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.15504"
+  },
+  {
+    "direction": "F",
+    "title": "XMedFusion: A Knowledge-Guided <span class=\"search-hit mathjax\">Multimodal</span> Perception and Reasoning Framework for Autonomous <span class=\"search-hit mathjax\">Medical</span> Systems",
+    "id": "2606.14766",
+    "authors": "Hamza Riaz, \n      \n      Arham Haroon, \n      \n      Maha Baig, \n      \n      Muhammad Dawood Rizwan, \n      \n      Muhammad Naseer Bajwa, \n      \n      Muhammad Moazam Fraz",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.14766"
+  },
+  {
+    "direction": "F",
+    "title": "ArogyaSutra: A Multi-<span class=\"search-hit mathjax\">Agent</span> Framework for <span class=\"search-hit mathjax\">Multimodal</span> <span class=\"search-hit mathjax\">Medical</span> Reasoning in Indic Languages",
+    "id": "2606.13572",
+    "authors": "Tanmoy Kanti Halder, \n      \n      Akash Ghosh, \n      \n      Subhadip Baidya, \n      \n      Arijit Roy, \n      \n      Sriparna Saha",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.13572"
+  },
+  {
+    "direction": "F",
+    "title": "MedCTA: A Benchmark for <span class=\"search-hit mathjax\">Clinical</span> Tool <span class=\"search-hit mathjax\">Agents</span>",
+    "id": "2606.11702",
+    "authors": "Tajamul Ashraf, \n      \n      Hyewon Jeong, \n      \n      Fida Mohammad Thoker, \n      \n      Bernard Ghanem",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.11702"
+  },
+  {
+    "direction": "F",
+    "title": "Baichuan-M4: A <span class=\"search-hit mathjax\">Clinical</span>-Grade <span class=\"search-hit mathjax\">Medical</span> <span class=\"search-hit mathjax\">Agent</span> System for Continuous Care",
+    "id": "2606.08982",
+    "authors": "Aiyuan Yang, \n      \n      Canbin Piao, \n      \n      Chengfeng Dou, \n      \n      Da Pan, \n      \n      Dian Wang, \n      \n      Fan Yang, \n      \n      Fei Deng, \n      \n      Fei Li, \n      \n      ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.08982"
+  },
+  {
+    "direction": "F",
+    "title": "A multi-<span class=\"search-hit mathjax\">agent</span> system for spine MRI report generation from multi-sequence imaging",
+    "id": "2606.08897",
+    "authors": "Zhiping Xiao, \n      \n      Junwei Yang, \n      \n      Gongbo Sun, \n      \n      Han Zhang, \n      \n      Hanwen Xu, \n      \n      Yi Yao, \n      \n      Zachary D. Miller, \n      \n      William E. Kin",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.08897"
+  },
+  {
+    "direction": "F",
+    "title": "AutoMedBench: Towards <span class=\"search-hit mathjax\">Medical</span> AutoResearch with <span class=\"search-hit mathjax\">Agentic</span> AI Models",
+    "id": "2606.01961",
+    "authors": "Junqi Liu, \n      \n      Selena Song, \n      \n      Yuhan Wang, \n      \n      Jiawei Mao, \n      \n      Hardy Chen, \n      \n      Xiaoke Huang, \n      \n      Tianhao Qi, \n      \n      Pengfei Guo, \n  ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2606.01961"
+  },
+  {
+    "direction": "F",
+    "title": "OphIn-500K: Curating Web-Scale Visual Instructions for Scaling Ophthalmic <span class=\"search-hit mathjax\">Multimodal</span> Large Language Models",
+    "id": "2605.27916",
+    "authors": "Xuanzhao Dong, \n      \n      Wenhui Zhu, \n      \n      Xiwen Chen, \n      \n      Hao Wang, \n      \n      Xin Li, \n      \n      Yujian Xiong, \n      \n      Jiajun Cheng, \n      \n      Jingjing Wang, \n ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.27916"
+  },
+  {
+    "direction": "F",
+    "title": "Towards Reliable Fetal Ultrasound Interpretation with Multi-<span class=\"search-hit mathjax\">Agent</span> Collaboration",
+    "id": "2605.25357",
+    "authors": "Xiaotian Hu, \n      \n      Mingxuan Liu, \n      \n      Junwei Huang, \n      \n      Kasidit Anmahapong, \n      \n      Yifei Chen, \n      \n      Yiming Huang, \n      \n      Xuguang Bai, \n      \n      Zi",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.25357"
+  },
+  {
+    "direction": "F",
+    "title": "ClinSeekAgent: Automating <span class=\"search-hit mathjax\">Multimodal</span> Evidence Seeking for <span class=\"search-hit mathjax\">Agentic</span> <span class=\"search-hit mathjax\">Clinical</span> Reasoning",
+    "id": "2605.20176",
+    "authors": "Juncheng Wu, \n      \n      Letian Zhang, \n      \n      Yuhan Wang, \n      \n      Haoqin Tu, \n      \n      Hardy Chen, \n      \n      Zijun Wang, \n      \n      Cihang Xie, \n      \n      Yuyin Zhou",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.20176"
+  },
+  {
+    "direction": "F",
+    "title": "DermAgent: A Self-Reflective <span class=\"search-hit mathjax\">Agentic</span> System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making",
+    "id": "2605.14403",
+    "authors": "Yize Liu, \n      \n      Siyuan Yan, \n      \n      Ming Hu, \n      \n      Lie Ju, \n      \n      Xieji Li, \n      \n      Feilong Tang, \n      \n      Wei Feng, \n      \n      Zongyuan Ge",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.14403"
+  },
+  {
+    "direction": "F",
+    "title": "AgentRx: A Benchmark Study of LLM <span class=\"search-hit mathjax\">Agents</span> for <span class=\"search-hit mathjax\">Multimodal</span> <span class=\"search-hit mathjax\">Clinical</span> Prediction Tasks",
+    "id": "2605.10286",
+    "authors": "Baraa Al Jorf, \n      \n      Farah E. Shamout",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.10286"
+  },
+  {
+    "direction": "F",
+    "title": "Echo-\u03b1: Large <span class=\"search-hit mathjax\">Agentic</span> <span class=\"search-hit mathjax\">Multimodal</span> Reasoning Model for Ultrasound Interpretation",
+    "id": "2604.28011",
+    "authors": "Jing Zhang, \n      \n      Wentao Jiang, \n      \n      Tao Huang, \n      \n      Zhiwei Wang, \n      \n      Jianxin Liu, \n      \n      Jian Chen, \n      \n      Ping Ye, \n      \n      Gang Wang, \n      \n",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.28011"
+  },
+  {
+    "direction": "F",
+    "title": "VERITAS: A Multi-<span class=\"search-hit mathjax\">Agent</span> Co-Scientist for Verifiable Image-Derived Hypothesis Testing",
+    "id": "2604.12144",
+    "authors": "Lucas Stoffl, \n      \n      Benedikt Wiestler, \n      \n      Johannes C. Paetzold",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.12144"
+  },
+  {
+    "direction": "F",
+    "title": "LungCURE: Benchmarking <span class=\"search-hit mathjax\">Multimodal</span> Real-World <span class=\"search-hit mathjax\">Clinical</span> Reasoning for Precision Lung Cancer Diagnosis and Treatment",
+    "id": "2604.06925",
+    "authors": "Fangyu Hao, \n      \n      Jiayu Yang, \n      \n      Yifan Zhu, \n      \n      Zijun Yu, \n      \n      Qicen Wu, \n      \n      Wang Yunlong, \n      \n      Jiawei Li, \n      \n      Yulin Liu, \n      \n   ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.06925"
+  },
+  {
+    "direction": "F",
+    "title": "MedRoute: RL-Based Dynamic Specialist Routing in Multi-<span class=\"search-hit mathjax\">Agent</span> <span class=\"search-hit mathjax\">Medical</span> Diagnosis",
+    "id": "2604.06180",
+    "authors": "Ashmal Vayani, \n      \n      Parth Parag Kulkarni, \n      \n      Joseph Fioresi, \n      \n      Song Wang, \n      \n      Mubarak Shah",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.06180"
+  },
+  {
+    "direction": "F",
+    "title": "ECG Foundation Models and <span class=\"search-hit mathjax\">Medical</span> LLMs for <span class=\"search-hit mathjax\">Agentic</span> Cardiovascular Intelligence at the Edge: A Review and Outlook",
+    "id": "2604.02501",
+    "authors": "Mudassir Hasan Khan, \n      \n      Ahmad Nayfeh, \n      \n      Mudassir Masood, \n      \n      Ali Ahmad Al-Shaikhi, \n      \n      Muhammad Mahboob Ur Rahman, \n      \n      Tareq Y. Al-Naffouri",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2604.02501"
+  },
+  {
+    "direction": "F",
+    "title": "Colon-Bench: An <span class=\"search-hit mathjax\">Agentic</span> Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos",
+    "id": "2603.25645",
+    "authors": "Abdullah Hamdi, \n      \n      Changchun Yang, \n      \n      Xin Gao",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2603.25645"
+  },
+  {
+    "direction": "F",
+    "title": "Cerebra: A Multidisciplinary AI Board for <span class=\"search-hit mathjax\">Multimodal</span> Dementia Characterization and Risk Assessment",
+    "id": "2603.21597",
+    "authors": "Sheng Liu, \n      \n      Long Chen, \n      \n      Zeyun Zhao, \n      \n      Qinglin Gou, \n      \n      Qingyue Wei, \n      \n      Arjun Masurkar, \n      \n      Kevin M. Spiegler, \n      \n      Philip ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2603.21597"
+  },
+  {
+    "direction": "F",
+    "title": "EviAgent: Evidence-Driven <span class=\"search-hit mathjax\">Agent</span> for Radiology Report Generation",
+    "id": "2603.13956",
+    "authors": "Tuoshi Qi, \n      \n      Shenshen Bu, \n      \n      Yingfei Xiang, \n      \n      Zhiming Dai",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2603.13956"
+  },
+  {
+    "direction": "F",
+    "title": "MedMASLab: A Unified Orchestration Framework for Benchmarking <span class=\"search-hit mathjax\">Multimodal</span> <span class=\"search-hit mathjax\">Medical</span> Multi-<span class=\"search-hit mathjax\">Agent</span> Systems",
+    "id": "2603.09909",
+    "authors": "Yunhang Qian, \n      \n      Xiaobin Hu, \n      \n      Jiaquan Yu, \n      \n      Siyang Xin, \n      \n      Xiaokun Chen, \n      \n      Jiangning Zhang, \n      \n      Peng-Tao Jiang, \n      \n      Jiawe",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2603.09909"
+  },
+  {
+    "direction": "F",
+    "title": "Can <span class=\"search-hit mathjax\">Agents</span> Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting? A Pilot Study",
+    "id": "2602.22959",
+    "authors": "Zihao Zhao, \n      \n      Frederik Hauke, \n      \n      Juliana De Castilhos, \n      \n      Sven Nebelung, \n      \n      Daniel Truhn",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.22959"
+  },
+  {
+    "direction": "F",
+    "title": "3DMedAgent: Unified Perception-to-Understanding for 3D <span class=\"search-hit mathjax\">Medical</span> Analysis",
+    "id": "2602.18064",
+    "authors": "Ziyue Wang, \n      \n      Linghan Cai, \n      \n      Chang Han Low, \n      \n      Haofeng Liu, \n      \n      Junde Wu, \n      \n      Jingyu Wang, \n      \n      Rui Wang, \n      \n      Lei Song, \n     ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.18064"
+  },
+  {
+    "direction": "F",
+    "title": "MedScope: Incentivizing &#34;Think with Videos&#34; for <span class=\"search-hit mathjax\">Clinical</span> Reasoning via Coarse-to-Fine Tool Calling",
+    "id": "2602.13332",
+    "authors": "Wenjie Li, \n      \n      Yujie Zhang, \n      \n      Haoran Sun, \n      \n      Xingqi He, \n      \n      Hongcheng Gao, \n      \n      Chenglong Ma, \n      \n      Ming Hu, \n      \n      Guankun Wang, \n  ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.13332"
+  },
+  {
+    "direction": "F",
+    "title": "MedXIAOHE: A Comprehensive Recipe for Building <span class=\"search-hit mathjax\">Medical</span> MLLMs",
+    "id": "2602.12705",
+    "authors": "Baorong Shi, \n      \n      Bo Cui, \n      \n      Boyuan Jiang, \n      \n      Deli Yu, \n      \n      Fang Qian, \n      \n      Haihua Yang, \n      \n      Huichao Wang, \n      \n      Jiale Chen, \n      \n",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.12705"
+  },
+  {
+    "direction": "F",
+    "title": "HyperWalker: Dynamic Hypergraph-Based Deep Diagnosis for Multi-Hop <span class=\"search-hit mathjax\">Clinical</span> Modeling across EHR and X-Ray in <span class=\"search-hit mathjax\">Medical</span> VLMs",
+    "id": "2601.13919",
+    "authors": "Yuezhe Yang, \n      \n      Hao Wang, \n      \n      Yige Peng, \n      \n      Jinman Kim, \n      \n      Lei Bi",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2601.13919"
+  },
+  {
+    "direction": "F",
+    "title": "MMedExpert-R1: Strengthening <span class=\"search-hit mathjax\">Multimodal</span> <span class=\"search-hit mathjax\">Medical</span> Reasoning via Domain-Specific Adaptation and <span class=\"search-hit mathjax\">Clinical</span> Guideline Reinforcement",
+    "id": "2601.10949",
+    "authors": "Meidan Ding, \n      \n      Jipeng Zhang, \n      \n      Wenxuan Wang, \n      \n      Haiqin Zhong, \n      \n      Xiaoling Luo, \n      \n      Wenting Chen, \n      \n      Linlin Shen",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2601.10949"
+  },
+  {
+    "direction": "F",
+    "title": "RadDiff: Describing Differences in Radiology Image Sets with Natural Language",
+    "id": "2601.03733",
+    "authors": "Xiaoxian Shen, \n      \n      Yuhui Zhang, \n      \n      Sahithi Ankireddy, \n      \n      Xiaohan Wang, \n      \n      Maya Varma, \n      \n      Henry Guo, \n      \n      Curtis Langlotz, \n      \n      S",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2601.03733"
+  },
+  {
+    "direction": "F",
+    "title": "MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot <span class=\"search-hit mathjax\">Medical</span> Disease Classification from Images",
+    "id": "2512.23304",
+    "authors": "Md. Sazzadul Islam Prottasha, \n      \n      Nabil Walid Rafi",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2512.23304"
+  },
+  {
+    "direction": "F",
+    "title": "Ophiuchus: Incentivizing Tool-augmented &#34;Think with Images&#34; for Joint <span class=\"search-hit mathjax\">Medical</span> Segmentation, Understanding and Reasoning",
+    "id": "2512.14157",
+    "authors": "Yankai Jiang, \n      \n      Yujie Zhang, \n      \n      Peng Zhang, \n      \n      Wenjie Li, \n      \n      Yichen Li, \n      \n      Jintai Chen, \n      \n      Xiaoming Shi, \n      \n      Shihui Zhen",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2512.14157"
+  },
+  {
+    "direction": "F",
+    "title": "Multi-<span class=\"search-hit mathjax\">Agent</span> Intelligence for Multidisciplinary Decision-Making in Gastrointestinal Oncology",
+    "id": "2512.08674",
+    "authors": "Rongzhao Zhang, \n      \n      Junqiao Wang, \n      \n      Shuyun Yang, \n      \n      Mouxiao Bian, \n      \n      Chihao Zhang, \n      \n      Dongyang Wang, \n      \n      Qiujuan Yan, \n      \n      Yun",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2512.08674"
+  },
+  {
+    "direction": "F",
+    "title": "LungNoduleAgent: A Collaborative Multi-<span class=\"search-hit mathjax\">Agent</span> System for Precision Diagnosis of Lung Nodules",
+    "id": "2511.21042",
+    "authors": "Cheng Yang, \n      \n      Hui Jin, \n      \n      Xinlei Yu, \n      \n      Zhipeng Wang, \n      \n      Yaoqun Liu, \n      \n      Fenglei Fan, \n      \n      Dajiang Lei, \n      \n      Gangyong Jia, \n   ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2511.21042"
+  },
+  {
+    "direction": "F",
+    "title": "MedSAM3: Delving into Segment Anything with <span class=\"search-hit mathjax\">Medical</span> Concepts",
+    "id": "2511.19046",
+    "authors": "Anglin Liu, \n      \n      Rundong Xue, \n      \n      Xu R. Cao, \n      \n      Yifan Shen, \n      \n      Yi Lu, \n      \n      Xiang Li, \n      \n      Qianqian Chen, \n      \n      Jintai Chen",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2511.19046"
+  },
+  {
+    "direction": "F",
+    "title": "SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-<span class=\"search-hit mathjax\">Agent</span> System for <span class=\"search-hit mathjax\">Multimodal</span> Survival Prediction",
+    "id": "2511.16635",
+    "authors": "Guolin Huang, \n      \n      Wenting Chen, \n      \n      Jiaqi Yang, \n      \n      Xinheng Lyu, \n      \n      Xiaoling Luo, \n      \n      Sen Yang, \n      \n      Xiaohan Xing, \n      \n      Linlin Shen",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2511.16635"
+  },
+  {
+    "direction": "F",
+    "title": "MedBench v4: A Robust and Scalable Benchmark for Evaluating Chinese <span class=\"search-hit mathjax\">Medical</span> Language Models, <span class=\"search-hit mathjax\">Multimodal</span> Models, and Intelligent <span class=\"search-hit mathjax\">Agents</span>",
+    "id": "2511.14439",
+    "authors": "Jinru Ding, \n      \n      Lu Lu, \n      \n      Chao Ding, \n      \n      Mouxiao Bian, \n      \n      Jiayuan Chen, \n      \n      Wenrao Pang, \n      \n      Ruiyao Chen, \n      \n      Xinwei Peng, \n    ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2511.14439"
+  },
+  {
+    "direction": "F",
+    "title": "EyeAgent: An <span class=\"search-hit mathjax\">Agentic</span> AI System for <span class=\"search-hit mathjax\">Multimodal</span> <span class=\"search-hit mathjax\">Clinical</span> Decision Support in Ophthalmology",
+    "id": "2511.09394",
+    "authors": "Danli Shi, \n      \n      Xiaolan Chen, \n      \n      Bingjie Yan, \n      \n      Weiyi Zhang, \n      \n      Pusheng Xu, \n      \n      Jiancheng Yang, \n      \n      Ruoyu Chen, \n      \n      Siyu Huang,",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2511.09394"
+  },
+  {
+    "direction": "F",
+    "title": "Generative AI for Healthcare: Fundamentals, Challenges, and Perspectives",
+    "id": "2510.24551",
+    "authors": "Gang Chen, \n      \n      Changshuo Liu, \n      \n      Gene Anne Ooi, \n      \n      Marcus Tan, \n      \n      Zhongle Xie, \n      \n      Jianwei Yin, \n      \n      James Wei Luen Yip, \n      \n      Wen",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2510.24551"
+  },
+  {
+    "direction": "F",
+    "title": "Proactive Reasoning-with-Retrieval Framework for <span class=\"search-hit mathjax\">Medical</span> <span class=\"search-hit mathjax\">Multimodal</span> Large Language Models",
+    "id": "2510.18303",
+    "authors": "Lehan Wang, \n      \n      Yi Qin, \n      \n      Honglong Yang, \n      \n      Xiaomeng Li",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2510.18303"
+  },
+  {
+    "direction": "F",
+    "title": "MedMMV: A Controllable <span class=\"search-hit mathjax\">Multimodal</span> Multi-<span class=\"search-hit mathjax\">Agent</span> Framework for Reliable and Verifiable <span class=\"search-hit mathjax\">Clinical</span> Reasoning",
+    "id": "2509.24314",
+    "authors": "Hongjun Liu, \n      \n      Yinghao Zhu, \n      \n      Yuhui Wang, \n      \n      Yitao Long, \n      \n      Zeyu Lai, \n      \n      Lequan Yu, \n      \n      Chen Zhao",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2509.24314"
+  },
+  {
+    "direction": "F",
+    "title": "DentVLM: A <span class=\"search-hit mathjax\">Multimodal</span> Vision-Language Model for Comprehensive Dental Diagnosis and Enhanced <span class=\"search-hit mathjax\">Clinical</span> Practice",
+    "id": "2509.23344",
+    "authors": "Zijie Meng, \n      \n      Jin Hao, \n      \n      Xiwei Dai, \n      \n      Yang Feng, \n      \n      Jiaxiang Liu, \n      \n      Bin Feng, \n      \n      Huikai Wu, \n      \n      Xiaotang Gai, \n      \n  ",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2509.23344"
+  },
+  {
+    "direction": "F",
+    "title": "<span class=\"search-hit mathjax\">Medical</span> AI Consensus: A Multi-<span class=\"search-hit mathjax\">Agent</span> Framework for Radiology Report Generation and Evaluation",
+    "id": "2509.17353",
+    "authors": "Ahmed T. Elboardy, \n      \n      Ghada Khoriba, \n      \n      Essam A. Rashed",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2509.17353"
+  },
+  {
+    "direction": "X",
+    "title": "SMDD-Bench: Can <span class=\"search-hit mathjax\">LLMs</span> Solve Real-World Small Molecule <span class=\"search-hit mathjax\">Drug</span> Design Tasks?",
+    "id": "2605.21740",
+    "authors": "Kevin Han, \n      \n      Renfei Zhang, \n      \n      Kathy Wei, \n      \n      Hamed Mahdavi, \n      \n      Niloofar Mireshghallah, \n      \n      Amir Barati Farimani",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.21740"
+  },
+  {
+    "direction": "X",
+    "title": "ToolMol: Evolutionary <span class=\"search-hit mathjax\">Agentic</span> Framework for Multi-objective <span class=\"search-hit mathjax\">Drug</span> <span class=\"search-hit mathjax\">Discovery</span>",
+    "id": "2605.12784",
+    "authors": "Andrew Y. Zhou, \n      \n      Sharvaree Vadgama, \n      \n      Sumanth Varambally, \n      \n      Peter Eckmann, \n      \n      Michael K. Gilson, \n      \n      Rose Yu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2605.12784"
+  },
+  {
+    "direction": "X",
+    "title": "Beyond SMILES: Evaluating <span class=\"search-hit mathjax\">Agentic</span> Systems for <span class=\"search-hit mathjax\">Drug</span> <span class=\"search-hit mathjax\">Discovery</span>",
+    "id": "2602.10163",
+    "authors": "Edward Wijaya",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.10163"
+  },
+  {
+    "direction": "X",
+    "title": "AutoBinder <span class=\"search-hit mathjax\">Agent</span>: An MCP-Based <span class=\"search-hit mathjax\">Agent</span> for End-to-End <span class=\"search-hit mathjax\">Protein</span> Binder Design",
+    "id": "2602.00019",
+    "authors": "Fukang Ge, \n      \n      Jiarui Zhu, \n      \n      Linjie Zhang, \n      \n      Haowen Xiao, \n      \n      Xiangcheng Bao, \n      \n      Fangnan Xie, \n      \n      Danyang Chen, \n      \n      Yanrui Lu",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2602.00019"
+  },
+  {
+    "direction": "X",
+    "title": "Purely <span class=\"search-hit mathjax\">Agent</span>-Driven Black-Box Optimization for Biological Design",
+    "id": "2601.22382",
+    "authors": "Natalie Maus, \n      \n      Yimeng Zeng, \n      \n      Haydn Thomas Jones, \n      \n      Yining Huang, \n      \n      Gaurav Ng Goel, \n      \n      Alden Rose, \n      \n      Kyurae Kim, \n      \n      H",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2601.22382"
+  },
+  {
+    "direction": "X",
+    "title": "DynaMate: An Autonomous <span class=\"search-hit mathjax\">Agent</span> for <span class=\"search-hit mathjax\">Protein</span>-Ligand Molecular Dynamics Simulations",
+    "id": "2512.10034",
+    "authors": "Salom\u00e9 Guilbert, \n      \n      Cassandra Masschelein, \n      \n      Jeremy Goumaz, \n      \n      Bohdan Naida, \n      \n      Philippe Schwaller",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2512.10034"
+  },
+  {
+    "direction": "X",
+    "title": "An Auditable <span class=\"search-hit mathjax\">Agent</span> Platform For Automated Molecular Optimisation",
+    "id": "2508.03444",
+    "authors": "Atabey \u00dcnl\u00fc, \n      \n      Phil Rohr, \n      \n      Ahmet Celebi",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2508.03444"
+  },
+  {
+    "direction": "X",
+    "title": "Large Language Model <span class=\"search-hit mathjax\">Agent</span> for Modular Task Execution in <span class=\"search-hit mathjax\">Drug</span> <span class=\"search-hit mathjax\">Discovery</span>",
+    "id": "2507.02925",
+    "authors": "Janghoon Ock, \n      \n      Radheesh Sharma Meda, \n      \n      Srivathsan Badrinarayanan, \n      \n      Neha S. Aluru, \n      \n      Achuth Chandrasekhar, \n      \n      Amir Barati Farimani",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2507.02925"
+  },
+  {
+    "direction": "X",
+    "title": "Can Large Language Models Design Biological Weapons? Evaluating Moremi Bio",
+    "id": "2505.17154",
+    "authors": "Gertrude Hattoh, \n      \n      Jeremiah Ayensu, \n      \n      Nyarko Prince Ofori, \n      \n      Solomon Eshun, \n      \n      Darlington Akogo",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2505.17154"
+  },
+  {
+    "direction": "X",
+    "title": "GraPPI: A Retrieve-Divide-Solve GraphRAG Framework for Large-scale <span class=\"search-hit mathjax\">Protein</span>-<span class=\"search-hit mathjax\">protein</span> Interaction Exploration",
+    "id": "2501.16382",
+    "authors": "Ziwen Li, \n      \n      Xiang &#39;Anthony&#39; Chen, \n      \n      Youngseung Jeon",
+    "summary": "N/A",
+    "url": "https://arxiv.org/abs/2501.16382"
+  }
+]

@@ -1,0 +1,118 @@
+{
+  "A": [],
+  "B": [
+    {
+      "direction": "B",
+      "title": "Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education",
+      "id": "2409.18924",
+      "authors": "Huizi Yu, \n      \n      Jiayan Zhou, \n      \n      Lingyao Li, \n      \n      Shan Chen, \n      \n      Jack Gallifant, \n      \n      Anye Shi, \n      \n      Xiang Li, \n      \n      Jingxian He,",
+      "summary": "Background: Simulated patient systems are important in medical education and research, providing safe, integrative training environments and supporting clinical decision making. Advances in artificial intelligence (AI), especially large language models (LLMs), can enhance simulated patients by replicating medical conditions and doctor patient interactions with high fidelity and at low cost, but effectiveness and trustworthiness remain open challenges. Methods: We developed AIPatient, a simulated patient system powered by LLM based AI agents. The system uses a retrieval augmented generation (RA",
+      "url": "https://arxiv.org/abs/2409.18924"
+    }
+  ],
+  "C": [],
+  "D": [
+    {
+      "direction": "D",
+      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
+      "id": "2607.08404",
+      "authors": "Ali Motahharynia, \n      \n      Mohammadreza Ghaffarzadeh-Esfahani, \n      \n      Mahsa Sheikholeslami, \n      \n      Navid Mazrouei, \n      \n      Matin Irajpour, \n      \n      Yousof Gheisari,",
+      "summary": "Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease context on target behavior and therapeutic outcomes. To address this gap, we introduce DrugGen-2, a novel generative model that designs small molecules conditioned on both disease ontology and target protein sequences. DrugGen-2 was developed by fine-tuning a pre-trained GPT-2 model on a curated dataset of approved drugs linked to their diseases and targets, using a two-step strategy of supervised fin",
+      "url": "https://arxiv.org/abs/2607.08404"
+    },
+    {
+      "direction": "D",
+      "title": "Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design",
+      "id": "2606.25865",
+      "authors": "Haoyu Lin, \n      \n      Yiyan Liao, \n      \n      Jinmei Pan, \n      \n      Xinliao Ling, \n      \n      Luhua Lai, \n      \n      Jianfeng Pei",
+      "summary": "Molecular generation is a central challenge in drug discovery, requiring models that explore vast chemical space while satisfying diverse design constraints. We present Molexar, a unified multimodal molecular foundation model built on Fragment-SELFIES, a robust, fragment-aware molecular language with validity-preserving decoding and explicit fragment structure. A pretrained autoregressive decoder learns the Fragment-SELFIES syntax and molecular distribution; supervised fine-tuning (SFT) then trains the same decoder on condition-molecule pairs spanning scalar molecular properties, pharmacophore",
+      "url": "https://arxiv.org/abs/2606.25865"
+    },
+    {
+      "direction": "D",
+      "title": "Residue-Level Attributions in Protein Language Models Do Not Recover Allergen Epitopes",
+      "id": "2606.22181",
+      "authors": "Jianzhou Yao, \n      \n      Anxiong Song, \n      \n      Katja Baerenfaller, \n      \n      Damir Zhakparov",
+      "summary": "Deep allergenicity classifiers are increasingly used in safety screening of novel foods, and recent protein language models have substantially improved protein-level allergenicity prediction. However, whether their explanations capture biologically meaningful information remains unclear. We introduce an epitope-grounded residue-level benchmark for quantitatively evaluating attribution faithfulness in protein allergenicity models. Across frozen ESM-2, multi-task ESM-2, and DeepPlantAllergy, protein-level classification was robust, yet classification-head explanation signals did not significantl",
+      "url": "https://arxiv.org/abs/2606.22181"
+    }
+  ],
+  "E": [
+    {
+      "direction": "E",
+      "title": "ECLIPSE: A Composable Pipeline for Predicting ecDNA Formation, Evolution, and Therapeutic Vulnerabilities in Cancer",
+      "id": "2604.06569",
+      "authors": "Bryan Cheng, \n      \n      Jasper Zhang",
+      "summary": "Extrachromosomal DNA (ecDNA) represents one of the most pressing challenges in cancer biology: circular DNA structures that amplify oncogenes, evade targeted therapies, and drive tumor evolution in ~30% of aggressive cancers. Despite its clinical importance, computational ecDNA research has been built on broken foundations. We discover that existing benchmarks suffer from circular reasoning -- models trained on features that already require knowing ecDNA status -- artificially inflating performance from AUROC 0.724 to 0.967. We introduce ECLIPSE, the first methodologically sound framework for ",
+      "url": "https://arxiv.org/abs/2604.06569"
+    },
+    {
+      "direction": "E",
+      "title": "How Private Are DNA Embeddings? Inverting Foundation Model Representations of Genomic Sequences",
+      "id": "2603.06950",
+      "authors": "Sofiane Ouaari, \n      \n      Jules Kreuer, \n      \n      Nico Pfeifer",
+      "summary": "DNA foundation models have become transformative tools in bioinformatics and healthcare applications. Trained on vast genomic datasets, these models can be used to generate sequence embeddings, dense vector representations that capture complex genomic information. These embeddings are increasingly being shared via Embeddings-as-a-Service (EaaS) frameworks to facilitate downstream tasks, while supposedly protecting the privacy of the underlying raw sequences. However, as this practice becomes more prevalent, the security of these representations is being called into question. This study evaluat",
+      "url": "https://arxiv.org/abs/2603.06950"
+    },
+    {
+      "direction": "E",
+      "title": "STRAND: Sequence-Conditioned Transport for Single-Cell Perturbations",
+      "id": "2602.10156",
+      "authors": "Boyang Fu, \n      \n      George Dasoulas, \n      \n      Sameer Gabbita, \n      \n      Xiang Lin, \n      \n      Shanghua Gao, \n      \n      Xiaorui Su, \n      \n      Soumya Ghosh, \n      \n      Marinka",
+      "summary": "Predicting how genetic perturbations change cellular state is a core problem for building controllable models of gene regulation. Perturbations targeting the same gene can produce different transcriptional responses depending on their genomic locus, including different transcription start sites and regulatory elements. Gene-level perturbation models collapse these distinct interventions into the same representation. We introduce STRAND, a generative model that predicts single-cell transcriptional responses by conditioning on regulatory DNA sequence. STRAND represents a perturbation by encoding",
+      "url": "https://arxiv.org/abs/2602.10156"
+    }
+  ],
+  "F": [
+    {
+      "direction": "F",
+      "title": "Rethinking Artificial Intelligence in Medical Imaging: Assumptions, Reality, and Reframing",
+      "id": "2607.27428",
+      "authors": "Arman Rahmim, \n      \n      Nourhan Bayasi, \n      \n      Xiaoxiao Li, \n      \n      Babak Saboury, \n      \n      Fereshteh Yousefirizi",
+      "summary": "Medical imaging has served as primary proving ground for clinical artificial intelligence (AI), yet a decade of intense research has not translated into proportionate bedside impact. We argue that this gap is not primarily a product of insufficient algorithmic performance, inadequate regulation, or limited explainability. Rather, it reflects a structural misalignment, between how AI systems are designed and evaluated, and how clinical decisions are made. This Perspective identifies six interconnected dimensions of this misalignment: the dominance of pixel-only models in a multimodal clinical w",
+      "url": "https://arxiv.org/abs/2607.27428"
+    },
+    {
+      "direction": "F",
+      "title": "One-for-All Adaptive Radiotherapy Planning Agent: A Foundation Framework for Daily CBCT-guided Radiotherapy",
+      "id": "2607.14870",
+      "authors": "Shaoyan Pan, \n      \n      Kirk Jon Luca, \n      \n      Yuan Gao, \n      \n      Shansong Wang, \n      \n      Mingzhe Hu, \n      \n      Ryan Sanford, \n      \n      Mojtaba Safari, \n      \n      Justin",
+      "summary": "In this work, we introduce the One-for-All Adaptive Radiotherapy Planning Agent, a unified foundation-model-based system that performs complete, treatment-specific online adaptive planning directly from daily cone-beam CT in under two minutes. The agent first autonomously predicts all essential planning components, including synthetic CT generation, multimodal alignment, and tumor/organ segmentation. It then intelligently leverages these outputs to execute the final clinical plan design, providing a comprehensive, automated solution for daily treatment. We also demonstrate that the agent enabl",
+      "url": "https://arxiv.org/abs/2607.14870"
+    },
+    {
+      "direction": "F",
+      "title": "MonteRET: AI Agent Enhancing Multimodal LLMs with Multi-granularity Knowledge Retrieval for Chest CT Report Generation",
+      "id": "2607.14264",
+      "authors": "Yi Lin, \n      \n      Yihao Ding, \n      \n      Elana Benishay, \n      \n      Elefterios Trikantzopoulos, \n      \n      David Nauheim, \n      \n      Hanley Ong, \n      \n      Jiang Bian,",
+      "summary": "Automated chest CT report generation remains challenging because clinically faithful reporting requires both whole-volume understanding and accurate description of localized anatomical findings. Here we developed and retrospectively evaluated MonteRET, a region-aware retrieval-enhanced framework for generating chest CT findings sections. MonteRET integrates global CT features with region-level anatomical representations, retrieves clinically relevant knowledge using predicted medical conditions and region-level vision-language alignment, and refines initial reports through a knowledge-guided r",
+      "url": "https://arxiv.org/abs/2607.14264"
+    }
+  ],
+  "X": [
+    {
+      "direction": "X",
+      "title": "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?",
+      "id": "2605.21740",
+      "authors": "Kevin Han, \n      \n      Renfei Zhang, \n      \n      Kathy Wei, \n      \n      Hamed Mahdavi, \n      \n      Niloofar Mireshghallah, \n      \n      Amir Barati Farimani",
+      "summary": "LLM agents have incredible potential for scientific discovery applications. However, the performance of LLM agents on real-world, small molecule drug design (SMDD) tasks across diverse chemistries and targets is unclear. Current evaluation methods are either ad hoc, too simple for real-world discovery, limited in scale, or restricted to single-turn question answering. In effort to standardize the evaluation of LLM agents on small molecule design, we introduce SMDD-Bench, a challenging, multi-turn, long-horizon agentic benchmark consisting of 502 guaranteed-solvable task instances spanning 5 ta",
+      "url": "https://arxiv.org/abs/2605.21740"
+    },
+    {
+      "direction": "X",
+      "title": "ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery",
+      "id": "2605.12784",
+      "authors": "Andrew Y. Zhou, \n      \n      Sharvaree Vadgama, \n      \n      Sumanth Varambally, \n      \n      Peter Eckmann, \n      \n      Michael K. Gilson, \n      \n      Rose Yu",
+      "summary": "Advances in large language models (LLMs) have recently opened new and promising avenues for small-molecule drug discovery. Yet existing LLM-based approaches for molecular generation often suffer from high rates of invalid and low-quality ligand candidates, a result of the syntactic limitations of current models with regard to molecular strings. In this paper, we introduce $\\texttt{ToolMol}$, an evolutionary agentic framework for de novo drug design. $\\texttt{ToolMol}$ combines a multi-objective genetic algorithm with an agentic LLM operator that iteratively updates the ligand population. We bu",
+      "url": "https://arxiv.org/abs/2605.12784"
+    },
+    {
+      "direction": "X",
+      "title": "Purely Agent-Driven Black-Box Optimization for Biological Design",
+      "id": "2601.22382",
+      "authors": "Natalie Maus, \n      \n      Yimeng Zeng, \n      \n      Haydn Thomas Jones, \n      \n      Yining Huang, \n      \n      Gaurav Ng Goel, \n      \n      Alden Rose, \n      \n      Kyurae Kim, \n      \n      H",
+      "summary": "Many key challenges in biological design -- such as small-molecule drug discovery, antimicrobial peptide development, and protein engineering -- can be framed as black-box optimization over vast, complex structured spaces. Existing methods rely mainly on raw structural data and struggle to exploit the rich scientific literature. While large language models (LLMs) have been added to these pipelines, they have been confined to narrow roles within structure-centered optimizers. We instead cast biological black-box optimization as an agent-driven, language-based reasoning process. We introduce Pur",
+      "url": "https://arxiv.org/abs/2601.22382"
+    }
+  ]
+}
