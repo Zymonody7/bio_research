@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-12",
+  "last_updated": "2026-08-13",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1953,6 +1953,84 @@
       "date_added": "2026-08-11",
       "direction": "X",
       "title": "AI CFD Scientist: Open-Ended Computational Fluid Dynamics Discovery"
+    },
+    "2409.18924": {
+      "date_added": "2026-08-13",
+      "direction": "B",
+      "title": "Simulated patient systems powered by large language model-based AI agents offer potential for transf",
+      "source": "arxiv"
+    },
+    "2607.08404": {
+      "date_added": "2026-08-13",
+      "direction": "D",
+      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
+      "source": "arxiv"
+    },
+    "2606.25865": {
+      "date_added": "2026-08-13",
+      "direction": "D",
+      "title": "Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design",
+      "source": "arxiv"
+    },
+    "2606.22181": {
+      "date_added": "2026-08-13",
+      "direction": "D",
+      "title": "Residue-Level Attributions in Protein Language Models Do Not Recover Allergen Epitopes",
+      "source": "arxiv"
+    },
+    "2604.06569": {
+      "date_added": "2026-08-13",
+      "direction": "E",
+      "title": "ECLIPSE: A Composable Pipeline for Predicting ecDNA Formation, Evolution, and Therapeutic Vulnerabil",
+      "source": "arxiv"
+    },
+    "2603.06950": {
+      "date_added": "2026-08-13",
+      "direction": "E",
+      "title": "How Private Are DNA Embeddings? Inverting Foundation Model Representations of Genomic Sequences",
+      "source": "arxiv"
+    },
+    "2602.10156": {
+      "date_added": "2026-08-13",
+      "direction": "E",
+      "title": "STRAND: Sequence-Conditioned Transport for Single-Cell Perturbations",
+      "source": "arxiv"
+    },
+    "2607.27428": {
+      "date_added": "2026-08-13",
+      "direction": "F",
+      "title": "Rethinking Artificial Intelligence in Medical Imaging: Assumptions, Reality, and Reframing",
+      "source": "arxiv"
+    },
+    "2607.14870": {
+      "date_added": "2026-08-13",
+      "direction": "F",
+      "title": "One-for-All Adaptive Radiotherapy Planning Agent: A Foundation Framework for Daily CBCT-guided Radio",
+      "source": "arxiv"
+    },
+    "2607.14264": {
+      "date_added": "2026-08-13",
+      "direction": "F",
+      "title": "MonteRET: AI Agent Enhancing Multimodal LLMs with Multi-granularity Knowledge Retrieval for Chest CT",
+      "source": "arxiv"
+    },
+    "2605.21740": {
+      "date_added": "2026-08-13",
+      "direction": "X",
+      "title": "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?",
+      "source": "arxiv"
+    },
+    "2605.12784": {
+      "date_added": "2026-08-13",
+      "direction": "X",
+      "title": "ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery",
+      "source": "arxiv"
+    },
+    "2601.22382": {
+      "date_added": "2026-08-13",
+      "direction": "X",
+      "title": "Purely Agent-Driven Black-Box Optimization for Biological Design",
+      "source": "arxiv"
     }
   },
   "42289215": {
@@ -2149,76 +2227,75 @@
     "date_added": "2026-08-03",
     "direction": "X",
     "title": "DDIAgents: Mechanism-Conditioned Context Flow for Drug-Drug Interaction Prediction"
+  },
+  "2606.22692": {
+    "date_added": "2026-08-12",
+    "direction": "B",
+    "title": "VISTA Architect: A graph database-oriented health AI system"
+  },
+  "2604.03509": {
+    "date_added": "2026-08-12",
+    "direction": "B",
+    "title": "Applications of Large Language Models in Radiation Oncology"
+  },
+  "2607.08404": {
+    "date_added": "2026-08-12",
+    "direction": "D",
+    "title": "DrugGen 2: A disease-aware language model for drug discovery"
+  },
+  "2607.12474": {
+    "date_added": "2026-08-12",
+    "direction": "D",
+    "title": "From Observation to Insight: Mechanistic World Models"
+  },
+  "2608.02684": {
+    "date_added": "2026-08-12",
+    "direction": "D",
+    "title": "A Blind Spot in Alignment: Biosecurity Risks in LLMs"
+  },
+  "2608.08366": {
+    "date_added": "2026-08-12",
+    "direction": "E",
+    "title": "VOICE: A Vision-Omics Foundation Model"
+  },
+  "2608.09722": {
+    "date_added": "2026-08-12",
+    "direction": "E",
+    "title": "Decoding Gene Regulatory Networks from Single-Cell RNA Velocity"
+  },
+  "2608.02961": {
+    "date_added": "2026-08-12",
+    "direction": "E",
+    "title": "Scaling an Autoregressive Transformer for Single-Cell Generation"
+  },
+  "2604.06569": {
+    "date_added": "2026-08-12",
+    "direction": "E",
+    "title": "ECLIPSE: A Composable Pipeline for Predicting ecDNA"
+  },
+  "2606.20164": {
+    "date_added": "2026-08-12",
+    "direction": "F",
+    "title": "MedRLM: Recursive Multimodal Health Intelligence"
+  },
+  "2606.14766": {
+    "date_added": "2026-08-12",
+    "direction": "F",
+    "title": "XMedFusion: A Knowledge-Guided Multimodal Perception"
+  },
+  "2606.13572": {
+    "date_added": "2026-08-12",
+    "direction": "F",
+    "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning"
+  },
+  "2606.11702": {
+    "date_added": "2026-08-12",
+    "direction": "F",
+    "title": "MedCTA: A Benchmark for Clinical Tool Agents"
+  },
+  "2604.07512": {
+    "date_added": "2026-08-12",
+    "direction": "X",
+    "title": "Rhizome OS-1: Semi-Autonomous Operating System for Drug Discovery"
   }
-,
-    "2606.22692": {
-      "date_added": "2026-08-12",
-      "direction": "B",
-      "title": "VISTA Architect: A graph database-oriented health AI system"
-    },
-    "2604.03509": {
-      "date_added": "2026-08-12",
-      "direction": "B",
-      "title": "Applications of Large Language Models in Radiation Oncology"
-    },
-    "2607.08404": {
-      "date_added": "2026-08-12",
-      "direction": "D",
-      "title": "DrugGen 2: A disease-aware language model for drug discovery"
-    },
-    "2607.12474": {
-      "date_added": "2026-08-12",
-      "direction": "D",
-      "title": "From Observation to Insight: Mechanistic World Models"
-    },
-    "2608.02684": {
-      "date_added": "2026-08-12",
-      "direction": "D",
-      "title": "A Blind Spot in Alignment: Biosecurity Risks in LLMs"
-    },
-    "2608.08366": {
-      "date_added": "2026-08-12",
-      "direction": "E",
-      "title": "VOICE: A Vision-Omics Foundation Model"
-    },
-    "2608.09722": {
-      "date_added": "2026-08-12",
-      "direction": "E",
-      "title": "Decoding Gene Regulatory Networks from Single-Cell RNA Velocity"
-    },
-    "2608.02961": {
-      "date_added": "2026-08-12",
-      "direction": "E",
-      "title": "Scaling an Autoregressive Transformer for Single-Cell Generation"
-    },
-    "2604.06569": {
-      "date_added": "2026-08-12",
-      "direction": "E",
-      "title": "ECLIPSE: A Composable Pipeline for Predicting ecDNA"
-    },
-    "2606.20164": {
-      "date_added": "2026-08-12",
-      "direction": "F",
-      "title": "MedRLM: Recursive Multimodal Health Intelligence"
-    },
-    "2606.14766": {
-      "date_added": "2026-08-12",
-      "direction": "F",
-      "title": "XMedFusion: A Knowledge-Guided Multimodal Perception"
-    },
-    "2606.13572": {
-      "date_added": "2026-08-12",
-      "direction": "F",
-      "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning"
-    },
-    "2606.11702": {
-      "date_added": "2026-08-12",
-      "direction": "F",
-      "title": "MedCTA: A Benchmark for Clinical Tool Agents"
-    },
-    "2604.07512": {
-      "date_added": "2026-08-12",
-      "direction": "X",
-      "title": "Rhizome OS-1: Semi-Autonomous Operating System for Drug Discovery"
-    }
-  }
+}
