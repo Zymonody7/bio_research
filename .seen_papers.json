@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-08-14",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2031,6 +2031,91 @@
       "direction": "X",
       "title": "Purely Agent-Driven Black-Box Optimization for Biological Design",
       "source": "arxiv"
+    },
+    "10.3390/diagnostics16010133": {
+      "date_added": "2026-08-14",
+      "direction": "A",
+      "title": "BacT-Seq, a Nanopore-Based Whole-Genome Sequencing Workflow Prototype for Rapid Pathogen Identification"
+    },
+    "2607.09322": {
+      "date_added": "2026-08-14",
+      "direction": "B",
+      "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making"
+    },
+    "10.1038/s41586-025-10097-9": {
+      "date_added": "2026-08-14",
+      "direction": "B",
+      "title": "An agentic system for rare disease diagnosis with traceable reasoning"
+    },
+    "2606.18037": {
+      "date_added": "2026-08-14",
+      "direction": "B",
+      "title": "ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents"
+    },
+    "10.1109/jbhi.2025.3622058": {
+      "date_added": "2026-08-14",
+      "direction": "B",
+      "title": "Integrating LLMs and Knowledge Graphs for Medical AI: Advances, Challenges, and Future Directions"
+    },
+    "2608.07418": {
+      "date_added": "2026-08-14",
+      "direction": "C",
+      "title": "ResidencyRL: Reinforcement Learning in Simulated Clinical Environments"
+    },
+    "2406.06496": {
+      "date_added": "2026-08-14",
+      "direction": "C",
+      "title": "Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation"
+    },
+    "2608.06022": {
+      "date_added": "2026-08-14",
+      "direction": "D",
+      "title": "EpiBench: Can LLMs Understand Epitopes for Antibody Drug Discovery?"
+    },
+    "2605.27413": {
+      "date_added": "2026-08-14",
+      "direction": "D",
+      "title": "Ligand-Conditioned Discrete Diffusion for Protein Sequence-Structure Co-Design"
+    },
+    "2603.10811": {
+      "date_added": "2026-08-14",
+      "direction": "D",
+      "title": "Protein Counterfactuals via Diffusion-Guided Latent Optimization"
+    },
+    "2607.19618": {
+      "date_added": "2026-08-14",
+      "direction": "E",
+      "title": "Causal dictionary learning reveals and validates transcription-factor binding features in genomic language models"
+    },
+    "10.1038/s41467-026-69102-y": {
+      "date_added": "2026-08-14",
+      "direction": "E",
+      "title": "scLong: a billion-parameter foundation model for capturing long-range gene context"
+    },
+    "2608.06613": {
+      "date_added": "2026-08-14",
+      "direction": "F",
+      "title": "Do 3D Medical Foundation Models See Through MRI Artifacts? A Controlled Study of Representation Robustness"
+    },
+    "2604.28011": {
+      "date_added": "2026-08-14",
+      "direction": "F",
+      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+    },
+    "2606.08093": {
+      "date_added": "2026-08-14",
+      "direction": "F",
+      "title": "A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology"
+    },
+    "10.1038/s41587-026-03035-1": {
+      "date_added": "2026-08-14",
+      "direction": "X",
+      "title": "Agentic AI and the rise of in silico team science in biomedical research"
+    },
+    "2605.04375": {
+      "date_added": "2026-08-14",
+      "direction": "X",
+      "title": "Experiment-as-Code Labs: A Declarative Stack for AI-Driven Scientific Discovery"
     }
   },
   "42289215": {
