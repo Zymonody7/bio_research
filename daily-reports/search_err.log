@@ -1,0 +1,8 @@
+[A] Attempt 1 failed: The read operation timed out
+[A] Attempt 2 failed: The read operation timed out
+[A] Attempt 3 failed: HTTP Error 429: Unknown Error
+[B] Attempt 1 failed: The read operation timed out
+[B] Attempt 2 failed: The read operation timed out
+[B] Attempt 3 failed: HTTP Error 429: Unknown Error
+[C] Attempt 1 failed: HTTP Error 429: Unknown Error
+[C] Attempt 2 failed: HTTP Error 429: Unknown Error

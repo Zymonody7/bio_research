@@ -1,0 +1,362 @@
+[
+  {
+    "direction": "A",
+    "badge": "\ud83d\udcce",
+    "arxiv_id": "",
+    "doi": "10.3389/fmed.2026.1906337",
+    "title": "Isolated diffuse alveolar hemorrhage as the sole severe manifestation of atypical leptospirosis: diagnostic value of BALF mNGS",
+    "authors": [
+      "Jianxiong Xiao",
+      "Yina Wu",
+      "Zhixian Ding"
+    ],
+    "published": "2026-08-13",
+    "summary": "Case report demonstrating diagnostic value of BALF metagenomic next-generation sequencing for atypical leptospirosis without classic Weil's syndrome features. Shows mNGS utility in diagnosing rare infectious presentations.",
+    "url": "https://doi.org/10.3389/fmed.2026.1906337",
+    "relevance": "mNGS clinical application in atypical infections"
+  },
+  {
+    "direction": "A",
+    "badge": "\ud83d\udcce",
+    "arxiv_id": "",
+    "doi": "10.3389/fcimb.2026.1840378",
+    "title": "Molecular insights into lower respiratory tract microbiota reveal disease-specific biomarkers in asthma and COPD",
+    "authors": [
+      "Yuanping Huang",
+      "Yanfei Zhao",
+      "Xue Xin"
+    ],
+    "published": "2026-07-21",
+    "summary": "Applied BALF genomic sequencing to identify phenotype-specific microbial signatures for asthma and COPD. Demonstrates NGS-based microbiome analysis for respiratory disease biomarker discovery.",
+    "url": "https://doi.org/10.3389/fcimb.2026.1840378",
+    "relevance": "NGS microbiome analysis for respiratory disease"
+  },
+  {
+    "direction": "A",
+    "badge": "\ud83d\udcd6",
+    "arxiv_id": "",
+    "doi": "10.3390/diagnostics16152478",
+    "title": "AI for Integrated Analysis of Non-Blood Biological Fluids: From Biomarker Discovery to Clinical Decision-Support",
+    "authors": [
+      "Valentina Becherucci",
+      "Francesca Romano",
+      "Edda Russo"
+    ],
+    "published": "2026-08-06",
+    "summary": "Comprehensive review of AI integration in analyzing CSF, serous effusions, and synovial fluid. Covers biomarker discovery, clinical decision-support systems, and multi-omics data integration.",
+    "url": "https://doi.org/10.3390/diagnostics16152478",
+    "relevance": "AI for biological fluid analysis and clinical decision support"
+  },
+  {
+    "direction": "B",
+    "badge": "\ud83d\udd25\ud83d\udd25",
+    "arxiv_id": "2606.22955",
+    "doi": "",
+    "title": "Evo-RAD: Navigating Rare Retinal Disease Diagnosis via Self-Evolving Agentic Retrieval",
+    "authors": [
+      "Wangding Xia",
+      "Ye Du",
+      "Jiashi Lin",
+      "Meng Wang"
+    ],
+    "published": "2026",
+    "summary": "Self-evolving agentic retrieval system for rare retinal disease diagnosis. Addresses hubness problem in static retrieval by dynamically adapting retrieval strategies based on query complexity and disease rarity.",
+    "url": "https://arxiv.org/abs/2606.22955",
+    "relevance": "Self-evolving RAG agent for rare disease diagnosis"
+  },
+  {
+    "direction": "B",
+    "badge": "\ud83d\udd25",
+    "arxiv_id": "2606.25334",
+    "doi": "",
+    "title": "Bridging the Post-discharge Gap: A Traceable Multi-agent Framework for Safe and Continuous Care",
+    "authors": [
+      "Runwei Guan",
+      "Yi Zhou",
+      "Heyi Lin",
+      "Jinjing Zhu"
+    ],
+    "published": "2026",
+    "summary": "Multi-agent framework for post-discharge clinical follow-up with traceable reasoning. Addresses information silos across healthcare settings and enables continuous patient monitoring.",
+    "url": "https://arxiv.org/abs/2606.25334",
+    "relevance": "Multi-agent clinical follow-up with traceable reasoning"
+  },
+  {
+    "direction": "B",
+    "badge": "\ud83d\udd25\ud83d\udd25",
+    "arxiv_id": "",
+    "doi": "10.1038/s41746-026-03116-0",
+    "title": "MedGuard: LLM-based gatekeeper for detecting clinical risks in Chinese telemedicine consultations",
+    "authors": [
+      "Yuntao Shi",
+      "Qiwen Wang",
+      "Shang Gao",
+      "Jing Zhou"
+    ],
+    "published": "2026-08-10",
+    "summary": "First LLM-based agent to monitor telemedicine consultations and proactively flag risks in diagnoses, prescriptions, and clinical dialogs. Includes dedicated workflow and comprehensive benchmark for telemedicine safety.",
+    "url": "https://doi.org/10.1038/s41746-026-03116-0",
+    "relevance": "LLM agent for telemedicine safety monitoring"
+  },
+  {
+    "direction": "C",
+    "badge": "\ud83d\udd25\ud83d\udd25",
+    "arxiv_id": "",
+    "doi": "10.1007/s10462-026-11657-9",
+    "title": "Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey",
+    "authors": [
+      "Qiyuan Liu",
+      "Hao Xu",
+      "Xuhong Chen",
+      "Wei Chen"
+    ],
+    "published": "2026-08-13",
+    "summary": "Systematic survey of reward models for LLM reasoning enhancement. Covers RM architectures, training methodologies, applications in RL fine-tuning and inference-time selection. Comprehensive analysis of reward modeling strategies.",
+    "url": "https://doi.org/10.1007/s10462-026-11657-9",
+    "relevance": "Reward models for LLM reasoning \u2014 foundational for medical RLHF"
+  },
+  {
+    "direction": "C",
+    "badge": "\ud83d\udd25",
+    "arxiv_id": "",
+    "doi": "10.1038/s41598-026-66436-x",
+    "title": "Longitudinal benchmarking of AI models for differential diagnosis of oral mucosal lesions",
+    "authors": [
+      "Nadav Grinberg",
+      "Sara Whitefield",
+      "Shlomi Kleinman"
+    ],
+    "published": "2026-08-12",
+    "summary": "Controlled longitudinal benchmarking of contemporary AI systems for oral mucosal lesion diagnosis. Uses identical biopsy-confirmed dataset to compare diagnostic accuracy across AI systems and specialists.",
+    "url": "https://doi.org/10.1038/s41598-026-66436-x",
+    "relevance": "AI diagnostic benchmarking \u2014 alignment evaluation methodology"
+  },
+  {
+    "direction": "C",
+    "badge": "\ud83d\udcd6",
+    "arxiv_id": "",
+    "doi": "10.1007/s10676-026-09917-x",
+    "title": "Large Language Models as Psychotherapists: Analysis Based on Psychodynamic Psychotherapy Theory",
+    "authors": [
+      "Mateusz \u0141abuz",
+      "Pawe\u0142 Szcz\u0119sny",
+      "Katarzyna Mika-\u0141abuz"
+    ],
+    "published": "2026-08-13",
+    "summary": "Analysis of LLM capabilities and limitations as psychotherapists through psychodynamic psychotherapy lens. Examines interpersonal relationships, unconscious processes, transference/countertransference in LLM interactions.",
+    "url": "https://doi.org/10.1007/s10676-026-09917-x",
+    "relevance": "LLM alignment challenges in therapeutic contexts"
+  },
+  {
+    "direction": "D",
+    "badge": "\ud83d\udd25\ud83d\udd25",
+    "arxiv_id": "2606.18703",
+    "doi": "",
+    "title": "Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment",
+    "authors": [
+      "Yanjun Shao",
+      "Yundi Chen",
+      "Yashvi Patel",
+      "Aurelien Pelissier"
+    ],
+    "published": "2026",
+    "summary": "Novel approach to condition pretrained biological language models on task-specific contexts via logit-space contrastive alignment. Enables PLMs to incorporate interaction partners, cellular contexts, and experimental conditions without retraining.",
+    "url": "https://arxiv.org/abs/2606.18703",
+    "relevance": "Cross-modal conditioning for protein language models"
+  },
+  {
+    "direction": "D",
+    "badge": "\ud83d\udd25",
+    "arxiv_id": "",
+    "doi": "10.1186/s12915-026-02642-3",
+    "title": "Peptide Language Pragmatic Analysis and Two-stage Hierarchical Learning for Therapeutic Peptide Prediction",
+    "authors": [
+      "Ke Yan",
+      "Siyan Lu",
+      "Shutao Chen",
+      "Yunjie Wang"
+    ],
+    "published": "2026-08-13",
+    "summary": "Two-stage hierarchical learning framework for multi-functional therapeutic peptide prediction. Captures amino acid residue interactions and contextual dependencies through pragmatic language analysis.",
+    "url": "https://doi.org/10.1186/s12915-026-02642-3",
+    "relevance": "Language model approach for therapeutic peptide design"
+  },
+  {
+    "direction": "D",
+    "badge": "\ud83d\udd25",
+    "arxiv_id": "",
+    "doi": "10.3389/fchem.2026.1869559",
+    "title": "MetaCYP: Unified Framework for Cytochrome P450 Metabolic Site Prediction via Multimodal Deep Learning",
+    "authors": [
+      "Jiamin Chang",
+      "Xuhai Huang",
+      "Boxue Tian"
+    ],
+    "published": "2026-08-12",
+    "summary": "Multimodal deep learning framework for predicting CYP-substrate reaction sites and types. Integrates molecular properties with protein sequence information for drug metabolism prediction.",
+    "url": "https://doi.org/10.3389/fchem.2026.1869559",
+    "relevance": "Protein-language multimodal approach for drug metabolism"
+  },
+  {
+    "direction": "E",
+    "badge": "\ud83d\udd25\ud83d\udd25",
+    "arxiv_id": "2602.02014",
+    "doi": "",
+    "title": "Rethinking Genomic Modeling Through Optical Character Recognition: OpticalDNA",
+    "authors": [
+      "Hongxin Xiang",
+      "Pengsen Ma",
+      "Yunkang Cao",
+      "Di Yu"
+    ],
+    "published": "2026",
+    "summary": "Novel vision-language approach to genomic modeling that treats DNA as 2D visual representations instead of 1D token sequences. OpticalDNA achieves understanding-driven compression for long genomic contexts, addressing wasted computation on low-information background.",
+    "url": "https://arxiv.org/abs/2602.02014",
+    "relevance": "Vision-language paradigm for genomic foundation models"
+  },
+  {
+    "direction": "E",
+    "badge": "\ud83d\udd25",
+    "arxiv_id": "2601.05531",
+    "doi": "",
+    "title": "DNATokenizer: GPU-First Byte-to-Identifier Tokenizer for High-Throughput DNA Language Models",
+    "authors": [
+      "Eliatan Niktab",
+      "Hardip Patel"
+    ],
+    "published": "2026",
+    "summary": "GPU-optimized tokenizer for DNA language models that addresses information leakage in overlapping k-mer tokenization. Enables high-throughput genomic processing with improved masked prediction fidelity.",
+    "url": "https://arxiv.org/abs/2601.05531",
+    "relevance": "Efficient tokenization for genomic language models"
+  },
+  {
+    "direction": "E",
+    "badge": "\ud83d\udd25\ud83d\udd25",
+    "arxiv_id": "2601.01089",
+    "doi": "",
+    "title": "Central Dogma Transformer: Towards Mechanism-Oriented AI for Cellular Understanding",
+    "authors": [
+      "Nobuyuki Ota"
+    ],
+    "published": "2026",
+    "summary": "Integrates DNA, RNA, and protein information across the Central Dogma into a unified transformer architecture. Bridges domain-specific foundation models to enable cross-molecular-level cellular understanding.",
+    "url": "https://arxiv.org/abs/2601.01089",
+    "relevance": "Multi-molecular genomic foundation model"
+  },
+  {
+    "direction": "F",
+    "badge": "\ud83d\udd25\ud83d\udd25",
+    "arxiv_id": "2607.19624",
+    "doi": "",
+    "title": "Pathologist Attention-Aligned Report Generation for Prostate Histopathology",
+    "authors": [
+      "Ruoyu Xue",
+      "Suryakant Singh",
+      "Souradeep Chakraborty",
+      "Pierre Marza"
+    ],
+    "published": "2026",
+    "summary": "Aligns VLM visual attention with pathologist attention patterns during cancer diagnosis. Addresses the gap between model attention and expert visual reasoning in whole-slide image analysis.",
+    "url": "https://arxiv.org/abs/2607.19624",
+    "relevance": "Expert-aligned multimodal clinical reasoning"
+  },
+  {
+    "direction": "F",
+    "badge": "\ud83d\udd25",
+    "arxiv_id": "2607.16609",
+    "doi": "",
+    "title": "Can Multimodal Large Language Models Understand OCT?",
+    "authors": [
+      "Baochen Fu",
+      "Wenzhi Deng",
+      "Baihao Jin",
+      "Yang Li"
+    ],
+    "published": "2026",
+    "summary": "Comprehensive benchmark for evaluating MLLMs on OCT retinal imaging. Goes beyond coarse-grained disease classification to fine-grained anatomical structure understanding and clinical reasoning.",
+    "url": "https://arxiv.org/abs/2607.16609",
+    "relevance": "Multimodal VLM evaluation for ophthalmic imaging"
+  },
+  {
+    "direction": "F",
+    "badge": "\ud83d\udd25",
+    "arxiv_id": "",
+    "doi": "10.1088/1361-6560/ae98dd",
+    "title": "Multi-scale Fusion Model for Predicting Pancreatic Cancer Resectability from Multi-phase CECT",
+    "authors": [
+      "Xiaohui Cheng",
+      "Yu Liu",
+      "Jun Li",
+      "Jianhua Ma"
+    ],
+    "published": "2026-08-12",
+    "summary": "Multi-scale fusion model using three-phase contrast-enhanced CT to predict pancreatic cancer resectability. Achieves cross-institutional generalization with multi-center validation.",
+    "url": "https://doi.org/10.1088/1361-6560/ae98dd",
+    "relevance": "Multimodal clinical decision support for surgical planning"
+  },
+  {
+    "direction": "X",
+    "badge": "\ud83d\udd25\ud83d\udd25",
+    "arxiv_id": "2507.02925",
+    "doi": "",
+    "title": "Large Language Model Agent for Modular Task Execution in Drug Discovery",
+    "authors": [
+      "Janghoon Ock",
+      "Radheesh Sharma Meda",
+      "Srivathsan Badrinarayanan"
+    ],
+    "published": "2025",
+    "summary": "Modular LLM agent framework for early-stage computational drug discovery. Combines LLM reasoning with domain-specific tools for biomedical data retrieval, molecular generation, and property prediction.",
+    "url": "https://arxiv.org/abs/2507.02925",
+    "relevance": "LLM agent for modular drug discovery pipeline"
+  },
+  {
+    "direction": "X",
+    "badge": "\ud83d\udd25",
+    "arxiv_id": "2505.17154",
+    "doi": "",
+    "title": "Can Large Language Models Design Biological Weapons? Evaluating Moremi Bio",
+    "authors": [
+      "Gertrude Hattoh",
+      "Jeremiah Ayensu",
+      "Nyarko Prince Ofori"
+    ],
+    "published": "2025",
+    "summary": "Evaluates biosecurity risks of LLMs in molecular design. Tests Moremi Bio Agent without safety guardrails for toxic substance generation, providing critical dual-use assessment.",
+    "url": "https://arxiv.org/abs/2505.17154",
+    "relevance": "Biosecurity evaluation of LLM molecular design capabilities"
+  },
+  {
+    "direction": "X",
+    "badge": "\ud83d\udd25",
+    "arxiv_id": "2511.18298",
+    "doi": "",
+    "title": "BioSage: Cross-Disciplinary Knowledge Retrieval and Synthesis for Scientific Discovery",
+    "authors": [
+      "S. Volkova",
+      "Peter Bautista",
+      "Avinash Hiriyanna"
+    ],
+    "published": "2025-11",
+    "summary": "Compound AI architecture integrating LLMs with RAG and specialized agents for cross-disciplinary discovery across AI, biomedical, and biosecurity domains.",
+    "url": "https://arxiv.org/abs/2511.18298",
+    "relevance": "Cross-disciplinary AI agent for scientific discovery"
+  },
+  {
+    "direction": "F",
+    "badge": "\ud83d\udd25",
+    "arxiv_id": "",
+    "doi": "10.1038/s41551-026-01762-z",
+    "title": "Foundation Models in Biomedical Imaging: Turning Hype into Reality",
+    "authors": [
+      "Amgad Muneer",
+      "Kai Zhang",
+      "Ibraheem Hamdi",
+      "Rizwan Qureshi"
+    ],
+    "published": "2026-08-11",
+    "summary": "Critical assessment of foundation models in biomedical imaging, separating practical achievements from hype. Covers deployment challenges, domain adaptation, and real-world clinical integration.",
+    "url": "https://doi.org/10.1038/s41551-026-01762-z",
+    "relevance": "Foundation model deployment in biomedical imaging"
+  }
+]
