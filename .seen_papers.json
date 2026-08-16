@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-15",
+  "last_updated": "2026-08-16",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1370,9 +1370,9 @@
       "title": "AI agentic models and lab automation for scientific discovery"
     },
     "2607.20057": {
-      "date_added": "2026-08-05",
+      "date_added": "2026-08-16",
       "direction": "A",
-      "title": "Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Discovery"
+      "title": "Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design"
     },
     "2606.30140": {
       "date_added": "2026-08-05",
@@ -2248,6 +2248,86 @@
       "direction": "F",
       "title": "Foundation Models in Biomedical Imaging: Turning Hype into Reality",
       "source": "doi"
+    },
+    "2606.22419": {
+      "date_added": "2026-08-16",
+      "direction": "B",
+      "title": "Knowledge-Graph Grounding Helps LLMs Only for Out-of-Training Knowledge"
+    },
+    "2604.23802": {
+      "date_added": "2026-08-16",
+      "direction": "B",
+      "title": "EndoGov: A knowledge-governed multi-agent expert system for endometrial cancer risk stratification"
+    },
+    "2602.12871": {
+      "date_added": "2026-08-16",
+      "direction": "B",
+      "title": "MentalBench: A DSM-Grounded Benchmark for Psychiatric Diagnostic Capability of LLMs"
+    },
+    "2607.25485": {
+      "date_added": "2026-08-16",
+      "direction": "C",
+      "title": "PatientAgentBench: A Benchmark Framework for Evaluating Patient-Facing Health AI Agents"
+    },
+    "2601.13268": {
+      "date_added": "2026-08-16",
+      "direction": "C",
+      "title": "Improving the Safety and Trustworthiness of Medical AI via Multi-Agent Evaluation Loops"
+    },
+    "2601.17642": {
+      "date_added": "2026-08-16",
+      "direction": "C",
+      "title": "Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context"
+    },
+    "2603.04480": {
+      "date_added": "2026-08-16",
+      "direction": "D",
+      "title": "AbAffinity: A Large Language Model for Predicting Antibody Binding Affinity against SARS-CoV-2"
+    },
+    "2602.04916": {
+      "date_added": "2026-08-16",
+      "direction": "D",
+      "title": "AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations"
+    },
+    "2502.03499": {
+      "date_added": "2026-08-16",
+      "direction": "E",
+      "title": "Omni-DNA: A Unified Genomic Foundation Model for Cross-Modal and Multi-Task Learning"
+    },
+    "2608.08366": {
+      "date_added": "2026-08-16",
+      "direction": "E",
+      "title": "VOICE: A Vision-Omics Foundation Model for Single-Cell Gene Expression"
+    },
+    "2606.07676": {
+      "date_added": "2026-08-16",
+      "direction": "E",
+      "title": "Single-Cell Cross-Modal Transfer by Adversarial Fine-Tuning of Foundation Models"
+    },
+    "2603.19516": {
+      "date_added": "2026-08-16",
+      "direction": "F",
+      "title": "Gastric-X: A Multimodal Multi-Phase Benchmark for Gastric Cancer VLMs"
+    },
+    "2601.18356": {
+      "date_added": "2026-08-16",
+      "direction": "F",
+      "title": "Making medical VLMs think causally across modalities with retrieval-augmented reasoning"
+    },
+    "2601.14084": {
+      "date_added": "2026-08-16",
+      "direction": "F",
+      "title": "DermaBench: A Clinician-Annotated Benchmark for Dermatology VQA"
+    },
+    "2607.11084": {
+      "date_added": "2026-08-16",
+      "direction": "X",
+      "title": "NVAITC AI Scientist: A Governed End-to-End Research System"
+    },
+    "2601.17687": {
+      "date_added": "2026-08-16",
+      "direction": "X",
+      "title": "Agentic RL for Chemical Language Models in Drug Design"
     }
   },
   "42289215": {
