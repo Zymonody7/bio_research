@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-14",
+  "last_updated": "2026-08-15",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2116,6 +2116,138 @@
       "date_added": "2026-08-14",
       "direction": "X",
       "title": "Experiment-as-Code Labs: A Declarative Stack for AI-Driven Scientific Discovery"
+    },
+    "10.3389/fmed.2026.1906337": {
+      "date_added": "2026-08-15",
+      "direction": "A",
+      "title": "Isolated diffuse alveolar hemorrhage as the sole severe manifestation of atypical leptospirosis: dia",
+      "source": "doi"
+    },
+    "10.3389/fcimb.2026.1840378": {
+      "date_added": "2026-08-15",
+      "direction": "A",
+      "title": "Molecular insights into lower respiratory tract microbiota reveal disease-specific biomarkers in ast",
+      "source": "doi"
+    },
+    "10.3390/diagnostics16152478": {
+      "date_added": "2026-08-15",
+      "direction": "A",
+      "title": "AI for Integrated Analysis of Non-Blood Biological Fluids: From Biomarker Discovery to Clinical Deci",
+      "source": "doi"
+    },
+    "2606.22955": {
+      "date_added": "2026-08-15",
+      "direction": "B",
+      "title": "Evo-RAD: Navigating Rare Retinal Disease Diagnosis via Self-Evolving Agentic Retrieval",
+      "source": "arxiv"
+    },
+    "2606.25334": {
+      "date_added": "2026-08-15",
+      "direction": "B",
+      "title": "Bridging the Post-discharge Gap: A Traceable Multi-agent Framework for Safe and Continuous Care",
+      "source": "arxiv"
+    },
+    "10.1038/s41746-026-03116-0": {
+      "date_added": "2026-08-15",
+      "direction": "B",
+      "title": "MedGuard: LLM-based gatekeeper for detecting clinical risks in Chinese telemedicine consultations",
+      "source": "doi"
+    },
+    "10.1007/s10462-026-11657-9": {
+      "date_added": "2026-08-15",
+      "direction": "C",
+      "title": "Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey",
+      "source": "doi"
+    },
+    "10.1038/s41598-026-66436-x": {
+      "date_added": "2026-08-15",
+      "direction": "C",
+      "title": "Longitudinal benchmarking of AI models for differential diagnosis of oral mucosal lesions",
+      "source": "doi"
+    },
+    "10.1007/s10676-026-09917-x": {
+      "date_added": "2026-08-15",
+      "direction": "C",
+      "title": "Large Language Models as Psychotherapists: Analysis Based on Psychodynamic Psychotherapy Theory",
+      "source": "doi"
+    },
+    "2606.18703": {
+      "date_added": "2026-08-15",
+      "direction": "D",
+      "title": "Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment",
+      "source": "arxiv"
+    },
+    "10.1186/s12915-026-02642-3": {
+      "date_added": "2026-08-15",
+      "direction": "D",
+      "title": "Peptide Language Pragmatic Analysis and Two-stage Hierarchical Learning for Therapeutic Peptide Pred",
+      "source": "doi"
+    },
+    "10.3389/fchem.2026.1869559": {
+      "date_added": "2026-08-15",
+      "direction": "D",
+      "title": "MetaCYP: Unified Framework for Cytochrome P450 Metabolic Site Prediction via Multimodal Deep Learnin",
+      "source": "doi"
+    },
+    "2602.02014": {
+      "date_added": "2026-08-15",
+      "direction": "E",
+      "title": "Rethinking Genomic Modeling Through Optical Character Recognition: OpticalDNA",
+      "source": "arxiv"
+    },
+    "2601.05531": {
+      "date_added": "2026-08-15",
+      "direction": "E",
+      "title": "DNATokenizer: GPU-First Byte-to-Identifier Tokenizer for High-Throughput DNA Language Models",
+      "source": "arxiv"
+    },
+    "2601.01089": {
+      "date_added": "2026-08-15",
+      "direction": "E",
+      "title": "Central Dogma Transformer: Towards Mechanism-Oriented AI for Cellular Understanding",
+      "source": "arxiv"
+    },
+    "2607.19624": {
+      "date_added": "2026-08-15",
+      "direction": "F",
+      "title": "Pathologist Attention-Aligned Report Generation for Prostate Histopathology",
+      "source": "arxiv"
+    },
+    "2607.16609": {
+      "date_added": "2026-08-15",
+      "direction": "F",
+      "title": "Can Multimodal Large Language Models Understand OCT?",
+      "source": "arxiv"
+    },
+    "10.1088/1361-6560/ae98dd": {
+      "date_added": "2026-08-15",
+      "direction": "F",
+      "title": "Multi-scale Fusion Model for Predicting Pancreatic Cancer Resectability from Multi-phase CECT",
+      "source": "doi"
+    },
+    "2507.02925": {
+      "date_added": "2026-08-15",
+      "direction": "X",
+      "title": "Large Language Model Agent for Modular Task Execution in Drug Discovery",
+      "source": "arxiv"
+    },
+    "2505.17154": {
+      "date_added": "2026-08-15",
+      "direction": "X",
+      "title": "Can Large Language Models Design Biological Weapons? Evaluating Moremi Bio",
+      "source": "arxiv"
+    },
+    "2511.18298": {
+      "date_added": "2026-08-15",
+      "direction": "X",
+      "title": "BioSage: Cross-Disciplinary Knowledge Retrieval and Synthesis for Scientific Discovery",
+      "source": "arxiv"
+    },
+    "10.1038/s41551-026-01762-z": {
+      "date_added": "2026-08-15",
+      "direction": "F",
+      "title": "Foundation Models in Biomedical Imaging: Turning Hype into Reality",
+      "source": "doi"
     }
   },
   "42289215": {
