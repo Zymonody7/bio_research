@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-16",
+  "last_updated": "2026-08-17",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1115,14 +1115,14 @@
       "title": "When Helpfulness Backfires: Sycophantic Medical LLMs"
     },
     "10.1038/s41592-025-02776-2": {
-      "date_added": "2026-08-04",
+      "date_added": "2026-08-17",
       "direction": "D",
-      "title": "Biophysics-based protein language models"
+      "title": "Biophysics-based protein language models for protein engineering"
     },
     "10.1038/s41587-025-02761-2": {
-      "date_added": "2026-08-04",
+      "date_added": "2026-08-17",
       "direction": "D",
-      "title": "PepMLM: Target sequence-conditioned peptide binder design"
+      "title": "Target sequence-conditioned design of peptide binders using masked LM"
     },
     "2606.18961": {
       "date_added": "2026-07-31",
@@ -1355,9 +1355,9 @@
       "title": "EyeCLIP: Multimodal VLFM for computational ophthalmology"
     },
     "10.1038/s44387-025-00015-9": {
-      "date_added": "2026-08-04",
+      "date_added": "2026-08-17",
       "direction": "F",
-      "title": "VL foundation model for 3D medical imaging"
+      "title": "Vision-language foundation model for 3D medical imaging"
     },
     "10.1038/s41586-026-10644-y": {
       "date_added": "2026-08-10",
@@ -2100,7 +2100,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -2328,6 +2328,91 @@
       "date_added": "2026-08-16",
       "direction": "X",
       "title": "Agentic RL for Chemical Language Models in Drug Design"
+    },
+    "10.3389/fcimb.2025.1602636": {
+      "date_added": "2026-08-17",
+      "direction": "A",
+      "title": "Diagnostic value of mNGS of bronchoalveolar lavage fluid in critically ill patients"
+    },
+    "41602756": {
+      "date_added": "2026-08-17",
+      "direction": "A",
+      "title": "AI-powered analysis of viral metagenomic sequencing data for rapid outbreak investigation"
+    },
+    "10.3389/fmicb.2025.1665685": {
+      "date_added": "2026-08-17",
+      "direction": "A",
+      "title": "Diagnosis of NTM infections using genomics and AI"
+    },
+    "10.1007/s44443-025-00311-z": {
+      "date_added": "2026-08-17",
+      "direction": "B",
+      "title": "LLM-augmented multi-agent cooperative framework for medical case retrieval"
+    },
+    "42368619": {
+      "date_added": "2026-08-17",
+      "direction": "B",
+      "title": "From chat to act: LLM agents and agentic AI in healthcare"
+    },
+    "42368617": {
+      "date_added": "2026-08-17",
+      "direction": "B",
+      "title": "Optimising clinical application of rheumatology guidelines using LLMs"
+    },
+    "10.70777/si.v2i3.15159": {
+      "date_added": "2026-08-17",
+      "direction": "C",
+      "title": "Deliberative Alignment: Reasoning Enables Safer Language Models"
+    },
+    "10.1007/s10462-025-11389-2": {
+      "date_added": "2026-08-17",
+      "direction": "C",
+      "title": "Safeguarding large language models: a survey"
+    },
+    "10.1038/s43588-025-00863-0": {
+      "date_added": "2026-08-17",
+      "direction": "C",
+      "title": "Increasing alignment of LLMs with language processing in human brain"
+    },
+    "10.1038/s42256-025-01124-5": {
+      "date_added": "2026-08-17",
+      "direction": "D",
+      "title": "Resolving data bias improves generalization in binding affinity prediction"
+    },
+    "10.1038/s12276-025-01547-5": {
+      "date_added": "2026-08-17",
+      "direction": "E",
+      "title": "Single-cell foundation models: bringing AI into cell biology"
+    },
+    "10.1038/s41592-025-02879-w": {
+      "date_added": "2026-08-17",
+      "direction": "E",
+      "title": "CellSAM: a foundation model for cell segmentation"
+    },
+    "2504.13049": {
+      "date_added": "2026-08-17",
+      "direction": "E",
+      "title": "Multi-modal single-cell foundation models via dynamic token adaptation"
+    },
+    "42063998": {
+      "date_added": "2026-08-17",
+      "direction": "F",
+      "title": "M3: multimodal AI for medical report generation and visual grounding"
+    },
+    "41658402": {
+      "date_added": "2026-08-17",
+      "direction": "F",
+      "title": "MiniGPT-Pancreas: Multimodal LLM for Pancreas Cancer Observation"
+    },
+    "10.1039/d5cc04998a": {
+      "date_added": "2026-08-17",
+      "direction": "X",
+      "title": "Peptide-based drug design using generative AI"
+    },
+    "10.1016/j.matt.2025.102263": {
+      "date_added": "2026-08-17",
+      "direction": "X",
+      "title": "El Agente: An autonomous agent for quantum chemistry"
     }
   },
   "42289215": {
