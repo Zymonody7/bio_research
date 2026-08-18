@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-18",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2100,7 +2100,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -2413,6 +2413,51 @@
       "date_added": "2026-08-17",
       "direction": "X",
       "title": "El Agente: An autonomous agent for quantum chemistry"
+    },
+    "2508.18567": {
+      "date_added": "2026-08-18",
+      "direction": "D",
+      "title": "Sparse Autoencoders for Low-N Protein Function Prediction and Design"
+    },
+    "2508.12212": {
+      "date_added": "2026-08-18",
+      "direction": "D",
+      "title": "ProtTeX-CC: Activating In-Context Learning in Protein LLM via Two-Stage Instruction Compression"
+    },
+    "2508.13191": {
+      "date_added": "2026-08-18",
+      "direction": "E",
+      "title": "NucEL: Single-Nucleotide ELECTRA-Style Genomic Pre-training for Efficient and Interpretable Representations"
+    },
+    "2507.19229": {
+      "date_added": "2026-08-18",
+      "direction": "E",
+      "title": "TrinityDNA: A Bio-Inspired Foundational Model for Efficient Long-Sequence DNA Modeling"
+    },
+    "2507.05265": {
+      "date_added": "2026-08-18",
+      "direction": "E",
+      "title": "BMFM-DNA: A SNP-aware DNA foundation model to capture variant effects"
+    },
+    "2509.17353": {
+      "date_added": "2026-08-18",
+      "direction": "F",
+      "title": "Medical AI Consensus: A Multi-Agent Framework for Radiology Report Generation and Evaluation"
+    },
+    "2508.05492": {
+      "date_added": "2026-08-18",
+      "direction": "F",
+      "title": "MoMA: A Mixture-of-Multimodal-Agents Architecture for Enhancing Clinical Prediction Modeling"
+    },
+    "2509.20279": {
+      "date_added": "2026-08-18",
+      "direction": "X",
+      "title": "TissueLab: A co-evolving agentic AI system for medical imaging analysis"
+    },
+    "2510.10185": {
+      "date_added": "2026-08-18",
+      "direction": "X",
+      "title": "Auditing medical multi-agent AI reveals risks of false consensus"
     }
   },
   "42289215": {
