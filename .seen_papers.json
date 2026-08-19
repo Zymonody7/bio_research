@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2100,7 +2100,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -2458,6 +2458,46 @@
       "date_added": "2026-08-18",
       "direction": "X",
       "title": "Auditing medical multi-agent AI reveals risks of false consensus"
+    },
+    "2608.16419": {
+      "date_added": "2026-08-19",
+      "direction": "E",
+      "title": "PertMind: Eliciting Emergent Biological Reasoning in LLM via Reinforcement Learning on Cellular Perturbation Data"
+    },
+    "2608.14552": {
+      "date_added": "2026-08-19",
+      "direction": "C",
+      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning"
+    },
+    "2608.14598": {
+      "date_added": "2026-08-19",
+      "direction": "X",
+      "title": "Position: Medical AI Neglects Real Treatment Outcomes"
+    },
+    "2608.15669": {
+      "date_added": "2026-08-19",
+      "direction": "D",
+      "title": "Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search"
+    },
+    "2608.14723": {
+      "date_added": "2026-08-19",
+      "direction": "F",
+      "title": "A Vision Transformer for ECG-Based Detection of Left Ventricular Systolic Dysfunction Across Multiple Clinical Sites"
+    },
+    "2608.14731": {
+      "date_added": "2026-08-19",
+      "direction": "F",
+      "title": "Emergence of Transfer Learning towards Specific Identification of Alzheimer's Disease"
+    },
+    "2608.14766": {
+      "date_added": "2026-08-19",
+      "direction": "F",
+      "title": "Beyond Boundary Noise: Aggregated Aleatoric Uncertainty in 3D Lung Nodule Segmentation"
+    },
+    "2608.14768": {
+      "date_added": "2026-08-19",
+      "direction": "F",
+      "title": "Uncertainty Identifies Difficult Samples Across Methods: Skin Lesion Dataset"
     }
   },
   "42289215": {
