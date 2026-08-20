@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2498,6 +2498,96 @@
       "date_added": "2026-08-19",
       "direction": "F",
       "title": "Uncertainty Identifies Difficult Samples Across Methods: Skin Lesion Dataset"
+    },
+    "2608.09443": {
+      "date_added": "2026-08-20",
+      "direction": "B",
+      "title": "ATLAS: Coupled Graph-Policy Distillation for Personalized Medication Safety"
+    },
+    "2608.00817": {
+      "date_added": "2026-08-20",
+      "direction": "B",
+      "title": "CORA: LLMs improve physician accuracy but lead to false reliance"
+    },
+    "2608.05375": {
+      "date_added": "2026-08-20",
+      "direction": "B",
+      "title": "DoctorAgents: Agentic Framework for Clinical Temporal Data"
+    },
+    "2601.07954": {
+      "date_added": "2026-08-20",
+      "direction": "C",
+      "title": "MedES: Human-Centric Pipeline for Chinese Medical Ethics"
+    },
+    "2602.11661": {
+      "date_added": "2026-08-20",
+      "direction": "C",
+      "title": "Quark Medical Alignment"
+    },
+    "2608.18597": {
+      "date_added": "2026-08-20",
+      "direction": "D",
+      "title": "Off-Manifold Collapse in Guided Protein Language Models"
+    },
+    "2606.31126": {
+      "date_added": "2026-08-20",
+      "direction": "D",
+      "title": "Tabular In-Context Learners for Biomolecular Property Prediction"
+    },
+    "2606.04452": {
+      "date_added": "2026-08-20",
+      "direction": "D",
+      "title": "DeltaDiff: Physics-Guided ML for Mutant Protein Structures"
+    },
+    "2606.06834": {
+      "date_added": "2026-08-20",
+      "direction": "E",
+      "title": "The Dark Regulome: Disentangling Predictability from Regulation in Genomic FMs"
+    },
+    "2606.04525": {
+      "date_added": "2026-08-20",
+      "direction": "E",
+      "title": "GENEB: Why Genomic Models Are Hard to Compare"
+    },
+    "2605.25242": {
+      "date_added": "2026-08-20",
+      "direction": "E",
+      "title": "C3P: Contrastive promoter-protein pretraining"
+    },
+    "2603.00193": {
+      "date_added": "2026-08-20",
+      "direction": "E",
+      "title": "Multimodal Alignment for Genomic Biomarker Prediction"
+    },
+    "2608.10827": {
+      "date_added": "2026-08-20",
+      "direction": "F",
+      "title": "MIRA: Medical Image Reflection for Agentic Diagnosis"
+    },
+    "2608.13690": {
+      "date_added": "2026-08-20",
+      "direction": "F",
+      "title": "MedPlex: Vision-Language Co-Adaptation for Medical Segmentation"
+    },
+    "2608.12904": {
+      "date_added": "2026-08-20",
+      "direction": "F",
+      "title": "HounsWorld: Multimodal World Model for Patient-State Readout"
+    },
+    "2608.13505": {
+      "date_added": "2026-08-20",
+      "direction": "X",
+      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model"
+    },
+    "2607.04508": {
+      "date_added": "2026-08-20",
+      "direction": "X",
+      "title": "Compressing Validation Bottleneck: Agentic Self-Driving Lab"
+    },
+    "2606.11150": {
+      "date_added": "2026-08-20",
+      "direction": "X",
+      "title": "ABC-Bench: Agentic Bio-Capabilities Benchmark for Biosecurity"
     }
   },
   "42289215": {
