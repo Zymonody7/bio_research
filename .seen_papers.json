@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2588,6 +2588,81 @@
       "date_added": "2026-08-20",
       "direction": "X",
       "title": "ABC-Bench: Agentic Bio-Capabilities Benchmark for Biosecurity"
+    },
+    "s41467-025-66865-8": {
+      "date_added": "2026-08-21",
+      "direction": "A",
+      "title": "Metagenomic sequencing enables accurate pathogen and AMR profiling in UTIs"
+    },
+    "fmicb.2025.1634194": {
+      "date_added": "2026-08-21",
+      "direction": "A",
+      "title": "AI-assisted metagenomic sequencing pathogen identification"
+    },
+    "s41586-025-10097-9": {
+      "date_added": "2026-08-21",
+      "direction": "B",
+      "title": "Agentic system for rare disease diagnosis with traceable reasoning"
+    },
+    "j.inffus.2025.103599": {
+      "date_added": "2026-08-21",
+      "direction": "B",
+      "title": "AI Agents vs. Agentic AI: Conceptual taxonomy"
+    },
+    "s41746-025-02008-z": {
+      "date_added": "2026-08-21",
+      "direction": "C",
+      "title": "When helpfulness backfires: sycophantic medical LLMs"
+    },
+    "s10462-025-11389-2": {
+      "date_added": "2026-08-21",
+      "direction": "C",
+      "title": "Safeguarding large language models: a survey"
+    },
+    "s41592-025-02776-2": {
+      "date_added": "2026-08-21",
+      "direction": "D",
+      "title": "Biophysics-based protein language models"
+    },
+    "pnas.2506316122": {
+      "date_added": "2026-08-21",
+      "direction": "D",
+      "title": "Sparse autoencoders for interpretable PLM features"
+    },
+    "s41587-025-02761-2": {
+      "date_added": "2026-08-21",
+      "direction": "D",
+      "title": "Target sequence-conditioned peptide binder design via MLM"
+    },
+    "s41592-025-02881-2": {
+      "date_added": "2026-08-21",
+      "direction": "E",
+      "title": "Annotating genome at single-nucleotide resolution with DNA FM"
+    },
+    "s44387-026-00103-4": {
+      "date_added": "2026-08-21",
+      "direction": "E",
+      "title": "Pre-training genomic LM with variants"
+    },
+    "s41467-025-62590-4": {
+      "date_added": "2026-08-21",
+      "direction": "F",
+      "title": "AI-driven multimodal fusion for AD biomarker assessment"
+    },
+    "s13534-025-00497-1": {
+      "date_added": "2026-08-21",
+      "direction": "F",
+      "title": "From LLMs to multimodal AI in medical imaging"
+    },
+    "s41586-026-10644-y": {
+      "date_added": "2026-08-21",
+      "direction": "X",
+      "title": "Accelerating scientific discovery with Co-Scientist"
+    },
+    "s41586-025-09442-9": {
+      "date_added": "2026-08-21",
+      "direction": "X",
+      "title": "Virtual Lab of AI agents designs SARS-CoV-2 nanobodies"
     }
   },
   "42289215": {
