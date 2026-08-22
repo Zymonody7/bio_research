@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1400,9 +1400,9 @@
       "title": "RAG elevates local LLM in radiology contrast media safety"
     },
     "2311.06025": {
-      "date_added": "2026-08-05",
+      "date_added": "2026-08-22",
       "direction": "C",
-      "title": "ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Pipeline"
+      "title": "ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment"
     },
     "s10586-025-05281-5": {
       "date_added": "2026-08-05",
@@ -1840,9 +1840,9 @@
       "title": "Annotating the genome at single-nucleotide resolution with DNA foundation models"
     },
     "2608.05329": {
-      "date_added": "2026-08-10",
+      "date_added": "2026-08-22",
       "direction": "E",
-      "title": "Frozen but Not Always Accessible: A Representation Analysis of Genomic Language Models"
+      "title": "Frozen but Not Always Accessible: Representation Analysis of Genomic Language Models"
     },
     "10.1038/s41746-026-02676-5": {
       "date_added": "2026-08-10",
@@ -1961,10 +1961,9 @@
       "source": "arxiv"
     },
     "2607.08404": {
-      "date_added": "2026-08-13",
-      "direction": "D",
-      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
-      "source": "arxiv"
+      "date_added": "2026-08-22",
+      "direction": "X",
+      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery"
     },
     "2606.25865": {
       "date_added": "2026-08-13",
@@ -2520,12 +2519,12 @@
       "title": "MedES: Human-Centric Pipeline for Chinese Medical Ethics"
     },
     "2602.11661": {
-      "date_added": "2026-08-20",
+      "date_added": "2026-08-22",
       "direction": "C",
-      "title": "Quark Medical Alignment"
+      "title": "Quark Medical Alignment: A Holistic Multi-Dimensional Alignment and Collaborative Optimization Paradigm"
     },
     "2608.18597": {
-      "date_added": "2026-08-20",
+      "date_added": "2026-08-22",
       "direction": "D",
       "title": "Off-Manifold Collapse in Guided Protein Language Models"
     },
@@ -2663,6 +2662,41 @@
       "date_added": "2026-08-21",
       "direction": "X",
       "title": "Virtual Lab of AI agents designs SARS-CoV-2 nanobodies"
+    },
+    "2212.00015": {
+      "date_added": "2026-08-22",
+      "direction": "A",
+      "title": "Scalable Pathogen Detection from Next Generation DNA Sequencing with Deep Learning"
+    },
+    "2511.15974": {
+      "date_added": "2026-08-22",
+      "direction": "B",
+      "title": "KRAL: Knowledge and Reasoning Augmented Learning for LLM-assisted Clinical Antimicrobial Therapy"
+    },
+    "2608.08163": {
+      "date_added": "2026-08-22",
+      "direction": "B",
+      "title": "Agentic AI-driven Immersive Simulation for HDR Brachytherapy"
+    },
+    "2603.01873": {
+      "date_added": "2026-08-22",
+      "direction": "D",
+      "title": "Inference-Time Toxicity Mitigation in Protein Language Models"
+    },
+    "2505.16229": {
+      "date_added": "2026-08-22",
+      "direction": "F",
+      "title": "CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering"
+    },
+    "2505.17065": {
+      "date_added": "2026-08-22",
+      "direction": "F",
+      "title": "Decoding Rarity: LLMs in the Diagnosis of Rare Diseases"
+    },
+    "2503.16563": {
+      "date_added": "2026-08-22",
+      "direction": "X",
+      "title": "Chem42: a Family of chemical Language Models for Target-aware Ligand Generation"
     }
   },
   "42289215": {
