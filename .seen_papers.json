@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-22",
+  "last_updated": "2026-08-23",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2697,6 +2697,71 @@
       "date_added": "2026-08-22",
       "direction": "X",
       "title": "Chem42: a Family of chemical Language Models for Target-aware Ligand Generation"
+    },
+    "10.21203/rs.3.rs-10641949/v1": {
+      "date_added": "2026-08-23",
+      "direction": "A",
+      "title": "SCoV: a frame-gated cross-modal model for identifying viral sequences in short metagenomic reads"
+    },
+    "10.1038/s41598-026-66216-7": {
+      "date_added": "2026-08-23",
+      "direction": "A",
+      "title": "Multi-site wastewater metagenomics reveals geographically distinct microbial communities"
+    },
+    "10.1038/s41746-026-02962-2": {
+      "date_added": "2026-08-23",
+      "direction": "B",
+      "title": "MultiMed-RAG: leveraging multi-source knowledge and agent collaboration for medical QA"
+    },
+    "10.1016/j.ijmedinf.2026.106652": {
+      "date_added": "2026-08-23",
+      "direction": "B",
+      "title": "ED-triage-agent: a multi-agent framework for human-in-the-loop emergency triage"
+    },
+    "10.1038/s41467-026-76372-z": {
+      "date_added": "2026-08-23",
+      "direction": "B",
+      "title": "ALPaCA: Adapting Llama for Pathology Context Analysis"
+    },
+    "10.21203/rs.3.rs-10720346/v1": {
+      "date_added": "2026-08-23",
+      "direction": "C",
+      "title": "Framework for Grounding Healthcare LLMs in a Causal Knowledge Graph"
+    },
+    "10.1007/s11096-026-02205-0": {
+      "date_added": "2026-08-23",
+      "direction": "C",
+      "title": "Development of a hybrid AI framework for pharmacotherapy optimization"
+    },
+    "10.1038/s41467-026-76740-9": {
+      "date_added": "2026-08-23",
+      "direction": "D",
+      "title": "Accelerating protein design by scaling experimental characterization"
+    },
+    "10.1371/journal.pcbi.1014499": {
+      "date_added": "2026-08-23",
+      "direction": "D",
+      "title": "CLDN18.2 antibody design with protein language models"
+    },
+    "10.64898/2026.08.19.745697": {
+      "date_added": "2026-08-23",
+      "direction": "E",
+      "title": "A self-supervised DNA foundation model with collapse-resistant multimodal fusion"
+    },
+    "10.64898/2026.08.13.744387": {
+      "date_added": "2026-08-23",
+      "direction": "E",
+      "title": "Pretraining Enhances Megabase-Scale Gene Expression Prediction with GeneUnet"
+    },
+    "10.1038/s41467-026-76076-4": {
+      "date_added": "2026-08-23",
+      "direction": "F",
+      "title": "Advancing human-centric AI for robust X-ray analysis"
+    },
+    "10.1038/s41587-026-03238-6": {
+      "date_added": "2026-08-23",
+      "direction": "X",
+      "title": "A blinded, prospective benchmark of in silico antibody discovery"
     }
   },
   "42289215": {
