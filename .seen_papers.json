@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-23",
+  "last_updated": "2026-08-24",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1020,9 +1020,9 @@
       "title": "Benchmark evaluation of DeepSeek large language models in clinical decision-making."
     },
     "10.1016/j.xcrm.2025.102323": {
-      "date_added": "2026-07-29",
+      "date_added": "2026-08-24",
       "direction": "B",
-      "title": "Large language model as clinical decision support system augments medication safety in 16 clinical specialties."
+      "title": "Large language model as clinical decision support system augments medication safety"
     },
     "10.1038/s41467-025-62781-z": {
       "date_added": "2026-07-29",
@@ -1355,7 +1355,7 @@
       "title": "EyeCLIP: Multimodal VLFM for computational ophthalmology"
     },
     "10.1038/s44387-025-00015-9": {
-      "date_added": "2026-08-17",
+      "date_added": "2026-08-24",
       "direction": "F",
       "title": "Vision-language foundation model for 3D medical imaging"
     },
@@ -2379,9 +2379,9 @@
       "title": "Resolving data bias improves generalization in binding affinity prediction"
     },
     "10.1038/s12276-025-01547-5": {
-      "date_added": "2026-08-17",
+      "date_added": "2026-08-24",
       "direction": "E",
-      "title": "Single-cell foundation models: bringing AI into cell biology"
+      "title": "Single-cell foundation models: bringing artificial intelligence into cell biology"
     },
     "10.1038/s41592-025-02879-w": {
       "date_added": "2026-08-17",
@@ -2762,6 +2762,61 @@
       "date_added": "2026-08-23",
       "direction": "X",
       "title": "A blinded, prospective benchmark of in silico antibody discovery"
+    },
+    "10.1038/s25185791": {
+      "date_added": "2026-08-24",
+      "direction": "A",
+      "title": "AI-Enabled Microfluidics for Respiratory Pathogen Detection"
+    },
+    "10.1016/j.ijms2025.189206": {
+      "date_added": "2026-08-24",
+      "direction": "A",
+      "title": "Computational Metagenomics: State of the Art"
+    },
+    "10.1016/j.jpdig.2025.000877": {
+      "date_added": "2026-08-24",
+      "direction": "B",
+      "title": "Retrieval augmented generation for large language models in healthcare: A systematic review"
+    },
+    "10.1145/3711896.3736570": {
+      "date_added": "2026-08-24",
+      "direction": "C",
+      "title": "SycEval: Evaluating LLM Sycophancy"
+    },
+    "10.1016/j.cell.2025.05.018": {
+      "date_added": "2026-08-24",
+      "direction": "C",
+      "title": "The generative era of medical AI"
+    },
+    "10.1101/2025.09.12.675771": {
+      "date_added": "2026-08-24",
+      "direction": "D",
+      "title": "A Generative Foundation Model for Antibody Design"
+    },
+    "10.1038/s41467-025-67609-4": {
+      "date_added": "2026-08-24",
+      "direction": "D",
+      "title": "Generalizable and scalable protein stability prediction with rewired protein generative models"
+    },
+    "10.64898/2026.08.17.744355": {
+      "date_added": "2026-08-24",
+      "direction": "E",
+      "title": "RegFM: an interpretable context-aware foundation model for human transcriptional regulation"
+    },
+    "10.1038/s41467-025-62385-7": {
+      "date_added": "2026-08-24",
+      "direction": "F",
+      "title": "Towards generalist foundation model for radiology by leveraging web-scale 2D&3D medical data"
+    },
+    "10.1101/2025.05.30.656746": {
+      "date_added": "2026-08-24",
+      "direction": "X",
+      "title": "Biomni: A General-Purpose Biomedical AI Agent"
+    },
+    "10.1021/acs.accounts.0c00594": {
+      "date_added": "2026-08-24",
+      "direction": "X",
+      "title": "AI-Driven Antimicrobial Peptide Discovery: Mining and Generation"
     }
   },
   "42289215": {
