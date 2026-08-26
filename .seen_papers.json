@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2817,6 +2817,81 @@
       "date_added": "2026-08-24",
       "direction": "X",
       "title": "AI-Driven Antimicrobial Peptide Discovery: Mining and Generation"
+    },
+    "2608.20413": {
+      "date_added": "2026-08-25",
+      "direction": "E",
+      "title": "BioFirewall: A genome-writing-native governance layer for design-stage biosecurity screening of agentic AI"
+    },
+    "2608.21057": {
+      "date_added": "2026-08-25",
+      "direction": "X",
+      "title": "Designing a Robust LLM-Based Evaluation System for Agentic AI in Drug Discovery Through Human Alignment"
+    },
+    "2608.12090": {
+      "date_added": "2026-08-25",
+      "direction": "D",
+      "title": "Task- and dataset-specific information in protein language models"
+    },
+    "2608.18080": {
+      "date_added": "2026-08-25",
+      "direction": "F",
+      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges"
+    },
+    "2608.12590": {
+      "date_added": "2026-08-25",
+      "direction": "F",
+      "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting"
+    },
+    "2606.15504": {
+      "date_added": "2026-08-25",
+      "direction": "F",
+      "title": "Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support"
+    },
+    "2608.14542": {
+      "date_added": "2026-08-25",
+      "direction": "E",
+      "title": "Generation-Powered Inference for Distribution-Valued Outcomes"
+    },
+    "2608.07632": {
+      "date_added": "2026-08-25",
+      "direction": "E",
+      "title": "JUMP-lite: Compact, reproducible benchmarking of cell representations"
+    },
+    "2607.18696": {
+      "date_added": "2026-08-25",
+      "direction": "X",
+      "title": "Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development"
+    },
+    "2607.12310": {
+      "date_added": "2026-08-25",
+      "direction": "X",
+      "title": "LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes"
+    },
+    "2608.10595": {
+      "date_added": "2026-08-25",
+      "direction": "D",
+      "title": "DegradeQuery: Counterfactual Tuple Pretraining for Context-Aware PROTAC Degradation Prediction"
+    },
+    "2608.02684": {
+      "date_added": "2026-08-25",
+      "direction": "D",
+      "title": "A Blind Spot in Alignment: Quantifying Biosecurity Risks in Large Language Models"
+    },
+    "2406.12182": {
+      "date_added": "2026-08-25",
+      "direction": "C",
+      "title": "Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models"
+    },
+    "2605.27378": {
+      "date_added": "2026-08-25",
+      "direction": "F",
+      "title": "OralAgent: Integrating Reasoning, Tools, and Knowledge for Interactive Dental Image Analysis"
+    },
+    "2604.06180": {
+      "date_added": "2026-08-25",
+      "direction": "F",
+      "title": "MedRoute: RL-Based Dynamic Specialist Routing in Multi-Agent Medical Diagnosis"
     }
   },
   "42289215": {
