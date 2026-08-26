@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -2892,6 +2892,91 @@
       "date_added": "2026-08-25",
       "direction": "F",
       "title": "MedRoute: RL-Based Dynamic Specialist Routing in Multi-Agent Medical Diagnosis"
+    },
+    "2608.22132": {
+      "date_added": "2026-08-26",
+      "direction": "B",
+      "title": "SSE-Bio: A Structured Self-Evolving Agent with Agentic Retrieval Policy for Multi-Hop Biomedical QA"
+    },
+    "2608.22583": {
+      "date_added": "2026-08-26",
+      "direction": "B",
+      "title": "Clinical Graph-JEPA: Predictive Patient-State Knowledge Graphs for Cognitive Decision Support"
+    },
+    "2608.22176": {
+      "date_added": "2026-08-26",
+      "direction": "B",
+      "title": "Role-Specialized Mixture-of-Agents with Open-Weight LLMs for Clinical Prediction"
+    },
+    "2608.22899": {
+      "date_added": "2026-08-26",
+      "direction": "C",
+      "title": "CDEG: Learning Decision-Critical Evidence for Long-Horizon Diagnostic Agents"
+    },
+    "2608.22713": {
+      "date_added": "2026-08-26",
+      "direction": "C",
+      "title": "A Source-Grounded Framework for Constructing and Evaluating Progressive Multimodal Diagnosis"
+    },
+    "2608.21864": {
+      "date_added": "2026-08-26",
+      "direction": "C",
+      "title": "BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications"
+    },
+    "2608.22490": {
+      "date_added": "2026-08-26",
+      "direction": "C",
+      "title": "Who Pays More for Safety? Measuring Disparate Cost of Safety Alignment across Language Models"
+    },
+    "2608.21367": {
+      "date_added": "2026-08-26",
+      "direction": "D",
+      "title": "PepLLM: ESM-Guided Llama for Structured Protein-Peptide Binding Interface Analysis"
+    },
+    "2608.23490": {
+      "date_added": "2026-08-26",
+      "direction": "D",
+      "title": "PHASE: Encoding Global Protein Ensembles with Local Hamiltonians and All-Atom Basis"
+    },
+    "2608.01143": {
+      "date_added": "2026-08-26",
+      "direction": "D",
+      "title": "Funnel-like Protein Energy Landscapes Emerge from Functional Evolution under Thermal Fluctuations"
+    },
+    "2608.21916": {
+      "date_added": "2026-08-26",
+      "direction": "E",
+      "title": "GenomeHarness: Harnessing AI Agents for Reliable Adaptation of Genome Language Models"
+    },
+    "2608.21448": {
+      "date_added": "2026-08-26",
+      "direction": "E",
+      "title": "DNA Methylation Profiling in Melanoma: From Lesion Classification to Therapeutic Stratification"
+    },
+    "2608.22066": {
+      "date_added": "2026-08-26",
+      "direction": "F",
+      "title": "ADMIL: Attention-Distilled Multiple Instance Learning for Selective Foundation Model Inference"
+    },
+    "2608.22619": {
+      "date_added": "2026-08-26",
+      "direction": "F",
+      "title": "GET: Generative Embedding Translation for Medical Image Segmentation"
+    },
+    "2608.21563": {
+      "date_added": "2026-08-26",
+      "direction": "F",
+      "title": "Explainable AI-based Decision Support for Nocturnal Hypoglycemia Prevention in Type 1 Diabetes"
+    },
+    "2608.21868": {
+      "date_added": "2026-08-26",
+      "direction": "X",
+      "title": "HiMA-MDD: Hierarchical Multi-Agent Harness for Interpretable Multimodal Depression Detection"
+    },
+    "2608.22108": {
+      "date_added": "2026-08-26",
+      "direction": "X",
+      "title": "Edge AI as Medical Device System for Breast Cancer MDT Decision Support"
     }
   },
   "42289215": {
