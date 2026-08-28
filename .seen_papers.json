@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-27",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2977,6 +2977,61 @@
       "date_added": "2026-08-26",
       "direction": "X",
       "title": "Edge AI as Medical Device System for Breast Cancer MDT Decision Support"
+    },
+    "2026.19050": {
+      "date_added": "2026-08-27",
+      "direction": "A",
+      "title": "Employing Metagenomics Capture targeted next-generation sequencing for the etiological diagnosis of infectious diseases"
+    },
+    "2026.18848": {
+      "date_added": "2026-08-27",
+      "direction": "A",
+      "title": "Using nanopore metagenomics to characterize pathogens in febrile patients from a resource-limited setting"
+    },
+    "sljas2.v5i1.21": {
+      "date_added": "2026-08-27",
+      "direction": "C",
+      "title": "Large Language Models and Medical AI Systems for Healthcare Diagnosis: A Systematic Review"
+    },
+    "s41467-026-76740-9": {
+      "date_added": "2026-08-27",
+      "direction": "D",
+      "title": "Accelerating protein design by scaling experimental characterization"
+    },
+    "journal.pcbi.1014499": {
+      "date_added": "2026-08-27",
+      "direction": "D",
+      "title": "CLDN18.2 antibody design with protein language models: A deep learning optimization approach"
+    },
+    "s44488-026-00010-2": {
+      "date_added": "2026-08-27",
+      "direction": "D",
+      "title": "Preferential CDR masking in paired antibody language models improves binding affinity prediction"
+    },
+    "s13059-026-04124-9": {
+      "date_added": "2026-08-27",
+      "direction": "E",
+      "title": "Interpretable distillation reveals that deep learning splicing models suffer from shortcut learning"
+    },
+    "s41467-026-76834-4": {
+      "date_added": "2026-08-27",
+      "direction": "E",
+      "title": "PubMind: literature-based genetic variant extraction and functional annotation using LLMs"
+    },
+    "s44484-026-00014-6": {
+      "date_added": "2026-08-27",
+      "direction": "F",
+      "title": "Prompt injection attacks on vision-language models for surgical decision support"
+    },
+    "s41467-026-75718-x": {
+      "date_added": "2026-08-27",
+      "direction": "F",
+      "title": "A multimodal vision-language model for comprehensive dental diagnosis and enhanced clinical reporting"
+    },
+    "journal.pone.0355545": {
+      "date_added": "2026-08-27",
+      "direction": "X",
+      "title": "Bayesian model discovery for reverse-engineering biochemical networks from data"
     }
   },
   "42289215": {
