@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-27",
+  "last_updated": "2026-08-28",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -3032,6 +3032,81 @@
       "date_added": "2026-08-27",
       "direction": "X",
       "title": "Bayesian model discovery for reverse-engineering biochemical networks from data"
+    },
+    "spectrum.04057-25": {
+      "date_added": "2026-08-28",
+      "direction": "A",
+      "title": "Comparative evaluation of probe-capture and conventional metagenomic sequencing"
+    },
+    "j.mimet.2026.107592": {
+      "date_added": "2026-08-28",
+      "direction": "A",
+      "title": "AI in clinical metagenomic pathogen detection: A critical review"
+    },
+    "s43587-026-01186-z": {
+      "date_added": "2026-08-28",
+      "direction": "B",
+      "title": "Agentic AI for scaling diagnosis and care in neurodegenerative disease"
+    },
+    "j.patter.2026.101610": {
+      "date_added": "2026-08-28",
+      "direction": "B",
+      "title": "MedicalAgentsBench for complex medical reasoning"
+    },
+    "s41746-026-02915-9": {
+      "date_added": "2026-08-28",
+      "direction": "B",
+      "title": "Large language models are powerful electronic health record encoders"
+    },
+    "s12913-026-14851-1": {
+      "date_added": "2026-08-28",
+      "direction": "C",
+      "title": "Mitigating hallucinations in healthcare AI: a systematic review"
+    },
+    "s41746-026-02978-8": {
+      "date_added": "2026-08-28",
+      "direction": "C",
+      "title": "Human-in-the-loop validation of a sequential multi-LLM medical education pipeline"
+    },
+    "s42003-026-10497-1": {
+      "date_added": "2026-08-28",
+      "direction": "D",
+      "title": "Ovo, an open-source ecosystem for de novo protein design"
+    },
+    "advs.76023": {
+      "date_added": "2026-08-28",
+      "direction": "D",
+      "title": "AI-Physics-Experiment Trinity for Integrated Protein Dynamics Modeling"
+    },
+    "lqag095": {
+      "date_added": "2026-08-28",
+      "direction": "E",
+      "title": "A systematic assessment of single-cell language model configurations"
+    },
+    "j.cels.2026.101657": {
+      "date_added": "2026-08-28",
+      "direction": "E",
+      "title": "BulkFormer: A large-scale foundation model for bulk transcriptomes"
+    },
+    "s41746-026-02994-8": {
+      "date_added": "2026-08-28",
+      "direction": "F",
+      "title": "Interpretable agentic AI system with localized reasoning for radiology"
+    },
+    "fradi.2026.1875905": {
+      "date_added": "2026-08-28",
+      "direction": "F",
+      "title": "Swin-Qwen3: three-stage vision-language framework for radiology"
+    },
+    "s44386-026-00054-5": {
+      "date_added": "2026-08-28",
+      "direction": "X",
+      "title": "Generative AI for controllable protein sequence design: A survey"
+    },
+    "s41467-026-76361-2": {
+      "date_added": "2026-08-28",
+      "direction": "X",
+      "title": "ESMDynamic: protein dynamic contact map prediction"
     }
   },
   "42289215": {
