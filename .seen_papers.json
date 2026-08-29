@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-28",
+  "last_updated": "2026-08-29",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -3107,6 +3107,46 @@
       "date_added": "2026-08-28",
       "direction": "X",
       "title": "ESMDynamic: protein dynamic contact map prediction"
+    },
+    "10.1038/s41467-026-75183-6": {
+      "date_added": "2026-08-29",
+      "direction": "A",
+      "title": "Comprehensive benchmarking of tools for nanopore-based detection of DNA methylation"
+    },
+    "10.1038/s41467-026-75002-y": {
+      "date_added": "2026-08-29",
+      "direction": "A",
+      "title": "Phylo-Plex: a phylogenetically informed, low-cost amplicon sequencing platform for deployable high-resolution genomic epidemiology"
+    },
+    "10.1186/s11633-026-1659-4": {
+      "date_added": "2026-08-29",
+      "direction": "B",
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning"
+    },
+    "10.1039/s10462-026-11590-x": {
+      "date_added": "2026-08-29",
+      "direction": "C",
+      "title": "AI safety landscape for large language models: taxonomy, state-of-the-art, and future directions"
+    },
+    "10.3841472": {
+      "date_added": "2026-08-29",
+      "direction": "C",
+      "title": "A Survey on Human-AI Collaboration with Large Foundation Models"
+    },
+    "10.1093/bib/bbag374": {
+      "date_added": "2026-08-29",
+      "direction": "D",
+      "title": "AbTune: layer-wise selective fine-tuning of protein language models for antibodies"
+    },
+    "healthcare14131877": {
+      "date_added": "2026-08-29",
+      "direction": "F",
+      "title": "Do Multimodal Vision-Language Models Enhance the Medical Diagnostic Process? A Systematic Review"
+    },
+    "10.1371/journal.pcbi.1014105": {
+      "date_added": "2026-08-29",
+      "direction": "X",
+      "title": "Fung-AI: An AI/ML-driven pipeline for antifungal peptide discovery"
     }
   },
   "42289215": {
