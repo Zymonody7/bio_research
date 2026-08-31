@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-30",
+  "last_updated": "2026-08-31",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -2994,9 +2994,9 @@
       "title": "Large Language Models and Medical AI Systems for Healthcare Diagnosis: A Systematic Review"
     },
     "s41467-026-76740-9": {
-      "date_added": "2026-08-27",
+      "date_added": "2026-08-31",
       "direction": "D",
-      "title": "Accelerating protein design by scaling experimental characterization"
+      "title": "Accelerating Protein Design by Scaling Experimental Characterization"
     },
     "journal.pcbi.1014499": {
       "date_added": "2026-08-27",
@@ -3004,9 +3004,9 @@
       "title": "CLDN18.2 antibody design with protein language models: A deep learning optimization approach"
     },
     "s44488-026-00010-2": {
-      "date_added": "2026-08-27",
+      "date_added": "2026-08-31",
       "direction": "D",
-      "title": "Preferential CDR masking in paired antibody language models improves binding affinity prediction"
+      "title": "Preferential CDR Masking in Paired Antibody LM"
     },
     "s13059-026-04124-9": {
       "date_added": "2026-08-27",
@@ -3014,9 +3014,9 @@
       "title": "Interpretable distillation reveals that deep learning splicing models suffer from shortcut learning"
     },
     "s41467-026-76834-4": {
-      "date_added": "2026-08-27",
+      "date_added": "2026-08-31",
       "direction": "E",
-      "title": "PubMind: literature-based genetic variant extraction and functional annotation using LLMs"
+      "title": "PubMind: Genetic Variant Extraction with LLMs"
     },
     "s44484-026-00014-6": {
       "date_added": "2026-08-27",
@@ -3212,6 +3212,76 @@
       "date_added": "2026-08-30",
       "direction": "X",
       "title": "CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation"
+    },
+    "wjv.124097": {
+      "date_added": "2026-08-31",
+      "direction": "A",
+      "title": "Metagenomic NGS in viral encephalitis diagnosis"
+    },
+    "idr.s625827": {
+      "date_added": "2026-08-31",
+      "direction": "A",
+      "title": "Comparative Analysis of mNGS vs Conventional Methods"
+    },
+    "2608.26228": {
+      "date_added": "2026-08-31",
+      "direction": "A",
+      "title": "PathoMIC: Benchmark for Cross-Species Antimicrobial Peptide Activity"
+    },
+    "jidmis.v3.2250": {
+      "date_added": "2026-08-31",
+      "direction": "B",
+      "title": "Adaptive Decision Intelligence RAG Multi-Agent"
+    },
+    "ae9af2": {
+      "date_added": "2026-08-31",
+      "direction": "B",
+      "title": "Hierarchical Attributed Graph RAG for Biomedical"
+    },
+    "s10462-026-11657-9": {
+      "date_added": "2026-08-31",
+      "direction": "C",
+      "title": "Enhancing LLM Reasoning with Reward Models Survey"
+    },
+    "s41405-026-00462-9": {
+      "date_added": "2026-08-31",
+      "direction": "C",
+      "title": "Evaluating Safety of LLMs in Healthcare"
+    },
+    "2608.26747": {
+      "date_added": "2026-08-31",
+      "direction": "D",
+      "title": "AgentFold: Agentic Search for Protein Folding Model Design"
+    },
+    "j.cell.2026.08.002": {
+      "date_added": "2026-08-31",
+      "direction": "E",
+      "title": "Genome-scale perturb-seq in primary human CD4+ T cells"
+    },
+    "fbinf.2026.1829576": {
+      "date_added": "2026-08-31",
+      "direction": "E",
+      "title": "AI for Genomic Science Scoping Review"
+    },
+    "s41467-026-76372-z": {
+      "date_added": "2026-08-31",
+      "direction": "F",
+      "title": "ALPaCA: Llama for Pathology Context Analysis"
+    },
+    "s41746-026-03060-z": {
+      "date_added": "2026-08-31",
+      "direction": "F",
+      "title": "Multimodal AI Agents in Healthcare Review"
+    },
+    "aie-0026-0017": {
+      "date_added": "2026-08-31",
+      "direction": "X",
+      "title": "The AI Scientist Arrives: Autonomous Discovery"
+    },
+    "tv.2026.728": {
+      "date_added": "2026-08-31",
+      "direction": "X",
+      "title": "Quo Vadis? Scientific Discovery in Age of AI"
     }
   },
   "42289215": {
