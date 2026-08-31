@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-29",
+  "last_updated": "2026-08-30",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -3147,6 +3147,71 @@
       "date_added": "2026-08-29",
       "direction": "X",
       "title": "Fung-AI: An AI/ML-driven pipeline for antifungal peptide discovery"
+    },
+    "2602.16728": {
+      "date_added": "2026-08-30",
+      "direction": "A",
+      "title": "FUNGAR: a pipeline for detecting antifungal resistance mutations directly from metagenomic short rea"
+    },
+    "2604.10389": {
+      "date_added": "2026-08-30",
+      "direction": "B",
+      "title": "BLUEmed: Retrieval-Augmented Multi-Agent Debate for Clinical Error Detection"
+    },
+    "2603.11721": {
+      "date_added": "2026-08-30",
+      "direction": "B",
+      "title": "When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows"
+    },
+    "2603.01241": {
+      "date_added": "2026-08-30",
+      "direction": "B",
+      "title": "TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents"
+    },
+    "2608.20331": {
+      "date_added": "2026-08-30",
+      "direction": "C",
+      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretatio"
+    },
+    "2608.19825": {
+      "date_added": "2026-08-30",
+      "direction": "C",
+      "title": "Towards Clinically Faithful Medical Image Captioning via Enhanced Vision-Language Alignment"
+    },
+    "2608.26147": {
+      "date_added": "2026-08-30",
+      "direction": "C",
+      "title": "CARE: Causally-Aligned Reasoning Exploration for Medical Large Language Models"
+    },
+    "2608.26586": {
+      "date_added": "2026-08-30",
+      "direction": "D",
+      "title": "RegimeFormer: A Large Protein Model of Global Perturbation Regimes"
+    },
+    "2608.26419": {
+      "date_added": "2026-08-30",
+      "direction": "D",
+      "title": "Interpreting Latent Protein Language Model Features with Geometric Annotations"
+    },
+    "2608.25855": {
+      "date_added": "2026-08-30",
+      "direction": "D",
+      "title": "Unlocking Multimodal Protein Language Models at Inference Time"
+    },
+    "2608.21810": {
+      "date_added": "2026-08-30",
+      "direction": "F",
+      "title": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework for Medical AI Agents"
+    },
+    "2606.13572": {
+      "date_added": "2026-08-30",
+      "direction": "F",
+      "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages"
+    },
+    "2604.23307": {
+      "date_added": "2026-08-30",
+      "direction": "X",
+      "title": "CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation"
     }
   },
   "42289215": {
