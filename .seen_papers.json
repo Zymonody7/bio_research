@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -3367,6 +3367,81 @@
       "date_added": "2026-09-01",
       "direction": "X",
       "title": "Idea Search: Guiding Tree Search with Ideas for Scientific Methods"
+    },
+    "2608.31004": {
+      "date_added": "2026-09-02",
+      "direction": "A",
+      "title": "Storage-Centric System Designs for Genomic/Metagenomic Analyses"
+    },
+    "2608.30337": {
+      "date_added": "2026-09-02",
+      "direction": "A",
+      "title": "Tabular ICL for AMP Multi-Activity Profiling"
+    },
+    "2608.27484": {
+      "date_added": "2026-09-02",
+      "direction": "B",
+      "title": "CareGraph: Auditable Hybrid AI for Personalized Health Intelligence"
+    },
+    "2608.27847": {
+      "date_added": "2026-09-02",
+      "direction": "B",
+      "title": "Severity-Aware Conformal Planning for Interactive Medical Diagnosis"
+    },
+    "2608.27856": {
+      "date_added": "2026-09-02",
+      "direction": "B",
+      "title": "FedEHR-Agents: Federated Agentic Optimization for EHR Modeling"
+    },
+    "2608.27505": {
+      "date_added": "2026-09-02",
+      "direction": "C",
+      "title": "Survey on Rubric-Guided RL for Language Models"
+    },
+    "2507.09279": {
+      "date_added": "2026-09-02",
+      "direction": "C",
+      "title": "Prompt4Trust: RL Prompt Augmentation for Trustworthy Medical LLMs"
+    },
+    "2608.30175": {
+      "date_added": "2026-09-02",
+      "direction": "D",
+      "title": "Benchmarking Peptide-Protein Affinity Prediction"
+    },
+    "2512.17815": {
+      "date_added": "2026-09-02",
+      "direction": "D",
+      "title": "Structure-Aware Antibody Design with Inverse Folding"
+    },
+    "2512.23175": {
+      "date_added": "2026-09-02",
+      "direction": "D",
+      "title": "HELM-BERT: Transformer for Peptide Property Prediction"
+    },
+    "2601.03019": {
+      "date_added": "2026-09-02",
+      "direction": "E",
+      "title": "DNACHUNKER: Learnable Tokenization for DNA Language Models"
+    },
+    "2505.23579": {
+      "date_added": "2026-09-02",
+      "direction": "E",
+      "title": "BioReason: Multimodal Biological Reasoning in DNA-Protein FM"
+    },
+    "2608.28092": {
+      "date_added": "2026-09-02",
+      "direction": "F",
+      "title": "Medical Vision Models Spatial Inductive Bias"
+    },
+    "2608.27516": {
+      "date_added": "2026-09-02",
+      "direction": "F",
+      "title": "Destroy Me: Artifact Generation for Histopathology"
+    },
+    "2504.17967": {
+      "date_added": "2026-09-02",
+      "direction": "X",
+      "title": "LLM Agent Swarm for Drug Discovery"
     }
   },
   "42289215": {
