@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -3282,6 +3282,91 @@
       "date_added": "2026-08-31",
       "direction": "X",
       "title": "Quo Vadis? Scientific Discovery in Age of AI"
+    },
+    "2608.28624": {
+      "date_added": "2026-09-01",
+      "direction": "B",
+      "title": "MA-RAG: Multi-Agent RAG for Longitudinal Parkinson's Disease Assessments"
+    },
+    "2608.21948": {
+      "date_added": "2026-09-01",
+      "direction": "B",
+      "title": "Sparse Multi-Stage Expert-Agent Routing for Complex Clinical Reasoning"
+    },
+    "2608.13476": {
+      "date_added": "2026-09-01",
+      "direction": "B",
+      "title": "MARC v1: Open-Source Multi-Agent Framework for Clinical AI Reasoning"
+    },
+    "2608.09142": {
+      "date_added": "2026-09-01",
+      "direction": "B",
+      "title": "GatorOnco: Agentic LLM for Colorectal Cancer Treatment Planning"
+    },
+    "2608.15424": {
+      "date_added": "2026-09-01",
+      "direction": "C",
+      "title": "ETHOS: Modular Ethics Framework for Clinical Multi-Agent Systems"
+    },
+    "2608.03744": {
+      "date_added": "2026-09-01",
+      "direction": "C",
+      "title": "Agents Catching Agents: Benchmark Gaming in Clinical MAS"
+    },
+    "2608.25548": {
+      "date_added": "2026-09-01",
+      "direction": "D",
+      "title": "Interpreting PLM Embeddings via Orthogonal Projection"
+    },
+    "2608.25215": {
+      "date_added": "2026-09-01",
+      "direction": "D",
+      "title": "Federation vs Reasoning Tradeoffs for AI Co-Scientists"
+    },
+    "2608.29207": {
+      "date_added": "2026-09-01",
+      "direction": "D",
+      "title": "Hyper-Fold: Hypergraph Modeling for Protein Structure"
+    },
+    "2608.20054": {
+      "date_added": "2026-09-01",
+      "direction": "E",
+      "title": "Slot-Selective Evidence Masking for Genome LM Societies"
+    },
+    "2608.08926": {
+      "date_added": "2026-09-01",
+      "direction": "E",
+      "title": "GeneFuse: Fusing Genomic LMs and Neuroimaging"
+    },
+    "2608.00985": {
+      "date_added": "2026-09-01",
+      "direction": "E",
+      "title": "Beyond Gene Reconstruction: Complementary Transcriptomic Views"
+    },
+    "2608.03890": {
+      "date_added": "2026-09-01",
+      "direction": "F",
+      "title": "CARE-X: Clinically Useful Radiology VLMs"
+    },
+    "2608.11420": {
+      "date_added": "2026-09-01",
+      "direction": "F",
+      "title": "Social Chain of Thought: Multi-Agent Differential Diagnosis"
+    },
+    "2608.20412": {
+      "date_added": "2026-09-01",
+      "direction": "X",
+      "title": "PEN-STACK: Non-fabricating tool layer for genome writing agents"
+    },
+    "2608.12025": {
+      "date_added": "2026-09-01",
+      "direction": "X",
+      "title": "Safety Knowledge Support for Medical Devices"
+    },
+    "2608.08958": {
+      "date_added": "2026-09-01",
+      "direction": "X",
+      "title": "Idea Search: Guiding Tree Search with Ideas for Scientific Methods"
     }
   },
   "42289215": {
