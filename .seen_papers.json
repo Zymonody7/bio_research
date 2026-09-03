@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -3442,6 +3442,81 @@
       "date_added": "2026-09-02",
       "direction": "X",
       "title": "LLM Agent Swarm for Drug Discovery"
+    },
+    "10.1002/viw2.70196": {
+      "date_added": "2026-09-03",
+      "direction": "A",
+      "title": "Comprehensive evaluation of metagenomic next-generation sequencing for pathogen identification"
+    },
+    "10.64898/2026.08.24.746745": {
+      "date_added": "2026-09-03",
+      "direction": "A",
+      "title": "PhageTAILor leverages machine learning for phage tail-like elements detection"
+    },
+    "10.1186/s42269-026-01482-z": {
+      "date_added": "2026-09-03",
+      "direction": "B",
+      "title": "Large language models for clinical decision support in infectious disease diagnosis"
+    },
+    "10.1038/s41598-026-68883-y": {
+      "date_added": "2026-09-03",
+      "direction": "B",
+      "title": "Enhancing clinical reasoning and diagnostic precision through scaling laws"
+    },
+    "10.48550/arxiv.2608.26587": {
+      "date_added": "2026-09-03",
+      "direction": "C",
+      "title": "Surgical Alignment in Knowledge Graph Training for Clinical Diagnosis with LLMs"
+    },
+    "10.1016/j.cosrev.2026.101054": {
+      "date_added": "2026-09-03",
+      "direction": "C",
+      "title": "LLM-driven paradigm for agent-based modeling and simulation: A review"
+    },
+    "10.64898/2026.08.26.747087": {
+      "date_added": "2026-09-03",
+      "direction": "D",
+      "title": "Design of broadly protective influenza A(H3N2) vaccine candidates using PLMs"
+    },
+    "10.3390/antib15050081": {
+      "date_added": "2026-09-03",
+      "direction": "D",
+      "title": "The Evolution of AI in Antibody Design: From Structure-Based to Generative"
+    },
+    "10.1126/sciadv.aef0286": {
+      "date_added": "2026-09-03",
+      "direction": "E",
+      "title": "scProtoTransformer: Scalable reference mapping across molecules, cells, and donors"
+    },
+    "10.64898/2026.08.25.747021": {
+      "date_added": "2026-09-03",
+      "direction": "E",
+      "title": "OmicsFM brings proteomics into the foundation model era"
+    },
+    "10.3389/fsci.2026.1810095": {
+      "date_added": "2026-09-03",
+      "direction": "F",
+      "title": "Large language medicine: defining a new paradigm in human health"
+    },
+    "10.1038/s43856-026-01875-1": {
+      "date_added": "2026-09-03",
+      "direction": "F",
+      "title": "Benchmarking large language models for HIV medical decision support"
+    },
+    "10.48550/arxiv.2608.30938": {
+      "date_added": "2026-09-03",
+      "direction": "F",
+      "title": "Evidence, Logic, and Compliance: Multi-Agent Structured Graph Reasoning"
+    },
+    "10.21203/rs.3.rs-10243410/v1": {
+      "date_added": "2026-09-03",
+      "direction": "X",
+      "title": "DynaMate: An Autonomous Agent for Protein-Ligand MD Simulations"
+    },
+    "10.1080/21501203.2026.2716430": {
+      "date_added": "2026-09-03",
+      "direction": "X",
+      "title": "AI-enabled fungal biomanufacturing: from genome mining to AI virtual cell"
     }
   },
   "42289215": {
