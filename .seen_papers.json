@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-09-04",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -3517,6 +3517,76 @@
       "date_added": "2026-09-03",
       "direction": "X",
       "title": "AI-enabled fungal biomanufacturing: from genome mining to AI virtual cell"
+    },
+    "10.3390/cimb47060470": {
+      "date_added": "2026-09-04",
+      "direction": "A",
+      "title": "Integrating Artificial Intelligence in Next-Generation Sequencing: Advances, Challenges, and Future "
+    },
+    "2025.16612": {
+      "date_added": "2026-09-04",
+      "direction": "A",
+      "title": "Clinical application of metagenomic next-generation sequencing in the diagnosis of severe pneumonia "
+    },
+    "10.1007/s10238-025-01965-9": {
+      "date_added": "2026-09-04",
+      "direction": "B",
+      "title": "AI-driven multi-omics integration in precision oncology: bridging the data deluge to actionable insi"
+    },
+    "10.3390/s25175272": {
+      "date_added": "2026-09-04",
+      "direction": "B",
+      "title": "Digital Cardiovascular Twins, AI Agents, and Sensor Data: A Narrative Review"
+    },
+    "2026.37043": {
+      "date_added": "2026-09-04",
+      "direction": "C",
+      "title": "A Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications"
+    },
+    "10.2196/76048": {
+      "date_added": "2026-09-04",
+      "direction": "C",
+      "title": "Fine-Tuning Methods for Large Language Models in Clinical Medicine by Supervised Fine-Tuning and Rei"
+    },
+    "10.1038/s41467-025-64512-w": {
+      "date_added": "2026-09-04",
+      "direction": "D",
+      "title": "PLM-interact: extending protein language models to predict protein-protein interactions"
+    },
+    "10.1073/pnas.2530466123": {
+      "date_added": "2026-09-04",
+      "direction": "D",
+      "title": "Protein language models trained on biophysical dynamics inform mutation effects"
+    },
+    "10.1038/s44387-026-00103-4": {
+      "date_added": "2026-09-04",
+      "direction": "E",
+      "title": "Pre-training genomic language model with variants for better modeling functional genomics"
+    },
+    "2025.16348": {
+      "date_added": "2026-09-04",
+      "direction": "E",
+      "title": "Gene-LLMs: a comprehensive survey of transformer-based genomic language models for representation le"
+    },
+    "10.1016/j.ccell.2026.01.019": {
+      "date_added": "2026-09-04",
+      "direction": "F",
+      "title": "Knowledge-enhanced pretraining for vision-language pathology foundation model on cancer diagnosis"
+    },
+    "2025.15745": {
+      "date_added": "2026-09-04",
+      "direction": "F",
+      "title": "Deep learning-based image classification for AI-assisted integration of pathology and radiology in c"
+    },
+    "10.1002/advs.202503443": {
+      "date_added": "2026-09-04",
+      "direction": "X",
+      "title": "A Multi-Property Optimizing Generative Adversarial Network for de novo Antimicrobial Peptide Design"
+    },
+    "2025.16320": {
+      "date_added": "2026-09-04",
+      "direction": "X",
+      "title": "Recent advances in AI-based toxicity prediction for drug discovery"
     }
   },
   "42289215": {
