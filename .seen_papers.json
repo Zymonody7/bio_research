@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-04",
+  "last_updated": "2026-09-05",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -3587,6 +3587,81 @@
       "date_added": "2026-09-04",
       "direction": "X",
       "title": "Recent advances in AI-based toxicity prediction for drug discovery"
+    },
+    "2608.24570": {
+      "date_added": "2026-09-05",
+      "direction": "B",
+      "title": "EviDx: Evidence-Aware Active Diagnosis with Scaffolded LLM Agents"
+    },
+    "2608.07796": {
+      "date_added": "2026-09-05",
+      "direction": "B",
+      "title": "CliniCARE-Bench: Clinical Calibrated Audit of Medical Reasoning in EHR"
+    },
+    "2609.03690": {
+      "date_added": "2026-09-05",
+      "direction": "F",
+      "title": "MetaStructAtlas: A Grounded 3D Vision-Language Dataset and Benchmark for Functional and Structural Reasoning in Whole-Body PET/CT"
+    },
+    "2608.26208": {
+      "date_added": "2026-09-05",
+      "direction": "E",
+      "title": "Learning Interpretable Tumor Microenvironment Representations by Fitting Pan-Cancer Cell State-Niche Correlation"
+    },
+    "2608.16718": {
+      "date_added": "2026-09-05",
+      "direction": "E",
+      "title": "CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification"
+    },
+    "2607.22293": {
+      "date_added": "2026-09-05",
+      "direction": "F",
+      "title": "RadSight: Towards Perceptually Reliable Multimodal Radiology Image Understanding"
+    },
+    "2607.11175": {
+      "date_added": "2026-09-05",
+      "direction": "F",
+      "title": "The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy"
+    },
+    "2606.17791": {
+      "date_added": "2026-09-05",
+      "direction": "F",
+      "title": "The Slop Paradox: How Synthetic Standardization Erodes Clinical Uncertainty and Cross-Modal Alignment in AI-Rewritten Radiology Reports"
+    },
+    "2509.07006": {
+      "date_added": "2026-09-05",
+      "direction": "C",
+      "title": "ArGen: Auto-Regulation of Generative AI via GRPO and Policy-as-Code"
+    },
+    "2604.01346": {
+      "date_added": "2026-09-05",
+      "direction": "C",
+      "title": "Safety, Security, and Cognitive Risks in World Models"
+    },
+    "2503.16351": {
+      "date_added": "2026-09-05",
+      "direction": "D",
+      "title": "Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences"
+    },
+    "2410.21127": {
+      "date_added": "2026-09-05",
+      "direction": "D",
+      "title": "Retrieval-Enhanced Mutation Mastery: Augmenting Zero-Shot Prediction of Protein Language Model"
+    },
+    "2607.16262": {
+      "date_added": "2026-09-05",
+      "direction": "X",
+      "title": "Autonomous mechanistic discovery of colorectal cancer vulnerabilities via multi-scale AI swarms"
+    },
+    "2510.27130": {
+      "date_added": "2026-09-05",
+      "direction": "X",
+      "title": "AI Agents in Drug Discovery"
+    },
+    "2607.25288": {
+      "date_added": "2026-09-05",
+      "direction": "E",
+      "title": "When Does Deep Representation Learning Help Single-Cell Clustering? A Sensitivity Analysis"
     }
   },
   "42289215": {
