@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-05",
+  "last_updated": "2026-09-06",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -3662,6 +3662,111 @@
       "date_added": "2026-09-05",
       "direction": "E",
       "title": "When Does Deep Representation Learning Help Single-Cell Clustering? A Sensitivity Analysis"
+    },
+    "j.jinf.2025.106618": {
+      "date_added": "2026-09-06",
+      "direction": "A",
+      "title": "Bacteriophage combined with mNGS enhances the specificity of bacterial infection diagnosis"
+    },
+    "j.jinf.2025.106565": {
+      "date_added": "2026-09-06",
+      "direction": "A",
+      "title": "Improved pathogen identification in sepsis or septic shock by clinical metagenomic sequencing"
+    },
+    "fmicb.2025.1665685": {
+      "date_added": "2026-09-06",
+      "direction": "A",
+      "title": "Diagnosis of nontuberculous mycobacterial infections using genomics and artificial intelligence-machine learning approaches: scope, progress and challenges"
+    },
+    "s41746-025-02166-0": {
+      "date_added": "2026-09-06",
+      "direction": "B",
+      "title": "Personalizing prostate cancer education for patients using an EHR-Integrated LLM agent"
+    },
+    "s43856-025-01283-x": {
+      "date_added": "2026-09-06",
+      "direction": "B",
+      "title": "Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education"
+    },
+    "s41598-025-14355-8": {
+      "date_added": "2026-09-06",
+      "direction": "B",
+      "title": "A hybrid reinforcement learning and knowledge graph framework for financial risk optimization in healthcare systems"
+    },
+    "si.v2i3.15159": {
+      "date_added": "2026-09-06",
+      "direction": "C",
+      "title": "Deliberative Alignment: Reasoning Enables Safer Language Models"
+    },
+    "s41746-025-01900-y": {
+      "date_added": "2026-09-06",
+      "direction": "C",
+      "title": "A practical framework for appropriate implementation and review of artificial intelligence (FAIR-AI) in healthcare"
+    },
+    "s44325-025-00083-5": {
+      "date_added": "2026-09-06",
+      "direction": "C",
+      "title": "Fine-tuning LLMs in behavioral psychology for scalable health coaching"
+    },
+    "s41586-025-09749-7": {
+      "date_added": "2026-09-06",
+      "direction": "D",
+      "title": "Semantic design of functional de novo genes from a genomic language model"
+    },
+    "s41467-025-64512-w": {
+      "date_added": "2026-09-06",
+      "direction": "D",
+      "title": "PLM-interact: extending protein language models to predict protein-protein interactions"
+    },
+    "s42256-025-01160-1": {
+      "date_added": "2026-09-06",
+      "direction": "D",
+      "title": "Assessing the potential of deep learning for protein–ligand docking"
+    },
+    "bbaf724": {
+      "date_added": "2026-09-06",
+      "direction": "E",
+      "title": "A comprehensive survey of genome language models in bioinformatics"
+    },
+    "s44387-025-00047-1": {
+      "date_added": "2026-09-06",
+      "direction": "E",
+      "title": "Large language models in biomedicine and healthcare"
+    },
+    "gkaf1209": {
+      "date_added": "2026-09-06",
+      "direction": "E",
+      "title": "JASPAR 2026: expansion of transcription factor binding profiles and integration of deep learning models"
+    },
+    "s41586-026-10181-8": {
+      "date_added": "2026-09-06",
+      "direction": "F",
+      "title": "Merlin: a computed tomography vision–language foundation model and dataset"
+    },
+    "s41467-025-64769-1": {
+      "date_added": "2026-09-06",
+      "direction": "F",
+      "title": "Quantifying the reasoning abilities of LLMs on clinical cases"
+    },
+    "s41746-025-02108-w": {
+      "date_added": "2026-09-06",
+      "direction": "F",
+      "title": "Understanding the robustness of vision-language models to medical image artefacts"
+    },
+    "s41467-026-70509-w": {
+      "date_added": "2026-09-06",
+      "direction": "X",
+      "title": "TrialMatchAI: an end-to-end AI-powered clinical trial recommendation system to streamline patient-to-trial matching"
+    },
+    "s41467-025-61355-3": {
+      "date_added": "2026-09-06",
+      "direction": "X",
+      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer’s Disease clinical trial"
+    },
+    "s41592-025-02879-w": {
+      "date_added": "2026-09-06",
+      "direction": "X",
+      "title": "CellSAM: a foundation model for cell segmentation"
     }
   },
   "42289215": {
