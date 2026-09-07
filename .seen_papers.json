@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-06",
+  "last_updated": "2026-09-07",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -3721,7 +3721,7 @@
     "s42256-025-01160-1": {
       "date_added": "2026-09-06",
       "direction": "D",
-      "title": "Assessing the potential of deep learning for protein–ligand docking"
+      "title": "Assessing the potential of deep learning for protein\u2013ligand docking"
     },
     "bbaf724": {
       "date_added": "2026-09-06",
@@ -3741,7 +3741,7 @@
     "s41586-026-10181-8": {
       "date_added": "2026-09-06",
       "direction": "F",
-      "title": "Merlin: a computed tomography vision–language foundation model and dataset"
+      "title": "Merlin: a computed tomography vision\u2013language foundation model and dataset"
     },
     "s41467-025-64769-1": {
       "date_added": "2026-09-06",
@@ -3761,12 +3761,77 @@
     "s41467-025-61355-3": {
       "date_added": "2026-09-06",
       "direction": "X",
-      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer’s Disease clinical trial"
+      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer\u2019s Disease clinical trial"
     },
     "s41592-025-02879-w": {
       "date_added": "2026-09-06",
       "direction": "X",
       "title": "CellSAM: a foundation model for cell segmentation"
+    },
+    "10.1038/s41587-026-03213-1": {
+      "date_added": "2026-09-07",
+      "direction": "A",
+      "title": "A genomic catalog of Earth's bacterial and archaeal symbionts"
+    },
+    "10.3389/fcimb.2026.1868295": {
+      "date_added": "2026-09-07",
+      "direction": "A",
+      "title": "Application of mNGS in GI infections in children after HSCT"
+    },
+    "10.1016/j.xcrm.2026.103020": {
+      "date_added": "2026-09-07",
+      "direction": "B",
+      "title": "Transforming LLMs into Medical Specialists via Knowledge Injection"
+    },
+    "10.1038/s41598-026-69002-7": {
+      "date_added": "2026-09-07",
+      "direction": "B",
+      "title": "Multi Agent Retrieval Validation and Knowledge Reasoning for Enhanced RAG"
+    },
+    "10.1145/3845596": {
+      "date_added": "2026-09-07",
+      "direction": "C",
+      "title": "Transforming Science with Large Language Models: A Survey"
+    },
+    "10.1016/j.cels.2026.101712": {
+      "date_added": "2026-09-07",
+      "direction": "D",
+      "title": "Multiobjective learning and design of bacteriophage specificity"
+    },
+    "10.1002/wcms.70082": {
+      "date_added": "2026-09-07",
+      "direction": "D",
+      "title": "Deep Learning for Protein Modeling: A Comprehensive Survey"
+    },
+    "10.1038/s41467-026-77211-x": {
+      "date_added": "2026-09-07",
+      "direction": "D",
+      "title": "Why variant effect predictors and multiplexed assays agree and disagree"
+    },
+    "10.1002/ggn2.70046": {
+      "date_added": "2026-09-07",
+      "direction": "E",
+      "title": "Foundation Models for Microbiome Research"
+    },
+    "10.1093/bioinformatics/btag634": {
+      "date_added": "2026-09-07",
+      "direction": "E",
+      "title": "Deciphering 5' UTR and 3' UTR relationships with deep learning"
+    },
+    "10.1038/s41598-026-68943-3": {
+      "date_added": "2026-09-07",
+      "direction": "F",
+      "title": "VLMs vs 252 Medical Students on Dermatology Examinations"
+    },
+    "10.1038/s41746-026-03191-3": {
+      "date_added": "2026-09-07",
+      "direction": "F",
+      "title": "The illusion of clinical reasoning: benchmark reveals VLM gap"
+    },
+    "10.1007/s10278-026-02067-y": {
+      "date_added": "2026-09-07",
+      "direction": "X",
+      "title": "EndoVLM: A Vision-Language Assistant for GI Endoscopy"
     }
   },
   "42289215": {
