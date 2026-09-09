@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-08",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -3721,7 +3721,7 @@
     "s42256-025-01160-1": {
       "date_added": "2026-09-06",
       "direction": "D",
-      "title": "Assessing the potential of deep learning for protein\u2013ligand docking"
+      "title": "Assessing the potential of deep learning for protein–ligand docking"
     },
     "bbaf724": {
       "date_added": "2026-09-06",
@@ -3741,7 +3741,7 @@
     "s41586-026-10181-8": {
       "date_added": "2026-09-06",
       "direction": "F",
-      "title": "Merlin: a computed tomography vision\u2013language foundation model and dataset"
+      "title": "Merlin: a computed tomography vision–language foundation model and dataset"
     },
     "s41467-025-64769-1": {
       "date_added": "2026-09-06",
@@ -3761,7 +3761,7 @@
     "s41467-025-61355-3": {
       "date_added": "2026-09-06",
       "direction": "X",
-      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer\u2019s Disease clinical trial"
+      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer’s Disease clinical trial"
     },
     "s41592-025-02879-w": {
       "date_added": "2026-09-06",
@@ -3832,6 +3832,102 @@
       "date_added": "2026-09-07",
       "direction": "X",
       "title": "EndoVLM: A Vision-Language Assistant for GI Endoscopy"
+    },
+    "PMID:41180687": {
+      "date_added": "2026-09-08",
+      "direction": "A",
+      "title": "Revolutionizing endocarditis diagnosis: AI meets metagenomics for rare Bartonella detection.",
+      "source": "pubmed"
+    },
+    "PMID:41034825": {
+      "date_added": "2026-09-08",
+      "direction": "A",
+      "title": "Machine learning model for differentiating Pneumocystis jirovecii pneumonia from colonization and an",
+      "source": "pubmed"
+    },
+    "PMID:40302920": {
+      "date_added": "2026-09-08",
+      "direction": "A",
+      "title": "Enhancing fever of unknown origin diagnosis: machine learning approaches to predict metagenomic next",
+      "source": "pubmed"
+    },
+    "10.3390/app15084234": {
+      "date_added": "2026-09-08",
+      "direction": "B",
+      "title": "Retrieval-Augmented Generation (RAG) Chatbots for Education: A Survey of Applications",
+      "source": "openalex"
+    },
+    "10.1093/jamia/ocaf008": {
+      "date_added": "2026-09-08",
+      "direction": "B",
+      "title": "Improving large language model applications in biomedicine with retrieval-augmented generation: a sy",
+      "source": "openalex"
+    },
+    "PMID:42368619": {
+      "date_added": "2026-09-08",
+      "direction": "B",
+      "title": "From chat to act: large language model agents and agentic AI as the next frontier of AI in rheumatol",
+      "source": "pubmed"
+    },
+    "10.70777/si.v2i3.15161": {
+      "date_added": "2026-09-08",
+      "direction": "C",
+      "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+      "source": "openalex"
+    },
+    "10.1162/coli.a.16": {
+      "date_added": "2026-09-08",
+      "direction": "C",
+      "title": "🧜Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+      "source": "openalex"
+    },
+    "10.3389/fbioe.2025.1506508": {
+      "date_added": "2026-09-08",
+      "direction": "D",
+      "title": "Evaluating the advancements in protein language models for encoding strategies in protein function p",
+      "source": "openalex"
+    },
+    "10.1038/s41592-025-02626-1": {
+      "date_added": "2026-09-08",
+      "direction": "D",
+      "title": "Atomic context-conditioned protein sequence design using LigandMPNN",
+      "source": "openalex"
+    },
+    "10.1016/j.tig.2024.11.013": {
+      "date_added": "2026-09-08",
+      "direction": "E",
+      "title": "Genomic language models: opportunities and challenges",
+      "source": "openalex"
+    },
+    "10.1093/nsr/nwaf028": {
+      "date_added": "2026-09-08",
+      "direction": "E",
+      "title": "Foundation models in bioinformatics",
+      "source": "openalex"
+    },
+    "10.1038/s44387-025-00011-z": {
+      "date_added": "2026-09-08",
+      "direction": "F",
+      "title": "Large language models for disease diagnosis: a scoping review",
+      "source": "openalex"
+    },
+    "PMID:41402007": {
+      "date_added": "2026-09-08",
+      "direction": "F",
+      "title": "Hierarchical taxonomy-aware modeling for granular drug resistance and disease outcome prediction in ",
+      "source": "pubmed"
+    },
+    "10.1021/acsomega.5c00549": {
+      "date_added": "2026-09-08",
+      "direction": "X",
+      "title": "AI-Driven Drug Discovery: A Comprehensive Review",
+      "source": "openalex"
+    },
+    "10.1186/s40364-025-00758-2": {
+      "date_added": "2026-09-08",
+      "direction": "X",
+      "title": "Integrating artificial intelligence in drug discovery and early drug development: a transformative a",
+      "source": "openalex"
     }
   },
   "42289215": {
