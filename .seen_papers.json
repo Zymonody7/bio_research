@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-10",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -3721,7 +3721,7 @@
     "s42256-025-01160-1": {
       "date_added": "2026-09-06",
       "direction": "D",
-      "title": "Assessing the potential of deep learning for protein–ligand docking"
+      "title": "Assessing the potential of deep learning for protein\u2013ligand docking"
     },
     "bbaf724": {
       "date_added": "2026-09-06",
@@ -3741,7 +3741,7 @@
     "s41586-026-10181-8": {
       "date_added": "2026-09-06",
       "direction": "F",
-      "title": "Merlin: a computed tomography vision–language foundation model and dataset"
+      "title": "Merlin: a computed tomography vision\u2013language foundation model and dataset"
     },
     "s41467-025-64769-1": {
       "date_added": "2026-09-06",
@@ -3761,7 +3761,7 @@
     "s41467-025-61355-3": {
       "date_added": "2026-09-06",
       "direction": "X",
-      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer’s Disease clinical trial"
+      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer\u2019s Disease clinical trial"
     },
     "s41592-025-02879-w": {
       "date_added": "2026-09-06",
@@ -3878,7 +3878,7 @@
     "10.1162/coli.a.16": {
       "date_added": "2026-09-08",
       "direction": "C",
-      "title": "🧜Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+      "title": "\ud83e\udddcSiren\u2019s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
       "source": "openalex"
     },
     "10.3389/fbioe.2025.1506508": {
@@ -3928,6 +3928,121 @@
       "direction": "X",
       "title": "Integrating artificial intelligence in drug discovery and early drug development: a transformative a",
       "source": "openalex"
+    },
+    "10.1016/j.mimet.2026.107592": {
+      "date_added": "2026-09-10",
+      "direction": "A",
+      "title": "Artificial intelligence in clinical metagenomic pathogen detection: A critical review"
+    },
+    "10.1016/j.diagmicrobio.2026.117321": {
+      "date_added": "2026-09-10",
+      "direction": "A",
+      "title": "Advances and challenges in mNGS for infectious diseases"
+    },
+    "10.1097/BS9.0000000000000304": {
+      "date_added": "2026-09-10",
+      "direction": "A",
+      "title": "Application value of plasma cfDNA mNGS in hematological disorders"
+    },
+    "10.3389/fcimb.2026.1730022": {
+      "date_added": "2026-09-10",
+      "direction": "A",
+      "title": "mNGS for ICI-related pneumonitis diagnosis"
+    },
+    "2509.20067": {
+      "date_added": "2026-09-10",
+      "direction": "B",
+      "title": "MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge"
+    },
+    "2510.04969": {
+      "date_added": "2026-09-10",
+      "direction": "B",
+      "title": "Bridging Clinical Narratives and ACR Guidelines: Multi-Agent RAG"
+    },
+    "10.1038/s41746-026-03189-x": {
+      "date_added": "2026-09-10",
+      "direction": "B",
+      "title": "Platforms for AI-enabled infectious disease surveillance"
+    },
+    "10.1007/s10796-026-10815-2": {
+      "date_added": "2026-09-10",
+      "direction": "B",
+      "title": "From Explainability to Actionability: Tiered Multi-Agent Framework"
+    },
+    "2608.25251": {
+      "date_added": "2026-09-10",
+      "direction": "C",
+      "title": "What Do Medical VLMs Learn in Radiology? Transfer, Alignment"
+    },
+    "2609.05937": {
+      "date_added": "2026-09-10",
+      "direction": "C",
+      "title": "Beyond Classification: Structured Supervision for Medical Semantics"
+    },
+    "10.1186/s12910-026-01488-2": {
+      "date_added": "2026-09-10",
+      "direction": "C",
+      "title": "The AI inversion model: auditable alignment framework"
+    },
+    "10.64898/2026.09.02.749017": {
+      "date_added": "2026-09-10",
+      "direction": "D",
+      "title": "EvSpark: Speculative Decoding for Hybrid DNA Foundation Models"
+    },
+    "10.64898/2026.09.04.749355": {
+      "date_added": "2026-09-10",
+      "direction": "D",
+      "title": "BOTANIC-1: Long-Context Plant Genomic Foundation Models"
+    },
+    "2605.05913": {
+      "date_added": "2026-09-10",
+      "direction": "D",
+      "title": "Wisteria: Multi-Scale Feature Learning for DNA Language Model"
+    },
+    "10.11578/dc.20260826.1": {
+      "date_added": "2026-09-10",
+      "direction": "D",
+      "title": "GLARE: Genomic Language model for Repetitive Elements"
+    },
+    "2609.07194": {
+      "date_added": "2026-09-10",
+      "direction": "F",
+      "title": "EmoMed: Emotionally-Aware Agent for Multimodal Medical Support"
+    },
+    "10.1038/s41746-026-03144-w": {
+      "date_added": "2026-09-10",
+      "direction": "F",
+      "title": "AgentDS-BUS: Agentic Breast Ultrasound Classification"
+    },
+    "10.3390/s26133998": {
+      "date_added": "2026-09-10",
+      "direction": "F",
+      "title": "Medical Vision-Language Models: Technologies and Applications"
+    },
+    "2608.14667": {
+      "date_added": "2026-09-10",
+      "direction": "X",
+      "title": "Position: AI Agents in Scientific Teams as Human-Agent Systems"
+    },
+    "10.3389/fmicb.2026.1899413": {
+      "date_added": "2026-09-10",
+      "direction": "X",
+      "title": "From capability uplift to governance: AI-biosecurity stack"
+    },
+    "2606.12736": {
+      "date_added": "2026-09-10",
+      "direction": "X",
+      "title": "Benchmarking AI Agents for Scientific Challenges Across Scales"
+    },
+    "10.1016/j.drudis.2026.104781": {
+      "date_added": "2026-09-10",
+      "direction": "X",
+      "title": "AI agents in preclinical drug development"
+    },
+    "2607.12122": {
+      "date_added": "2026-09-10",
+      "direction": "X",
+      "title": "Agentic AI Scientific Community for Neural Operator Discovery"
     }
   },
   "42289215": {
