@@ -4379,5 +4379,65 @@
     "date_added": "2026-08-12",
     "direction": "X",
     "title": "Rhizome OS-1: Semi-Autonomous Operating System for Drug Discovery"
+  },
+  "41978025": {
+    "title": "Ensemble Deep Learning Models on Raw DNA Sequences for Viral Genome Identification",
+    "date": "2026-09-13"
+  },
+  "42678565": {
+    "title": "Microbial signal profiles and organism-level concordance between plasma mNGS",
+    "date": "2026-09-13"
+  },
+  "42021875": {
+    "title": "Advances in the Application of AI in Clinical Microbiological Testing",
+    "date": "2026-09-13"
+  },
+  "42660985": {
+    "title": "HealthFlow: automating EHR analysis via self-evolving AI agent",
+    "date": "2026-09-13"
+  },
+  "42709964": {
+    "title": "Performance, Failures, and Oversight of LLM Agent for Clinical Data",
+    "date": "2026-09-13"
+  },
+  "10.1038/s41746-026-03070-x": {
+    "title": "RDMA: agent-driven rare disease mining from EHR",
+    "date": "2026-09-13"
+  },
+  "42607666": {
+    "title": "Bimodal LLM reduces misalignment in patient education RCT",
+    "date": "2026-09-13"
+  },
+  "42167735": {
+    "title": "Korean LLMs for Medical QA on Arthritis: Fine-tuning",
+    "date": "2026-09-13"
+  },
+  "42492486": {
+    "title": "Decision Support Framework for QA of Therapeutic AI",
+    "date": "2026-09-13"
+  },
+  "42717086": {
+    "title": "GPN-Star: Predicting genome-wide functional constraints",
+    "date": "2026-09-13"
+  },
+  "42022284": {
+    "title": "Pre-training genomic language model with variants",
+    "date": "2026-09-13"
+  },
+  "42492189": {
+    "title": "Genomic language models (gLMs): Emerging applications",
+    "date": "2026-09-13"
+  },
+  "42440194": {
+    "title": "JADE-Plus: Multimodal Agentic RAG for Diagnostic Imaging",
+    "date": "2026-09-13"
+  },
+  "42608573": {
+    "title": "Explainable biomedical foundation model via concept-enhanced VL",
+    "date": "2026-09-13"
+  },
+  "42697202": {
+    "title": "Transforming LLMs into medical specialists via knowledge injection",
+    "date": "2026-09-13"
   }
 }
