@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-10",
+  "last_updated": "2026-09-11",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -4043,6 +4043,76 @@
       "date_added": "2026-09-10",
       "direction": "X",
       "title": "Agentic AI Scientific Community for Neural Operator Discovery"
+    },
+    "10.1016/j.virol.2026.111055": {
+      "date_added": "2026-09-11",
+      "direction": "A",
+      "title": "AI-enabled viral genomics: from virus discovery to host prediction and emerging variant forecasting"
+    },
+    "10.1007/s11274-026-05247-8": {
+      "date_added": "2026-09-11",
+      "direction": "A",
+      "title": "Microbial signal profiles and organism-level concordance between plasma metagenomic sequencing and clinical diagnosis"
+    },
+    "10.1186/s13059-026-04262-0": {
+      "date_added": "2026-09-11",
+      "direction": "A",
+      "title": "Large-scale benchmarking of prokaryotic annotation tools across thousands of species"
+    },
+    "10.3389/fmed.2026.1898857": {
+      "date_added": "2026-09-11",
+      "direction": "B",
+      "title": "A multi-agent GraphRAG framework for pharmacotherapy safety verification in clinical decision support"
+    },
+    "10.3389/fcvm.2026.1838415": {
+      "date_added": "2026-09-11",
+      "direction": "B",
+      "title": "From assistance to autonomy: AI agent systems in cardiovascular medicine"
+    },
+    "10.3760/cma.j.cn441530-20260529-00214": {
+      "date_added": "2026-09-11",
+      "direction": "B",
+      "title": "Development of a multidisciplinary intelligent nexus for decision support in digestive malignancies"
+    },
+    "10.1177/20552076261365432": {
+      "date_added": "2026-09-11",
+      "direction": "C",
+      "title": "Dynamic alignment of large language models for evidence-grounded heart failure diagnosis"
+    },
+    "10.1177/10499091261365432": {
+      "date_added": "2026-09-11",
+      "direction": "C",
+      "title": "LLMs vs Manual Chart Review for Assessing Goal-Concordant Care"
+    },
+    "10.1038/s41586-026-11005-5": {
+      "date_added": "2026-09-11",
+      "direction": "D",
+      "title": "Predicting genome-wide functional constraints with GPN-Star"
+    },
+    "10.1093/bib/bbag501": {
+      "date_added": "2026-09-11",
+      "direction": "D",
+      "title": "ELISA (Embedding-Linked Interactive Single-cell Agent): an interpretable hybrid generative foundation model"
+    },
+    "10.1021/acs.jmedchem.6c00902": {
+      "date_added": "2026-09-11",
+      "direction": "D",
+      "title": "CoCoBind: Consistency-Contrastive Multitask Learning for RNA-Ligand Interaction and Binding Site Prediction"
+    },
+    "10.1109/TMI.2026.3728817": {
+      "date_added": "2026-09-11",
+      "direction": "F",
+      "title": "Prototype-guided Multimodal Retrieval for Knowledge-assisted Interventional Radiology"
+    },
+    "10.1016/j.media.2026.104200": {
+      "date_added": "2026-09-11",
+      "direction": "F",
+      "title": "PathFound: An agentic multimodal model activating evidence-seeking pathological diagnosis"
+    },
+    "10.1007/s10278-026-02086-9": {
+      "date_added": "2026-09-11",
+      "direction": "F",
+      "title": "JADE-Plus: A Multimodal Agentic Retrieval-Augmented Generation Large Language Framework"
     }
   },
   "42289215": {
