@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-11",
+  "last_updated": "2026-09-14",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -4113,6 +4113,86 @@
       "date_added": "2026-09-11",
       "direction": "F",
       "title": "JADE-Plus: A Multimodal Agentic Retrieval-Augmented Generation Large Language Framework"
+    },
+    "10.64898/2026.08.18.26360688": {
+      "title": "Metagenomic Sequencing for Wastewater-Based Surveillance",
+      "direction": "A",
+      "date_added": "2026-09-14"
+    },
+    "10.1016/j.chom.2026.07.007": {
+      "title": "Mouth-to-gut microbial transmission signatures for GI cancer diagnosis",
+      "direction": "A",
+      "date_added": "2026-09-14"
+    },
+    "10.1093/molbev/msag209": {
+      "title": "Identification and masking of artifactual within-host variants in deep-sequencing",
+      "direction": "A",
+      "date_added": "2026-09-14"
+    },
+    "10.64898/2026.08.17.26360282": {
+      "title": "RAG LLMs for Adverse Event Coding in AML Clinical Trials",
+      "direction": "B",
+      "date_added": "2026-09-14"
+    },
+    "10.64898/2026.08.19.26360779": {
+      "title": "TabMedQA: From Structured Data to QA Datasets in Clinical Decision",
+      "direction": "B",
+      "date_added": "2026-09-14"
+    },
+    "10.48550/arxiv.2608.22583": {
+      "title": "Clinical Graph-JEPA: Predictive Patient-State Knowledge Graphs",
+      "direction": "B",
+      "date_added": "2026-09-14"
+    },
+    "10.48550/arxiv.2608.24534": {
+      "title": "Neurosymbolic Alignment for Physiologically-Safe Clinical LMs",
+      "direction": "C",
+      "date_added": "2026-09-14"
+    },
+    "10.48550/arxiv.2609.08634": {
+      "title": "Suan: Rectifying Direct Preference Safety Alignment in LLMs",
+      "direction": "C",
+      "date_added": "2026-09-14"
+    },
+    "10.64898/2026.08.31.748176": {
+      "title": "TomatoPGFM: A graph-conditioned foundation model for tomato pangenomes",
+      "direction": "D",
+      "date_added": "2026-09-14"
+    },
+    "10.1093/bioinformatics/btag456": {
+      "title": "Genomic language model for predicting enhancers and allele-specific activity",
+      "direction": "D",
+      "date_added": "2026-09-14"
+    },
+    "10.48550/arxiv.2609.05480": {
+      "title": "CaseWeaver: Multi-Agent Framework for Multimodal Clinical Case Generation",
+      "direction": "F",
+      "date_added": "2026-09-14"
+    },
+    "10.48550/arxiv.2608.22713": {
+      "title": "Source-Grounded Framework for Progressive Multimodal Diagnostic Dialogues",
+      "direction": "F",
+      "date_added": "2026-09-14"
+    },
+    "10.48550/arxiv.2608.21810": {
+      "title": "MSM-Mem: Universal Medical Structured Multimodal Memory Framework",
+      "direction": "F",
+      "date_added": "2026-09-14"
+    },
+    "10.48550/arxiv.2608.22323": {
+      "title": "MedReaMM: Evaluating LMMs on Expert-Level Clinical Diagnostic Synthesis",
+      "direction": "F",
+      "date_added": "2026-09-14"
+    },
+    "10.3389/fchem.2026.1914886": {
+      "title": "DDA: traceable multi-agent framework for automated SBDD",
+      "direction": "X",
+      "date_added": "2026-09-14"
+    },
+    "10.1038/s41467-026-76760-5": {
+      "title": "AI-enabled discovery of minibinders targeting cancer cell-surface proteins",
+      "direction": "X",
+      "date_added": "2026-09-14"
     }
   },
   "42289215": {
