@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-15",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -3721,7 +3721,7 @@
     "s42256-025-01160-1": {
       "date_added": "2026-09-06",
       "direction": "D",
-      "title": "Assessing the potential of deep learning for protein\u2013ligand docking"
+      "title": "Assessing the potential of deep learning for protein–ligand docking"
     },
     "bbaf724": {
       "date_added": "2026-09-06",
@@ -3741,7 +3741,7 @@
     "s41586-026-10181-8": {
       "date_added": "2026-09-06",
       "direction": "F",
-      "title": "Merlin: a computed tomography vision\u2013language foundation model and dataset"
+      "title": "Merlin: a computed tomography vision–language foundation model and dataset"
     },
     "s41467-025-64769-1": {
       "date_added": "2026-09-06",
@@ -3761,7 +3761,7 @@
     "s41467-025-61355-3": {
       "date_added": "2026-09-06",
       "direction": "X",
-      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer\u2019s Disease clinical trial"
+      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer’s Disease clinical trial"
     },
     "s41592-025-02879-w": {
       "date_added": "2026-09-06",
@@ -3878,7 +3878,7 @@
     "10.1162/coli.a.16": {
       "date_added": "2026-09-08",
       "direction": "C",
-      "title": "\ud83e\udddcSiren\u2019s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+      "title": "🧜Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
       "source": "openalex"
     },
     "10.3389/fbioe.2025.1506508": {
@@ -4193,6 +4193,71 @@
       "title": "AI-enabled discovery of minibinders targeting cancer cell-surface proteins",
       "direction": "X",
       "date_added": "2026-09-14"
+    },
+    "10.1016/j.mimet.2026.106222": {
+      "date_added": "2026-09-15",
+      "direction": "A",
+      "title": "AI in clinical metagenomic pathogen detection: A critical review"
+    },
+    "10.1016/j.amsu.2025.103965": {
+      "date_added": "2026-09-15",
+      "direction": "A",
+      "title": "Revolutionizing endocarditis diagnosis: AI meets metagenomics for rare Bartonella"
+    },
+    "10.1038/s41598-026-67853-8": {
+      "date_added": "2026-09-15",
+      "direction": "B",
+      "title": "VG-RAG: Verification-Gated RAG for Medical QA"
+    },
+    "10.1038/s43856-025-00931-5": {
+      "date_added": "2026-09-15",
+      "direction": "B",
+      "title": "Simulated patient systems powered by LLM-based AI agents"
+    },
+    "10.1007/s11095-026-04190-5": {
+      "date_added": "2026-09-15",
+      "direction": "C",
+      "title": "Expert-Guided Alignment for Drug Repurposing"
+    },
+    "10.21203/rs.3.rs-10989591/v1": {
+      "date_added": "2026-09-15",
+      "direction": "C",
+      "title": "Safety-Critical Communication Behavior of LLMs in Healthcare"
+    },
+    "10.64898/2026.09.05.749576": {
+      "date_added": "2026-09-15",
+      "direction": "D",
+      "title": "DNT: Diploid Genomic Foundation Model"
+    },
+    "10.64898/2026.09.11.749989": {
+      "date_added": "2026-09-15",
+      "direction": "D",
+      "title": "Environment-Aware DNA Language Model"
+    },
+    "10.1186/s12864-025-11597-3": {
+      "date_added": "2026-09-15",
+      "direction": "D",
+      "title": "Pathogenic start loss variants prediction via self-supervised contrastive learning"
+    },
+    "10.1016/j.jimed.2026.03.006": {
+      "date_added": "2026-09-15",
+      "direction": "F",
+      "title": "JADE-Plus: Multimodal Agentic RAG for Medical Imaging"
+    },
+    "10.3390/s26103103": {
+      "date_added": "2026-09-15",
+      "direction": "F",
+      "title": "Medical Vision-Language Models: Review"
+    },
+    "10.1038/s43588-026-01049-y": {
+      "date_added": "2026-09-15",
+      "direction": "X",
+      "title": "MutexaGPT: Physics-based enzyme engineering"
+    },
+    "10.1016/j.health.2026.100491": {
+      "date_added": "2026-09-15",
+      "direction": "X",
+      "title": "Integrated ML framework for healthcare analytics"
     }
   },
   "42289215": {
