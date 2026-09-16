@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1160,7 +1160,7 @@
       "title": "Site4Drug: Drug-Binding Target Sites with AI Agent"
     },
     "2603.03655": {
-      "date_added": "2026-07-31",
+      "date_added": "2026-09-16",
       "direction": "X",
       "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents"
     },
@@ -1375,9 +1375,9 @@
       "title": "Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design"
     },
     "2606.30140": {
-      "date_added": "2026-08-05",
-      "direction": "A",
-      "title": "DNA Language Models: An Assessment of Pre-Training for Fine-Tuning Tasks"
+      "date_added": "2026-09-16",
+      "direction": "D",
+      "title": "DNA Language Models: An Assessment of Pre-Training"
     },
     "19490976.2025.2569739": {
       "date_added": "2026-08-05",
@@ -1385,7 +1385,7 @@
       "title": "Gut microbiome metagenomics in clinical practice: bridging the gap between research and application"
     },
     "2603.05129": {
-      "date_added": "2026-08-10",
+      "date_added": "2026-09-16",
       "direction": "B",
       "title": "MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval"
     },
@@ -1730,7 +1730,7 @@
       "title": "Blood-based targeted sequencing of microbial cell-free DNA in severe pneumonia-associated sepsis"
     },
     "10.1371/journal.pdig.0001553": {
-      "date_added": "2026-08-09",
+      "date_added": "2026-09-16",
       "direction": "A",
       "title": "AI risk prediction model for common respiratory pathogens in China"
     },
@@ -2319,7 +2319,7 @@
       "title": "DermaBench: A Clinician-Annotated Benchmark for Dermatology VQA"
     },
     "2607.11084": {
-      "date_added": "2026-08-16",
+      "date_added": "2026-09-16",
       "direction": "X",
       "title": "NVAITC AI Scientist: A Governed End-to-End Research System"
     },
@@ -4050,9 +4050,9 @@
       "title": "AI-enabled viral genomics: from virus discovery to host prediction and emerging variant forecasting"
     },
     "10.1007/s11274-026-05247-8": {
-      "date_added": "2026-09-11",
+      "date_added": "2026-09-16",
       "direction": "A",
-      "title": "Microbial signal profiles and organism-level concordance between plasma metagenomic sequencing and clinical diagnosis"
+      "title": "Microbial signal profiles and organism-level concordance between plasma mNGS and blood culture"
     },
     "10.1186/s13059-026-04262-0": {
       "date_added": "2026-09-11",
@@ -4230,7 +4230,7 @@
       "title": "DNT: Diploid Genomic Foundation Model"
     },
     "10.64898/2026.09.11.749989": {
-      "date_added": "2026-09-15",
+      "date_added": "2026-09-16",
       "direction": "D",
       "title": "Environment-Aware DNA Language Model"
     },
@@ -4258,6 +4258,56 @@
       "date_added": "2026-09-15",
       "direction": "X",
       "title": "Integrated ML framework for healthcare analytics"
+    },
+    "10.1016/j.jfma.2026.08.043": {
+      "date_added": "2026-09-16",
+      "direction": "A",
+      "title": "Microbiome-metabolome multi-omics biomarkers for infectious disease prognosis"
+    },
+    "2606.22692": {
+      "date_added": "2026-09-16",
+      "direction": "B",
+      "title": "VISTA Architect: Graph database-oriented health AI system"
+    },
+    "2609.08634": {
+      "date_added": "2026-09-16",
+      "direction": "C",
+      "title": "Suan: Rectifying Direct Preference Safety Alignment"
+    },
+    "2609.11431": {
+      "date_added": "2026-09-16",
+      "direction": "C",
+      "title": "LLMs as Post-hoc Auditors of Physiological Plausibility"
+    },
+    "2609.06931": {
+      "date_added": "2026-09-16",
+      "direction": "C",
+      "title": "CARDEA: Auditable Reasoning for Coronary Angiography"
+    },
+    "10.1038/s43856-026-01904-z": {
+      "date_added": "2026-09-16",
+      "direction": "F",
+      "title": "Video-to-report generation for cataract surgery using VLMs"
+    },
+    "10.21203/rs.3.rs-10747614/v1": {
+      "date_added": "2026-09-16",
+      "direction": "F",
+      "title": "Contamination-Controlled VQA Benchmark for 3D Oncology Imaging"
+    },
+    "10.64898/2026.09.10.26361944": {
+      "date_added": "2026-09-16",
+      "direction": "F",
+      "title": "Accuracy Overstates Evidence Grounding in Mammography VLMs"
+    },
+    "2508.02258": {
+      "date_added": "2026-09-16",
+      "direction": "F",
+      "title": "Patho-AgenticRAG: Multimodal Agentic RAG for Pathology VLMs"
+    },
+    "2609.13437": {
+      "date_added": "2026-09-16",
+      "direction": "X",
+      "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries"
     }
   },
   "42289215": {
