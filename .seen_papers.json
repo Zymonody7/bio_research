@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-17",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -4308,6 +4308,84 @@
       "date_added": "2026-09-16",
       "direction": "X",
       "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries"
+    },
+    "PMID:42620161": {
+      "date_added": "2026-09-17",
+      "direction": "A",
+      "title": "TDKC: Ultrafast and Memory-Efficient Sequence Classification for Target Pathogen Diagnostics",
+      "source": "pubmed"
+    },
+    "PMID:42711738": {
+      "date_added": "2026-09-17",
+      "direction": "A",
+      "title": "Analysis of the pulmonary microbiome in ARDS patients using BALF mNGS",
+      "source": "pubmed"
+    },
+    "PMID:42743545": {
+      "date_added": "2026-09-17",
+      "direction": "B",
+      "title": "AI Agents for Multimodal Oncology Diagnosis: Toward Transparent and Traceable Clinical Decision Support",
+      "source": "pubmed"
+    },
+    "PMID:42656911": {
+      "date_added": "2026-09-17",
+      "direction": "B",
+      "title": "TCM-CoT-RAG: Chain-of-thought enhanced RAG for TCM rheumatology",
+      "source": "pubmed"
+    },
+    "PMID:42428062": {
+      "date_added": "2026-09-17",
+      "direction": "B",
+      "title": "PHO-Agents: LLM-Powered Multi-Agent System for Predicting Health Outcomes",
+      "source": "pubmed"
+    },
+    "PMID:42607666": {
+      "date_added": "2026-09-17",
+      "direction": "C",
+      "title": "A bimodal large language model reduces misalignment in patient education",
+      "source": "pubmed"
+    },
+    "PMID:42349414": {
+      "date_added": "2026-09-17",
+      "direction": "C",
+      "title": "S.C.O.R.E. framework for evaluating LLM responses in healthcare",
+      "source": "pubmed"
+    },
+    "PMID:41676719": {
+      "date_added": "2026-09-17",
+      "direction": "D",
+      "title": "Short-Context Regulatory DNA Language Models with Motif-Discovery Regularization",
+      "source": "pubmed"
+    },
+    "PMID:42713011": {
+      "date_added": "2026-09-17",
+      "direction": "D",
+      "title": "LAMBDA: a prophage detection benchmark for genomic language models",
+      "source": "pubmed"
+    },
+    "PMID:42648026": {
+      "date_added": "2026-09-17",
+      "direction": "F",
+      "title": "Liver steatosis assessment using adapted Vision-Language Foundation Model",
+      "source": "pubmed"
+    },
+    "PMID:42582763": {
+      "date_added": "2026-09-17",
+      "direction": "F",
+      "title": "Swin-Qwen3: Three-stage VLM for radiology report generation with multi-agent verification",
+      "source": "pubmed"
+    },
+    "PMID:42734525": {
+      "date_added": "2026-09-17",
+      "direction": "X",
+      "title": "AI-Driven Drug-Target Interaction Prediction: From Data Representation to Model Design",
+      "source": "pubmed"
+    },
+    "PMID:42721441": {
+      "date_added": "2026-09-17",
+      "direction": "X",
+      "title": "DFRL-Mol: Dual-stage RL for multi-scenario molecule optimization",
+      "source": "pubmed"
     }
   },
   "42289215": {
