@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-17",
+  "last_updated": "2026-09-18",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -3721,7 +3721,7 @@
     "s42256-025-01160-1": {
       "date_added": "2026-09-06",
       "direction": "D",
-      "title": "Assessing the potential of deep learning for protein–ligand docking"
+      "title": "Assessing the potential of deep learning for protein\u2013ligand docking"
     },
     "bbaf724": {
       "date_added": "2026-09-06",
@@ -3741,7 +3741,7 @@
     "s41586-026-10181-8": {
       "date_added": "2026-09-06",
       "direction": "F",
-      "title": "Merlin: a computed tomography vision–language foundation model and dataset"
+      "title": "Merlin: a computed tomography vision\u2013language foundation model and dataset"
     },
     "s41467-025-64769-1": {
       "date_added": "2026-09-06",
@@ -3761,7 +3761,7 @@
     "s41467-025-61355-3": {
       "date_added": "2026-09-06",
       "direction": "X",
-      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer’s Disease clinical trial"
+      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer\u2019s Disease clinical trial"
     },
     "s41592-025-02879-w": {
       "date_added": "2026-09-06",
@@ -3878,7 +3878,7 @@
     "10.1162/coli.a.16": {
       "date_added": "2026-09-08",
       "direction": "C",
-      "title": "🧜Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+      "title": "\ud83e\udddcSiren\u2019s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
       "source": "openalex"
     },
     "10.3389/fbioe.2025.1506508": {
@@ -4386,6 +4386,71 @@
       "direction": "X",
       "title": "DFRL-Mol: Dual-stage RL for multi-scenario molecule optimization",
       "source": "pubmed"
+    },
+    "42750334": {
+      "date_added": "2026-09-18",
+      "direction": "A",
+      "title": "Progress in the application of bronchoalveolar lavage fluid in the diagnosis of infectious lung dise"
+    },
+    "10.2147/ORR.S634292": {
+      "date_added": "2026-09-18",
+      "direction": "A",
+      "title": "Current Concepts in Periprosthetic Joint Infection: Modern Biomarkers, Microbiome Insights, Molecula"
+    },
+    "10.2196/97822": {
+      "date_added": "2026-09-18",
+      "direction": "B",
+      "title": "Teaching Model Context Protocol, Retrieval-Augmented Generation, and AI Agents to a Multidisciplinar"
+    },
+    "10.1016/j.xcrm.2026.102986": {
+      "date_added": "2026-09-18",
+      "direction": "B",
+      "title": "A large language model-driven multidisciplinary AI agent system predicts delirium in emergency criti"
+    },
+    "10.3389/frai.2026.1772518": {
+      "date_added": "2026-09-18",
+      "direction": "B",
+      "title": "Decoding high-order clinical correlations: a knowledge-driven large language model framework for spe"
+    },
+    "10.3389/fonc.2026.1867911": {
+      "date_added": "2026-09-18",
+      "direction": "C",
+      "title": "Navigating the complexity of WHO CNS5: the evolutionary trajectory of glioma classification and the "
+    },
+    "10.1038/s41598-026-54756-x": {
+      "date_added": "2026-09-18",
+      "direction": "C",
+      "title": "Reinforcement learning from human feedback improves automatic speech recognition models for ancient "
+    },
+    "10.1101/2025.08.27.672609": {
+      "date_added": "2026-09-18",
+      "direction": "D",
+      "title": "PlantCAD2: A Long-Context DNA Language Model for Cross-Species Functional Annotation in Angiosperms."
+    },
+    "10.3389/fdgth.2026.1862236": {
+      "date_added": "2026-09-18",
+      "direction": "F",
+      "title": "Multimodal medical diagnosis: a mini review of LLM-vision fusion models in low-resource healthcare s"
+    },
+    "10.1007/s00330-026-12875-z": {
+      "date_added": "2026-09-18",
+      "direction": "F",
+      "title": "Prognostic value of baseline PSMA PET/CT for survival in synchronous metastatic hormone-sensitive pr"
+    },
+    "10.1038/s41586-026-11044-y": {
+      "date_added": "2026-09-18",
+      "direction": "X",
+      "title": "Reimagining research papers as interactive and reliable AI agents."
+    },
+    "10.1016/j.drudis.2026.104650": {
+      "date_added": "2026-09-18",
+      "direction": "X",
+      "title": "AI agents in drug discovery: applications and case studies."
+    },
+    "10.1016/j.modpat.2026.101070": {
+      "date_added": "2026-09-18",
+      "direction": "X",
+      "title": "Assessing Foundation Models for Computational Pathology in Endometrial Cancer."
     }
   },
   "42289215": {
