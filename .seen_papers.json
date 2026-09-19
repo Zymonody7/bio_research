@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-09-19",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -3721,7 +3721,7 @@
     "s42256-025-01160-1": {
       "date_added": "2026-09-06",
       "direction": "D",
-      "title": "Assessing the potential of deep learning for protein\u2013ligand docking"
+      "title": "Assessing the potential of deep learning for protein–ligand docking"
     },
     "bbaf724": {
       "date_added": "2026-09-06",
@@ -3741,7 +3741,7 @@
     "s41586-026-10181-8": {
       "date_added": "2026-09-06",
       "direction": "F",
-      "title": "Merlin: a computed tomography vision\u2013language foundation model and dataset"
+      "title": "Merlin: a computed tomography vision–language foundation model and dataset"
     },
     "s41467-025-64769-1": {
       "date_added": "2026-09-06",
@@ -3761,7 +3761,7 @@
     "s41467-025-61355-3": {
       "date_added": "2026-09-06",
       "direction": "X",
-      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer\u2019s Disease clinical trial"
+      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer’s Disease clinical trial"
     },
     "s41592-025-02879-w": {
       "date_added": "2026-09-06",
@@ -3878,7 +3878,7 @@
     "10.1162/coli.a.16": {
       "date_added": "2026-09-08",
       "direction": "C",
-      "title": "\ud83e\udddcSiren\u2019s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+      "title": "🧜Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
       "source": "openalex"
     },
     "10.3389/fbioe.2025.1506508": {
@@ -4451,6 +4451,81 @@
       "date_added": "2026-09-18",
       "direction": "X",
       "title": "Assessing Foundation Models for Computational Pathology in Endometrial Cancer."
+    },
+    "42642268": {
+      "date_added": "2026-09-19",
+      "direction": "A",
+      "title": "Microbiome-metabolome multi-omics biomarkers for infectious disease prognosis"
+    },
+    "42753254": {
+      "date_added": "2026-09-19",
+      "direction": "B",
+      "title": "Fine-Tuning, RAG, and Hybrid Adaptation of Language Models for Clinical Decision Support"
+    },
+    "42718584": {
+      "date_added": "2026-09-19",
+      "direction": "B",
+      "title": "A multi-agent GraphRAG framework for pharmacotherapy safety verification"
+    },
+    "42321427": {
+      "date_added": "2026-09-19",
+      "direction": "B",
+      "title": "Clinical large language model centered on electronic medical records"
+    },
+    "42751889": {
+      "date_added": "2026-09-19",
+      "direction": "B",
+      "title": "OsteoRAG: Retrieval-augmented generation for osteoporosis knowledge management"
+    },
+    "42204550": {
+      "date_added": "2026-09-19",
+      "direction": "C",
+      "title": "The AI inversion model: auditable alignment in medical decision-making"
+    },
+    "42189634": {
+      "date_added": "2026-09-19",
+      "direction": "C",
+      "title": "When AI Colludes: Clinical Reliability of Training and Preference Data"
+    },
+    "42412845": {
+      "date_added": "2026-09-19",
+      "direction": "D",
+      "title": "Pareto-optimal privacy-utility balance in fine-tuned genome language models"
+    },
+    "42419301": {
+      "date_added": "2026-09-19",
+      "direction": "D",
+      "title": "GenART: Reading the genome's language with adaptive words"
+    },
+    "42492189": {
+      "date_added": "2026-09-19",
+      "direction": "D",
+      "title": "Genomic language models (gLMs): Emerging applications"
+    },
+    "41720932": {
+      "date_added": "2026-09-19",
+      "direction": "F",
+      "title": "Sequential sensitivity analysis of multimodal LLMs for rare orbital disease detection"
+    },
+    "42750980": {
+      "date_added": "2026-09-19",
+      "direction": "F",
+      "title": "Multimodal medical diagnosis: LLM-vision fusion models review"
+    },
+    "41887499": {
+      "date_added": "2026-09-19",
+      "direction": "X",
+      "title": "AI agents in drug discovery: applications and case studies"
+    },
+    "42752167": {
+      "date_added": "2026-09-19",
+      "direction": "X",
+      "title": "The Virtual Biotech: multi-agent AI framework for therapeutic discovery"
+    },
+    "42746192": {
+      "date_added": "2026-09-19",
+      "direction": "X",
+      "title": "Agentic AI in radiology workflow"
     }
   },
   "42289215": {
