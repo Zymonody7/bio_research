@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-19",
+  "last_updated": "2026-09-20",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -4526,6 +4526,76 @@
       "date_added": "2026-09-19",
       "direction": "X",
       "title": "Agentic AI in radiology workflow"
+    },
+    "10.1186/s12864-025-12268-4": {
+      "date_added": "2026-09-20",
+      "direction": "A",
+      "title": "Sensitive, flexible, and affordable serum RNA sequencing for pathogen detection on the Oxford Nanopore platform"
+    },
+    "10.1186/s12879-025-11814-5": {
+      "date_added": "2026-09-20",
+      "direction": "A",
+      "title": "Clinical utility of metagenomic next-generation sequencing (mNGS) and a novel PCR-based point-of-care testing for infectious diseases"
+    },
+    "10.1016/j.xcrm.2026.102927": {
+      "date_added": "2026-09-20",
+      "direction": "B",
+      "title": "Retrieval-augmented generation in medicine: A scoping review"
+    },
+    "10.2196/98207": {
+      "date_added": "2026-09-20",
+      "direction": "B",
+      "title": "LLM-Based Clinical Decision Support for Antibiotic Selection and Dose Recommendation"
+    },
+    "10.3233/SHTI260164": {
+      "date_added": "2026-09-20",
+      "direction": "B",
+      "title": "Knowledge Graph for Cardiovascular Drug Safety and Pharmacovigilance"
+    },
+    "10.1038/s41551-025-01576-5": {
+      "date_added": "2026-09-20",
+      "direction": "B",
+      "title": "A deep learning and large language hybrid workflow for omics interpretation"
+    },
+    "10.1016/j.isci.2026.115073": {
+      "date_added": "2026-09-20",
+      "direction": "C",
+      "title": "CodeSafetyBench: evaluating and improving ethical safety in LLM code generation"
+    },
+    "10.1038/s44320-026-00238-1": {
+      "date_added": "2026-09-20",
+      "direction": "D",
+      "title": "xDecoder unlocks the potential of genomic foundation models for few-shot personal gene expression prediction"
+    },
+    "10.64898/2025.12.12.693901": {
+      "date_added": "2026-09-20",
+      "direction": "D",
+      "title": "vir2vec: A Viral Genome-Wide Viral Embedding"
+    },
+    "10.3390/ijms27156657": {
+      "date_added": "2026-09-20",
+      "direction": "D",
+      "title": "Systematic Benchmarking of DNA Sequence Encoding Strategies for Predicting Regulatory Effects of Non-Coding SNPs"
+    },
+    "10.1126/science.aec6129": {
+      "date_added": "2026-09-20",
+      "direction": "F",
+      "title": "An expert-level generalist AI for abdominal CT diagnosis"
+    },
+    "10.1016/j.talanta.2026.130540": {
+      "date_added": "2026-09-20",
+      "direction": "F",
+      "title": "VL-ThyNet: An interpretable analytical framework for thyroid ultrasound diagnosis"
+    },
+    "10.1109/TPAMI.2026.3721500": {
+      "date_added": "2026-09-20",
+      "direction": "X",
+      "title": "The Hitchhiker's Guide to Autonomous Research: A Survey of Scientific Agents"
+    },
+    "10.1098/rsif.2026.0043": {
+      "date_added": "2026-09-20",
+      "direction": "X",
+      "title": "Agentic AI integrated with scientific knowledge: laboratory validation in systems biology"
     }
   },
   "42289215": {
