@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-26",
+  "last_updated": "2026-09-27",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -4508,9 +4508,9 @@
       "title": "Sequential sensitivity analysis of multimodal LLMs for rare orbital disease detection"
     },
     "42750980": {
-      "date_added": "2026-09-19",
+      "date_added": "2026-09-27",
       "direction": "F",
-      "title": "Multimodal medical diagnosis: LLM-vision fusion models review"
+      "title": "Multimodal medical diagnosis: LLM-vision fusion in low-resource settings"
     },
     "41887499": {
       "date_added": "2026-09-19",
@@ -5004,6 +5004,76 @@
       "direction": "B",
       "title": "Navigating State Drift in Retrieval-Augmented Generation (RAG) Agents",
       "source": "openalex"
+    },
+    "42289215": {
+      "date_added": "2026-09-27",
+      "direction": "A",
+      "title": "AI in clinical metagenomic pathogen detection: A critical review"
+    },
+    "42479737": {
+      "date_added": "2026-09-27",
+      "direction": "A",
+      "title": "AI risk prediction model for common respiratory pathogens in China"
+    },
+    "42678565": {
+      "date_added": "2026-09-27",
+      "direction": "A",
+      "title": "Microbial signal profiles and organism-level concordance between plasma mNGS and blood culture"
+    },
+    "42761240": {
+      "date_added": "2026-09-27",
+      "direction": "B",
+      "title": "An agentic AI framework connecting LLMs to EHR and biomedical KG"
+    },
+    "42594876": {
+      "date_added": "2026-09-27",
+      "direction": "B",
+      "title": "LLM-driven multidisciplinary AI agent system predicts delirium"
+    },
+    "42697202": {
+      "date_added": "2026-09-27",
+      "direction": "C",
+      "title": "Transforming LLMs into medical specialists via knowledge injection"
+    },
+    "42685099": {
+      "date_added": "2026-09-27",
+      "direction": "C",
+      "title": "From assistant to collaborator: AI evolution in ESRD care"
+    },
+    "42791261": {
+      "date_added": "2026-09-27",
+      "direction": "D",
+      "title": "GLM-Prior: Genomic Language Model for GRN Inference"
+    },
+    "42776895": {
+      "date_added": "2026-09-27",
+      "direction": "D",
+      "title": "GLIMP: Integrated GNN-LLM for Promoter Recognition"
+    },
+    "42723633": {
+      "date_added": "2026-09-27",
+      "direction": "D",
+      "title": "DNABERT-Enhancer: Genomic LM for enhancer prediction"
+    },
+    "42442213": {
+      "date_added": "2026-09-27",
+      "direction": "F",
+      "title": "PathFound: Agentic Multimodal Model for Pathological Diagnosis"
+    },
+    "42771632": {
+      "date_added": "2026-09-27",
+      "direction": "F",
+      "title": "Foundation Models in Ophthalmic AI"
+    },
+    "42734488": {
+      "date_added": "2026-09-27",
+      "direction": "X",
+      "title": "Closing the Empirical Loop: Autonomous AI Agents"
+    },
+    "42551551": {
+      "date_added": "2026-09-27",
+      "direction": "X",
+      "title": "Can agentic AI dent Eroom's Law?"
     }
   },
   "42289215": {
