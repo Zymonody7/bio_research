@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-29",
+  "last_updated": "2026-09-30",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -2719,9 +2719,9 @@
       "title": "ED-triage-agent: a multi-agent framework for human-in-the-loop emergency triage"
     },
     "10.1038/s41467-026-76372-z": {
-      "date_added": "2026-08-23",
-      "direction": "B",
-      "title": "ALPaCA: Adapting Llama for Pathology Context Analysis"
+      "date_added": "2026-09-30",
+      "direction": "F",
+      "title": "ALPaCA: Llama for Pathology Context Analysis slide-level QA"
     },
     "10.21203/rs.3.rs-10720346/v1": {
       "date_added": "2026-08-23",
@@ -3721,7 +3721,7 @@
     "s42256-025-01160-1": {
       "date_added": "2026-09-06",
       "direction": "D",
-      "title": "Assessing the potential of deep learning for protein\u2013ligand docking"
+      "title": "Assessing the potential of deep learning for protein–ligand docking"
     },
     "bbaf724": {
       "date_added": "2026-09-06",
@@ -3741,7 +3741,7 @@
     "s41586-026-10181-8": {
       "date_added": "2026-09-06",
       "direction": "F",
-      "title": "Merlin: a computed tomography vision\u2013language foundation model and dataset"
+      "title": "Merlin: a computed tomography vision–language foundation model and dataset"
     },
     "s41467-025-64769-1": {
       "date_added": "2026-09-06",
@@ -3761,7 +3761,7 @@
     "s41467-025-61355-3": {
       "date_added": "2026-09-06",
       "direction": "X",
-      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer\u2019s Disease clinical trial"
+      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer’s Disease clinical trial"
     },
     "s41592-025-02879-w": {
       "date_added": "2026-09-06",
@@ -3878,7 +3878,7 @@
     "10.1162/coli.a.16": {
       "date_added": "2026-09-08",
       "direction": "C",
-      "title": "\ud83e\udddcSiren\u2019s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+      "title": "🧜Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
       "source": "openalex"
     },
     "10.3389/fbioe.2025.1506508": {
@@ -5124,6 +5124,76 @@
       "date_added": "2026-09-29",
       "direction": "X",
       "title": "Generative AI clinical patient instructions"
+    },
+    "10.1186/s12879-025-11576-0": {
+      "date_added": "2026-09-30",
+      "direction": "A",
+      "title": "ML model for Pneumocystis jirovecii PJP from BALF mNGS"
+    },
+    "10.3390/s26072238": {
+      "date_added": "2026-09-30",
+      "direction": "A",
+      "title": "Ensemble DL for Viral Genome Identification from Raw DNA"
+    },
+    "10.1038/s41591-026-04695-x": {
+      "date_added": "2026-09-30",
+      "direction": "B",
+      "title": "Computable longitudinal patient journeys from EHR data"
+    },
+    "10.1038/s41746-026-03097-0": {
+      "date_added": "2026-09-30",
+      "direction": "B",
+      "title": "HealthFlow: self-evolving multi-agent EHR analysis"
+    },
+    "10.2196/92374": {
+      "date_added": "2026-09-30",
+      "direction": "B",
+      "title": "FSM-Guided RAG for PICC Self-Management Chatbot"
+    },
+    "10.1038/s41591-026-04503-6": {
+      "date_added": "2026-09-30",
+      "direction": "C",
+      "title": "Generative AI clinical decision support primary care RCT"
+    },
+    "10.1038/s41591-025-04151-2": {
+      "date_added": "2026-09-30",
+      "direction": "C",
+      "title": "MedHELM: Holistic evaluation of LLMs for medical tasks"
+    },
+    "10.1016/j.ijmedinf.2026.106598": {
+      "date_added": "2026-09-30",
+      "direction": "C",
+      "title": "Real-world medication recommendation workflows RAG"
+    },
+    "10.1371/journal.pone.0348455": {
+      "date_added": "2026-09-30",
+      "direction": "D",
+      "title": "Trainable LM for UTR translation rate modulation"
+    },
+    "10.1186/s12915-025-02348-y": {
+      "date_added": "2026-09-30",
+      "direction": "D",
+      "title": "Start loss variant pathogenicity prediction contrastive learning"
+    },
+    "10.1109/TMI.2026.3733595": {
+      "date_added": "2026-09-30",
+      "direction": "F",
+      "title": "OphthaReason: Dynamic Multimodal Reasoning Ophthalmic AI"
+    },
+    "10.2196/99757": {
+      "date_added": "2026-09-30",
+      "direction": "F",
+      "title": "VLM bone tumor diagnosis smartphone images"
+    },
+    "10.3390/cancers18183047": {
+      "date_added": "2026-09-30",
+      "direction": "X",
+      "title": "Autonomous AI agent vs LLMs for patient information"
+    },
+    "10.3390/biology15171527": {
+      "date_added": "2026-09-30",
+      "direction": "X",
+      "title": "Biological Foundation Models for Complex Disease"
     }
   },
   "42289215": {
