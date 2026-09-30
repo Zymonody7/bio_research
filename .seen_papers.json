@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-27",
+  "last_updated": "2026-09-29",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -2099,7 +2099,7 @@
     "2604.28011": {
       "date_added": "2026-08-14",
       "direction": "F",
-      "title": "Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
+      "title": "Echo-\u03b1: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation"
     },
     "2606.08093": {
       "date_added": "2026-08-14",
@@ -3721,7 +3721,7 @@
     "s42256-025-01160-1": {
       "date_added": "2026-09-06",
       "direction": "D",
-      "title": "Assessing the potential of deep learning for protein–ligand docking"
+      "title": "Assessing the potential of deep learning for protein\u2013ligand docking"
     },
     "bbaf724": {
       "date_added": "2026-09-06",
@@ -3741,7 +3741,7 @@
     "s41586-026-10181-8": {
       "date_added": "2026-09-06",
       "direction": "F",
-      "title": "Merlin: a computed tomography vision–language foundation model and dataset"
+      "title": "Merlin: a computed tomography vision\u2013language foundation model and dataset"
     },
     "s41467-025-64769-1": {
       "date_added": "2026-09-06",
@@ -3761,7 +3761,7 @@
     "s41467-025-61355-3": {
       "date_added": "2026-09-06",
       "direction": "X",
-      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer’s Disease clinical trial"
+      "title": "AI-guided patient stratification improves outcomes and efficiency in the AMARANTH Alzheimer\u2019s Disease clinical trial"
     },
     "s41592-025-02879-w": {
       "date_added": "2026-09-06",
@@ -3878,7 +3878,7 @@
     "10.1162/coli.a.16": {
       "date_added": "2026-09-08",
       "direction": "C",
-      "title": "🧜Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+      "title": "\ud83e\udddcSiren\u2019s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
       "source": "openalex"
     },
     "10.3389/fbioe.2025.1506508": {
@@ -5074,6 +5074,56 @@
       "date_added": "2026-09-27",
       "direction": "X",
       "title": "Can agentic AI dent Eroom's Law?"
+    },
+    "10.1080/14767058.2026.2698915": {
+      "date_added": "2026-09-29",
+      "direction": "A",
+      "title": "Immune-guided calibration of mNGS results"
+    },
+    "10.1186/s12866-026-05105-5": {
+      "date_added": "2026-09-29",
+      "direction": "A",
+      "title": "One health viral metagenomics mNGS workflow"
+    },
+    "10.3389/fpsyt.2026.1854701": {
+      "date_added": "2026-09-29",
+      "direction": "B",
+      "title": "Multi-agent mental health triage architecture"
+    },
+    "10.2196/87288": {
+      "date_added": "2026-09-29",
+      "direction": "B",
+      "title": "LLM-Driven Advance Care Planning Training"
+    },
+    "10.3389/fped.2026.1784197": {
+      "date_added": "2026-09-29",
+      "direction": "C",
+      "title": "AI-Driven VLM pediatric pain assessment"
+    },
+    "10.1093/bioinformatics/btag602": {
+      "date_added": "2026-09-29",
+      "direction": "E",
+      "title": "GROVER DNA language model gene expression"
+    },
+    "10.1038/s41598-026-61483-w": {
+      "date_added": "2026-09-29",
+      "direction": "E",
+      "title": "Decoding promoter activity DNA LM"
+    },
+    "10.1007/s10278-025-01617-0": {
+      "date_added": "2026-09-29",
+      "direction": "F",
+      "title": "AgentMRI VLM-powered MRI reconstruction"
+    },
+    "10.1371/journal.pdig.0001740": {
+      "date_added": "2026-09-29",
+      "direction": "X",
+      "title": "LLM radiation oncology patient safety"
+    },
+    "10.1002/nop2.70777": {
+      "date_added": "2026-09-29",
+      "direction": "X",
+      "title": "Generative AI clinical patient instructions"
     }
   },
   "42289215": {
