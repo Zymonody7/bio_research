@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-09-30",
+  "last_updated": "2026-10-01",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -5194,6 +5194,96 @@
       "date_added": "2026-09-30",
       "direction": "X",
       "title": "Biological Foundation Models for Complex Disease"
+    },
+    "10.1093/jambio/lxag239": {
+      "date_added": "2026-10-01",
+      "direction": "A",
+      "title": "AI-Empowered Viral Metagenomics for Clinical Diagnosis: Advances, Bottlenecks, and Translational Pathways"
+    },
+    "10.64898/2026.09.17.26363318": {
+      "date_added": "2026-10-01",
+      "direction": "A",
+      "title": "Bronchoalveolar Lavage Metagenomic Sequencing in the Early Post-Lung Transplantation Period: A Pilot"
+    },
+    "10.48550/arxiv.2609.22239": {
+      "date_added": "2026-10-01",
+      "direction": "B",
+      "title": "Knowledge Graph-Augmented Ambient AI for Clinical Note Generation"
+    },
+    "10.1038/s41598-026-71802-w": {
+      "date_added": "2026-10-01",
+      "direction": "B",
+      "title": "Dynamic medical knowledge graph updating method based on LLM decision control"
+    },
+    "10.21203/rs.3.rs-10914375/v1": {
+      "date_added": "2026-10-01",
+      "direction": "C",
+      "title": "Synthetic longitudinal dialogue and preference alignment for substance use recovery support"
+    },
+    "10.64898/2026.09.16.26363176": {
+      "date_added": "2026-10-01",
+      "direction": "C",
+      "title": "Validating LLM judges for automated oversight of patient communication"
+    },
+    "10.1007/978-3-032-38260-3_28": {
+      "date_added": "2026-10-01",
+      "direction": "C",
+      "title": "Human-In-The-Loop Multi-agent Ventilator Decision Support with Contextual Bandit Preference Learning"
+    },
+    "10.1093/nar/gkag902": {
+      "date_added": "2026-10-01",
+      "direction": "D",
+      "title": "GenoME: a MoE-based generative model for individualized, multimodal prediction and perturbation"
+    },
+    "10.48550/arxiv.2609.04861": {
+      "date_added": "2026-10-01",
+      "direction": "D",
+      "title": "When Genomic Masking Priors Fail to Transfer: Strong Variant Prediction, Weak Functional Generalization"
+    },
+    "10.64898/2026.09.24.754173": {
+      "date_added": "2026-10-01",
+      "direction": "D",
+      "title": "RNASeek: A Cross-Phyla Generative Foundation Model for Multipurpose RNA Modeling and Reinforcement Learning"
+    },
+    "10.64898/2026.09.25.754388": {
+      "date_added": "2026-10-01",
+      "direction": "D",
+      "title": "Analyzing Genomic Foundation Models for Viral Sequence Identification"
+    },
+    "10.48550/arxiv.2609.14823": {
+      "date_added": "2026-10-01",
+      "direction": "F",
+      "title": "MedTRACE: Tool-Augmented Multimodal Clinical Reasoning Agents for Evidence-Grounded Decision Support"
+    },
+    "10.24963/ijcai.2026/799": {
+      "date_added": "2026-10-01",
+      "direction": "F",
+      "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages"
+    },
+    "10.1073/pnas.2602542123": {
+      "date_added": "2026-10-01",
+      "direction": "X",
+      "title": "Mantis: A foundation model for mechanistic disease forecasting"
+    },
+    "10.1016/j.isci.2026.117503": {
+      "date_added": "2026-10-01",
+      "direction": "X",
+      "title": "An LLM-enhanced AI agent for rapid diagnosis of acute aortic dissection in multi-center settings"
+    },
+    "PMID:42787023": {
+      "date_added": "2026-10-01",
+      "direction": "A",
+      "title": "BAL metagenomic sequencing post-lung transplantation pilot"
+    },
+    "PMID:42804637": {
+      "date_added": "2026-10-01",
+      "direction": "X",
+      "title": "Mantis foundation model mechanistic disease forecasting"
+    },
+    "PMID:42757002": {
+      "date_added": "2026-10-01",
+      "direction": "X",
+      "title": "LLM-enhanced AI agent acute aortic dissection multi-center"
     }
   },
   "42289215": {
