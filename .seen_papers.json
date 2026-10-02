@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-10-01",
+  "last_updated": "2026-10-02",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -5284,6 +5284,81 @@
       "date_added": "2026-10-01",
       "direction": "X",
       "title": "LLM-enhanced AI agent acute aortic dissection multi-center"
+    },
+    "10.1016/j.mimet.2026.107638": {
+      "date_added": "2026-10-02",
+      "direction": "A",
+      "title": "Artificial intelligence-based methods and applications in clinical and diagnostic microbiology"
+    },
+    "10.1016/j.envpol.2026.128988": {
+      "date_added": "2026-10-02",
+      "direction": "A",
+      "title": "Machine learning prediction of human antibiotic resistance risk using 16S rRNA profiles"
+    },
+    "10.3389/fdgth.2026.1923975": {
+      "date_added": "2026-10-02",
+      "direction": "B",
+      "title": "CDTD-Agent: a retrieval-augmented multi-agent digital health framework for integrated diabetes care"
+    },
+    "10.1016/j.jbi.2026.105089": {
+      "date_added": "2026-10-02",
+      "direction": "B",
+      "title": "CGX: OCR-enhanced knowledge graph retrieval for explainable heart failure analysis"
+    },
+    "10.1088/3049-477X/ae7978": {
+      "date_added": "2026-10-02",
+      "direction": "B",
+      "title": "Autonomous radiotherapy planning via agentic orchestration using a multimodal TPS-integrated compound AI platform"
+    },
+    "2608.08494": {
+      "date_added": "2026-10-02",
+      "direction": "C",
+      "title": "DPO-Clin: Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation"
+    },
+    "2606.12590": {
+      "date_added": "2026-10-02",
+      "direction": "C",
+      "title": "Analyzing and Improving Fine-grained Preference Optimization in Medical LVLMs"
+    },
+    "2512.00601": {
+      "date_added": "2026-10-02",
+      "direction": "C",
+      "title": "Clinical-R1: Clinical Objective Relative Policy Optimization"
+    },
+    "10.1002/advs.75772": {
+      "date_added": "2026-10-02",
+      "direction": "D",
+      "title": "PlantGFM: A Genomic Foundation Model for Discovery and Creation of Plant Genes"
+    },
+    "10.1093/nar/gkag704": {
+      "date_added": "2026-10-02",
+      "direction": "D",
+      "title": "Systematic contextual biases in SegmentNT potentially relevant to other nucleotide transformer models"
+    },
+    "10.1186/s43556-026-00538-w": {
+      "date_added": "2026-10-02",
+      "direction": "D",
+      "title": "Generalizable cancer detection from ultra-low-pass WGS via deep contextual modeling of cfDNA sequences"
+    },
+    "10.1109/TPAMI.2026.3730310": {
+      "date_added": "2026-10-02",
+      "direction": "F",
+      "title": "Lingshu: Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning"
+    },
+    "10.1038/s41551-026-01764-x": {
+      "date_added": "2026-10-02",
+      "direction": "F",
+      "title": "ConceptCLIP: An explainable biomedical foundation model via large-scale concept-enhanced vision-language pretraining"
+    },
+    "10.1037/neu0001079": {
+      "date_added": "2026-10-02",
+      "direction": "F",
+      "title": "A large language model-based self-learning and critical agent framework for multimodal Alzheimer disease diagnosis"
+    },
+    "10.1093/nar/gkag706": {
+      "date_added": "2026-10-02",
+      "direction": "X",
+      "title": "scDifformer: diffusion-based post-training for virtual cell modeling across large-scale single-cell data"
     }
   },
   "42289215": {
