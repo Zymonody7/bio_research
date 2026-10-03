@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-10-02",
+  "last_updated": "2026-10-03",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -5359,6 +5359,81 @@
       "date_added": "2026-10-02",
       "direction": "X",
       "title": "scDifformer: diffusion-based post-training for virtual cell modeling across large-scale single-cell data"
+    },
+    "10.1186/s12938-026-01568-9": {
+      "date_added": "2026-10-03",
+      "direction": "A",
+      "title": "Artificial intelligence in microbiology: implications for metagenomics, diagnostics, and AMR surveillance"
+    },
+    "10.1128/msphere.00157-26": {
+      "date_added": "2026-10-03",
+      "direction": "A",
+      "title": "Metagenomic sequencing detects viruses and bacteria in undifferentiated febrile illness in Nigeria"
+    },
+    "10.1016/j.jbi.2026.105102": {
+      "date_added": "2026-10-03",
+      "direction": "B",
+      "title": "Knowledge augmented causal discovery through LLMs and Knowledge Graphs: Application in chronic low back pain"
+    },
+    "10.3389/frai.2026.1850832": {
+      "date_added": "2026-10-03",
+      "direction": "B",
+      "title": "MMCRAG-Resp: multi-modal corrective RAG framework for explainable respiratory disease reasoning"
+    },
+    "10.1038/s41746-026-02544-2": {
+      "date_added": "2026-10-03",
+      "direction": "C",
+      "title": "User-preference alignment with uncertainty-aware interactive rectification for liver organ and tumor segmentation"
+    },
+    "10.1038/s41586-026-10176-5": {
+      "date_added": "2026-10-03",
+      "direction": "D",
+      "title": "Genome modelling and design across all domains of life with Evo 2"
+    },
+    "10.1158/2159-8290.cd-25-1735": {
+      "date_added": "2026-10-03",
+      "direction": "D",
+      "title": "A Foundation Model of Cancer Genotype Enables Precise Predictions of Therapeutic Response"
+    },
+    "10.1038/s44259-026-00219-2": {
+      "date_added": "2026-10-03",
+      "direction": "D",
+      "title": "resLens: genomic language models to enhance antibiotic resistance gene detection"
+    },
+    "10.1038/s41746-026-02674-7": {
+      "date_added": "2026-10-03",
+      "direction": "F",
+      "title": "AgentClinic: a multimodal benchmark for tool-using clinical AI agents"
+    },
+    "10.1371/journal.pmed.1005170": {
+      "date_added": "2026-10-03",
+      "direction": "F",
+      "title": "How to benchmark medical AI agents"
+    },
+    "10.4143/crt.2026.0047": {
+      "date_added": "2026-10-03",
+      "direction": "F",
+      "title": "Multimodal Knowledge Graph-Guided RAG-LLM for Clinical Decision Support in Pediatric Leukemia"
+    },
+    "10.1515/cclm-2025-1314": {
+      "date_added": "2026-10-03",
+      "direction": "X",
+      "title": "From automation to agentic artificial intelligence in laboratory medicine: IFCC opinion"
+    },
+    "10.1515/cclm-2026-0887": {
+      "date_added": "2026-10-03",
+      "direction": "X",
+      "title": "Vibe coding and the illusion of competence: laboratory medicine"
+    },
+    "10.1056/aics2501343": {
+      "date_added": "2026-10-03",
+      "direction": "X",
+      "title": "LLM-Assisted Reanalysis of Unsolved Rare Disease Genomes Increases Diagnostic Yield"
+    },
+    "10.1007/s41666-025-00218-4": {
+      "date_added": "2026-10-03",
+      "direction": "C",
+      "title": "Susceptibility of Large Language Models to User-Driven Factors in Medical Queries"
     }
   },
   "42289215": {
