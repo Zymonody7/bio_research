@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-10-03",
+  "last_updated": "2026-10-04",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -5434,6 +5434,131 @@
       "date_added": "2026-10-03",
       "direction": "C",
       "title": "Susceptibility of Large Language Models to User-Driven Factors in Medical Queries"
+    },
+    "10.64898/2026.09.27.754806": {
+      "date_added": "2026-10-04",
+      "direction": "A",
+      "title": "PathoBERT: Genomic Language Model for Read-Level Bacterial Pathogenicity"
+    },
+    "10.1186/s13059-026-04207-7": {
+      "date_added": "2026-10-04",
+      "direction": "A",
+      "title": "Comparative assessment of LLMs for microbial phenotype assignment"
+    },
+    "10.1038/s41746-026-03277-y": {
+      "date_added": "2026-10-04",
+      "direction": "B",
+      "title": "Blind spots in AI-assisted healthcare evidence search"
+    },
+    "10.48550/arxiv.2609.24620": {
+      "date_added": "2026-10-04",
+      "direction": "B",
+      "title": "Ascent: Agentic System over MCP for Clinical Data Analysis"
+    },
+    "10.1016/j.ijmedinf.2026.106339": {
+      "date_added": "2026-10-04",
+      "direction": "B",
+      "title": "Agentic memory-augmented retrieval and evidence grounding for medical QA"
+    },
+    "10.48550/arxiv.2609.12718": {
+      "date_added": "2026-10-04",
+      "direction": "C",
+      "title": "When Rubrics Fail: Hallucinations Reveal Blind Spots in Medical AI Evaluation"
+    },
+    "10.48550/arxiv.2609.12822": {
+      "date_added": "2026-10-04",
+      "direction": "C",
+      "title": "Scaling Clinical Judgment to Evaluate Medical AI (PrecepTron)"
+    },
+    "10.1007/978-3-032-38059-3_45": {
+      "date_added": "2026-10-04",
+      "direction": "C",
+      "title": "RadHiera: Semantic Hierarchical RL for Medical Report Generation"
+    },
+    "10.64898/2026.09.28.755183": {
+      "date_added": "2026-10-04",
+      "direction": "D",
+      "title": "Mendel: Foundation Model of Human Genetic Variation (variant-centric)"
+    },
+    "10.64898/2026.09.30.755330": {
+      "date_added": "2026-10-04",
+      "direction": "D",
+      "title": "Evo 2 as a Classification Machine: In-Context Learning and Interpretability"
+    },
+    "10.64898/2026.09.24.26363786": {
+      "date_added": "2026-10-04",
+      "direction": "F",
+      "title": "StrokeAgent: Auditable Multimodal Agentic System for Acute Stroke"
+    },
+    "10.1038/s41598-026-73885-x": {
+      "date_added": "2026-10-04",
+      "direction": "F",
+      "title": "SRS Plan Optimization with Reasoning LLM Agent"
+    },
+    "10.48550/arxiv.2609.39566": {
+      "date_added": "2026-10-04",
+      "direction": "F",
+      "title": "CASE: Agentic Learning for Longitudinal Medical Reasoning (UK Biobank)"
+    },
+    "10.64898/2026.09.25.752961": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "@fUS: Agentic Transcranial Functional Ultrasound Imaging"
+    },
+    "10.48550/arxiv.2609.30027": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "Synthetic Hospital: Verifiable Longitudinal EHR Benchmark"
+    },
+    "10.3389/fmicb.2026.1955928": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "IMicAP: Intelligent Microbial Application Platform"
+    },
+    "10.64898/2026.08.14.744850": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "CARD:Epi: Contextualizing AMR Determinants with Deep Learning LMs"
+    },
+    "10.64898/2026.09.25.754484": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "Octave: Scale-Resolved Evaluation of Spatial Gene Expression Prediction"
+    },
+    "10.64898/2026.09.03.749190": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "Transferable Genomic LM Framework for Fungal Gene Essentiality"
+    },
+    "10.21203/rs.3.rs-10914731/v1": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "Explainable DL for Rapid Bacterial DNA Classification"
+    },
+    "10.48550/arxiv.2609.35298": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "Training-Free Clinical Reasoning via Medical Ontologies (CKG Reasoner)"
+    },
+    "10.48550/arxiv.2609.25715": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "LingLan: TCM Diagnosis LLM with Multimodal Data"
+    },
+    "10.1038/s44482-026-00045-3": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "ACCESS: AI-Native Decision Intelligence for Epidemic Early Warning"
+    },
+    "10.64898/2026.09.21.753349": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "UniWave-2: Nucleic Acid Waveform Feature Extraction"
+    },
+    "10.21203/rs.3.rs-11151765/v1": {
+      "date_added": "2026-10-04",
+      "direction": "X",
+      "title": "LucaCell: Sequence-Centric Foundation Model for Cross-Species Single-Cell"
     }
   },
   "42289215": {

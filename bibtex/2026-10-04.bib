@@ -1,0 +1,296 @@
+@article{ElAarag2026PathoBERT,
+  title = {PathoBERT: a hybrid attention-based genomic language model for read-level bacterial pathogenicity prediction},
+  author = {El-Aarag, Salem A. and Flores, Mario and Hasan, Mohamed E. and Hemeida, Alaa E. and ElHefnawi, Mahmoud},
+  journal = {bioRxiv},
+  year = {2026},
+  doi = {10.64898/2026.09.27.754806},
+  url = {https://doi.org/10.64898/2026.09.27.754806},
+  keywords = {Direction-A, Direction-D, mNGS, genomic-language-model, pathogen-detection, DNABERT, read-level},
+  note = {Directly relevant: LoRA-adapted DNABERT + MCBAM/MSCA; strand-invariant, robust to sequencing errors; PathFrac aggregation gives perfect genome-level pathogen/non-pathogen separation, beating DeePaC and PathogenFinder2}
+}
+
+@article{Munch2026MicrobialPhenotypeLLM,
+  title = {Comparative assessment of large language models for microbial phenotype assignment},
+  author = {M{\"u}nch, Philipp C. and Safaei, Nasim and Mreches, R{\'e}ne and Binder, Martin and Han, Yichen and Robertson, Gary and Franzosa, Eric A. and Huttenhower, Curtis and McHardy, Alice Carolyn},
+  journal = {Genome Biology},
+  year = {2026},
+  doi = {10.1186/s13059-026-04207-7},
+  url = {https://doi.org/10.1186/s13059-026-04207-7},
+  keywords = {Direction-A, LLM, microbial-phenotype, knowledge-reliability, evaluation},
+  note = {Method reference: up to 57 LLMs (incl. Claude Sonnet 4, GPT-5 family) on structured microbial phenotype assignment; self-reported confidence aligns with accuracy and can triage inferences}
+}
+
+@article{Xu2026cfDNAME,
+  title = {Application value and challenges associated with plasma cell-free DNA metagenomic sequencing technology in the diagnosis of infections in patients with hematological disorders},
+  author = {Xu, C. and Liu, T. and Zhang, X. and Feng, S.},
+  journal = {Blood Science},
+  year = {2026},
+  doi = {10.1097/BS9.0000000000000304},
+  url = {https://doi.org/10.1097/BS9.0000000000000304},
+  keywords = {Direction-A, mNGS, cfDNA, hematological-infections, review},
+  note = {Review: plasma cfDNA mNGS in febrile neutropenia, bloodstream and focal infections; AMR prediction from cfDNA remains an open gap for AI}
+}
+
+@article{Farrag2026BlindSpotsRAG,
+  title = {Blind spots in AI-assisted healthcare evidence search: multiplatform evaluation of clinical retrieval gaps and risk-of-bias},
+  author = {Farrag, Ahmed N. and Soliman, Ahmed S. A. and Azubuike, Chidimma Doris and Zandbiglari, Kimia and Yadavilli, Surya and Adkins, Lauren and Mehrabi, Fatemeh and Cavallari, Larisa and Goodin, Amie J. and Rouhizadeh, Masoud},
+  journal = {npj Digital Medicine},
+  year = {2026},
+  doi = {10.1038/s41746-026-03277-y},
+  url = {https://doi.org/10.1038/s41746-026-03277-y},
+  keywords = {Direction-B, RAG, clinical-evidence-search, retrieval-bias, evaluation},
+  note = {Directly relevant: contamination-free gold standard; 5 RAG-LLM platforms x 15 query formulations; median formulation-level recall 7.2-42.2%; 12% of evidence never retrieved by any platform; conference abstracts far more likely never retrieved}
+}
+
+@article{Ziletti2026Ascent,
+  title = {Ascent: an agentic system over the Model Context Protocol for real-world clinical data analysis},
+  author = {Ziletti, Angelo and D'Ambrosi, Leonardo and Tuchardt, Melanie and Kondziella, Tim},
+  journal = {arXiv},
+  year = {2026},
+  doi = {10.48550/arxiv.2609.24620},
+  url = {https://doi.org/10.48550/arxiv.2609.24620},
+  keywords = {Direction-B, clinical-agent, MCP, pharmacoepidemiology, cohort-analysis},
+  note = {Directly relevant: medical coding + QA + cohort analysis exposed via shared MCP tool surface; EpiTrap benchmark for pharmacoepidemiological errors; agents beat fixed pipeline by 27/20 percentage points (native/standardized schemas)}
+}
+
+@article{Jia2026AgenticMemory,
+  title = {Agentic memory-augmented retrieval and evidence grounding for medical question-answering tasks},
+  author = {Jia, S. and Bit, S. and Jasodanand, V. H. and Liu, Y. and Kolachalama, V. B.},
+  journal = {International Journal of Medical Informatics},
+  year = {2026},
+  doi = {10.1016/j.ijmedinf.2026.106339},
+  url = {https://doi.org/10.1016/j.ijmedinf.2026.106339},
+  keywords = {Direction-B, clinical-agent, RAG, memory-bank, evidence-grounding},
+  note = {Directly relevant: open-source tool-using agent with reranking, cache-and-prune memory bank; USMLE Step 1 82.98% / Step 2 86.24%, above GPT-4 (80.67% / 81.67%)}
+}
+
+@article{Farrow2026WhenRubricsFail,
+  title = {When rubrics fail: hallucinations reveal blind spots in medical AI evaluation},
+  author = {Farrow, Griffin and Li, Lily Sijia and Johnson, Jack and Wang, Tingyan and Torr, Philip H. S. and Bolton, William and Fehr, Fabio},
+  journal = {arXiv},
+  year = {2026},
+  doi = {10.48550/arxiv.2609.12718},
+  url = {https://doi.org/10.48550/arxiv.2609.12718},
+  keywords = {Direction-C, RLHF, rubric-evaluation, medical-hallucination, reward-modeling},
+  note = {Directly relevant: clinician-validated error-injection pipeline on HealthBench / LiveMedBench; clinically relevant hallucinations routinely missed by rubrics; retrieval-based factuality check recovers some rubric-blind errors}
+}
+
+@article{Buckley2026PrecepTron,
+  title = {Scaling clinical judgment to evaluate medical AI},
+  author = {Buckley, Thomas A. and Kanjee, Zahir and Brodeur, Peter G. and Crowe, Byron and Pettinato, Anthony M. and Shah, A. and Haimovich, Adrian D. and McCoy, Liam G. and Restrepo, Daniel and Freed, Jason A.},
+  journal = {arXiv},
+  year = {2026},
+  doi = {10.48550/arxiv.2609.12822},
+  url = {https://doi.org/10.48550/arxiv.2609.12822},
+  keywords = {Direction-C, RLHF, LLM-as-judge, clinical-reasoning-evaluation, GRAND-ROUNDS},
+  note = {Directly relevant: PrecepTron (LoRA-tuned 32B judge) reaches physician-level consistency; GRAND-ROUNDS benchmark (9,217 responses, 160 clinicians); reproduces five JAMA/Science/Nature Medicine headline findings without new human grading}
+}
+
+@article{Du2026RadHiera,
+  title = {RadHiera: semantic hierarchical reinforcement learning for medical report generation},
+  author = {Du, Bodong and Yang, Honglong and Li, Xiaomeng},
+  journal = {Lecture Notes in Computer Science},
+  year = {2026},
+  doi = {10.1007/978-3-032-38059-3_45},
+  url = {https://arxiv.org/pdf/2511.10065},
+  keywords = {Direction-C, RLHF, hierarchical-reward, radiology-report-generation},
+  note = {MICCAI 2026: semantic hierarchical RL for radiology report generation; abstract not on journal page - see arXiv 2511.10065 for details}
+}
+
+@article{Salman2026Mendel,
+  title = {Mendel, a foundation model of human genetic variation, prioritizes regulatory variants and improves gene expression prediction},
+  author = {Salman, Arham and Feng, Haonan and Wei, Peng and Sun, Ryan and Wu, Lang and Pan, Wei and Wu, Chong},
+  journal = {bioRxiv},
+  year = {2026},
+  doi = {10.64898/2026.09.28.755183},
+  url = {https://doi.org/10.64898/2026.09.28.755183},
+  keywords = {Direction-D, genomic-foundation-model, variant-centric-pretraining, fine-mapped-variants, GTEx},
+  note = {Top pick: variant-centric pretraining objective; SNV allele accuracy 0.984 vs Evo 2 0.311; fine-mapped causal variant prioritization AUROC 0.731; improves expression prediction in all 50 GTEx tissues}
+}
+
+@article{Bertolini2026Evo2ICL,
+  title = {Evo 2 as a classification machine: evidence from in-context learning and mechanistic interpretability},
+  author = {Bertolini, Lorenzo and Curion, Fabiola and Petrillo, Mauro and Leoni, Gabriele and Ronco, Michele and Ruiz-Serra, Victoria and Consoli, Sergio and Ceresa, Mario},
+  journal = {bioRxiv},
+  year = {2026},
+  doi = {10.64898/2026.09.30.755330},
+  url = {https://doi.org/10.64898/2026.09.30.755330},
+  keywords = {Direction-D, genomic-foundation-model, in-context-learning, interpretability, scaling},
+  note = {Directly relevant: iCL robust on short sequences (miRNA F1=0.902), collapses at kilobase scale; 7B outperforms 40B; perplexity poorly predicts downstream accuracy; logit-lens + Jacobian Scope explain the prediction-generalization trade-off}
+}
+
+@article{Zhai2026PlantCAD2,
+  title = {PlantCAD2: a DNA foundation model for interpreting genomes across flowering plants},
+  author = {Zhai, J. and Gokaslan, A. and Hsu, S. K. and Chen, S. P. and Liu, Z. Y. and Marroquin, E. and Czech, E. and Cannon, B. and Berthel, A. and Romay, M. C. and others},
+  journal = {Cell Genomics},
+  year = {2026},
+  doi = {10.1016/j.xgen.2026.101329},
+  url = {https://doi.org/10.1016/j.xgen.2026.101329},
+  keywords = {Direction-D, genomic-foundation-model, plant-genomics, long-context, domain-FM},
+  note = {Directly relevant: 676M params, single-nucleotide resolution, pretrained on 65 angiosperm genomes; beats 7B Evo 2 on 10/12 zero-shot tasks; 8192-bp context lifts maize chromatin accessibility AUPRC from 0.587 to 0.711}
+}
+
+@article{Yang2026StrokeAgent,
+  title = {An auditable multimodal agentic system for sequential decision-making across the acute stroke pathway},
+  author = {Yang, Ke and Bao, Zhijie and Tong, Lusha and Yuan, Jing and Chen, Yuxiao and Xue, Xiaoyi and Zhu, Yueqi and Luo, Yunhe and Mao, Xueyu and Zheng, Jin},
+  journal = {medRxiv},
+  year = {2026},
+  doi = {10.64898/2026.09.24.26363786},
+  url = {https://doi.org/10.64898/2026.09.24.26363786},
+  keywords = {Direction-F, multimodal-clinical-agent, stroke, audit-trail, ECG, multimodal-CT},
+  note = {Directly relevant: StrokeAgent integrates clinical records, labs, raw ECG waveforms, multimodal CT; 86% expert concordance, +17pp over neurologists, 76% full-pathway concordance; every recommendation grounded in an auditable evidence chain}
+}
+
+@article{Nusrat2026SRSAgent,
+  title = {Stereotactic radiosurgery plan optimization with a human-in-the-loop reasoning large language model agent},
+  author = {Nusrat, Humza and Francisco, Luke and Luo, Bing and Bagher-Ebadian, Hassan and Kim, Joshua and Chin-Snyder, Karen and Siddiqui, Salim and Shah, Mira and Mellon, Eric and Ghassemi, Mohammad},
+  journal = {Scientific Reports},
+  year = {2026},
+  doi = {10.1038/s41598-026-73885-x},
+  url = {https://doi.org/10.1038/s41598-026-73885-x},
+  keywords = {Direction-F, clinical-agent, radiosurgery, reasoning-vs-general, TPS-optimization},
+  note = {Directly relevant: post-trained reasoning model (QwQ-32B) vs general model (Llama-3.1-70B) driving Eclipse TPS; reasoning model wins on conformity ratio, normal-brain V12Gy, instruction response, and output parseability}
+}
+
+@article{Shao2026CASE,
+  title = {From given to gathered evidence: agentic learning for longitudinal medical reasoning},
+  author = {Shao, Minye and Yu, Chaohui and Wu, Yixuan and Wang, Fan and Shao, Ling and Long, Yang},
+  journal = {arXiv},
+  year = {2026},
+  doi = {10.48550/arxiv.2609.39566},
+  url = {https://doi.org/10.48550/arxiv.2609.39566},
+  keywords = {Direction-F, multimodal-clinical-agent, agentic-RL, longitudinal-imaging, UK-Biobank},
+  note = {Top pick: CASE role-specific evidence-seeking agents on UK Biobank (50,401 questions, multi-sequence MRI); SFT on 14,734 frontier-model trajectories + agentic RL; Qwen3-VL-8B beats GPT-5.4 by >16% and Claude Opus 4.8 by >10% relative accuracy}
+}
+
+@article{Chen2026fUS,
+  title = {Agentic transcranial functional ultrasound imaging: @fUS},
+  author = {Chen, Zihao and Yuan, Zexin and Lu, Zhaoqi and Li, Na and Fu, C. and Sun, Le and Yao, Hongying and Liu, Huizhu and Xian, Quanxiang and Wang, Tianyi},
+  journal = {bioRxiv},
+  year = {2026},
+  doi = {10.64898/2026.09.25.752961},
+  url = {https://doi.org/10.64898/2026.09.25.752961},
+  keywords = {Direction-X, scientific-instrument-agent, functional-ultrasound, persistent-memory},
+  note = {Cross-discovery: agent wired directly into a 128-channel fUS instrument with executable experimental skills and persistent structured memory; trainees with no engineering background configured it in 30 minutes}
+}
+
+@article{Park2026SyntheticHospital,
+  title = {Synthetic Hospital: an open, verifiable, physician-validated longitudinal EHR benchmark},
+  author = {Park, Christine and Chen, Valerie and Dettmers, Tim},
+  journal = {arXiv},
+  year = {2026},
+  doi = {10.48550/arxiv.2609.30027},
+  url = {https://doi.org/10.48550/arxiv.2609.30027},
+  keywords = {Direction-X, EHR-benchmark, synthetic-data, longitudinal-cohort},
+  note = {Cross-discovery: 1,268 synthetic longitudinal patients / 5,602 encounters, all facts grounded in ICD-10-CM / SNOMED CT / LOINC with provenance; physicians distinguish from real charts at near-chance (53%); best model severity-weighted problem-list F1 only 0.73}
+}
+
+@article{Zhu2026IMicAP,
+  title = {IMicAP: an intelligent microbial application platform for knowledge-driven microbiome research},
+  author = {Zhu, Chaoyu and Wang, Xing and Feng, Lihui and Xu, Mingzhang and Huang, Zhengkun and Chen, Weijie and Liu, Lei},
+  journal = {Frontiers in Microbiology},
+  year = {2026},
+  doi = {10.3389/fmicb.2026.1955928},
+  url = {https://doi.org/10.3389/fmicb.2026.1955928},
+  keywords = {Direction-X, microbial-knowledge-graph, RAG, 16S-analysis},
+  note = {Cross-discovery: integrates 12 microbial databases and 35M+ articles; knowledge query, multi-hop KG reasoning, microbiology QA, genome browser, zero-code 16S analysis}
+}
+
+@article{Edalatmand2026CARDEpi,
+  title = {CARD:Epi - contextualizing antimicrobial resistance determinants using deep learning language models},
+  author = {Edalatmand, Arman and Ta, Terence and Zhao, Claire and Ibrahim, Abdalmuhaymen and Upadhyaya, Ramkrishna and Rajapaksa, Saduni and Raphenya, Amogelang R. and McArthur, Andrew G.},
+  journal = {bioRxiv},
+  year = {2026},
+  doi = {10.64898/2026.08.14.744850},
+  url = {https://doi.org/10.64898/2026.08.14.744850},
+  keywords = {Direction-X, AMR, BioBERT, relation-extraction, literature-mining},
+  note = {Cross-discovery: BioBERT NER + relation extraction over 204,094 AMR publications; contextualizes ARG transmission across agriculture, environment, and human populations}
+}
+
+@article{Wang2026Octave,
+  title = {Octave: scale-resolved evaluation of spatial gene expression prediction from histology},
+  author = {Wang, Qing and Gu, Sipei and Lan, Qizhen and Jiang, Xiaoqian and Chen, Yijiang and Song, Qianqian},
+  journal = {bioRxiv},
+  year = {2026},
+  doi = {10.64898/2026.09.25.754484},
+  url = {https://doi.org/10.64898/2026.09.25.754484},
+  keywords = {Direction-X, spatial-transcriptomics, evaluation-metrics, scale-resolution},
+  note = {Cross-discovery: mean-PCC evaluation rewards coarse spatial structure (domain oracle reaches 82% of trained-model PCC); OCTAVE filters predictions into spatial frequency bands; finest band reorders 261/1596 encoder pairs}
+}
+
+@article{Liao2026FungalEssentiality,
+  title = {A transferable genomic language model framework for fungal gene essentiality prediction},
+  author = {Liao, C. and Thomas, H. G.},
+  journal = {bioRxiv},
+  year = {2026},
+  doi = {10.64898/2026.09.03.749190},
+  url = {https://doi.org/10.64898/2026.09.03.749190},
+  keywords = {Direction-X, genomic-foundation-model, Evo-2, gene-essentiality, fungi},
+  note = {Cross-discovery: Evo 2 embeddings lose recoverable information for phenotypes further from DNA sequence; fusing ortholog essentiality + PPI restores performance across three yeasts and transfers to A. fumigatus}
+}
+
+@article{Hasan2026BacterialDL,
+  title = {An explainable deep learning strategy towards rapid bacterial DNA classification for pathogen identification},
+  author = {Hasan, Nazmul and Alom, Md. Romzan and Mahanta, Pankaj and Rahaman, Muhammad Aminur},
+  journal = {Research Square},
+  year = {2026},
+  doi = {10.21203/rs.3.rs-10914731/v1},
+  url = {https://doi.org/10.21203/rs.3.rs-10914731/v1},
+  keywords = {Direction-X, bacterial-classification, explainable-AI, pathogen-identification},
+  note = {Cross-discovery: explainable deep learning for rapid bacterial DNA classification (same track as PathoBERT)}
+}
+
+@article{Das2026CKGReasoner,
+  title = {Training-free clinical reasoning through medical ontologies and cognitive mapping: a symbolic-probabilistic knowledge graph framework},
+  author = {Das, Surajit},
+  journal = {arXiv},
+  year = {2026},
+  doi = {10.48550/arxiv.2609.35298},
+  url = {https://doi.org/10.48550/arxiv.2609.35298},
+  keywords = {Direction-X, symbolic-reasoning, knowledge-graph, training-free, clinical-diagnosis},
+  note = {Cross-discovery: label-free, training-free diagnostic reasoning over medical ontologies; evaluated on dengue / malaria / influenza cohorts}
+}
+
+@article{Chen2026LingLan,
+  title = {LingLan: an advancing traditional Chinese medicine diagnosis LLM with multimodal data},
+  author = {Chen, Zheng and Du, ZhiCheng and Li, Haoxuan and Liang, Yingshan and Qin, Peiwu},
+  journal = {arXiv},
+  year = {2026},
+  doi = {10.48550/arxiv.2609.25715},
+  url = {https://doi.org/10.48550/arxiv.2609.25715},
+  keywords = {Direction-X, TCM, multimodal, fine-tuning, diagnostic-workflow},
+  note = {Cross-discovery: unification framework for tongue/pulse images into I-AOI-P structured records; LingLan-14B SFT improves diagnostic accuracy 103.5% relative (62.72% vs 30.82%)}
+}
+
+@article{Wang2026ACCESS,
+  title = {Reframing epidemic early warning: toward AI-native decision intelligence for public health governance},
+  author = {Wang, Jiaojiao and Wang, Quanyi and Yang, Peng and Li, Gang and Wang, Xiaoli and Sun, Ying and Feng, Zhaomin and Gao, Yanlin and Li, Yuan and Guo, Wenzhang},
+  journal = {npj Digital Public Health},
+  year = {2026},
+  doi = {10.1038/s44482-026-00045-3},
+  url = {https://doi.org/10.1038/s44482-026-00045-3},
+  keywords = {Direction-X, epidemic-warning, decision-intelligence, public-health-governance},
+  note = {Cross-discovery: ACCESS framework reframes early warning as the perceptual foundation of AI-native decision intelligence; prioritizes decision robustness, transparency, human accountability over predictive accuracy}
+}
+
+@article{Zhang2026UniWave2,
+  title = {UniWave-2: a hybrid model for nucleic acid waveform feature extraction enhanced by Fourier and wavelet transforms},
+  author = {Zhang, Hao and Qi, Yujun and Feng, Yulan and Wang, Lili},
+  journal = {bioRxiv},
+  year = {2026},
+  doi = {10.64898/2026.09.21.753349},
+  url = {https://doi.org/10.64898/2026.09.21.753349},
+  keywords = {Direction-X, nucleic-acid-analysis, waveform-encoding, non-transformer},
+  note = {Cross-discovery: non-transformer route for DNA/RNA analysis; waveform encoding + Fourier/wavelet transforms with lightweight multiscale GRU; interpretable attribution without gradients}
+}
+
+@article{Sun2026LucaCell,
+  title = {LucaCell: a sequence-centric foundation model for cross-species single-cell analysis},
+  author = {Sun, Yan and He, Yong and Ren, Minsi and Wang, Yanhui and Xu, Penghao and Hou, Yong and Kang, Yu and Hou, Tingjun and Ye, Jieping and Huanming, Yang},
+  journal = {Research Square},
+  year = {2026},
+  doi = {10.21203/rs.3.rs-11151765/v1},
+  url = {https://doi.org/10.21203/rs.3.rs-11151765/v1},
+  keywords = {Direction-X, genomic-foundation-model, single-cell, cross-species},
+  note = {Cross-discovery: sequence-centric foundation model bridging genomic FMs and single-cell analysis across species (abstract not indexed; see preprint page)}
+}
