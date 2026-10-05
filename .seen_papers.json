@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-10-04",
+  "last_updated": "2026-10-05",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -5559,6 +5559,131 @@
       "date_added": "2026-10-04",
       "direction": "X",
       "title": "LucaCell: Sequence-Centric Foundation Model for Cross-Species Single-Cell"
+    },
+    "10.64898/2026.09.24.753817": {
+      "date_added": "2026-10-05",
+      "direction": "A",
+      "title": "Benchmarking virus identification tools on vaginal metagenomes"
+    },
+    "10.1098/rsos.260772": {
+      "date_added": "2026-10-05",
+      "direction": "A",
+      "title": "Concordance of NGS and conventional microbiology for pathogen detection"
+    },
+    "10.63946/jebm/19463": {
+      "date_added": "2026-10-05",
+      "direction": "A",
+      "title": "The Hidden AMR Gap: AI Framework for AMR Under-Surveillance Detection"
+    },
+    "10.1016/j.ygyno.2026.07.005": {
+      "date_added": "2026-10-05",
+      "direction": "B",
+      "title": "Guideline-anchored RAG outperforms baseline in gynecologic oncology"
+    },
+    "10.21203/rs.3.rs-10988415/v1": {
+      "date_added": "2026-10-05",
+      "direction": "B",
+      "title": "Let Me Cypher That for You: Multi-Graph Agent for Biomedical Knowledge"
+    },
+    "10.64898/2026.09.30.26363196": {
+      "date_added": "2026-10-05",
+      "direction": "B",
+      "title": "Benchmarking modular skills vs fixed orchestration across six LLMs"
+    },
+    "10.48550/arxiv.2609.12277": {
+      "date_added": "2026-10-05",
+      "direction": "C",
+      "title": "RL over Patient Trajectories for Clinical Reasoning in EHR Foundation Models"
+    },
+    "10.1038/s41746-026-03248-3": {
+      "date_added": "2026-10-05",
+      "direction": "C",
+      "title": "LLMs as judges for clinical generative AI evaluation"
+    },
+    "10.48550/arxiv.2609.25755": {
+      "date_added": "2026-10-05",
+      "direction": "C",
+      "title": "Syndrome, Synergy, and Safety: Knowledge-Driven Alignment for TCM"
+    },
+    "10.64898/2026.09.23.753886": {
+      "date_added": "2026-10-05",
+      "direction": "D",
+      "title": "CheckAMG: Auxiliary Viral Genes with Genome-Language Models"
+    },
+    "10.1109/TCBBIO.2026.3705107": {
+      "date_added": "2026-10-05",
+      "direction": "D",
+      "title": "Adapting Evo for Functional Genomics via Progressive Fine-Tuning"
+    },
+    "10.1093/femsle/fnag112": {
+      "date_added": "2026-10-05",
+      "direction": "D",
+      "title": "QAC determinants outperform genome LM embeddings leakage-aware"
+    },
+    "10.64898/2026.09.28.755120": {
+      "date_added": "2026-10-05",
+      "direction": "D",
+      "title": "LOAM: Genomic language models trained on long-read soil metagenomes"
+    },
+    "10.1109/RBME.2026.3704162": {
+      "date_added": "2026-10-05",
+      "direction": "F",
+      "title": "Survey of Agentic AI in Biomedicine (IEEE RBME)"
+    },
+    "10.1038/s41746-026-02953-3": {
+      "date_added": "2026-10-05",
+      "direction": "F",
+      "title": "Scoping review of explainable AI for medical multimodal data"
+    },
+    "10.48550/arxiv.2609.37501": {
+      "date_added": "2026-10-05",
+      "direction": "X",
+      "title": "RegLLM: Bounded Autonomy in Regulated Agentic AI"
+    },
+    "10.48550/arxiv.2609.33658": {
+      "date_added": "2026-10-05",
+      "direction": "X",
+      "title": "AgentBoundary: Counterfactual Safety Evaluation for Tool-Using Agents"
+    },
+    "10.1038/s41467-026-70071-5": {
+      "date_added": "2026-10-05",
+      "direction": "X",
+      "title": "CellVQ: Interpretable single cell foundation model"
+    },
+    "10.1038/s41746-026-03104-4": {
+      "date_added": "2026-10-05",
+      "direction": "C",
+      "title": "LEME: open LLMs for ophthalmology with advanced reasoning"
+    },
+    "10.3233/SHTI260105": {
+      "date_added": "2026-10-05",
+      "direction": "B",
+      "title": "Pharmacovigilance Assistant: Agentic Workflow for Drug Safety"
+    },
+    "10.48550/arxiv.2609.21075": {
+      "date_added": "2026-10-05",
+      "direction": "C",
+      "title": "Aligning with Lived Experience: Fine Tuning in Mental Health"
+    },
+    "10.48550/arxiv.2609.34079": {
+      "date_added": "2026-10-05",
+      "direction": "D",
+      "title": "GenoMorph: Pathway-Grounded Genomic Disease Reasoning"
+    },
+    "10.7759/cureus.114149": {
+      "date_added": "2026-10-05",
+      "direction": "F",
+      "title": "NeonatAIlogy: GIRISH framework for NICU clinical AI safety"
+    },
+    "10.1038/s44482-026-00038-2": {
+      "date_added": "2026-10-05",
+      "direction": "A",
+      "title": "Wastewater-informed neural compartmental model for case estimation"
+    },
+    "10.3390/technologies12120240": {
+      "date_added": "2026-10-05",
+      "direction": "A",
+      "title": "AI-Powered Biodiversity: DNA Barcoding Deep Learning (2024, ref)"
     }
   },
   "42289215": {
