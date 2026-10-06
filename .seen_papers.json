@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-10-05",
+  "last_updated": "2026-10-06",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -5684,6 +5684,96 @@
       "date_added": "2026-10-05",
       "direction": "A",
       "title": "AI-Powered Biodiversity: DNA Barcoding Deep Learning (2024, ref)"
+    },
+    "10.1007/s10916-026-02470-6": {
+      "date_added": "2026-10-06",
+      "direction": "B",
+      "title": "Guideline-grounded LLM chatbots rheumatology nationwide multicentre"
+    },
+    "10.1093/jamia/ocag171": {
+      "date_added": "2026-10-06",
+      "direction": "B",
+      "title": "Guideline-grounded LLMs genome-informed recs from EHR (eMERGE)"
+    },
+    "2609.35810": {
+      "date_added": "2026-10-06",
+      "direction": "B",
+      "title": "TRACE: Tree-Relational Structure Enhancement for Oncology LLMs"
+    },
+    "2604.23445": {
+      "date_added": "2026-10-06",
+      "direction": "C",
+      "title": "AI Safety Training Can be Clinically Harmful"
+    },
+    "2609.38847": {
+      "date_added": "2026-10-06",
+      "direction": "C",
+      "title": "Scoring Higher, Answering Worse: Reward Hacking in Rubric-Based RL"
+    },
+    "2607.13430": {
+      "date_added": "2026-10-06",
+      "direction": "C",
+      "title": "Post-Training Alignment of SLMs for Biomedical Data-to-Text (DPO/ORPO/GRPO)"
+    },
+    "2609.35883": {
+      "date_added": "2026-10-06",
+      "direction": "D",
+      "title": "CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts"
+    },
+    "2609.28386": {
+      "date_added": "2026-10-06",
+      "direction": "D",
+      "title": "Motif-Vocab: TF-Identity Tokenization for Genomic Language Models"
+    },
+    "2610.00411": {
+      "date_added": "2026-10-06",
+      "direction": "D",
+      "title": "VANDAM: Viewing a nucleotide sequence with DNA molecular priors"
+    },
+    "10.64898/2026.07.04.736518": {
+      "date_added": "2026-10-06",
+      "direction": "D",
+      "title": "SpliSync: Genomic LM-driven splice site correction of long RNA-seq reads"
+    },
+    "10.1038/s41591-026-04609-x": {
+      "date_added": "2026-10-06",
+      "direction": "F",
+      "title": "On-premise medical AI agents for reliable clinical decision-making"
+    },
+    "10.1038/s41551-026-01739-y": {
+      "date_added": "2026-10-06",
+      "direction": "F",
+      "title": "Pathology-CoT: visual chain-of-thought agents from expert WSI behaviour"
+    },
+    "2606.08982": {
+      "date_added": "2026-10-06",
+      "direction": "F",
+      "title": "Baichuan-M4: Clinical-Grade Medical Agent System for Continuous Care"
+    },
+    "2604.25832": {
+      "date_added": "2026-10-06",
+      "direction": "X",
+      "title": "TrialCalibre: Automated Causal Engine for RCT Benchmarking"
+    },
+    "2610.01076": {
+      "date_added": "2026-10-06",
+      "direction": "X",
+      "title": "GLoC-EHR: Evidence-Cited Clinical Reasoning over Global Context and Local EHR Events"
+    },
+    "10.1128/spectrum.02026-25": {
+      "date_added": "2026-10-06",
+      "direction": "A",
+      "title": "BIOTIA-ID: NGS-based urine pathogen assay analytical validation"
+    },
+    "10.1016/j.cmi.2026.05.012": {
+      "date_added": "2026-10-06",
+      "direction": "A",
+      "title": "EUCAST 2025 update: WGS in antimicrobial susceptibility prediction (WGS-ASP)"
+    },
+    "10.1128/spectrum.04101-25": {
+      "date_added": "2026-10-06",
+      "direction": "A",
+      "title": "ZILA-SRM: zero-inflated latent models for robust strain reconstruction from metagenomes"
     }
   },
   "42289215": {
