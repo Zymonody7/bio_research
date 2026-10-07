@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -5774,6 +5774,86 @@
       "date_added": "2026-10-06",
       "direction": "A",
       "title": "ZILA-SRM: zero-inflated latent models for robust strain reconstruction from metagenomes"
+    },
+    "42254492": {
+      "date_added": "2026-10-07",
+      "direction": "A",
+      "title": "MARM: malignancy risk prediction from host-derived CNV in BALF mNGS data"
+    },
+    "42553092": {
+      "date_added": "2026-10-07",
+      "direction": "A",
+      "title": "Metagenomic next-generation sequencing: new horizons in microbiology"
+    },
+    "2609.39566": {
+      "date_added": "2026-10-07",
+      "direction": "B",
+      "title": "CASE: From Given to Gathered Evidence - Agentic Learning for Longitudinal Medical Reasoning"
+    },
+    "42784988": {
+      "date_added": "2026-10-07",
+      "direction": "B",
+      "title": "ProMem-agent: Procedural memory-augmented LLM agents for clinical trajectory reasoning"
+    },
+    "42819271": {
+      "date_added": "2026-10-07",
+      "direction": "B",
+      "title": "CTDT-Agent: retrieval-augmented multi-agent digital health framework for diabetes care"
+    },
+    "2607.18988": {
+      "date_added": "2026-10-07",
+      "direction": "C",
+      "title": "DobicVLM: Aligning CXR Report Generation with Clinically-Grounded Programmatic Rewards via GRPO"
+    },
+    "42766421": {
+      "date_added": "2026-10-07",
+      "direction": "C",
+      "title": "The Alignment Paradox of Medical LLMs in Infertility Care"
+    },
+    "42348377": {
+      "date_added": "2026-10-07",
+      "direction": "C",
+      "title": "Multimodal Bidirectional Direct Preference Optimization for Medical Image Understanding and Generation"
+    },
+    "42717086": {
+      "date_added": "2026-10-07",
+      "direction": "D",
+      "title": "GPN-Star: Predicting genome-wide functional constraints"
+    },
+    "42285091": {
+      "date_added": "2026-10-07",
+      "direction": "D",
+      "title": "Toward generalizable prediction of cancer signal using a cell-free DNA language model"
+    },
+    "42567165": {
+      "date_added": "2026-10-07",
+      "direction": "D",
+      "title": "PlantCAD2: A DNA foundation model for interpreting genomes across flowering plants"
+    },
+    "2610.06695": {
+      "date_added": "2026-10-07",
+      "direction": "F",
+      "title": "MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA"
+    },
+    "2609.24838": {
+      "date_added": "2026-10-07",
+      "direction": "F",
+      "title": "MedRSI: Recursive Self-Improvement for Medical Agents via Clinically Aligned Self-Evolution"
+    },
+    "42837398": {
+      "date_added": "2026-10-07",
+      "direction": "X",
+      "title": "Omics data discovery agents: Agent-supported retrieval, reanalysis, and synthesis"
+    },
+    "42447946": {
+      "date_added": "2026-10-07",
+      "direction": "X",
+      "title": "Real-time hallucination detection in medical LLMs via calibrated hidden-state probes"
+    },
+    "42503759": {
+      "date_added": "2026-10-07",
+      "direction": "X",
+      "title": "CALM-VR: LLMs to predict enteric viruses removal using surrogate indicators"
     }
   },
   "42289215": {
