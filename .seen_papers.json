@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-10-07",
+  "last_updated": "2026-10-08",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -5854,6 +5854,86 @@
       "date_added": "2026-10-07",
       "direction": "X",
       "title": "CALM-VR: LLMs to predict enteric viruses removal using surrogate indicators"
+    },
+    "10.1038/s41746-025-01977-5": {
+      "date_added": "2026-10-08",
+      "direction": "A",
+      "title": "Metagenomic fingerprints in bronchoalveolar lavage differentiate pulmonary diseases"
+    },
+    "10.3389/fcimb.2025.1550933": {
+      "date_added": "2026-10-08",
+      "direction": "A",
+      "title": "Enhancing FUO diagnosis: ML predicts mNGS positivity"
+    },
+    "10.1128/msystems.00584-25": {
+      "date_added": "2026-10-08",
+      "direction": "A",
+      "title": "Rapid AST prediction in Enterobacter cloacae complex via WGS+mNGS"
+    },
+    "10.1126/science.adz4351": {
+      "date_added": "2026-10-08",
+      "direction": "B",
+      "title": "Biomni: Autonomous biomedical research with an AI agent (Science)"
+    },
+    "10.1038/s41746-026-02559-9": {
+      "date_added": "2026-10-08",
+      "direction": "B",
+      "title": "WiseMind: knowledge-guided multi-agent psychiatric diagnosis"
+    },
+    "10.3389/fmed.2025.1716327": {
+      "date_added": "2026-10-08",
+      "direction": "B",
+      "title": "Self-correcting Agentic Graph RAG for hepatology CDS"
+    },
+    "10.1371/journal.pdig.0001294": {
+      "date_added": "2026-10-08",
+      "direction": "C",
+      "title": "PiPrO: Participatory-informed preference optimization"
+    },
+    "10.1038/s41591-024-03416-6": {
+      "date_added": "2026-10-08",
+      "direction": "C",
+      "title": "MedFound: generalist medical language model (Nat Med)"
+    },
+    "10.1038/s41598-025-92889-7": {
+      "date_added": "2026-10-08",
+      "direction": "C",
+      "title": "COBRA: consensus-based reward mitigating malicious RLHF feedback"
+    },
+    "10.1158/2159-8290.CD-25-1735": {
+      "date_added": "2026-10-08",
+      "direction": "D",
+      "title": "MutationProjector: cancer genotype foundation model"
+    },
+    "10.1038/s41587-024-02511-w": {
+      "date_added": "2026-10-08",
+      "direction": "D",
+      "title": "GPN-MSA: DNA LM with multispecies alignment for variant effects"
+    },
+    "10.1038/s41467-026-73129-6": {
+      "date_added": "2026-10-08",
+      "direction": "D",
+      "title": "SUCCEED: large-scale supervised multi-task DNA foundation model"
+    },
+    "10.1038/s41746-025-02219-4": {
+      "date_added": "2026-10-08",
+      "direction": "F",
+      "title": "MoMA: mixture-of-multimodal-agents for clinical prediction"
+    },
+    "10.1038/s41591-026-04626-w": {
+      "date_added": "2026-10-08",
+      "direction": "F",
+      "title": "MedGemma: open medical vision-language model (Nat Med)"
+    },
+    "10.1016/j.patter.2025.101364": {
+      "date_added": "2026-10-08",
+      "direction": "F",
+      "title": "Multimodal LLM-agent framework for HCC personalized decisions"
+    },
+    "10.1101/2025.08.22.25334232": {
+      "date_added": "2026-10-08",
+      "direction": "X",
+      "title": "AI Agents in Clinical Medicine: A Systematic Review (medRxiv)"
     }
   },
   "42289215": {
