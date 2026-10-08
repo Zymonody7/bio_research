@@ -1,0 +1,175 @@
+% BibTeX for Daily Report 2026-10-08
+% 15 main papers + 1 cross-boundary mention
+% Keywords A/B/C/D/F/X map to Zotero Direction collections
+
+% ============ Direction A: mNGS + AI Pathogen Detection ============
+
+@article{han2025metagenomic,
+  title = {Metagenomic fingerprints in bronchoalveolar lavage differentiate pulmonary diseases},
+  author = {Han, Dongyang and Liu, Cheng and Yang, Bo and Yu, Fan and Liu, Hong and Lou, Bin and Shen, Yang and Tang, Hong},
+  journal = {npj Digital Medicine},
+  year = {2025},
+  doi = {10.1038/s41746-025-01977-5},
+  keywords = {A, mNGS, BALF, multimodal-ML, lung-cancer},
+  note = {DirectionA: multimodal ML on 402 BALF mNGS datasets (microbial+host signals), lung cancer vs infection test AUC 0.847}
+}
+
+@article{gao2025fuo,
+  title = {Enhancing fever of unknown origin diagnosis: machine learning approaches to predict metagenomic next-generation sequencing positivity},
+  author = {Gao, Zhen and Jiang, Yang and Chen, Min and Wang, Wei and Liu, Qiang and Ma, Jun},
+  journal = {Frontiers in Cellular and Infection Microbiology},
+  year = {2025},
+  doi = {10.3389/fcimb.2025.1550933},
+  keywords = {A, mNGS, FUO, LightGBM, SHAP},
+  note = {DirectionA: interpretable ML predicts mNGS positivity in FUO (val AUC 0.93), optimizes mNGS testing timing}
+}
+
+@article{pan2025ecc,
+  title = {Rapid prediction of antibiotic resistance in Enterobacter cloacae complex using whole-genome and metagenomic sequencing},
+  author = {Pan, Fan and Han, Peng and Wu, Qian and Hou, Wei and Rao, Guoqing and Ma, Zhen and Weng, Weihua and Zhang, Huanyu},
+  journal = {mSystems},
+  year = {2025},
+  doi = {10.1128/msystems.00584-25},
+  keywords = {A, mNGS, AMR-prediction, WGS, ECC},
+  note = {DirectionA: WGS+mNGS ML AST prediction for ECC, >95% accuracy in pediatric validation, turnaround reduced 69.64h}
+}
+
+% ============ Direction B: Clinical Agent + RAG/KG ============
+
+@article{huang2026biomni,
+  title = {Autonomous biomedical research with an artificial intelligence agent},
+  author = {Huang, Kexin and Zhang, Shijie and Wang, Haoyang and Qu, Yuxin and Lu, Yihao and Li, Rui and Roohani, Yusuf and Qiu, Liang},
+  journal = {Science},
+  year = {2026},
+  doi = {10.1126/science.adz4351},
+  keywords = {B, biomedical-agent, action-discovery, RAG-planning},
+  note = {DirectionB: Biomni general-purpose biomedical AI agent in Science; action-discovery mines tools across 25 domains, template-free workflow composition}
+}
+
+@article{wu2026wisemind,
+  title = {WiseMind: a knowledge-guided multi-agent framework for accurate and empathetic psychiatric diagnosis},
+  author = {Wu, Yiqin and Wan, Guangyao and Li, Jing and Zhao, Songhua and Ma, Lei and Ye, Tianshu and Zhang, Ming and Pop, Ioana},
+  journal = {npj Digital Medicine},
+  year = {2026},
+  doi = {10.1038/s41746-026-02559-9},
+  keywords = {B, psychiatric-agent, knowledge-graph, dual-mind, multi-agent},
+  note = {DirectionB: DBT-inspired Reasonable/Emotional Mind agents + DSM-5 structured KG; 85.6% top-1 diagnostic accuracy, +15-54pp over knowledge-enhanced single agents}
+}
+
+@article{hu2026graphrag,
+  title = {A self-correcting Agentic Graph RAG for clinical decision support in hepatology},
+  author = {Hu, Yang and Xuan, Weilin and Zhou, Qiang and Li, Zhen and Li, Yue and Hu, Jiale and Fang, Fang},
+  journal = {Frontiers in Medicine},
+  year = {2026},
+  doi = {10.3389/fmed.2025.1716327},
+  keywords = {B, GraphRAG, self-correcting, hepatology, agentic-retrieval},
+  note = {DirectionB: state-driven retrieve-evaluate-refine loop on verified hepatology KG; faithfulness 0.94, beats GPT-4/standard RAG/GraphRAG}
+}
+
+% ============ Direction C: RLHF Medical Alignment ============
+
+@article{liu2025medfound,
+  title = {A generalist medical language model for disease diagnosis assistance},
+  author = {Liu, Xin and Liu, Hongye and Yang, Guoxin and Jiang, Zhen and Cui, Siyu and Zhang, Zhiyong and Wang, Hongying and Tao, Li},
+  journal = {Nature Medicine},
+  year = {2025},
+  doi = {10.1038/s41591-024-03416-6},
+  keywords = {C, medical-LLM, preference-alignment, chain-of-thought, diagnosis},
+  note = {DirectionC: 176B MedFound; self-bootstrapping CoT + unified preference alignment to standard clinical practice; 8 specialties, 8 clinical evaluation metrics}
+}
+
+@article{templin2026ipro,
+  title = {Participatory-informed preference optimization (PiPrO): a reinforcement learning simulation study},
+  author = {Templin, Thomas and Song, Siyang and Fort, Stephanie and Sinnott-Armstrong, Nathaniel},
+  journal = {PLOS Digital Health},
+  year = {2026},
+  doi = {10.1371/journal.pdig.0001294},
+  keywords = {C, preference-optimization, policy-gradient, multi-stakeholder, alignment},
+  note = {DirectionC: community-vs-physician preference calibration via tunable alpha mixing weight learned by policy gradient}
+}
+
+@article{haider2025cobra,
+  title = {A framework for mitigating malicious {RLHF} feedback in {LLM} training using consensus based reward},
+  author = {Haider, Zeeshan and Rahman, Mohammad Hassan and Devabhaktuni, Vijay and Moeykens, Stephen and Chakraborty, Priyanka},
+  journal = {Scientific Reports},
+  year = {2025},
+  doi = {10.1038/s41598-025-92889-7},
+  keywords = {C, RLHF, robust-alignment, consensus-reward},
+  note = {DirectionC: COBRA consensus-based reward negates malicious annotator noise in mixed-trust RLHF (method ref for medical multi-expert alignment pools)}
+}
+
+% ============ Direction D: Genomic Foundation Models ============
+
+@article{benegas2026gpnmsa,
+  title = {A {DNA} language model based on multispecies alignment predicts the effects of genome-wide variants},
+  author = {Benegas, Gonzalo and Albors, Carlos and Aw, Aaron J and Ye, Chengze and Song, Yun S},
+  journal = {Nature Biotechnology},
+  year = {2026},
+  doi = {10.1038/s41587-024-02511-w},
+  keywords = {D, DNA-LM, multispecies-alignment, variant-effect, rare-disease},
+  note = {DirectionD: GPN-MSA uses whole-genome alignments as pretraining prior, hours-scale training; precomputed scores for ~9B human SNVs}
+}
+
+@article{kong2026mutationprojector,
+  title = {A Foundation Model of Cancer Genotype Enables Precise Predictions of Therapeutic Response},
+  author = {Kong, Jisoo and Lee, Inkyung and Boecher, Daniel and Singhal, Ananya and Kelly, Megan R and Moon, Jonghyeon and Ahn, Chang-Ho and Ock, Chan-Kwon},
+  journal = {Cancer Discovery},
+  year = {2026},
+  doi = {10.1158/2159-8290.CD-25-1735},
+  keywords = {D, cancer-genomics, foundation-model, therapeutic-response, biomarker},
+  note = {DirectionD: MutationProjector pretrained on >30,000 tumors, projects genotype to biological states; SOTA immunotherapy/chemotherapy resistance prediction}
+}
+
+@article{sun2026succeed,
+  title = {Large-scale data-driven pre-trained {DNA} models enhance performance across diverse genomics tasks},
+  author = {Sun, Chaojie and He, Zeyu and Zhang, Shuaishuai and Xu, Ke and Sun, Yifan and Wang, Yaqing and Hu, Pin and Bo, Xiaoyu},
+  journal = {Nature Communications},
+  year = {2026},
+  doi = {10.1038/s41467-026-73129-6},
+  keywords = {D, DNA-FM, supervised-pretraining, ENCODE, regulatory-genomics},
+  note = {DirectionD: SUCCEED multi-task supervised DNA FM on 6,389 ENCODE tracks; Conv+Transformer, matches/exceeds Enformer, rivals Sei}
+}
+
+% ============ Direction F: Multimodal Clinical Agent ============
+
+@article{sellergren2026medgemma,
+  title = {An open vision-language model for diverse medical applications},
+  author = {Sellergren, Alexander and Kazemzadeh, Sahand and Mahvar, Farzad and Kiraly, Atilla and Traverse, Matthew and Kohlberger, Thomas and Gao, Cong and Jaroensri, Tammy},
+  journal = {Nature Medicine},
+  year = {2026},
+  doi = {10.1038/s41591-026-04626-w},
+  keywords = {F, medical-VLM, open-model, agentic-evaluation, MedGemma},
+  note = {DirectionF: MedGemma on Gemma 3; +10.8% agentic eval vs base, +15.5-18.1% CXR classification; MedSigLIP encoder; Google open medical multimodal base model}
+}
+
+@article{gao2026moma,
+  title = {{MoMA}: a mixture-of-multimodal-agents architecture for enhancing clinical prediction modelling},
+  author = {Gao, Jiahao and Rahman, Md and Caskey, John and Oguss, Morgan and O'Rourke, Aidan and Brown, Richard and Stey, Anne and Mayampurath, Anil},
+  journal = {npj Digital Medicine},
+  year = {2026},
+  doi = {10.1038/s41746-025-02219-4},
+  keywords = {F, multimodal-agents, EHR, mixture-of-agents, clinical-prediction},
+  note = {DirectionF: specialist agents convert non-text modalities to text, aggregator + predictor agents; outperforms baselines on three private EHR tasks}
+}
+
+@article{wang2025hccagent,
+  title = {A multimodal {LLM}-agent framework for personalized clinical decision-making in hepatocellular carcinoma},
+  author = {Wang, Lei and Tian, Feng and Li, Chuang and Wang, Jiayi and Dong, Jingya and Cai, Jiaqi and Yang, Shi and Feng, Xiao-Ling},
+  journal = {Patterns},
+  year = {2025},
+  doi = {10.1016/j.patter.2025.101364},
+  keywords = {F, LLM-agent, radiomics, precision-oncology, HCC},
+  note = {DirectionF: GhostNet radiomics (MVI AUC 0.89) + six AI agents for individualized HCC therapy; DeepSeek-R1 highest clinical relevance score}
+}
+
+% ============ Direction X: Cross-boundary ============
+
+@article{gorenshtein2025aiagents,
+  title = {{AI} Agents in Clinical Medicine: A Systematic Review},
+  author = {Gorenshtein, Ariel and Omar, Mariam and Glicksberg, Benjamin S and Nadkarni, Girish N and Klang, Eyal},
+  journal = {medRxiv},
+  year = {2025},
+  doi = {10.1101/2025.08.22.25334232},
+  keywords = {X, clinical-agents, systematic-review, multi-agent},
+  note = {DirectionX: 20 studies; all agents beat base LLMs (median +53pp tool-calling); <=5 agents optimal; framework complexity should match task complexity}
+}
