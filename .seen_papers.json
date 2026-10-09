@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -1780,9 +1780,9 @@
       "title": "Agentic genomics: From pipeline automation to autonomous validation"
     },
     "10.1016/j.xcrm.2026.102969": {
-      "date_added": "2026-08-09",
+      "date_added": "2026-10-09",
       "direction": "F",
-      "title": "Autonomous multimodal AI agent for ophthalmic diagnosis"
+      "title": "AgentEYE: evidence-grounded ophthalmic diagnosis agent"
     },
     "10.3389/fmed.2026.1766266": {
       "date_added": "2026-08-09",
@@ -5326,9 +5326,9 @@
       "title": "Clinical-R1: Clinical Objective Relative Policy Optimization"
     },
     "10.1002/advs.75772": {
-      "date_added": "2026-10-02",
+      "date_added": "2026-10-09",
       "direction": "D",
-      "title": "PlantGFM: A Genomic Foundation Model for Discovery and Creation of Plant Genes"
+      "title": "PlantGFM: Genomic Foundation Model for Plant Genes"
     },
     "10.1093/nar/gkag704": {
       "date_added": "2026-10-02",
@@ -5526,8 +5526,8 @@
       "title": "Octave: Scale-Resolved Evaluation of Spatial Gene Expression Prediction"
     },
     "10.64898/2026.09.03.749190": {
-      "date_added": "2026-10-04",
-      "direction": "X",
+      "date_added": "2026-10-09",
+      "direction": "D",
       "title": "Transferable Genomic LM Framework for Fungal Gene Essentiality"
     },
     "10.21203/rs.3.rs-10914731/v1": {
@@ -5934,6 +5934,66 @@
       "date_added": "2026-10-08",
       "direction": "X",
       "title": "AI Agents in Clinical Medicine: A Systematic Review (medRxiv)"
+    },
+    "10.1099/mgen.0.001834": {
+      "date_added": "2026-10-09",
+      "direction": "A",
+      "title": "Nanopore metagenomic sequencing links AMR determinants to pathogens"
+    },
+    "10.5501/wjv.124097": {
+      "date_added": "2026-10-09",
+      "direction": "A",
+      "title": "mNGS in the diagnosis of viral encephalitis"
+    },
+    "10.1109/JBHI.2026.3740738": {
+      "date_added": "2026-10-09",
+      "direction": "B",
+      "title": "KGR-MAS: KG-Enhanced Multi-Agent LLM Framework"
+    },
+    "10.64898/2026.09.15.26362921": {
+      "date_added": "2026-10-09",
+      "direction": "B",
+      "title": "MES: Multi-Agent Evidence Synthesis System"
+    },
+    "10.48550/arXiv.2608.07418": {
+      "date_added": "2026-10-09",
+      "direction": "C",
+      "title": "ResidencyRL: RL in Simulated Clinical Environments"
+    },
+    "10.48550/arXiv.2608.10996": {
+      "date_added": "2026-10-09",
+      "direction": "C",
+      "title": "ConRub-Med: RL with Consensus Rubrics for Medical QA"
+    },
+    "10.1371/journal.pone.0348611": {
+      "date_added": "2026-10-09",
+      "direction": "C",
+      "title": "CLIN-LLM: safety-constrained hybrid clinical framework"
+    },
+    "10.1093/nargab/lqag103": {
+      "date_added": "2026-10-09",
+      "direction": "D",
+      "title": "LAMBDA: prophage detection benchmark for genomic LMs"
+    },
+    "10.48550/arXiv.2608.10827": {
+      "date_added": "2026-10-09",
+      "direction": "F",
+      "title": "MIRA: Medical Image Reflection for Agentic Diagnosis"
+    },
+    "10.48550/arXiv.2608.24570": {
+      "date_added": "2026-10-09",
+      "direction": "F",
+      "title": "EviDx: Evidence-Aware Active Diagnosis with LLM Agents"
+    },
+    "10.48550/arXiv.2608.12395": {
+      "date_added": "2026-10-09",
+      "direction": "X",
+      "title": "Research Assistant: AstraZeneca Agentic System for R&D"
+    },
+    "10.48550/arXiv.2609.02056": {
+      "date_added": "2026-10-09",
+      "direction": "X",
+      "title": "HyGRAIL: Cost-Aware Evidence-Grounded Hypothesis Discovery"
     }
   },
   "42289215": {
