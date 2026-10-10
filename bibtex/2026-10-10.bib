@@ -1,0 +1,163 @@
+% BibTeX for Daily Report 2026-10-10
+% 15 main papers
+% Keywords A/B/C/D/F/X map to Zotero Direction collections
+
+% ============ Direction A: mNGS + AI Pathogen Detection ============
+
+@article{akabane2026nanomux,
+  title = {Simultaneous detection of influenza and SARS-CoV-2 on an AI-nanopore multiplex platform},
+  author = {Akabane, K and Murakami, K and Wang, Y and Takaai, T and others},
+  journal = {Lab on a chip},
+  year = {2026},
+  doi = {10.1039/d6lc00155f},
+  keywords = {A, mNGS, nanopore, attention-MIL, amplification-free, raw-signal-classification, multiplex-diagnostics},
+  note = {DirectionA: nanopore raw event streams + Attention-MIL classify clinical saliva for SARS-CoV-2/influenza without amplification (macro F1 0.781); raw-signal pathogen classification route. PMID: 42831434}
+}
+
+@article{bushnell2026randomreadsmg,
+  title = {RandomReadsMG: Rapid, realistic metagenome simulation at terabase scale for benchmarking and experimental design},
+  author = {Bushnell, B and Schulz, F and Villada, JC},
+  journal = {Cell genomics},
+  year = {2026},
+  doi = {10.1016/j.xgen.2026.101384},
+  keywords = {A, mNGS, synthetic-data, metagenome-simulation, benchmarking, pathogen-spike-in},
+  note = {DirectionA: terabase-scale realistic metagenome simulator (BBTools) with labeled ground truth for AI benchmarking, detection-threshold calibration, and biosurveillance study design. PMID: 42833218}
+}
+
+@article{liu2026aiwaterborne,
+  title = {Conditional superiorities and unaddressed bottlenecks: a critical review of artificial intelligence for waterborne microbial detection},
+  author = {Liu, W and Tang, Q and Shen, M and Zhang, L and others},
+  journal = {Applied microbiology and biotechnology},
+  year = {2026},
+  doi = {10.1007/s00253-026-13917-8},
+  keywords = {A, AI-microbial-detection, critical-review, generalization-gap, field-validation},
+  note = {DirectionA: critical review of AI for waterborne microbial detection; conditional superiority framework + lab-to-field performance gap as review yardstick. PMID: 42467233}
+}
+
+% ============ Direction B: Clinical Agent + RAG/KG ============
+
+@article{zoller2026hemaguide,
+  title = {Clinical decision support in hematological malignancies using a case-grounded AI agent},
+  author = {Zoller, J and Kalz, M and Wu, X and Cuntz, S and others},
+  journal = {Nature medicine},
+  year = {2026},
+  doi = {10.1038/s41591-026-04494-4},
+  keywords = {B, clinical-agent, case-grounding, decision-memory, tumor-board, hemato-oncology, RAG},
+  note = {DirectionB: HemaGuide locally-deployable LLM agent for hematological malignancy tumor boards; guideline flowcharts + >2000 real MDT case decision memory grounding; 45-case expert-blinded validation, 39s median latency. PMID: 42380678}
+}
+
+@article{trujillo2026safeai,
+  title = {A medically grounded LLM agent-based tool to detect patient safety events in medical records},
+  author = {Trujillo, D and Wang, D and Bahr, N and Yi-Jin Hsieh, T and others},
+  journal = {PLOS digital health},
+  year = {2026},
+  doi = {10.1371/journal.pdig.0001174},
+  keywords = {B, clinical-agent, ontology-grounding, patient-safety, hallucination-control, hard-rules},
+  note = {DirectionB: SAFE-AI ontology-driven strict-rule framework constraining LLMs for medication-error detection in EMS charts (97.9% epinephrine overdose accuracy); auditable rules over probabilistic pattern recognition. PMID: 42752617}
+}
+
+@article{vladika2026atomicfact,
+  title = {Improving Reliability and Explainability of Medical Question Answering Through Atomic Fact-Checking in Retrieval-Augmented Large Language Models: Creation and Validation Study},
+  author = {Vladika, J and Domres, A and Nguyen, M and Moser, R and others},
+  journal = {Journal of medical Internet research},
+  year = {2026},
+  doi = {10.2196/92090},
+  keywords = {B, RAG, atomic-fact-checking, explainability, fact-level-verification, medical-QA},
+  note = {DirectionB: atomic fact-checking inside RAG decomposes long medical answers into minimal facts verified against guideline knowledge base; answer-level to fact-level RAG shift. PMID: 42770666}
+}
+
+% ============ Direction C: RLHF Medical Alignment ============
+
+@article{wang2026mint,
+  title = {Multimodal integrated knowledge transfer to large language models through preference optimization with biomedical applications},
+  author = {Wang, Z and Wu, D and Nguyen, QM and Xu, Z and others},
+  journal = {Patterns (New York, N.Y.)},
+  year = {2026},
+  doi = {10.1016/j.patter.2026.101544},
+  keywords = {C, preference-optimization, ORPO, cross-modal-knowledge-transfer, multimodal, hallucination-reduction},
+  note = {DirectionC: MINT uses ORPO preference optimization to graft encoder-model classification strength into decoder-only LLMs across modalities; preference optimization as knowledge-transfer carrier, beats SFT and RAG. PMID: 42630531}
+}
+
+@article{reddy2026deception,
+  title = {Deception in clinical large language models: an under-recognised safety risk},
+  author = {Reddy, A and Zhu, DT and Khan, K and Celi, LA},
+  journal = {The Lancet. Digital health},
+  year = {2026},
+  doi = {10.1016/j.landig.2026.101043},
+  keywords = {C, LLM-deception, safety-evaluation, alignment, behavioral-safety},
+  note = {DirectionC: Lancet Digital Health viewpoint arguing deliberate misleading (deception) in clinical LLMs is an under-recognized safety axis distinct from hallucination; calls for dedicated evaluation. PMID: 42392906}
+}
+
+@article{adiniaev2026safetyfilter,
+  title = {Safety-Filter Fallback on Consumer Health Questions During the Initial Claude Fable 5 Deployment: Observational Study},
+  author = {Adiniaev, Y and Omar, M and Barash, Y and Brook, OR and others},
+  journal = {JMIR AI},
+  year = {2026},
+  doi = {10.2196/104856},
+  keywords = {C, safety-filter, deployment-audit, over-refusal, Claude, HealthSearchQA},
+  note = {DirectionC: point-in-time audit of Claude Fable 5 safety-filter fallback routing on 500 HealthSearchQA prompts; first systematic measurement of over-refusal cost of alignment safeguards in consumer health questions. PMID: 42842307}
+}
+
+% ============ Direction D: Genomic Foundation Models ============
+
+@article{jiang2026nullsettes,
+  title = {Evaluating DNA Function Understanding in Genomic Language Models Using Evolutionarily Implausible Sequences},
+  author = {Jiang, S and Liu, X and Wang, ZJ},
+  journal = {ACS synthetic biology},
+  year = {2026},
+  doi = {10.1021/acssynbio.6c00024},
+  keywords = {D, genomic-language-model, functional-understanding, LOF-detection, probing-evaluation, synthetic-biology},
+  note = {DirectionD: Nullsettes probes whether gLMs understand DNA function or memorize evolutionary patterns; SOTA gLMs fail to detect strong LOF mutations in evolutionarily implausible synthetic cassettes. PMID: 42260904}
+}
+
+@article{karatzikos2026weightlocking,
+  title = {Safeguarding open-weight genomic foundation models through weight locking},
+  author = {Karatzikos, A and Vasilopoulou, A and Chan, CS and Mouratidis, I and others},
+  journal = {bioRxiv : the preprint server for biology},
+  year = {2026},
+  doi = {10.64898/2026.07.07.736795},
+  keywords = {D, genomic-foundation-model, biosecurity, weight-locking, spectral-deformation, dual-use-governance},
+  note = {DirectionD: first systematic attack/defense evaluation of spectral-deformation weight locking on Evo-1-8k genomic FM; corpus exclusion shown bypassable by LoRA/naive fine-tuning on public viral data; genomic FM governance white space. PMID: 42465336}
+}
+
+@article{zolensky2026clmbrcardiomyopathy,
+  title = {Longitudinal Clinical Foundation Models Augmented with Genomics for Early Detection and Risk Stratification of Inherited Cardiomyopathy},
+  author = {Zolensky, A and Kripke, CM and Keat, K and Damrauer, SM and others},
+  journal = {medRxiv : the preprint server for health sciences},
+  year = {2026},
+  doi = {10.64898/2026.08.10.26360107},
+  keywords = {D, clinical-foundation-model, CLMBR, genomics, cardiomyopathy, EHR-embeddings, linear-probes},
+  note = {DirectionD+F: general-purpose clinical foundation model (CLMBR-T-base) frozen embeddings + linear probes for HCM/DCM onset, genotype status and time-to-event risk; clinical FM embeddings替代 disease-specific feature engineering. PMID: 42845510}
+}
+
+% ============ Direction F: Multimodal Clinical Agent ============
+
+@article{xu2026lingshu,
+  title = {Lingshu: Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning},
+  author = {Xu, W and Chan, HP and Li, L and Aljunied, M and others},
+  journal = {IEEE transactions on pattern analysis and machine intelligence},
+  year = {2026},
+  doi = {10.1109/tpami.2026.3730310},
+  keywords = {F, multimodal-LLM, medical-foundation-model, RLVR, data-curation, hallucination},
+  note = {DirectionF: Lingshu-Med generalist medical MLLM; knowledge coverage beyond imaging + synthetic caption/VQA/reasoning curation + multi-stage training + RLVR; standard recipe for medical MLLM development. PMID: 42685180}
+}
+
+@article{wu2026ophthareason,
+  title = {Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic Multimodal Reasoning},
+  author = {Wu, R and Yao, Y and Su, N and Ma, T and others},
+  journal = {IEEE transactions on medical imaging},
+  year = {2026},
+  doi = {10.1109/tmi.2026.3733595},
+  keywords = {F, multimodal-reinforcement-learning, RLVR, uncertainty-aware-thinking, ophthalmology, CoT-dataset},
+  note = {DirectionF: MM-Retinal-Reason dataset (basic+complex ophthalmic reasoning with CoT) and OphthaReason RL-enhanced model; UADT dynamically modulates reasoning depth via entropy-based uncertainty. PMID: 42743029}
+}
+
+@article{liu2026mochiagent,
+  title = {Prediction of maternal and infant outcomes from longitudinal electronic health records with a mother-child AI agent},
+  author = {Liu, S and Zheng, W and Kang, J and Xu, T and others},
+  journal = {Nature medicine},
+  year = {2026},
+  doi = {10.1038/s41591-026-04694-y},
+  keywords = {F, clinical-agent, longitudinal-EHR, foundation-model, maternal-infant, knowledge-search-tool},
+  note = {DirectionF: MoChiAgent Nature Medicine; MoChiFormer sequential-EHR foundation engine (4.4M visits) + knowledge search tool for evidence-based maternal/infant recommendations; decoupled prediction and recommendation engines. PMID: 42742183}
+}
