@@ -1,0 +1,172 @@
+% BibTeX for Daily Report 2026-10-11
+% 15 main papers
+% Keywords A/B/C/D/F/X map to Zotero Direction collections
+
+% ============ Direction A: mNGS + AI Pathogen Detection ============
+
+@article{schoier2026foundationmetagenomics,
+  title = {Foundation models and taxonomy inference for metagenomics: A practical review},
+  author = {Schoier, Andrey Felipe and Santos de Castro, {\'\i}caro Maia and Dorn, M{\'a}rcio},
+  journal = {Computational Biology and Chemistry},
+  year = {2026},
+  doi = {10.1016/j.compbiolchem.2026.109409},
+  keywords = {A, mNGS, genomic-foundation-model, taxonomy-inference, critical-review, hybrid-pipeline},
+  note = {DirectionA: practical review comparing k-mer pipelines vs DNA foundation models for metagenomic taxonomy along reference-coverage and read-quality axes; classical k-mer wins on well-covered clades, FM gains mixed and evaluation-sensitive; hybrid back-off designs favored}
+}
+
+@article{nguyen2026perseus,
+  title = {Perseus: lineage-aware refinement of Kraken2 taxonomic classification for long read metagenomes},
+  author = {Nguyen, Matthew H. and Schatz, Michael C.},
+  journal = {Bioinformatics},
+  year = {2026},
+  doi = {10.1093/bioinformatics/btag687},
+  keywords = {A, mNGS, long-read-metagenomics, Kraken2, calibrated-confidence, abstention, hierarchical-classification},
+  note = {DirectionA: multi-headed CNN models spatial distribution/hierarchy of k-mer evidence; reframes classification as hierarchical confidence estimation with confirm/back-off/abstain decisions; cuts false assignment rate on taxonomic novelty}
+}
+
+% ============ Direction B: Clinical Agent + RAG/KG ============
+
+@article{shi2026emr,
+  title = {{EMR}: Self-Evolving Medical Multi-Agent System via Experience Mining and Reuse},
+  author = {Shi, Dongsheng and Li, Yue and Yi, Xin and Wang, Linlin},
+  journal = {arXiv preprint arXiv:2609.15161},
+  year = {2026},
+  eprint = {2609.15161},
+  archivePrefix = {arXiv},
+  keywords = {B, clinical-agent, multi-agent, experience-memory, self-evolving, clinical-reasoning},
+  note = {DirectionB: hierarchical clinical experience library (principles/patterns/cases) mined from multi-agent success and failure trajectories; planner+department-agents MDT emulation; cross-specialty generalization and cross-backbone transfer}
+}
+
+@article{cohen2026agenticbiomarker,
+  title = {Agentic discovery of blood biomarker from distilled private health records},
+  author = {Cohen, Seffi and Friedman, Liat Antwarg and Anisman, Amir and Johnson, Ruth},
+  journal = {arXiv preprint arXiv:2610.04749},
+  year = {2026},
+  eprint = {2610.04749},
+  archivePrefix = {arXiv},
+  keywords = {B, clinical-agent, privacy-preserving, graph-attention-network, biomarker-discovery, scoring-tool},
+  note = {DirectionB: GAT trained inside Clalit 5.4M-patient data boundary predicts case-control AUC of candidate CBC expressions; only weights released as agent-facing scorer; agent propose-score-refine loop gains median +4.18 AUC points over literature seeds}
+}
+
+@inproceedings{liu2026deepmedsearch,
+  title = {{DeepMed} Search: An Open-Source Agentic Platform for Medical Deep Research with Introspective Verification},
+  author = {Liu, M Y and Xu, Fanyu and Xu, Ruoqing and Zhang, Jiahang},
+  booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
+  year = {2026},
+  doi = {10.24963/ijcai.2026/978},
+  keywords = {B, clinical-agent, deep-research, source-adaptive-router, multi-agent-debate, glass-box},
+  note = {DirectionB: open-source medical deep research platform; source-adaptive router dispatches sub-queries to PubMed/Web/local graph KB; introspective verification via causal-consistent multi-agent debate to counter reasoning drift on long-tail queries}
+}
+
+% ============ Direction C: RLHF Medical Alignment ============
+
+@article{moghaddam2026rasper,
+  title = {{RASPER}: Reward-Aligned Summarization of Clinical Notes for {EHR} Outcome Prediction},
+  author = {Hadizadeh Moghaddam, Arya and Nayebi Kerdabadi, Mohsen and Chen, Chen and Wang, Dongjie},
+  journal = {arXiv preprint arXiv:2610.02979},
+  year = {2026},
+  eprint = {2610.02979},
+  archivePrefix = {arXiv},
+  keywords = {C, RLHF, reward-from-prediction-feedback, EHR-summarization, MIMIC, task-aligned-alignment},
+  note = {DirectionC: RL from downstream predictor loss (no human preference labels) aligns discharge-note summarization to readmission/medication prediction; longitudinal encoder injects structured codes as soft prompts; rewards complementary evidence on MIMIC-III/IV}
+}
+
+@article{abdullah2026neurosymbolic,
+  title = {Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models},
+  author = {Abdullah, Abdulhady Abas and Cambria, Erik and Zivkovic, Milena},
+  journal = {arXiv preprint arXiv:2608.24534},
+  year = {2026},
+  eprint = {2608.24534},
+  archivePrefix = {arXiv},
+  keywords = {C, RLHF, neurosymbolic, knowledge-graph-reward, physiological-safety, ORPO},
+  note = {DirectionC: HGNN physiological world model over 847K-node KG scores candidates via homeostatic constraints/multi-hop plausibility/drug-interaction penalties driving on-policy ORPO; CSB safety 69.5 to 90.8 pct, harm rate 14.1 to 5.1 pct, beats GPT-4 5-shot at 10x smaller size}
+}
+
+@article{kobayashi2026pudpo,
+  title = {Positive-Unlabeled Preference Optimization For Chest {X}-ray Report Generation},
+  author = {Kobayashi, Yuta and Ramesh, Pradyun and Chaudhry, Muhammad Ahmed and Jeanselme, Vincent},
+  journal = {arXiv preprint arXiv:2608.05341},
+  year = {2026},
+  eprint = {2608.05341},
+  archivePrefix = {arXiv},
+  keywords = {C, DPO, positive-unlabeled-learning, radiology-reports, omission-noise, VLM-alignment},
+  note = {DirectionC: PU learning reformulation of DPO treats absent mentions as unlabeled not negative; contrastive pairs via response edits; consistent gains in detection and hidden-positive recovery under omission noise}
+}
+
+% ============ Direction D: Genomic Foundation Models ============
+
+@article{rather2026kidzoi,
+  title = {{Kidzoi} Enables Cell-Type-Specific Regulatory Activity and Variant Effect Prediction in Kidney},
+  author = {Rather, Arif and Lee, Dongwon},
+  journal = {bioRxiv},
+  year = {2026},
+  doi = {10.64898/2026.09.28.746288},
+  keywords = {D, genomic-foundation-model, transfer-learning, Borzoi, variant-effect-prediction, GWAS-fine-mapping, sequence-to-function},
+  note = {DirectionD: transfer learning from pretrained Borzoi on kidney snATAC yields cell-type-specific S2F model; VEP +10-23 pct over existing models; 32-64 kbp flanking context (6-12 pct of input) suffices; multi-task matches single-task at lower cost}
+}
+
+@article{schreiber2026tangermeme,
+  title = {tangermeme: a toolkit for understanding cis-regulatory logic using deep learning models},
+  author = {Schreiber, Jacob Matthew},
+  journal = {Nature Methods},
+  year = {2026},
+  doi = {10.1038/s41592-026-03254-z},
+  keywords = {D, genomic-foundation-model, interpretability, cis-regulatory-logic, toolkit, attribution},
+  note = {DirectionD: Nature Methods toolkit for everything-but-the-model in genomic deep learning; distills learned cis-regulatory patterns into human-interpretable insights}
+}
+
+@article{layton2026phagestress,
+  title = {The phage stress test: a proving ground for genome language models in biological prediction},
+  author = {Layton, Emily M. and Bernauer, Michael L. and Weinstock, Laura D. and Small, Eric M.},
+  journal = {bioRxiv},
+  year = {2026},
+  doi = {10.64898/2026.09.23.753910},
+  keywords = {D, genomic-foundation-model, Evo2, phage, mutation-effect-prediction, evaluation, negative-result},
+  note = {DirectionD: Evo2 log-likelihoods capture sequence constraints (stop-codon penalty, synonymous > nonsynonymous) yet fail to predict functional vs nonfunctional mutations in MS2; generation capability decoupled from editing prediction}
+}
+
+% ============ Direction F: Multimodal Clinical Agent ============
+
+@article{zhang2026aspect,
+  title = {See, Measure, and Reason: Learning Visually Grounded Reasoning in Pathology},
+  author = {Zhang, Chengyang and Zhang, Wenchuan and Li, Bo and Li, Mengran},
+  journal = {arXiv preprint arXiv:2609.34277},
+  year = {2026},
+  eprint = {2609.34277},
+  archivePrefix = {arXiv},
+  keywords = {F, multimodal-clinical-agent, pathology, process-supervision, visually-grounded-reasoning, RL, benchmark},
+  note = {DirectionF: ASPECT supervises intermediate visual tokens via pathology feature reconstruction/cell alignment/count supervision plus RL on answer-measurement consistency; PathoVernier benchmark (759 expert-reviewed questions) exposes errors hidden by answer accuracy; +19.2 pct over Gemini-3.1-Pro}
+}
+
+@article{li2026crcrouter,
+  title = {{CRC-Router}: Risk-Constrained Routing for Medical Agentic {AI} Systems},
+  author = {Li, Xueyang and Jiang, Mingze and Xu, Gelei and Xia, Jun},
+  journal = {arXiv preprint arXiv:2609.30714},
+  year = {2026},
+  eprint = {2609.30714},
+  archivePrefix = {arXiv},
+  keywords = {F, multimodal-clinical-agent, conformal-risk-control, uncertainty-routing, selective-automation, MedRAX},
+  note = {DirectionF: uncertainty signals + per-finding risk model + conformal risk control calibrate autonomous-vs-escalate thresholds under user-specified risk target; best risk-coverage on ChestX-ray14; plug-in to MedRAX agent}
+}
+
+@article{maniscalco2026autonomousrt,
+  title = {Autonomous radiotherapy planning via agentic orchestration using a multimodal {TPS}-integrated compound {AI} platform},
+  author = {Maniscalco, Austen Matthew and Park, Yang Kyun and Domal, Sean J. and Lin, Mu-Han},
+  journal = {Machine Learning in Health},
+  year = {2026},
+  doi = {10.1088/3049-477x/ae7978},
+  keywords = {F, multimodal-clinical-agent, agentic-orchestration, radiotherapy-planning, compound-AI, TPS-integration},
+  note = {DirectionF: dose prediction as agent-invoked tool for objective initialization; end-to-end fully autonomous universal RT treatment planning; removes curated-template dependency of prior LLM planning systems}
+}
+
+% ============ Direction X: Cross-disciplinary ============
+
+@article{hutton2026omicsagents,
+  title = {Omics data discovery agents: Agent-supported retrieval, reanalysis, and synthesis of published omics data},
+  author = {Hutton, A. and Meyer, Jesse G.},
+  journal = {PLoS Computational Biology},
+  year = {2026},
+  doi = {10.1371/journal.pcbi.1014822},
+  keywords = {X, cross-domain, omics-data-reuse, MCP, containerized-pipelines, agentic-reanalysis},
+  note = {DirectionX: LLM agents fetch omics studies, download published data, run containerized quantification via MCP servers, synthesize across studies; five end-to-end reanalyses reproduce deposited abundances (r 0.85-0.997)}
+}
