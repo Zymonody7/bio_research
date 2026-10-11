@@ -1,6 +1,6 @@
 {
  "description": "Tracked paper IDs for deduplication across daily reports",
- "last_updated": "2026-10-10",
+ "last_updated": "2026-10-11",
  "papers": {
   "10.3389/fmicb.2025.1634194": {
    "date_added": "2026-08-04",
@@ -5994,6 +5994,81 @@
    "date_added": "2026-10-09",
    "direction": "X",
    "title": "HyGRAIL: Cost-Aware Evidence-Grounded Hypothesis Discovery"
+  },
+  "10.1016/j.compbiolchem.2026.109409": {
+   "date_added": "2026-10-11",
+   "direction": "A",
+   "title": "Foundation models and taxonomy inference for metagenomics: A practical review"
+  },
+  "10.1093/bioinformatics/btag687": {
+   "date_added": "2026-10-11",
+   "direction": "A",
+   "title": "Perseus: lineage-aware refinement of Kraken2 taxonomic classification for long read metagenomes"
+  },
+  "2609.15161": {
+   "date_added": "2026-10-11",
+   "direction": "B",
+   "title": "EMR: Self-Evolving Medical Multi-Agent System via Experience Mining and Reuse"
+  },
+  "2610.04749": {
+   "date_added": "2026-10-11",
+   "direction": "B",
+   "title": "Agentic discovery of blood biomarker from distilled private health records"
+  },
+  "10.24963/ijcai.2026/978": {
+   "date_added": "2026-10-11",
+   "direction": "B",
+   "title": "DeepMed Search: An Open-Source Agentic Platform for Medical Deep Research"
+  },
+  "2610.02979": {
+   "date_added": "2026-10-11",
+   "direction": "C",
+   "title": "RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Prediction"
+  },
+  "2608.24534": {
+   "date_added": "2026-10-11",
+   "direction": "C",
+   "title": "Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models"
+  },
+  "2608.05341": {
+   "date_added": "2026-10-11",
+   "direction": "C",
+   "title": "Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation"
+  },
+  "10.64898/2026.09.28.746288": {
+   "date_added": "2026-10-11",
+   "direction": "D",
+   "title": "Kidzoi: Cell-Type-Specific Regulatory Activity and Variant Effect Prediction in Kidney"
+  },
+  "10.1038/s41592-026-03254-z": {
+   "date_added": "2026-10-11",
+   "direction": "D",
+   "title": "Tangermeme: a toolkit for understanding cis-regulatory logic using deep learning models"
+  },
+  "10.64898/2026.09.23.753910": {
+   "date_added": "2026-10-11",
+   "direction": "D",
+   "title": "The phage stress test: a proving ground for genome language models in biological prediction"
+  },
+  "2609.34277": {
+   "date_added": "2026-10-11",
+   "direction": "F",
+   "title": "See, Measure, and Reason: Learning Visually Grounded Reasoning in Pathology"
+  },
+  "2609.30714": {
+   "date_added": "2026-10-11",
+   "direction": "F",
+   "title": "CRC-Router: Risk-Constrained Routing for Medical Agentic AI Systems"
+  },
+  "10.1088/3049-477x/ae7978": {
+   "date_added": "2026-10-11",
+   "direction": "F",
+   "title": "Autonomous radiotherapy planning via agentic orchestration using a multimodal TPS-integrated compound AI platform"
+  },
+  "10.1371/journal.pcbi.1014822": {
+   "date_added": "2026-10-11",
+   "direction": "X",
+   "title": "Omics data discovery agents: Agent-supported retrieval, reanalysis, and synthesis of published omics data"
   }
  },
  "42289215": {
