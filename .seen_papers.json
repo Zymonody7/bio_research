@@ -1,6 +1,6 @@
 {
  "description": "Tracked paper IDs for deduplication across daily reports",
- "last_updated": "2026-10-11",
+ "last_updated": "2026-10-12",
  "papers": {
   "10.3389/fmicb.2025.1634194": {
    "date_added": "2026-08-04",
@@ -6069,6 +6069,136 @@
    "date_added": "2026-10-11",
    "direction": "X",
    "title": "Omics data discovery agents: Agent-supported retrieval, reanalysis, and synthesis of published omics data"
+  },
+  "10.1007/s44163-026-02448-w": {
+   "date_added": "2026-10-12",
+   "direction": "A",
+   "title": "Artificial intelligence approaches to resistome profiling and predictive antimic"
+  },
+  "W7220371387": {
+   "date_added": "2026-10-12",
+   "direction": "A",
+   "title": "Artificial intelligence approaches to resistome profiling an"
+  },
+  "42742184": {
+   "date_added": "2026-10-12",
+   "direction": "B",
+   "title": "Computable longitudinal patient journeys from structured and unstructured EHR da"
+  },
+  "10.48550/arxiv.2609.39371": {
+   "date_added": "2026-10-12",
+   "direction": "B",
+   "title": "EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning"
+  },
+  "W7215069700": {
+   "date_added": "2026-10-12",
+   "direction": "B",
+   "title": "EHR-RobustGym: Benchmarking and Training Agents for Robust C"
+  },
+  "10.3389/fpubh.2026.1937335": {
+   "date_added": "2026-10-12",
+   "direction": "B",
+   "title": "A large language model-enhanced knowledge graph framework for text-implied publi"
+  },
+  "W7211875345": {
+   "date_added": "2026-10-12",
+   "direction": "B",
+   "title": "A large language model-enhanced knowledge graph framework fo"
+  },
+  "10.1109/JBHI.2026.3737468": {
+   "date_added": "2026-10-12",
+   "direction": "B",
+   "title": "GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecastin"
+  },
+  "42804391": {
+   "date_added": "2026-10-12",
+   "direction": "B",
+   "title": "GlyRAG: Context-Aware Retrieval-Augmented Framework for Bloo"
+  },
+  "10.1109/JBHI.2026.3741523": {
+   "date_added": "2026-10-12",
+   "direction": "C",
+   "title": "EndoCADx: A Preference-Aligned Vision-Language Framework for Standardized Descri"
+  },
+  "42853748": {
+   "date_added": "2026-10-12",
+   "direction": "C",
+   "title": "EndoCADx: A Preference-Aligned Vision-Language Framework for"
+  },
+  "10.64898/2026.10.01.756029": {
+   "date_added": "2026-10-12",
+   "direction": "D",
+   "title": "Limitations of Genomic Foundation Models for Decoding Regulatory Mechanisms in A"
+  },
+  "W7220852530": {
+   "date_added": "2026-10-12",
+   "direction": "D",
+   "title": "Limitations of Genomic Foundation Models for Decoding Regula"
+  },
+  "10.64898/2026.10.02.756289": {
+   "date_added": "2026-10-12",
+   "direction": "D",
+   "title": "Probing Genomic Foundation Models with Splice-Variant Perturbations"
+  },
+  "W7221158542": {
+   "date_added": "2026-10-12",
+   "direction": "D",
+   "title": "Probing Genomic Foundation Models with Splice-Variant Pertur"
+  },
+  "10.64898/2026.10.02.756377": {
+   "date_added": "2026-10-12",
+   "direction": "D",
+   "title": "Cerberus: bidirectional state space blocks improve accuracy and efficiency of re"
+  },
+  "W7221157367": {
+   "date_added": "2026-10-12",
+   "direction": "D",
+   "title": "Cerberus: bidirectional state space blocks improve accuracy "
+  },
+  "10.64898/2026.10.07.757366": {
+   "date_added": "2026-10-12",
+   "direction": "D",
+   "title": "Fine-tuning genomic models on rare splicing events identifies a novel biomarker "
+  },
+  "W7221162125": {
+   "date_added": "2026-10-12",
+   "direction": "D",
+   "title": "Fine-tuning genomic models on rare splicing events identifie"
+  },
+  "42839104": {
+   "date_added": "2026-10-12",
+   "direction": "F",
+   "title": "An open vision-language model for diverse medical applications."
+  },
+  "10.1038/s41746-026-03325-7": {
+   "date_added": "2026-10-12",
+   "direction": "F",
+   "title": "The complexity paradox of generalist AI agents in medicine: exploring GPT-5 for "
+  },
+  "W7221180267": {
+   "date_added": "2026-10-12",
+   "direction": "F",
+   "title": "The complexity paradox of generalist AI agents in medicine: "
+  },
+  "10.1093/bioadv/vbag301": {
+   "date_added": "2026-10-12",
+   "direction": "X",
+   "title": "Bridging LLM-based agents and workflow languages for automated multi-perspective"
+  },
+  "W7221049707": {
+   "date_added": "2026-10-12",
+   "direction": "X",
+   "title": "Bridging LLM-based agents and workflow languages for automat"
+  },
+  "10.2196/106118": {
+   "date_added": "2026-10-12",
+   "direction": "C",
+   "title": "Human-in-the-Loop Suicide Risk Detection and Clinical Escalation in a Generative"
+  },
+  "42853564": {
+   "date_added": "2026-10-12",
+   "direction": "C",
+   "title": "Human-in-the-Loop Suicide Risk Detection and Clinical Escala"
   }
  },
  "42289215": {
