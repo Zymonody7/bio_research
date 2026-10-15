@@ -1,6 +1,6 @@
 {
  "description": "Tracked paper IDs for deduplication across daily reports",
- "last_updated": "2026-10-12",
+ "last_updated": "2026-10-15",
  "papers": {
   "10.3389/fmicb.2025.1634194": {
    "date_added": "2026-08-04",
@@ -6199,6 +6199,71 @@
    "date_added": "2026-10-12",
    "direction": "C",
    "title": "Human-in-the-Loop Suicide Risk Detection and Clinical Escala"
+  },
+  "10.1128/jcm.01054-25": {
+   "date_added": "2026-10-15",
+   "direction": "A",
+   "title": "MethylSense: ML diagnostics for Aspergillus fumigatus via host cfDNA methylation"
+  },
+  "10.1007/s15010-026-02992-8": {
+   "date_added": "2026-10-15",
+   "direction": "A",
+   "title": "Rare bacterial infections and metagenomics: diagnostic challenges (review)"
+  },
+  "10.1038/s44387-026-00163-6": {
+   "date_added": "2026-10-15",
+   "direction": "B",
+   "title": "FramePoison: attacks on medical RAG targeting framing, not just facts"
+  },
+  "10.1093/jamia/ocag110": {
+   "date_added": "2026-10-15",
+   "direction": "B",
+   "title": "CUI-Curate: GraphRAG framework for automated clinical concept curation"
+  },
+  "2610.05966": {
+   "date_added": "2026-10-15",
+   "direction": "C",
+   "title": "HuatuoGPT-3: RL-Only Domain Adaptation from Base Models"
+  },
+  "2610.00568": {
+   "date_added": "2026-10-15",
+   "direction": "C",
+   "title": "Emergent Unfaithfulness: Alignment Training Causes Silent Task Override"
+  },
+  "10.1186/s13059-026-04134-7": {
+   "date_added": "2026-10-15",
+   "direction": "D",
+   "title": "Benchmarking nucleic acid foundation models for lncRNA coding potential"
+  },
+  "2610.11761": {
+   "date_added": "2026-10-15",
+   "direction": "D",
+   "title": "RAGenome: Scaling Retrieval-Based Genomic Language Models to Long Contexts"
+  },
+  "10.1016/j.compbiolchem.2026.109438": {
+   "date_added": "2026-10-15",
+   "direction": "D",
+   "title": "Mechanistic interpretability of a plant genomic foundation model"
+  },
+  "10.1109/TMI.2026.3742614": {
+   "date_added": "2026-10-15",
+   "direction": "F",
+   "title": "EyeGraph: Multi-granularity Medical VLM with KG Reasoning for Ophthalmology"
+  },
+  "2610.00381": {
+   "date_added": "2026-10-15",
+   "direction": "F",
+   "title": "OmniMed-Jev: Calibrating LVLM Confidence for Trustworthy Medical Decisions"
+  },
+  "2610.00898": {
+   "date_added": "2026-10-15",
+   "direction": "X",
+   "title": "When Do Biological Reasoning Models Use Their Biological Inputs?"
+  },
+  "10.1016/j.slast.2026.100463": {
+   "date_added": "2026-10-15",
+   "direction": "X",
+   "title": "Robotic safety in self-driving laboratories"
   }
  },
  "42289215": {
