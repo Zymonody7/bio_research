@@ -6264,721 +6264,780 @@
    "date_added": "2026-10-15",
    "direction": "X",
    "title": "Robotic safety in self-driving laboratories"
+  },
+  "42367641": {
+   "date_added": "2026-07-30",
+   "direction": "A",
+   "title": "Plasma cfDNA metagenomic sequencing in hematological malignancies"
+  },
+  "41769339": {
+   "date_added": "2026-07-30",
+   "direction": "A",
+   "title": "Analytical validation of mNGS diagnostic platform for UTI"
+  },
+  "42233650": {
+   "date_added": "2026-07-30",
+   "direction": "A",
+   "title": "MxA rapid testing combined with pathogen sequencing"
+  },
+  "42477060": {
+   "date_added": "2026-07-30",
+   "direction": "B",
+   "title": "AI agents for diabetic kidney disease management"
+  },
+  "42426795": {
+   "date_added": "2026-07-30",
+   "direction": "B",
+   "title": "Enhancing patient care with AI agents and chatbot technologies"
+  },
+  "42384291": {
+   "date_added": "2026-07-30",
+   "direction": "B",
+   "title": "Organ Transplantation Agent Based on LLM"
+  },
+  "41875309": {
+   "date_added": "2026-07-30",
+   "direction": "B",
+   "title": "RAG Chatbot for Antimicrobial Resistance Research"
+  },
+  "39954322": {
+   "date_added": "2026-07-30",
+   "direction": "C",
+   "title": "Aligning LLMs with radiologists by RL"
+  },
+  "41254654": {
+   "date_added": "2026-07-30",
+   "direction": "C",
+   "title": "RL for LLM-based TCM prescription recommendation"
+  },
+  "42521015": {
+   "date_added": "2026-07-30",
+   "direction": "C",
+   "title": "AI in antimicrobial stewardship"
+  },
+  "42517630": {
+   "date_added": "2026-07-30",
+   "direction": "D",
+   "title": "ViralMap: viral protein feature prediction from sequence"
+  },
+  "42471368": {
+   "date_added": "2026-07-30",
+   "direction": "D",
+   "title": "Developability engineering of scFvs for CAR function"
+  },
+  "42521815": {
+   "date_added": "2026-07-30",
+   "direction": "E",
+   "title": "xDecoder: genomic FM for few-shot gene expression"
+  },
+  "42475685": {
+   "date_added": "2026-07-30",
+   "direction": "E",
+   "title": "Contextual biases in SegmentNT"
+  },
+  "42398069": {
+   "date_added": "2026-07-30",
+   "direction": "E",
+   "title": "EssTFNet: time-frequency + DNA LM for TF binding"
+  },
+  "42313599": {
+   "date_added": "2026-07-30",
+   "direction": "E",
+   "title": "Adapting Genome FM Evo for Functional Genomics via Prompt Tuning"
+  },
+  "42482794": {
+   "date_added": "2026-07-30",
+   "direction": "F",
+   "title": "OCR-mediated modality dominance in VLMs for radiology"
+  },
+  "42451242": {
+   "date_added": "2026-07-30",
+   "direction": "F",
+   "title": "Medical VLMs: Technologies Applications Future"
+  },
+  "42450887": {
+   "date_added": "2026-07-30",
+   "direction": "F",
+   "title": "Do Multimodal VLMs Enhance Medical Diagnostic Process"
+  },
+  "2607.26160": {
+   "date_added": "2026-08-03",
+   "direction": "B",
+   "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning"
+  },
+  "2607.28677": {
+   "date_added": "2026-08-03",
+   "direction": "B",
+   "title": "Reasoning in Real World Clinical Care: Why LLMs Are Not Yet Safe for Autonomous Clinical Decision Support"
+  },
+  "2607.00147": {
+   "date_added": "2026-08-03",
+   "direction": "B",
+   "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation"
+  },
+  "2605.27860": {
+   "date_added": "2026-08-03",
+   "direction": "B",
+   "title": "C-MIG: Multi-view Information Gain-based Retrieval-Augmented Generation for Clinical Diagnosis Reasoning"
+  },
+  "2606.12169": {
+   "date_added": "2026-08-03",
+   "direction": "C",
+   "title": "OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Language Models"
+  },
+  "2606.01094": {
+   "date_added": "2026-08-03",
+   "direction": "C",
+   "title": "CAREAgent: Clinical Agent with Structured Reasoning and Tool-Integrated for Order Generation"
+  },
+  "2605.09584": {
+   "date_added": "2026-08-03",
+   "direction": "C",
+   "title": "CLR-voyance: Reinforcing Open-Ended Reasoning for Inpatient Clinical Decision Support with Outcome-Aware Rubrics"
+  },
+  "2607.27431": {
+   "date_added": "2026-08-03",
+   "direction": "D",
+   "title": "SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups"
+  },
+  "2607.25156": {
+   "date_added": "2026-08-03",
+   "direction": "D",
+   "title": "Accurate structural modeling of chemically diverse molecular interfaces with Vilya-2"
+  },
+  "2606.12772": {
+   "date_added": "2026-08-03",
+   "direction": "D",
+   "title": "EasyNano: rapid epitope-targeted nanobody CDR design via differentiable distogram optimization with ESMFold2"
+  },
+  "2607.27712": {
+   "date_added": "2026-08-03",
+   "direction": "E",
+   "title": "VESTIGE: A Knowledge-Guided Masking Strategy for Corruption-Aware Fine-Tuning of Genomic Transformers"
+  },
+  "2511.03976": {
+   "date_added": "2026-08-03",
+   "direction": "E",
+   "title": "PETRA: Pretrained Evolutionary Transformer for SARS-CoV-2 Mutation Prediction"
+  },
+  "2607.23794": {
+   "date_added": "2026-08-03",
+   "direction": "F",
+   "title": "PathScale-R1: Cross-scale Reasoning for Pathological Image Analysis"
+  },
+  "2607.27556": {
+   "date_added": "2026-08-03",
+   "direction": "X",
+   "title": "Evaluating Agentic Bioinformatics through Function, Evidence, and Validation"
+  },
+  "2606.31085": {
+   "date_added": "2026-08-03",
+   "direction": "X",
+   "title": "DDIAgents: Mechanism-Conditioned Context Flow for Drug-Drug Interaction Prediction"
+  },
+  "2604.03509": {
+   "date_added": "2026-08-12",
+   "direction": "B",
+   "title": "Applications of Large Language Models in Radiation Oncology"
+  },
+  "2607.12474": {
+   "date_added": "2026-08-12",
+   "direction": "D",
+   "title": "From Observation to Insight: Mechanistic World Models"
+  },
+  "2608.09722": {
+   "date_added": "2026-08-12",
+   "direction": "E",
+   "title": "Decoding Gene Regulatory Networks from Single-Cell RNA Velocity"
+  },
+  "2608.02961": {
+   "date_added": "2026-08-12",
+   "direction": "E",
+   "title": "Scaling an Autoregressive Transformer for Single-Cell Generation"
+  },
+  "2606.20164": {
+   "date_added": "2026-08-12",
+   "direction": "F",
+   "title": "MedRLM: Recursive Multimodal Health Intelligence"
+  },
+  "2606.14766": {
+   "date_added": "2026-08-12",
+   "direction": "F",
+   "title": "XMedFusion: A Knowledge-Guided Multimodal Perception"
+  },
+  "2606.11702": {
+   "date_added": "2026-08-12",
+   "direction": "F",
+   "title": "MedCTA: A Benchmark for Clinical Tool Agents"
+  },
+  "2604.07512": {
+   "date_added": "2026-08-12",
+   "direction": "X",
+   "title": "Rhizome OS-1: Semi-Autonomous Operating System for Drug Discovery"
+  },
+  "41978025": {
+   "title": "Ensemble Deep Learning Models on Raw DNA Sequences for Viral Genome Identification",
+   "date": "2026-09-13"
+  },
+  "42021875": {
+   "title": "Advances in the Application of AI in Clinical Microbiological Testing",
+   "date": "2026-09-13"
+  },
+  "42660985": {
+   "title": "HealthFlow: automating EHR analysis via self-evolving AI agent",
+   "date": "2026-09-13"
+  },
+  "42709964": {
+   "title": "Performance, Failures, and Oversight of LLM Agent for Clinical Data",
+   "date": "2026-09-13"
+  },
+  "10.1038/s41746-026-03070-x": {
+   "title": "RDMA: agent-driven rare disease mining from EHR",
+   "date": "2026-09-13"
+  },
+  "42607666": {
+   "title": "Bimodal LLM reduces misalignment in patient education RCT",
+   "date": "2026-09-13"
+  },
+  "42167735": {
+   "title": "Korean LLMs for Medical QA on Arthritis: Fine-tuning",
+   "date": "2026-09-13"
+  },
+  "42492486": {
+   "title": "Decision Support Framework for QA of Therapeutic AI",
+   "date": "2026-09-13"
+  },
+  "42022284": {
+   "title": "Pre-training genomic language model with variants",
+   "date": "2026-09-13"
+  },
+  "42440194": {
+   "title": "JADE-Plus: Multimodal Agentic RAG for Diagnostic Imaging",
+   "date": "2026-09-13"
+  },
+  "42608573": {
+   "title": "Explainable biomedical foundation model via concept-enhanced VL",
+   "date": "2026-09-13"
+  },
+  "42292361": {
+   "date_added": "2026-09-21",
+   "direction": "A",
+   "title": "Etiological study of pulmonary infections following solid organ transplantation using metagenomic next-generation sequencing and development of a risk prediction model: a retrospective cohort study."
+  },
+  "41023631": {
+   "date_added": "2026-09-21",
+   "direction": "A",
+   "title": "Evaluation of hybrid capture-based targeted and metagenomic next-generation sequencing for pathogenic microorganism detection in infectious keratitis."
+  },
+  "40455288": {
+   "date_added": "2026-09-21",
+   "direction": "A",
+   "title": "Recent advances in diagnostic technologies for postoperative central nervous system infections: a review."
+  },
+  "39183814": {
+   "date_added": "2026-09-21",
+   "direction": "A",
+   "title": "Clinical Features and Outcomes of Pediatric and Adult Patients Hospitalized for Coronavirus Disease 2019: A Comparison Across Age Strata."
+  },
+  "39152290": {
+   "date_added": "2026-09-21",
+   "direction": "A",
+   "title": "The application status of sequencing technology in global respiratory infectious disease diagnosis."
+  },
+  "38678508": {
+   "date_added": "2026-09-21",
+   "direction": "A",
+   "title": "Current status and new experimental diagnostic methods of invasive fungal infections after hematopoietic stem cell transplantation."
+  },
+  "42743545": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "AI Agents for Multimodal Oncology Diagnosis: Toward Transparent and Traceable Clinical Decision Support."
+  },
+  "42739867": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "Artificial Intelligence and Machine Learning in Rheumatology and Systemic Inflammatory Diseases: From Pattern Recognition to Signal Analysis and Clinical Decision Support."
+  },
+  "42699158": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "Guideline-augmented large language models for contraindication screening in interventional spine care."
+  },
+  "42666552": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "Evaluating large language model clinical reasoning in glaucoma using retrieval-augmented generation."
+  },
+  "42642958": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "Evidence-Informed Occupational Therapy Decision Support Using Graph Retrieval-Augmented Generation."
+  },
+  "42626630": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "Development of an LLM pipeline exceeding physician-documented cardiovascular risk scores under routine clinical conditions."
+  },
+  "42613944": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "Automated Post-Analytical Workflow for Newborn Screening Using a Hybrid Rule-Based and Retrieval-Augmented Large Language Model System."
+  },
+  "42587692": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "A Self-Controlled Benchmark of Retrieval-Augmented Generation for Large Language Models on Clinical Guideline Questions."
+  },
+  "42574561": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "Intelligent Framework for Adverse Drug Event Identification Using Large Language Models and Retrieval-Augmented Generation: Development and Evaluation Study."
+  },
+  "42546813": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "Curated retrieval-augmented generation for dental traumatology."
+  },
+  "42546264": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "Evaluation Methods for Inference-Time Retrieval-Augmented and Graph Retrieval-Augmented Large Language Models in Health Care: Scoping Review."
+  },
+  "42504269": {
+   "date_added": "2026-09-21",
+   "direction": "B",
+   "title": "A custom GPT-based model for the automated analysis and interpretation of antimicrobial susceptibility tests in Gram-negative bacteria."
+  },
+  "41301160": {
+   "date_added": "2026-09-21",
+   "direction": "C",
+   "title": "PatientEase-Domain-Aware RAG for Rehabilitation Instruction Simplification."
+  },
+  "41155066": {
+   "date_added": "2026-09-21",
+   "direction": "C",
+   "title": "A Generative Expert-Narrated Simplification Model for Enhancing Health Literacy Among the Older Population."
+  },
+  "40171241": {
+   "date_added": "2026-09-21",
+   "direction": "C",
+   "title": "Utilizing large language models for gastroenterology research: a conceptual framework."
+  },
+  "39204359": {
+   "date_added": "2026-09-21",
+   "direction": "C",
+   "title": "A Human Feedback Strategy for Photoresponsive Molecules in Drug Delivery: Utilizing GPT-2 and Time-Dependent Density Functional Theory Calculations."
+  },
+  "42368259": {
+   "date_added": "2026-09-21",
+   "direction": "D",
+   "title": "Poisoning the Genome: Targeted Backdoor Attacks on DNA Foundation Models."
+  },
+  "42182106": {
+   "date_added": "2026-09-21",
+   "direction": "D",
+   "title": "A fine-tuned genomic language model captures nucleotide-level information overlooked by missense variant impact predictors."
+  },
+  "42153323": {
+   "date_added": "2026-09-21",
+   "direction": "D",
+   "title": "DCVBin: a novel binning method for single-sample metagenomes based on DNA language model and variational autoencoder."
+  },
+  "41985060": {
+   "date_added": "2026-09-21",
+   "direction": "D",
+   "title": "Influ-BERT: a domain-adaptive genomic language model for advancing influenza A virus research."
+  },
+  "41633767": {
+   "date_added": "2026-09-21",
+   "direction": "D",
+   "title": "spRefine denoises and imputes spatial transcriptomic data with a reference-free framework powered by genomic language model."
+  },
+  "41282136": {
+   "date_added": "2026-09-21",
+   "direction": "D",
+   "title": "Predicting dynamic expression patterns in budding yeast with a fungal DNA language model."
+  },
+  "41000812": {
+   "date_added": "2026-09-21",
+   "direction": "D",
+   "title": "Predicting dynamic expression patterns in budding yeast with a fungal DNA language model."
+  },
+  "40894641": {
+   "date_added": "2026-09-21",
+   "direction": "D",
+   "title": "Pre-training Genomic Language Model with Variants for Better Modeling Functional Genomics."
+  },
+  "40660356": {
+   "date_added": "2026-09-21",
+   "direction": "D",
+   "title": "Evaluating the representational power of pre-trained DNA language models for regulatory genomics."
+  },
+  "40631230": {
+   "date_added": "2026-09-21",
+   "direction": "D",
+   "title": "spRefine Denoises and Imputes Spatial Transcriptomics with a Reference-Free Framework Powered by Genomic Language Model."
+  },
+  "42752986": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "Multimodal large language models for bladder tumor detection in cystoscopy: a retrospective benchmarking study."
+  },
+  "42745060": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "Artificial intelligence in otolaryngology: current applications, limitations, and future perspectives."
+  },
+  "42727086": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "Evaluating Large Language Models in Clinical Audiology (AUDIOLOGYBENCH): Benchmark Development and Validation Study."
+  },
+  "42718906": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "Large Language Models Approximate Inter-Expert Agreement in Glaucoma Suspect and Glaucoma Classification from Multimodal Data."
+  },
+  "42700364": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "Less can be better: decomposing clinical data modalities in large language model-based healthcare applications."
+  },
+  "42698102": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "ECG-based detection of occlusion myocardial infarction: a dedicated deep neural network versus multimodal large language models and physicians - a retrospective diagnostic accuracy study."
+  },
+  "42696739": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "Multimodal Large Language Models for Dental Chart Image Interpretation: Cross-Sectional Benchmarking Study With Students and Clinicians."
+  },
+  "42688024": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "Prospective multi-centre evaluation of guideline-based artificial intelligence to streamline multidisciplinary tumour board."
+  },
+  "42685701": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "LungGPT: A unified multimodal system for interpretable diagnosis and clinical decision support of respiratory diseases."
+  },
+  "42680939": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "SlideChat is a multimodal generative artificial intelligence assistant for whole-slide computational pathology across cancer types."
+  },
+  "42669440": {
+   "date_added": "2026-09-21",
+   "direction": "F",
+   "title": "[Cognitive reshaping and systemic reconstruction of liver surgery empowered by digital intelligence]."
+  },
+  "42831434": {
+   "date_added": "2026-10-10",
+   "direction": "A",
+   "title": "Simultaneous detection of influenza and SARS-CoV-2 on an AI-nanopore multiplex platform."
+  },
+  "10.1039/d6lc00155f": {
+   "date_added": "2026-10-10",
+   "direction": "A",
+   "title": "Simultaneous detection of influenza and SARS-CoV-2 on an AI-nanopore multiplex platform."
+  },
+  "42833218": {
+   "date_added": "2026-10-10",
+   "direction": "A",
+   "title": "RandomReadsMG: Rapid, realistic metagenome simulation at terabase scale for benchmarking and experim"
+  },
+  "10.1016/j.xgen.2026.101384": {
+   "date_added": "2026-10-10",
+   "direction": "A",
+   "title": "RandomReadsMG: Rapid, realistic metagenome simulation at terabase scale for benchmarking and experim"
+  },
+  "42467233": {
+   "date_added": "2026-10-10",
+   "direction": "A",
+   "title": "Conditional superiorities and unaddressed bottlenecks: a critical review of artificial intelligence "
+  },
+  "10.1007/s00253-026-13917-8": {
+   "date_added": "2026-10-10",
+   "direction": "A",
+   "title": "Conditional superiorities and unaddressed bottlenecks: a critical review of artificial intelligence "
+  },
+  "42380678": {
+   "date_added": "2026-10-10",
+   "direction": "B",
+   "title": "Clinical decision support in hematological malignancies using a case-grounded AI agent."
+  },
+  "10.1038/s41591-026-04494-4": {
+   "date_added": "2026-10-10",
+   "direction": "B",
+   "title": "Clinical decision support in hematological malignancies using a case-grounded AI agent."
+  },
+  "42752617": {
+   "date_added": "2026-10-10",
+   "direction": "B",
+   "title": "A medically grounded LLM agent-based tool to detect patient safety events in medical records."
+  },
+  "10.1371/journal.pdig.0001174": {
+   "date_added": "2026-10-10",
+   "direction": "B",
+   "title": "A medically grounded LLM agent-based tool to detect patient safety events in medical records."
+  },
+  "42770666": {
+   "date_added": "2026-10-10",
+   "direction": "B",
+   "title": "Improving Reliability and Explainability of Medical Question Answering Through Atomic Fact-Checking "
+  },
+  "10.2196/92090": {
+   "date_added": "2026-10-10",
+   "direction": "B",
+   "title": "Improving Reliability and Explainability of Medical Question Answering Through Atomic Fact-Checking "
+  },
+  "42630531": {
+   "date_added": "2026-10-10",
+   "direction": "C",
+   "title": "Multimodal integrated knowledge transfer to large language models through preference optimization wi"
+  },
+  "10.1016/j.patter.2026.101544": {
+   "date_added": "2026-10-10",
+   "direction": "C",
+   "title": "Multimodal integrated knowledge transfer to large language models through preference optimization wi"
+  },
+  "42392906": {
+   "date_added": "2026-10-10",
+   "direction": "C",
+   "title": "Deception in clinical large language models: an under-recognised safety risk."
+  },
+  "10.1016/j.landig.2026.101043": {
+   "date_added": "2026-10-10",
+   "direction": "C",
+   "title": "Deception in clinical large language models: an under-recognised safety risk."
+  },
+  "42842307": {
+   "date_added": "2026-10-10",
+   "direction": "C",
+   "title": "Safety-Filter Fallback on Consumer Health Questions During the Initial Claude Fable 5 Deployment: Ob"
+  },
+  "10.2196/104856": {
+   "date_added": "2026-10-10",
+   "direction": "C",
+   "title": "Safety-Filter Fallback on Consumer Health Questions During the Initial Claude Fable 5 Deployment: Ob"
+  },
+  "42260904": {
+   "date_added": "2026-10-10",
+   "direction": "D",
+   "title": "Evaluating DNA Function Understanding in Genomic Language Models Using Evolutionarily Implausible Se"
+  },
+  "10.1021/acssynbio.6c00024": {
+   "date_added": "2026-10-10",
+   "direction": "D",
+   "title": "Evaluating DNA Function Understanding in Genomic Language Models Using Evolutionarily Implausible Se"
+  },
+  "42465336": {
+   "date_added": "2026-10-10",
+   "direction": "D",
+   "title": "Safeguarding open-weight genomic foundation models through weight locking."
+  },
+  "10.64898/2026.07.07.736795": {
+   "date_added": "2026-10-10",
+   "direction": "D",
+   "title": "Safeguarding open-weight genomic foundation models through weight locking."
+  },
+  "42845510": {
+   "date_added": "2026-10-10",
+   "direction": "D",
+   "title": "Longitudinal Clinical Foundation Models Augmented with Genomics for Early Detection and Risk Stratif"
+  },
+  "10.64898/2026.08.10.26360107": {
+   "date_added": "2026-10-10",
+   "direction": "D",
+   "title": "Longitudinal Clinical Foundation Models Augmented with Genomics for Early Detection and Risk Stratif"
+  },
+  "42685180": {
+   "date_added": "2026-10-10",
+   "direction": "F",
+   "title": "Lingshu: Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning."
+  },
+  "10.1109/tpami.2026.3730310": {
+   "date_added": "2026-10-10",
+   "direction": "F",
+   "title": "Lingshu: Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning."
+  },
+  "42743029": {
+   "date_added": "2026-10-10",
+   "direction": "F",
+   "title": "Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic M"
+  },
+  "10.1109/tmi.2026.3733595": {
+   "date_added": "2026-10-10",
+   "direction": "F",
+   "title": "Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic M"
+  },
+  "42742183": {
+   "date_added": "2026-10-10",
+   "direction": "F",
+   "title": "Prediction of maternal and infant outcomes from longitudinal electronic health records with a mother"
+  },
+  "10.1038/s41591-026-04694-y": {
+   "date_added": "2026-10-10",
+   "direction": "F",
+   "title": "Prediction of maternal and infant outcomes from longitudinal electronic health records with a mother"
+  },
+  "42848569": {
+   "date_added": "2026-10-09",
+   "direction": "B",
+   "title": "KGR-MAS: Knowledge Graph-Enhanced Multi-Agent LLM Framework"
+  },
+  "41788336": {
+   "date_added": "2026-10-15",
+   "direction": "A",
+   "title": "Basecalling-free resistance gene identification using a hybrid transformer in raw nanopore signals"
+  },
+  "10.3389/fmicb.2026.1748934": {
+   "date_added": "2026-10-15",
+   "direction": "A",
+   "title": "Basecalling-free resistance gene identification using a hybrid transformer in raw nanopore signals"
+  },
+  "41792137": {
+   "date_added": "2026-10-15",
+   "direction": "A",
+   "title": "AMR-GNN: multi-representation GNN for genomic antimicrobial resistance prediction"
+  },
+  "10.1038/s41467-026-69934-8": {
+   "date_added": "2026-10-15",
+   "direction": "A",
+   "title": "AMR-GNN: multi-representation GNN for genomic antimicrobial resistance prediction"
+  },
+  "41528309": {
+   "date_added": "2026-10-15",
+   "direction": "B",
+   "title": "Active Knowledge Retrieval to Reduce Hallucinations in Large Medical Reasoning Models"
+  },
+  "10.1097/SCS.0000000000012355": {
+   "date_added": "2026-10-15",
+   "direction": "B",
+   "title": "Active Knowledge Retrieval to Reduce Hallucinations in Large Medical Reasoning Models"
+  },
+  "41244561": {
+   "date_added": "2026-10-15",
+   "direction": "B",
+   "title": "ChatMyopia: An AI agent for myopia-related consultation in primary eye care"
+  },
+  "10.1016/j.isci.2025.113768": {
+   "date_added": "2026-10-15",
+   "direction": "B",
+   "title": "ChatMyopia: An AI agent for myopia-related consultation in primary eye care"
+  },
+  "41236204": {
+   "date_added": "2026-10-15",
+   "direction": "B",
+   "title": "Enhancing LLMs With AI Agents for Chronic Gastritis Management"
+  },
+  "10.2196/73857": {
+   "date_added": "2026-10-15",
+   "direction": "B",
+   "title": "Enhancing LLMs With AI Agents for Chronic Gastritis Management"
+  },
+  "41632678": {
+   "date_added": "2026-10-15",
+   "direction": "C",
+   "title": "Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in VLMs"
+  },
+  "10.1109/TMI.2026.3661001": {
+   "date_added": "2026-10-15",
+   "direction": "C",
+   "title": "Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in VLMs"
+  },
+  "42154807": {
+   "date_added": "2026-10-15",
+   "direction": "C",
+   "title": "Implicit bias in safety-aligned large language models in clinical decision-making"
+  },
+  "10.1371/journal.pone.0348819": {
+   "date_added": "2026-10-15",
+   "direction": "C",
+   "title": "Implicit bias in safety-aligned large language models in clinical decision-making"
+  },
+  "41520192": {
+   "date_added": "2026-10-15",
+   "direction": "C",
+   "title": "Structural insights into clinical LLMs and their barriers to translational readiness"
+  },
+  "10.1093/jamia/ocaf230": {
+   "date_added": "2026-10-15",
+   "direction": "C",
+   "title": "Structural insights into clinical LLMs and their barriers to translational readiness"
+  },
+  "42319255": {
+   "date_added": "2026-10-15",
+   "direction": "D",
+   "title": "Porcine MutBERT: lightweight genomic foundation models for functional element prediction in pigs"
+  },
+  "10.1093/bib/bbag319": {
+   "date_added": "2026-10-15",
+   "direction": "D",
+   "title": "Porcine MutBERT: lightweight genomic foundation models for functional element prediction in pigs"
+  },
+  "41122975": {
+   "date_added": "2026-10-15",
+   "direction": "D",
+   "title": "Genos: a human-centric genomic foundation model"
+  },
+  "10.1093/gigascience/giaf132": {
+   "date_added": "2026-10-15",
+   "direction": "D",
+   "title": "Genos: a human-centric genomic foundation model"
+  },
+  "42574411": {
+   "date_added": "2026-10-15",
+   "direction": "F",
+   "title": "TrustEndo: Conformal-Calibrated MLLM With Retrieval-Augmented Reasoning for Gastroscopic Diagnosis"
+  },
+  "10.1109/JBHI.2026.3718239": {
+   "date_added": "2026-10-15",
+   "direction": "F",
+   "title": "TrustEndo: Conformal-Calibrated MLLM With Retrieval-Augmented Reasoning for Gastroscopic Diagnosis"
+  },
+  "42204307": {
+   "date_added": "2026-10-15",
+   "direction": "F",
+   "title": "ChestX-Reasoner: radiology foundation models with step-by-step reasoning from daily reports"
+  },
+  "10.1038/s43856-026-01654-y": {
+   "date_added": "2026-10-15",
+   "direction": "F",
+   "title": "ChestX-Reasoner: radiology foundation models with step-by-step reasoning from daily reports"
+  },
+  "42332126": {
+   "date_added": "2026-10-15",
+   "direction": "F",
+   "title": "GVHD-MLLM: multimodal LLM for early warning and diagnosis of chronic ocular GVHD"
+  },
+  "10.1038/s41746-026-02916-8": {
+   "date_added": "2026-10-15",
+   "direction": "F",
+   "title": "GVHD-MLLM: multimodal LLM for early warning and diagnosis of chronic ocular GVHD"
+  },
+  "42737969": {
+   "date_added": "2026-10-15",
+   "direction": "X",
+   "title": "Trustworthy Agentic AI in Bioinformatics (THREAD-Bio)"
+  },
+  "10.3390/biology15171537": {
+   "date_added": "2026-10-15",
+   "direction": "X",
+   "title": "Trustworthy Agentic AI in Bioinformatics (THREAD-Bio)"
+  },
+  "42862940": {
+   "date_added": "2026-10-15",
+   "direction": "X",
+   "title": "Language model framework for sequence modeling of EHR audit logs"
+  },
+  "10.1093/jamia/ocag163": {
+   "date_added": "2026-10-15",
+   "direction": "X",
+   "title": "Language model framework for sequence modeling of EHR audit logs"
   }
- },
- "42289215": {
-  "date_added": "2026-07-30",
-  "direction": "A",
-  "title": "AI in clinical metagenomic pathogen detection: Critical review"
- },
- "42367641": {
-  "date_added": "2026-07-30",
-  "direction": "A",
-  "title": "Plasma cfDNA metagenomic sequencing in hematological malignancies"
- },
- "41769339": {
-  "date_added": "2026-07-30",
-  "direction": "A",
-  "title": "Analytical validation of mNGS diagnostic platform for UTI"
- },
- "42233650": {
-  "date_added": "2026-07-30",
-  "direction": "A",
-  "title": "MxA rapid testing combined with pathogen sequencing"
- },
- "42477060": {
-  "date_added": "2026-07-30",
-  "direction": "B",
-  "title": "AI agents for diabetic kidney disease management"
- },
- "42426795": {
-  "date_added": "2026-07-30",
-  "direction": "B",
-  "title": "Enhancing patient care with AI agents and chatbot technologies"
- },
- "42384291": {
-  "date_added": "2026-07-30",
-  "direction": "B",
-  "title": "Organ Transplantation Agent Based on LLM"
- },
- "41875309": {
-  "date_added": "2026-07-30",
-  "direction": "B",
-  "title": "RAG Chatbot for Antimicrobial Resistance Research"
- },
- "39954322": {
-  "date_added": "2026-07-30",
-  "direction": "C",
-  "title": "Aligning LLMs with radiologists by RL"
- },
- "41254654": {
-  "date_added": "2026-07-30",
-  "direction": "C",
-  "title": "RL for LLM-based TCM prescription recommendation"
- },
- "42521015": {
-  "date_added": "2026-07-30",
-  "direction": "C",
-  "title": "AI in antimicrobial stewardship"
- },
- "42517630": {
-  "date_added": "2026-07-30",
-  "direction": "D",
-  "title": "ViralMap: viral protein feature prediction from sequence"
- },
- "42471368": {
-  "date_added": "2026-07-30",
-  "direction": "D",
-  "title": "Developability engineering of scFvs for CAR function"
- },
- "42521815": {
-  "date_added": "2026-07-30",
-  "direction": "E",
-  "title": "xDecoder: genomic FM for few-shot gene expression"
- },
- "42475685": {
-  "date_added": "2026-07-30",
-  "direction": "E",
-  "title": "Contextual biases in SegmentNT"
- },
- "42398069": {
-  "date_added": "2026-07-30",
-  "direction": "E",
-  "title": "EssTFNet: time-frequency + DNA LM for TF binding"
- },
- "42313599": {
-  "date_added": "2026-07-30",
-  "direction": "E",
-  "title": "Adapting Genome FM Evo for Functional Genomics via Prompt Tuning"
- },
- "42482794": {
-  "date_added": "2026-07-30",
-  "direction": "F",
-  "title": "OCR-mediated modality dominance in VLMs for radiology"
- },
- "42451242": {
-  "date_added": "2026-07-30",
-  "direction": "F",
-  "title": "Medical VLMs: Technologies Applications Future"
- },
- "42450887": {
-  "date_added": "2026-07-30",
-  "direction": "F",
-  "title": "Do Multimodal VLMs Enhance Medical Diagnostic Process"
- },
- "2607.26160": {
-  "date_added": "2026-08-03",
-  "direction": "B",
-  "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning"
- },
- "2607.28677": {
-  "date_added": "2026-08-03",
-  "direction": "B",
-  "title": "Reasoning in Real World Clinical Care: Why LLMs Are Not Yet Safe for Autonomous Clinical Decision Support"
- },
- "2607.00147": {
-  "date_added": "2026-08-03",
-  "direction": "B",
-  "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation"
- },
- "2605.27860": {
-  "date_added": "2026-08-03",
-  "direction": "B",
-  "title": "C-MIG: Multi-view Information Gain-based Retrieval-Augmented Generation for Clinical Diagnosis Reasoning"
- },
- "2607.25485": {
-  "date_added": "2026-08-03",
-  "direction": "C",
-  "title": "PatientAgentBench: A Benchmark Framework for Evaluating Patient-Facing Health AI Agents"
- },
- "2606.12169": {
-  "date_added": "2026-08-03",
-  "direction": "C",
-  "title": "OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Language Models"
- },
- "2606.01094": {
-  "date_added": "2026-08-03",
-  "direction": "C",
-  "title": "CAREAgent: Clinical Agent with Structured Reasoning and Tool-Integrated for Order Generation"
- },
- "2605.09584": {
-  "date_added": "2026-08-03",
-  "direction": "C",
-  "title": "CLR-voyance: Reinforcing Open-Ended Reasoning for Inpatient Clinical Decision Support with Outcome-Aware Rubrics"
- },
- "2607.27431": {
-  "date_added": "2026-08-03",
-  "direction": "D",
-  "title": "SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups"
- },
- "2607.25156": {
-  "date_added": "2026-08-03",
-  "direction": "D",
-  "title": "Accurate structural modeling of chemically diverse molecular interfaces with Vilya-2"
- },
- "2606.12772": {
-  "date_added": "2026-08-03",
-  "direction": "D",
-  "title": "EasyNano: rapid epitope-targeted nanobody CDR design via differentiable distogram optimization with ESMFold2"
- },
- "2607.27712": {
-  "date_added": "2026-08-03",
-  "direction": "E",
-  "title": "VESTIGE: A Knowledge-Guided Masking Strategy for Corruption-Aware Fine-Tuning of Genomic Transformers"
- },
- "2511.03976": {
-  "date_added": "2026-08-03",
-  "direction": "E",
-  "title": "PETRA: Pretrained Evolutionary Transformer for SARS-CoV-2 Mutation Prediction"
- },
- "2607.26886": {
-  "date_added": "2026-08-03",
-  "direction": "F",
-  "title": "Hearsay: Vision-Language Medical Diagnoses Without an Image"
- },
- "2607.23794": {
-  "date_added": "2026-08-03",
-  "direction": "F",
-  "title": "PathScale-R1: Cross-scale Reasoning for Pathological Image Analysis"
- },
- "2607.22293": {
-  "date_added": "2026-08-03",
-  "direction": "F",
-  "title": "RadSight: Towards Perceptually Reliable Multimodal Radiology Image Understanding"
- },
- "2607.27556": {
-  "date_added": "2026-08-03",
-  "direction": "X",
-  "title": "Evaluating Agentic Bioinformatics through Function, Evidence, and Validation"
- },
- "2607.16262": {
-  "date_added": "2026-08-03",
-  "direction": "X",
-  "title": "Autonomous mechanistic discovery of colorectal cancer vulnerabilities via multi-scale AI swarms"
- },
- "2606.31085": {
-  "date_added": "2026-08-03",
-  "direction": "X",
-  "title": "DDIAgents: Mechanism-Conditioned Context Flow for Drug-Drug Interaction Prediction"
- },
- "2606.22692": {
-  "date_added": "2026-08-12",
-  "direction": "B",
-  "title": "VISTA Architect: A graph database-oriented health AI system"
- },
- "2604.03509": {
-  "date_added": "2026-08-12",
-  "direction": "B",
-  "title": "Applications of Large Language Models in Radiation Oncology"
- },
- "2607.08404": {
-  "date_added": "2026-08-12",
-  "direction": "D",
-  "title": "DrugGen 2: A disease-aware language model for drug discovery"
- },
- "2607.12474": {
-  "date_added": "2026-08-12",
-  "direction": "D",
-  "title": "From Observation to Insight: Mechanistic World Models"
- },
- "2608.02684": {
-  "date_added": "2026-08-12",
-  "direction": "D",
-  "title": "A Blind Spot in Alignment: Biosecurity Risks in LLMs"
- },
- "2608.08366": {
-  "date_added": "2026-08-12",
-  "direction": "E",
-  "title": "VOICE: A Vision-Omics Foundation Model"
- },
- "2608.09722": {
-  "date_added": "2026-08-12",
-  "direction": "E",
-  "title": "Decoding Gene Regulatory Networks from Single-Cell RNA Velocity"
- },
- "2608.02961": {
-  "date_added": "2026-08-12",
-  "direction": "E",
-  "title": "Scaling an Autoregressive Transformer for Single-Cell Generation"
- },
- "2604.06569": {
-  "date_added": "2026-08-12",
-  "direction": "E",
-  "title": "ECLIPSE: A Composable Pipeline for Predicting ecDNA"
- },
- "2606.20164": {
-  "date_added": "2026-08-12",
-  "direction": "F",
-  "title": "MedRLM: Recursive Multimodal Health Intelligence"
- },
- "2606.14766": {
-  "date_added": "2026-08-12",
-  "direction": "F",
-  "title": "XMedFusion: A Knowledge-Guided Multimodal Perception"
- },
- "2606.13572": {
-  "date_added": "2026-08-12",
-  "direction": "F",
-  "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning"
- },
- "2606.11702": {
-  "date_added": "2026-08-12",
-  "direction": "F",
-  "title": "MedCTA: A Benchmark for Clinical Tool Agents"
- },
- "2604.07512": {
-  "date_added": "2026-08-12",
-  "direction": "X",
-  "title": "Rhizome OS-1: Semi-Autonomous Operating System for Drug Discovery"
- },
- "41978025": {
-  "title": "Ensemble Deep Learning Models on Raw DNA Sequences for Viral Genome Identification",
-  "date": "2026-09-13"
- },
- "42678565": {
-  "title": "Microbial signal profiles and organism-level concordance between plasma mNGS",
-  "date": "2026-09-13"
- },
- "42021875": {
-  "title": "Advances in the Application of AI in Clinical Microbiological Testing",
-  "date": "2026-09-13"
- },
- "42660985": {
-  "title": "HealthFlow: automating EHR analysis via self-evolving AI agent",
-  "date": "2026-09-13"
- },
- "42709964": {
-  "title": "Performance, Failures, and Oversight of LLM Agent for Clinical Data",
-  "date": "2026-09-13"
- },
- "10.1038/s41746-026-03070-x": {
-  "title": "RDMA: agent-driven rare disease mining from EHR",
-  "date": "2026-09-13"
- },
- "42607666": {
-  "title": "Bimodal LLM reduces misalignment in patient education RCT",
-  "date": "2026-09-13"
- },
- "42167735": {
-  "title": "Korean LLMs for Medical QA on Arthritis: Fine-tuning",
-  "date": "2026-09-13"
- },
- "42492486": {
-  "title": "Decision Support Framework for QA of Therapeutic AI",
-  "date": "2026-09-13"
- },
- "42717086": {
-  "title": "GPN-Star: Predicting genome-wide functional constraints",
-  "date": "2026-09-13"
- },
- "42022284": {
-  "title": "Pre-training genomic language model with variants",
-  "date": "2026-09-13"
- },
- "42492189": {
-  "title": "Genomic language models (gLMs): Emerging applications",
-  "date": "2026-09-13"
- },
- "42440194": {
-  "title": "JADE-Plus: Multimodal Agentic RAG for Diagnostic Imaging",
-  "date": "2026-09-13"
- },
- "42608573": {
-  "title": "Explainable biomedical foundation model via concept-enhanced VL",
-  "date": "2026-09-13"
- },
- "42697202": {
-  "title": "Transforming LLMs into medical specialists via knowledge injection",
-  "date": "2026-09-13"
- },
- "42292361": {
-  "date_added": "2026-09-21",
-  "direction": "A",
-  "title": "Etiological study of pulmonary infections following solid organ transplantation using metagenomic next-generation sequencing and development of a risk prediction model: a retrospective cohort study."
- },
- "42212611": {
-  "date_added": "2026-09-21",
-  "direction": "A",
-  "title": "[Current trends in sepsis diagnosis - from classic culture to advanced molecular identification]."
- },
- "41023631": {
-  "date_added": "2026-09-21",
-  "direction": "A",
-  "title": "Evaluation of hybrid capture-based targeted and metagenomic next-generation sequencing for pathogenic microorganism detection in infectious keratitis."
- },
- "40455288": {
-  "date_added": "2026-09-21",
-  "direction": "A",
-  "title": "Recent advances in diagnostic technologies for postoperative central nervous system infections: a review."
- },
- "39183814": {
-  "date_added": "2026-09-21",
-  "direction": "A",
-  "title": "Clinical Features and Outcomes of Pediatric and Adult Patients Hospitalized for Coronavirus Disease 2019: A Comparison Across Age Strata."
- },
- "39152290": {
-  "date_added": "2026-09-21",
-  "direction": "A",
-  "title": "The application status of sequencing technology in global respiratory infectious disease diagnosis."
- },
- "38678508": {
-  "date_added": "2026-09-21",
-  "direction": "A",
-  "title": "Current status and new experimental diagnostic methods of invasive fungal infections after hematopoietic stem cell transplantation."
- },
- "42743545": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "AI Agents for Multimodal Oncology Diagnosis: Toward Transparent and Traceable Clinical Decision Support."
- },
- "42739867": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "Artificial Intelligence and Machine Learning in Rheumatology and Systemic Inflammatory Diseases: From Pattern Recognition to Signal Analysis and Clinical Decision Support."
- },
- "42699158": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "Guideline-augmented large language models for contraindication screening in interventional spine care."
- },
- "42666552": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "Evaluating large language model clinical reasoning in glaucoma using retrieval-augmented generation."
- },
- "42642958": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "Evidence-Informed Occupational Therapy Decision Support Using Graph Retrieval-Augmented Generation."
- },
- "42626630": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "Development of an LLM pipeline exceeding physician-documented cardiovascular risk scores under routine clinical conditions."
- },
- "42613944": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "Automated Post-Analytical Workflow for Newborn Screening Using a Hybrid Rule-Based and Retrieval-Augmented Large Language Model System."
- },
- "42587692": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "A Self-Controlled Benchmark of Retrieval-Augmented Generation for Large Language Models on Clinical Guideline Questions."
- },
- "42574561": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "Intelligent Framework for Adverse Drug Event Identification Using Large Language Models and Retrieval-Augmented Generation: Development and Evaluation Study."
- },
- "42546813": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "Curated retrieval-augmented generation for dental traumatology."
- },
- "42546264": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "Evaluation Methods for Inference-Time Retrieval-Augmented and Graph Retrieval-Augmented Large Language Models in Health Care: Scoping Review."
- },
- "42504269": {
-  "date_added": "2026-09-21",
-  "direction": "B",
-  "title": "A custom GPT-based model for the automated analysis and interpretation of antimicrobial susceptibility tests in Gram-negative bacteria."
- },
- "42189634": {
-  "date_added": "2026-09-21",
-  "direction": "C",
-  "title": "When AI Colludes: Clinical Reliability of Training and Preference Data as a Trustworthy-AI Criterion."
- },
- "41301160": {
-  "date_added": "2026-09-21",
-  "direction": "C",
-  "title": "PatientEase-Domain-Aware RAG for Rehabilitation Instruction Simplification."
- },
- "41155066": {
-  "date_added": "2026-09-21",
-  "direction": "C",
-  "title": "A Generative Expert-Narrated Simplification Model for Enhancing Health Literacy Among the Older Population."
- },
- "40171241": {
-  "date_added": "2026-09-21",
-  "direction": "C",
-  "title": "Utilizing large language models for gastroenterology research: a conceptual framework."
- },
- "39204359": {
-  "date_added": "2026-09-21",
-  "direction": "C",
-  "title": "A Human Feedback Strategy for Photoresponsive Molecules in Drug Delivery: Utilizing GPT-2 and Time-Dependent Density Functional Theory Calculations."
- },
- "42419301": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "GenART: Reading the genome's language with adaptive \"words\"."
- },
- "42368259": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "Poisoning the Genome: Targeted Backdoor Attacks on DNA Foundation Models."
- },
- "42182106": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "A fine-tuned genomic language model captures nucleotide-level information overlooked by missense variant impact predictors."
- },
- "42153323": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "DCVBin: a novel binning method for single-sample metagenomes based on DNA language model and variational autoencoder."
- },
- "41985060": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "Influ-BERT: a domain-adaptive genomic language model for advancing influenza A virus research."
- },
- "41633767": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "spRefine denoises and imputes spatial transcriptomic data with a reference-free framework powered by genomic language model."
- },
- "41282136": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "Predicting dynamic expression patterns in budding yeast with a fungal DNA language model."
- },
- "41000812": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "Predicting dynamic expression patterns in budding yeast with a fungal DNA language model."
- },
- "40894641": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "Pre-training Genomic Language Model with Variants for Better Modeling Functional Genomics."
- },
- "40660356": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "Evaluating the representational power of pre-trained DNA language models for regulatory genomics."
- },
- "40631230": {
-  "date_added": "2026-09-21",
-  "direction": "D",
-  "title": "spRefine Denoises and Imputes Spatial Transcriptomics with a Reference-Free Framework Powered by Genomic Language Model."
- },
- "42753254": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "Fine-Tuning, Retrieval-Augmented Generation, and Hybrid Adaptation of Language Models for Clinical Decision-Making in Health Care: Systematic Review."
- },
- "42752986": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "Multimodal large language models for bladder tumor detection in cystoscopy: a retrospective benchmarking study."
- },
- "42745060": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "Artificial intelligence in otolaryngology: current applications, limitations, and future perspectives."
- },
- "42727086": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "Evaluating Large Language Models in Clinical Audiology (AUDIOLOGYBENCH): Benchmark Development and Validation Study."
- },
- "42718906": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "Large Language Models Approximate Inter-Expert Agreement in Glaucoma Suspect and Glaucoma Classification from Multimodal Data."
- },
- "42700364": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "Less can be better: decomposing clinical data modalities in large language model-based healthcare applications."
- },
- "42698102": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "ECG-based detection of occlusion myocardial infarction: a dedicated deep neural network versus multimodal large language models and physicians - a retrospective diagnostic accuracy study."
- },
- "42696739": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "Multimodal Large Language Models for Dental Chart Image Interpretation: Cross-Sectional Benchmarking Study With Students and Clinicians."
- },
- "42688024": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "Prospective multi-centre evaluation of guideline-based artificial intelligence to streamline multidisciplinary tumour board."
- },
- "42685701": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "LungGPT: A unified multimodal system for interpretable diagnosis and clinical decision support of respiratory diseases."
- },
- "42680939": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "SlideChat is a multimodal generative artificial intelligence assistant for whole-slide computational pathology across cancer types."
- },
- "42669440": {
-  "date_added": "2026-09-21",
-  "direction": "F",
-  "title": "[Cognitive reshaping and systemic reconstruction of liver surgery empowered by digital intelligence]."
- },
- "42831434": {
-  "date_added": "2026-10-10",
-  "direction": "A",
-  "title": "Simultaneous detection of influenza and SARS-CoV-2 on an AI-nanopore multiplex platform."
- },
- "10.1039/d6lc00155f": {
-  "date_added": "2026-10-10",
-  "direction": "A",
-  "title": "Simultaneous detection of influenza and SARS-CoV-2 on an AI-nanopore multiplex platform."
- },
- "42833218": {
-  "date_added": "2026-10-10",
-  "direction": "A",
-  "title": "RandomReadsMG: Rapid, realistic metagenome simulation at terabase scale for benchmarking and experim"
- },
- "10.1016/j.xgen.2026.101384": {
-  "date_added": "2026-10-10",
-  "direction": "A",
-  "title": "RandomReadsMG: Rapid, realistic metagenome simulation at terabase scale for benchmarking and experim"
- },
- "42467233": {
-  "date_added": "2026-10-10",
-  "direction": "A",
-  "title": "Conditional superiorities and unaddressed bottlenecks: a critical review of artificial intelligence "
- },
- "10.1007/s00253-026-13917-8": {
-  "date_added": "2026-10-10",
-  "direction": "A",
-  "title": "Conditional superiorities and unaddressed bottlenecks: a critical review of artificial intelligence "
- },
- "42380678": {
-  "date_added": "2026-10-10",
-  "direction": "B",
-  "title": "Clinical decision support in hematological malignancies using a case-grounded AI agent."
- },
- "10.1038/s41591-026-04494-4": {
-  "date_added": "2026-10-10",
-  "direction": "B",
-  "title": "Clinical decision support in hematological malignancies using a case-grounded AI agent."
- },
- "42752617": {
-  "date_added": "2026-10-10",
-  "direction": "B",
-  "title": "A medically grounded LLM agent-based tool to detect patient safety events in medical records."
- },
- "10.1371/journal.pdig.0001174": {
-  "date_added": "2026-10-10",
-  "direction": "B",
-  "title": "A medically grounded LLM agent-based tool to detect patient safety events in medical records."
- },
- "42770666": {
-  "date_added": "2026-10-10",
-  "direction": "B",
-  "title": "Improving Reliability and Explainability of Medical Question Answering Through Atomic Fact-Checking "
- },
- "10.2196/92090": {
-  "date_added": "2026-10-10",
-  "direction": "B",
-  "title": "Improving Reliability and Explainability of Medical Question Answering Through Atomic Fact-Checking "
- },
- "42630531": {
-  "date_added": "2026-10-10",
-  "direction": "C",
-  "title": "Multimodal integrated knowledge transfer to large language models through preference optimization wi"
- },
- "10.1016/j.patter.2026.101544": {
-  "date_added": "2026-10-10",
-  "direction": "C",
-  "title": "Multimodal integrated knowledge transfer to large language models through preference optimization wi"
- },
- "42392906": {
-  "date_added": "2026-10-10",
-  "direction": "C",
-  "title": "Deception in clinical large language models: an under-recognised safety risk."
- },
- "10.1016/j.landig.2026.101043": {
-  "date_added": "2026-10-10",
-  "direction": "C",
-  "title": "Deception in clinical large language models: an under-recognised safety risk."
- },
- "42842307": {
-  "date_added": "2026-10-10",
-  "direction": "C",
-  "title": "Safety-Filter Fallback on Consumer Health Questions During the Initial Claude Fable 5 Deployment: Ob"
- },
- "10.2196/104856": {
-  "date_added": "2026-10-10",
-  "direction": "C",
-  "title": "Safety-Filter Fallback on Consumer Health Questions During the Initial Claude Fable 5 Deployment: Ob"
- },
- "42260904": {
-  "date_added": "2026-10-10",
-  "direction": "D",
-  "title": "Evaluating DNA Function Understanding in Genomic Language Models Using Evolutionarily Implausible Se"
- },
- "10.1021/acssynbio.6c00024": {
-  "date_added": "2026-10-10",
-  "direction": "D",
-  "title": "Evaluating DNA Function Understanding in Genomic Language Models Using Evolutionarily Implausible Se"
- },
- "42465336": {
-  "date_added": "2026-10-10",
-  "direction": "D",
-  "title": "Safeguarding open-weight genomic foundation models through weight locking."
- },
- "10.64898/2026.07.07.736795": {
-  "date_added": "2026-10-10",
-  "direction": "D",
-  "title": "Safeguarding open-weight genomic foundation models through weight locking."
- },
- "42845510": {
-  "date_added": "2026-10-10",
-  "direction": "D",
-  "title": "Longitudinal Clinical Foundation Models Augmented with Genomics for Early Detection and Risk Stratif"
- },
- "10.64898/2026.08.10.26360107": {
-  "date_added": "2026-10-10",
-  "direction": "D",
-  "title": "Longitudinal Clinical Foundation Models Augmented with Genomics for Early Detection and Risk Stratif"
- },
- "42685180": {
-  "date_added": "2026-10-10",
-  "direction": "F",
-  "title": "Lingshu: Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning."
- },
- "10.1109/tpami.2026.3730310": {
-  "date_added": "2026-10-10",
-  "direction": "F",
-  "title": "Lingshu: Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning."
- },
- "42743029": {
-  "date_added": "2026-10-10",
-  "direction": "F",
-  "title": "Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic M"
- },
- "10.1109/tmi.2026.3733595": {
-  "date_added": "2026-10-10",
-  "direction": "F",
-  "title": "Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic M"
- },
- "42742183": {
-  "date_added": "2026-10-10",
-  "direction": "F",
-  "title": "Prediction of maternal and infant outcomes from longitudinal electronic health records with a mother"
- },
- "10.1038/s41591-026-04694-y": {
-  "date_added": "2026-10-10",
-  "direction": "F",
-  "title": "Prediction of maternal and infant outcomes from longitudinal electronic health records with a mother"
- },
- "42848569": {
-  "date_added": "2026-10-09",
-  "direction": "B",
-  "title": "KGR-MAS: Knowledge Graph-Enhanced Multi-Agent LLM Framework"
  }
 }

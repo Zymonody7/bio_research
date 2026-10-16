@@ -1,168 +1,179 @@
-% Daily paper report 2026-10-15
-% Directions: A mNGS+AI, B Clinical Agent+RAG/KG, C RLHF Medical Alignment, D Genomic Foundation Models, F Multimodal Clinical Agent, X Cross-disciplinary
-% Note: KGR-MAS (10-09) and Scoring Higher Answering Worse (10-06) were re-encountered but already curated; replaced with kia2026B1 / dandapanthula2026C1.
+@article{Nguyen_2026_41792137,
+  title     ={AMR-GNN: a multi-representation graph neural network framework to enable genomic antimicrobial resistance prediction},
+  author    ={Nguyen HA and Peleg AY and Wisniewski JA},
+  journal   ={Nature communications},
+  year      ={2026},
+  note      ={PMID: 41792137; Published: 2026 Mar 6; Direction A},
+  doi       ={10.1038/s41467-026-69934-8},
+  keywords  ={DirectionA_mNGS_AI_Pathogen},
 
-@article{drag2026A1,
-  title = {MethylSense: high accuracy machine learning-based diagnostics for Aspergillus fumigatus infection in chickens},
-  author = {Martin H. Drag and Christoffer Hvilsom and Lene L. Poulsen and Holger E. Jensen and Salahuddin A. Tahas and Charlotte Leineweber},
-  journal = {Journal of Clinical Microbiology},
-  year = {2026},
-  doi = {10.1128/jcm.01054-25},
-  keywords = {Direction-A, mngs-ai-pathogen, daily-2026-10-15},
-  note = {Direction A},
-  abstract = {Avian aspergillosis, caused by Aspergillus fumigatus (Af), lacks sensitive antemortem diagnostics. Existing microbial cell-free DNA (cfDNA) tests are prone to contamination and require a high pathogen load. We hypothesized that infection-induced tissue damage in chickens creates differentially methylated regions (DMRs) in host cfDNA, enabling machine learning (ML) diagnostics. Serum cfDNA samples (n = 124) were obtained from broiler chickens (n = 76) with Af and non-Af infections (Escherichia coli or Gallibacterium anatis) and controls. Oxford Nanopore sequencing enabled DMR detection and ML training. Performance was evaluated using an independent set (n = 49) and 10-repeat Monte Carlo cross-validation (CV) (n = 490 evaluations per test) as quality control. A High Accuracy test (93 DMRs, neural network) achieved 98.0\% accuracy (sensitivity 95\%, specificity 100\%, AUC 0.974, PR-AUC 0.928) in the independent set, with CV accuracy 92.0\% [95\% CI: 89.7\%-94.4\%]. A Fast test (35 DMRs, SVM) achieved 81.6\% accuracy and CV accuracy 79.6\% [74.9\%-84.3\%]. An In Situ test (5 DMRs, random forest) designed for field deployment achieved 71.4\% accuracy and CV accuracy 62.9\% [58.7\%-67.0\%]. Stratified CV accuracy showed 84.6\% [65.1\%-95.6\%] correct classifications for E. coli and 100\% [80.5\%-100\%] for G. anatis. Markers showed high bootstrap stability and predominantly overlapped EMARs and enhancers}
+  % PUBMED: 41792137 | DIRECTION: A
 }
 
-@article{tworuszka2026A2,
-  title = {Rare bacterial infections and metagenomics: current diagnostic and therapeutic challenges - a literature review},
-  author = {Marta Tworuszka and Daria Gliwa and Anna M. Kurek-Gorecka and Lukasz Sedek},
-  journal = {Infection},
-  year = {2026},
-  doi = {10.1007/s15010-026-02992-8},
-  keywords = {Direction-A, mngs-ai-pathogen, daily-2026-10-15},
-  note = {Direction A},
-  abstract = {PURPOSE: This review aims to summarize the diagnostic and therapeutic challenges associated with rare bacterial infections, with particular focus on Whipple's disease, melioidosis, Lemierre's syndrome, and nocardiosis. It also evaluates the clinical utility of emerging molecular diagnostic techniques, particularly polymerase chain reaction (PCR) and metagenomic next-generation sequencing (mNGS), in improving pathogen identification. The primary research question concerns how advances in molecular microbiology may enhance the early diagnosis and targeted treatment of these infections. METHODS: A narrative literature review with a structured search strategy was conducted. PubMed/MEDLINE and Scopus were searched for studies published between January 1998 and April 2026 using MeSH terms and keywords related to rare bacterial infections and molecular diagnostics. Eligible peer-reviewed articles in English or Polish, including original studies, reviews, meta-analyses, and selected case reports, were included. Data extraction and study selection were performed independently by two reviewers. RESULTS: Rare bacterial infections are frequently associated with delayed diagnosis due to nonspecific clinical manifestations, limited clinician awareness, negative culture results, and restricted access to advanced diagnostic methods. Molecular techniques improve detection sensitivity and identi}
+@article{Jakubicek_2026_41788336,
+  title     ={Basecalling-free resistance gene identification using a hybrid transformer in raw nanopore signals},
+  author    ={Jakubicek R and Vorochta J and Jakubickova M},
+  journal   ={Frontiers in microbiology},
+  year      ={2026},
+  note      ={PMID: 41788336; Published: 2026; Direction A},
+  doi       ={10.3389/fmicb.2026.1748934},
+  keywords  ={DirectionA_mNGS_AI_Pathogen},
+
+  % PUBMED: 41788336 | DIRECTION: A
 }
 
-@article{kia2026B1,
-  title = {OpenEvidence errs on the safe side in a structured test of triage recommendations},
-  author = {E Jia and M Omar and Y Barash and O R Brook and M Ahmed and J B Kruskal and A Gorenshtein and E Klang},
-  journal = {International Journal of Medical Informatics},
-  year = {2026},
-  doi = {10.1016/j.ijmedinf.2026.106687},
-  keywords = {Direction-B, clinical-agent-rag-kg, daily-2026-10-15},
-  note = {Direction B},
-  abstract = {Large language model (LLM) chatbots are increasingly consulted for triage decisions. A structured benchmark reported that ChatGPT Health, a consumer-facing health assistant, under-triaged 51.6 \% of true emergencies and was susceptible to social anchoring. Whether a physician-facing clinical decision support platform fails similarly is unknown. To characterize the triage safety profile of OpenEvidence, a retrieval-augmented, physician-facing platform, using the identical benchmark previously applied to ChatGPT Health. We evaluated 60 clinician-authored vignettes from 30 clinical scenarios across 21 domains. Each scenario was written with and without objective clinical data and crossed with demographic and contextual modifiers in a 2 × 2 × 2 × 2 factorial design, yielding 960 prompts (480 clear-case, 480 edge-case). Responses were classified against a clinician gold standard as correct triage, under-triage, over-triage, or evidence-seeking refusal. Analyses used cluster bootstrap resampling, mixed-effects logistic regression, and Holm-Bonferroni correction. Among 449 clear-case responses that returned a recommendation, accuracy was 71.3 \%. OpenEvidence under-triaged 12.5 \% of emergency presentations versus 51.6 \% in the previously reported ChatGPT Health benchmark, and over-triaged 68.0 \% of nonurgent Home presentations (ChatGPT Health, 64.8 \%). Anchoring statements did not alter recommendations (OR = 1.08, 95 \% CI 0.62-1.88; Holm-adjusted p = 1.0). Objective clinical data eliminated emergency under-triage (25 \% to 0 \%; p = 0.005) and reduced nonurgent over-triage (78.7 \% to }
+@article{Lian_2026_41528309,
+  title     ={Active Knowledge Retrieval to Reduce Hallucinations and Enhance Factual Accuracy in Large Medical Reasoning Models},
+  author    ={Lian H and Wu J and Wang Z},
+  journal   ={The Journal of craniofacial surgery},
+  year      ={2026},
+  note      ={PMID: 41528309; Published: 2026 May 1; Direction B},
+  doi       ={10.1097/SCS.0000000000012355},
+  keywords  ={DirectionB_ClinicalAgent_RAG_KG},
+
+  % PUBMED: 41528309 | DIRECTION: B
 }
 
-@article{xie2026B2,
-  title = {FramePoison: attacks on medical RAG that target framing, not just facts},
-  author = {Shan Xie and Tianshuo Wei and Jinhao Duan and Hualou Liang and Xiangyu Zhao and Ye Wei and Zijun Zhang and Kaidi Xu},
-  journal = {npj Artificial Intelligence},
-  year = {2026},
-  doi = {10.1038/s44387-026-00163-6},
-  keywords = {Direction-B, clinical-agent-rag-kg, daily-2026-10-15},
-  note = {Direction B},
-  abstract = {Retrieval-augmented generation (RAG) is increasingly used in high-stakes domains like medicine, where answers are grounded in retrieved literature and can shape clinical understanding. This opens a new attack surface: an adversary can shape model outputs by injecting a few documents into the retrieval corpus, without touching its weights. Most prior work on corpus poisoning has focused on factual substitution, forcing the model to output attacker-specified false content. But medical answers are explanations, not single facts, and readers are influenced by both what is claimed and how it is presented. We introduce framing-level corpus poisoning, a class of attacks targeting how retrieved evidence is framed, regardless of whether the underlying facts change. We instantiate this class through FramePoison in two realistic settings. In political misinformation, fabricated claims are presented as regulatory directives. In commercial promotion, the core medical content is preserved while the attack steers the answer toward a specific product. Across three biomedical corpora and five open-weight language models, FramePoison is consistently effective under both original and rephrased queries. We inject five poisoned documents per question, and the retrieval prefix typically places at least three in the top-5 results; in successful attacks, one or two poisoned documents in the retrieved }
+@article{Wu_2025_41244561,
+  title     ={ChatMyopia: An AI agent for myopia-related consultation in primary eye care settings},
+  author    ={Wu Y and Chen X and Zhang W},
+  journal   ={iScience},
+  year      ={2025},
+  note      ={PMID: 41244561; Published: 2025 Nov 21; Direction B},
+  doi       ={10.1016/j.isci.2025.113768},
+  keywords  ={DirectionB_ClinicalAgent_RAG_KG},
+
+  % PUBMED: 41244561 | DIRECTION: B
 }
 
-@article{blake2026B3,
-  title = {CUI-Curate: a GraphRAG-based framework for automated clinical concept curation for NLP applications},
-  author = {Valerie Blake and Joseph Novak and Max Miller and Suet Yi Ooi and Blanca Gallego},
-  journal = {Journal of the American Medical Informatics Association},
-  year = {2026},
-  doi = {10.1093/jamia/ocag110},
-  keywords = {Direction-B, clinical-agent-rag-kg, daily-2026-10-15},
-  note = {Direction B},
-  abstract = {Clinical named entity recognition tools commonly map free text to Unified Medical Language System (UMLS) Concept Unique Identifiers (CUIs). For many downstream tasks, however, the clinically meaningful unit is not a single CUI but a concept set comprising related synonyms, subtypes, and associated concepts. Constructing these sets is labour-intensive, inconsistently performed, and poorly supported by existing tools. We present CUI-Curate, a graph-based retrieval-augmented-generation (GraphRAG) framework for automated UMLS concept set curation. A UMLS knowledge graph was constructed and embedded for semantic retrieval. Candidate CUIs were retrieved using graph-based expansion and then filtered and classified using large language models (GPT-5 and Qwen3-32B). The framework was evaluated on five lexically heterogeneous clinical concepts against manually curated concept sets and gold-standard concept sets. CUI-Curate produced substantially larger and more complete concept sets than the manual benchmarks. A single retrieval configuration across concepts achieved high recall of definitive concepts with manageable candidate sets. GPT-5 outperformed manual curation for all concepts and retained at least 95\% of definitive gold-standard CUIs, while Qwen3-32B achieved comparable but slightly lower performance. Many missed concepts were not observed in 10,000 MIMIC-III notes. CUI-Curate in}
+@article{Wang_2025_41236204,
+  title     ={Enhancing Large Language Models With AI Agents for Chronic Gastritis Management: Comprehensive Comparative Study},
+  author    ={Wang S and Ye Q},
+  journal   ={JMIR medical informatics},
+  year      ={2025},
+  note      ={PMID: 41236204; Published: 2025 Nov 13; Direction B},
+  doi       ={10.2196/73857},
+  keywords  ={DirectionB_ClinicalAgent_RAG_KG},
+
+  % PUBMED: 41236204 | DIRECTION: B
 }
 
-@article{dandapanthula2026C1,
-  title = {How to post-train on a surrogate: envelope sampling mitigates reward hacking},
-  author = {Sanjit Dandapanthula and Shuvom Sadhuka and Samir Khan and Michael Oberst and Aaditya Ramdas and Alexandra Chouldechova},
-  journal = {arXiv (Cornell University)},
-  year = {2026},
-  doi = {10.48550/arXiv.2610.11281},
-  keywords = {Direction-C, rlhf-medical-alignment, daily-2026-10-15},
-  note = {Direction C},
-  abstract = {Large language models (LLMs) are commonly post-trained against LLM judges and other cheap surrogates because the true reward, such as human preference, is too expensive to query at scale. This practice often leads to reward hacking, where reinforcement learning against a miscalibrated surrogate leads to undesirable side effects. In this work, we study a setting in which a small number $n$ of model outputs are annotated with ground-truth labels (e.g., from expert review) and used to recalibrate the LLM judge before optimizing against it. Prior approaches to judge recalibration are costly or heuristic, and it is known that on-policy sampling fails when the surrogate is miscalibrated on a rare set of outputs. In this work, we propose envelope sampling, a theoretically-grounded method for judge recalibration that seeks to minimize an upper bound on the regret of the post-trained model under the assumption that the human reward and re-calibrated reward lie in an $L^2$ ball around the judge. We give practical algorithms to sample from the envelope by rejection or by fine-tuning against a modified reward, and experiments on clinical note generation and on a controlled sycophancy task show that recalibrating on envelope samples mitigates reward hacking where recalibrating on base-model samples does not.}
+@article{You_2026_41520192,
+  title     ={Structural insights into clinical large language models and their barriers to translational readiness},
+  author    ={You J and Shin H},
+  journal   ={Journal of the American Medical Informatics Association : JAMIA},
+  year      ={2026},
+  note      ={PMID: 41520192; Published: 2026 Mar 1; Direction C},
+  doi       ={10.1093/jamia/ocaf230},
+  keywords  ={DirectionC_RLHF_Medical_Alignment},
+
+  % PUBMED: 41520192 | DIRECTION: C
 }
 
-@article{chen2026C2,
-  title = {HuatuoGPT-3: RL-Only Domain Adaptation from Base Models},
-  author = {Junying Chen and Xinyuan Xie and Ziniu Li and Wenyuan Gu and Jianquan Li and Xiang Wan and Guangjun Yu and Ruoyu Sun},
-  journal = {arXiv (Cornell University)},
-  year = {2026},
-  doi = {10.48550/arXiv.2610.05966},
-  keywords = {Direction-C, rlhf-medical-alignment, daily-2026-10-15},
-  note = {Direction C},
-  abstract = {Domain adaptation aims to turn a general-purpose large language model (LLM) into an expert for a target domain. While the dominant SFT+RL pipeline offers a convenient cold start, it may reduce exploration diversity and introduces additional complexity through multi-stage optimization. These limitations motivate RL-only adaptation. However, pure on-policy RL suffers from a cold-start problem, while mixed-policy RL still falls short: informative tokens in teacher outputs are learned too slowly in early training, and stale teacher outputs can hinder later improvement. We identify these two failure modes as Gradient Starvation and Teacher-Distribution Anchoring. To address them, we propose One-stage Policy Optimization (OnePO), which treats teacher outputs as transient guidance for policy improvement. OnePO combines Adaptive Objective Evolution to strengthen learning on informative low-probability teacher tokens and Teacher Retirement to discard teacher outputs once the current policy can surpass them. On medical adaptation, OnePO achieves 67.2 on HealthBench (Total) with only 20K training samples, outperforming SFT+RL and pure RL by 2.7 and 7.4 points, respectively. We further scale OnePO to produce HuatuoGPT-3, an open-source medical LLM series whose 27B variant reaches 70.1 on HealthBench (Total) and 71.4 on HealthBench Professional, surpassing frontier models such as GPT-6 Astr}
+@article{Lai_2026_41632678,
+  title     ={Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models},
+  author    ={Lai Y and Zhong J and Li M},
+  journal   ={IEEE transactions on medical imaging},
+  year      ={2026},
+  note      ={PMID: 41632678; Published: 2026 Jun; Direction C},
+  doi       ={10.1109/TMI.2026.3661001},
+  keywords  ={DirectionC_RLHF_Medical_Alignment},
+
+  % PUBMED: 41632678 | DIRECTION: C
 }
 
-@article{zahraei2026C3,
-  title = {Emergent Unfaithfulness: How Alignment Training Causes Language Models to Silently Override Task Faithfulness},
-  author = {Pardis Sadat Zahraei and Janvijay Singh and Gokhan Tur and Dilek Hakkani-Tur},
-  journal = {arXiv (Cornell University)},
-  year = {2026},
-  doi = {10.48550/arXiv.2610.00568},
-  keywords = {Direction-C, rlhf-medical-alignment, daily-2026-10-15},
-  note = {Direction C},
-  abstract = {Large language models are characterized by three key properties: capability, alignment, and faithfulness. Prior work studies the tradeoffs between capability and alignment, and between capability and faithfulness, but a third tension remains underexplored: the alignment-faithfulness conflict. We show that aligned models systematically deviate from their inputs on unsafe or sensitive content without disclosing the modification, a failure mode we call alignment-induced unfaithfulness (AIU). Unlike capability-driven unfaithfulness, which comes from errors in knowledge or reasoning, this is induced by post-training mechanisms that override adherence to the input. We introduce FaithConflict, a controlled dataset isolating both conflicts, and two complementary taxonomies: behavioral (B1-B8) and chain-of-thought reasoning (C0-C6). Across models, AIU increases with scale and more sharply than capability-driven unfaithfulness, a reverse scaling law; intermediate checkpoints show it is amplified during post-training, with DPO the stage at which the gap both grows most and becomes least visible. Prompting-based mitigation does not resolve it, revealing a capability-alignment-faithfulness trilemma in the design and evaluation of LLMs.}
+@article{Jia_2026_42154807,
+  title     ={Implicit bias in safety-aligned large language models: A multi-faceted evaluation of clinical decision-making and health equity},
+  author    ={Jia Q and Wen Y and Liu Y},
+  journal   ={PloS one},
+  year      ={2026},
+  note      ={PMID: 42154807; Published: 2026; Direction C},
+  doi       ={10.1371/journal.pone.0348819},
+  keywords  ={DirectionC_RLHF_Medical_Alignment},
+
+  % PUBMED: 42154807 | DIRECTION: C
 }
 
-@article{yang2026D1,
-  title = {Benchmarking reveals the superiority of nucleic acid foundation models in predicting lncRNA coding potential},
-  author = {Yu Yang and Li Ren and Jie Feng and Yan Zhang and Tao Liu},
-  journal = {Genome Biology},
-  year = {2026},
-  doi = {10.1186/s13059-026-04134-7},
-  keywords = {Direction-D, genomic-foundation-models, daily-2026-10-15},
-  note = {Direction D},
-  abstract = {A subset of long noncoding RNAs (lncRNAs) contains short open reading frames and can encode functional micropeptides. However, identifying these coding lncRNAs (codlncRNAs) remains challenging due to weak coding signals, short peptide products, and heterogeneous evidence across databases. Existing computational tools lack unified benchmarks, and the utility of nucleic acid foundation models for this task remains unclear. We construct the first multi-species, evidence-stratified benchmark for codlncRNA prediction and systematically characterized codlncRNAs across molecular dimensions. CodlncRNAs consistently exhibited transitional features between mRNAs and untranslated lncRNAs in sequence, structural, and physicochemical properties. Using this benchmark, we evaluate 12 classical tools and 4 foundation models. Classical methods show limited zero-shot performance, whereas RNA-FM, RiNALMo, and DNABERT-2 achieve substantial gains after fine-tuning. Notably, DNABERT-2, trained solely on DNA, performs competitively or even superior to RNA-specific models. An ensemble framework integrating foundation and classical models further improves robustness and has been deployed as an accessible web server. Our study establishes the first benchmark for codlncRNA prediction, delineates their distinctive transitional molecular profile, and supports the utility of nucleic acid foundation models f}
+@article{Lin_2025_41122975,
+  title     ={Genos: a human-centric genomic foundation model},
+  author    ={Lin A and Xie B and Ye C},
+  journal   ={GigaScience},
+  year      ={2025},
+  note      ={PMID: 41122975; Published: 2025 Jan 6; Direction D},
+  doi       ={10.1093/gigascience/giaf132},
+  keywords  ={DirectionD_Genomic_Foundation_Models},
+
+  % PUBMED: 41122975 | DIRECTION: D
 }
 
-@article{marin2026D2,
-  title = {RAGenome: Scaling Retrieval-Based Genomic Language Models to Long Contexts},
-  author = {Frederikke Isa Marin and Panagiotis Antoniadis and Dionysia Danai Brilli and Andreas Bjerregaard and Rachael DeVries and Yan Li and Ole Winther and Wouter Boomsma},
-  journal = {arXiv (Cornell University)},
-  year = {2026},
-  doi = {10.48550/arXiv.2610.11761},
-  keywords = {Direction-D, genomic-foundation-models, daily-2026-10-15},
-  note = {Direction D},
-  abstract = {The genome holds the blueprint that governs the biological properties of the cell. Consequently, advancing our knowledge of genomic function is crucial both for a broader understanding of biology and for continued biomedical advances. The success of large language models on natural language and protein sequences has motivated similar efforts on genomic data. However, standard genomic language models (gLMs) often require extremely large computational resources and still fall behind traditional methods on some downstream tasks. Recently, MSA-based pretraining has been proposed as an efficient alternative, but existing models are limited to short input contexts, restricting their use to short-range tasks, such as variant effect prediction. In this work, we present RAGenome, the first retrieval-based gLM that scales pretraining to longer contexts (100$\times$ longer than existing MSA-based gLMs), allowing it to capture both across-species evolutionary relationships and within-species longer-range interactions. Trained on whole-genome alignments from 100 vertebrates, RAGenome substantially improves the long-range capabilities of MSA-based gLMs, raising gene finding performance from 0.45 to 0.60, while remaining competitive on purely evolutionary-based tasks like prioritizing pathogenic variants. RAGenome provides competitive gLM performance at a fraction of the training cost, unifyi}
+@article{Long_2026_42319255,
+  title     ={Porcine MutBERT: a family of lightweight genomic foundation models for functional element prediction in pigs},
+  author    ={Long W and Zhou R and Wei W},
+  journal   ={Briefings in bioinformatics},
+  year      ={2026},
+  note      ={PMID: 42319255; Published: 2026 May 4; Direction D},
+  doi       ={10.1093/bib/bbag319},
+  keywords  ={DirectionD_Genomic_Foundation_Models},
+
+  % PUBMED: 42319255 | DIRECTION: D
 }
 
-@article{kendiukhov2026D3,
-  title = {Mechanistic interpretability of a plant genomic foundation model: Data probes, causal interventions, and motif analysis},
-  author = {Ilya Kendiukhov},
-  journal = {Computational Biology and Chemistry},
-  year = {2026},
-  doi = {10.1016/j.compbiolchem.2026.109438},
-  keywords = {Direction-D, genomic-foundation-models, daily-2026-10-15},
-  note = {Direction D},
-  abstract = {Foundation models trained on plant DNA are increasingly used across plant-biology pipelines, yet their internal representations remain opaque, and existing interpretability claims - based on attention visualization, small synthetic evaluations, or single-number benchmark gains - are vulnerable to GC-content and composition confounds. I present a reproducible, composition-controlled protocol for interpreting plant genomic foundation models: six annotated, chromosome-split benchmarks (80,000 windows) together with GC-matched, realistic-negative and repeat-masked variants of them, learned-from-scratch baselines, phylogenetic residualization, sparse autoencoders tested against JASPAR/PlantTFDB motifs, and per-component causal interventions. It is developed on Plant-DnaGemma and re-run, in its probing, control, sparse-autoencoder and block-ablation stages, on Plant DNABERT and AgroNT. Plant-DnaGemma exceeds a 4-mer logistic baseline by 12 percentage points and a DanQ-style convolutional network by 8 on 5-way region-type classification, but merely ties task-supervised convolutional networks on the binary transcription-start-site and promoter tasks. Against a random background almost every sparse-autoencoder feature matches some plant transcription-factor motif, which shows chiefly that such a background is too weak a control; against a dinucleotide-composition-matched background only}
+@article{Ma_2026_42574411,
+  title     ={TrustEndo: A Conformal-Calibrated MLLM With Retrieval-Augmented Reasoning for Trustworthy Gastroscopic Diagnosis},
+  author    ={Ma Y and Feng M and Wang H},
+  journal   ={IEEE journal of biomedical and health informatics},
+  year      ={2026},
+  note      ={PMID: 42574411; Published: 2026 Aug 10; Direction F},
+  doi       ={10.1109/JBHI.2026.3718239},
+  keywords  ={DirectionF_Multimodal_Clinical_Agent},
+
+  % PUBMED: 42574411 | DIRECTION: F
 }
 
-@article{cai2026F1,
-  title = {EyeGraph: A Multi-granularity Medical Vision-Language Foundation Model with Knowledge Graph Reasoning for Ophthalmology},
-  author = {Zhengyi Cai and Yuqi Ren and Yan Liu and Jia Li and Yijin Huang and Pengcheng Cheng},
-  journal = {IEEE Transactions on Medical Imaging},
-  year = {2026},
-  doi = {10.1109/TMI.2026.3742614},
-  keywords = {Direction-F, multimodal-clinical-agent, daily-2026-10-15},
-  note = {Direction F},
-  abstract = {The exponential growth of large vision-language models (VLMs) has created significant opportunities for advancing multimodal artificial intelligence in specialized domains such as ophthalmology. However, progress in ophthalmic VLMs remains limited, primarily due to the lack of large-scale, high-quality image-text pairs. Moreover, existing VLMs frequently generate hallucinations, leading to uncertainty and unreliability that are unacceptable in clinical practice. To address the data scarcity issue, we introduce IT-Retinal, a dedicated ophthalmic Vision Question Answering (VQA) dataset that providesmultigranularity tasks and high-quality long-form textual content in image-text pairs. To mitigate hallucinations, we propose EyeGraph, a framework for ophthalmic VLMs that consists of two training stages, targeted pre-training and fine-tuning, and one inference stage that integrates Graph of Thought (GoT) and Think on Graph (ToG) reasoning, referred to as G2T. This design enables EyeGraph to incorporate structured external knowledge, constrain the output space, and produce more clinically consistent results. Extensive experiments demonstrate that EyeGraph achieves state-of-the-art performance across seven clinically relevant benchmarks, spanning disease diagnosis, structural detection and localization, and report generation. Notably, the proposed G2T reasoning module consistently impr}
+@article{Fan_2026_42204307,
+  title     ={Advancing radiology foundation models with reasoning through step-by-step verification from daily reports},
+  author    ={Fan Z and Liang C and Wu C},
+  journal   ={Communications medicine},
+  year      ={2026},
+  note      ={PMID: 42204307; Published: 2026 May 27; Direction F},
+  doi       ={10.1038/s43856-026-01654-y},
+  keywords  ={DirectionF_Multimodal_Clinical_Agent},
+
+  % PUBMED: 42204307 | DIRECTION: F
 }
 
-@article{tang2026F2,
-  title = {OmniMed-Jev: Calibrating LVLM Confidence for Trustworthy Medical Multimodal Decisions via System One},
-  author = {Luyao Tang and Cheng Chen},
-  journal = {arXiv (Cornell University)},
-  year = {2026},
-  doi = {10.48550/arXiv.2610.00381},
-  keywords = {Direction-F, multimodal-clinical-agent, daily-2026-10-15},
-  note = {Direction F},
-  abstract = {Medical models are judged not only on correctness, but on whether reported confidence matches actual accuracy. Generalist multimodal medical models have expanded what a single model can perceive, yet they still express bounded decisions such as diagnoses, findings or cell counts as generated text, so the reported probability reflects the next token rather than the decision itself. Motivated by decision-native interfaces such as Jev, we introduce OmniMed-Jev, which represents each medical decision as a Choice, Noul or Score decision over a runtime-supplied candidate set and returns a full distribution over that set: mutually exclusive classes, binary presence of a finding, or a bounded ordered value. The design is omni in three respects: it accepts diverse imaging modalities, covers different prediction tasks, and expresses them through one candidate-conditioned probability model, so heterogeneous outputs become comparable probabilities rather than task-specific strings. In an interface-controlled comparison against a generative baseline trained on the same backbone, data and schedule, OmniMed-Jev's reported probabilities track observed correctness far more closely, reducing calibration error by up to an order of magnitude and reliability error by up to two, while point-prediction performance remains comparable; counting is the one family where the generative baseline stays ahea}
+@article{Liu_2026_42332126,
+  title     ={Development of a multimodal large language model for early warning and diagnosis of chronic ocular GVHD},
+  author    ={Liu S and Cao L and Wu H},
+  journal   ={NPJ digital medicine},
+  year      ={2026},
+  note      ={PMID: 42332126; Published: 2026 Jun 22; Direction F},
+  doi       ={10.1038/s41746-026-02916-8},
+  keywords  ={DirectionF_Multimodal_Clinical_Agent},
+
+  % PUBMED: 42332126 | DIRECTION: F
 }
 
-@article{fang2026X1,
-  title = {When Do Biological Reasoning Models Use Their Biological Inputs?},
-  author = {Ada Fang and Nikitha Thoduguli and Lukas Fesser and Hanlin Zhang and Sham M. Kakade and Marinka Zitnik},
-  journal = {arXiv (Cornell University)},
-  year = {2026},
-  doi = {10.48550/arXiv.2610.00898},
-  keywords = {Direction-X, cross-disciplinary, daily-2026-10-15},
-  note = {Direction X},
-  abstract = {Biological reasoning models use post-training to connect LLMs to biological foundation model representations and biological text. Their benchmark accuracy is taken as evidence that LLMs reason over these inputs. We test this assumption in six biological reasoning models across DNA, protein, and single-cell tasks. We perturb one biological input while holding the query and other inputs fixed, construct evidence conflicts that pair the foundation model representation of one genome, protein, or cell with the text of another, fit linear probes to the representations the language model receives, and analyze reasoning traces against the biological inputs. Evo2 and ESM3 contribute little to BioReason and BioReason-Pro performance on the evaluated tasks. Shuffling the DNA sequence barely changes BioReason disease prediction accuracy, and in evidence conflicts the two models follow the text in 97.9\% and 99.7\% of cases. Linear probes trained on the Evo2 and ESM3 representations predict the task targets, so these foundation models encode information relevant to the task, but provide limited overall performance improvement to BioReason and BioReason-Pro. In contrast, foundation model inputs contribute to ChatNT, Prot2Text-V2, and CellWhisperer performance, and differentially expressed genes in the gene sentence contribute to Cell2Sentence-Scale performance. Across SFT and RL checkpoints of}
+@article{Ang_2026_42737969,
+  title     ={Trustworthy Agentic AI in Bioinformatics: From Workflow Automation to Traceable and Validated Biological Inference},
+  author    ={Ang MY and Lipovich L and Choo SW},
+  journal   ={Biology},
+  year      ={2026},
+  note      ={PMID: 42737969; Published: 2026 Sep 4; Direction X},
+  doi       ={10.3390/biology15171537},
+  keywords  ={DirectionX_CrossDiscovered},
+
+  % PUBMED: 42737969 | DIRECTION: X
 }
 
-@article{mariano2026X2,
-  title = {Robotic safety in self-driving laboratories},
-  author = {Ettore Mariano and Michael Lowensberg and Tobias Bloesch and Giada T. Costanzo and Paul Mieville},
-  journal = {SLAS Technology},
-  year = {2026},
-  doi = {10.1016/j.slast.2026.100463},
-  keywords = {Direction-X, cross-disciplinary, daily-2026-10-15},
-  note = {Direction X},
-  abstract = {The emergence of autonomous laboratories is accelerating discovery in chemistry, drug discovery, materials science, and related fields by enabling high-throughput, data-driven experimentation. However, the integration of heterogeneous robotic systems, ranging from fixed manipulators to mobile platforms, introduces safety challenges that are not systematically addressed in newly established laboratories. In this context, this work aims to raise awareness of robotic safety among chemists and biologists leading laboratory automation projects who may have limited access to industrial robotics expertise. To support a preliminary evaluation of existing or newly developed automated laboratory systems, we explain and demonstrate the use of a simple, structured safety assessment methodology based on ISO standards and tailored to laboratory environments. The framework combines established robotics safety standards with laboratory-specific considerations, including chemical hazards, human-robot interaction, and dynamic workflows. To facilitate its adoption by scientists, the methodology is illustrated through a case study conducted at the Swiss CAT+ West Hub autonomous laboratory, focusing on a multi-instrument analytical platform integrating collaborative robotic arms and mobile robotic systems. The proposed framework follows a six-step iterative process encompassing system definition, h}
+@article{Kim_2026_42862940,
+  title     ={A language model framework for sequence modeling of audit logs to characterize clinician-electronic health record interactions},
+  author    ={Kim S and Lou SS and Cobb A},
+  journal   ={Journal of the American Medical Informatics Association : JAMIA},
+  year      ={2026},
+  note      ={PMID: 42862940; Published: 2026 Oct 12; Direction X},
+  doi       ={10.1093/jamia/ocag163},
+  keywords  ={DirectionX_CrossDiscovered},
+
+  % PUBMED: 42862940 | DIRECTION: X
 }
