@@ -1,6 +1,6 @@
 {
  "description": "Tracked paper IDs for deduplication across daily reports",
- "last_updated": "2026-10-15",
+ "last_updated": "2026-10-17",
  "papers": {
   "10.3389/fmicb.2025.1634194": {
    "date_added": "2026-08-04",
@@ -6021,9 +6021,9 @@
    "title": "DeepMed Search: An Open-Source Agentic Platform for Medical Deep Research"
   },
   "2610.02979": {
-   "date_added": "2026-10-11",
+   "date_added": "2026-10-17",
    "direction": "C",
-   "title": "RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Prediction"
+   "title": "RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Predictio"
   },
   "2608.24534": {
    "date_added": "2026-10-11",
@@ -6221,7 +6221,7 @@
    "title": "CUI-Curate: GraphRAG framework for automated clinical concept curation"
   },
   "2610.05966": {
-   "date_added": "2026-10-15",
+   "date_added": "2026-10-17",
    "direction": "C",
    "title": "HuatuoGPT-3: RL-Only Domain Adaptation from Base Models"
   },
@@ -7038,6 +7038,121 @@
    "date_added": "2026-10-15",
    "direction": "X",
    "title": "Language model framework for sequence modeling of EHR audit logs"
+  },
+  "10.1128/spectrum.01165-26": {
+   "date_added": "2026-10-17",
+   "direction": "A",
+   "title": "A comparative study of mNGS and tNGS for pathogen detection in paired upper and "
+  },
+  "42782157": {
+   "date_added": "2026-10-17",
+   "direction": "A",
+   "title": "A comparative study of mNGS and tNGS for pathogen detection in paired upper and "
+  },
+  "10.1038/s41698-026-01749-8": {
+   "date_added": "2026-10-17",
+   "direction": "B",
+   "title": "Towards a structure-aware multi-hop retrieval framework for large language model"
+  },
+  "10.1093/jamia/ocag111": {
+   "date_added": "2026-10-17",
+   "direction": "B",
+   "title": "Orchestrator multi-agent clinical decision support system for secondary headache"
+  },
+  "42364078": {
+   "date_added": "2026-10-17",
+   "direction": "B",
+   "title": "Orchestrator multi-agent clinical decision support system for secondary headache"
+  },
+  "10.3389/fdgth.2026.1883739": {
+   "date_added": "2026-10-17",
+   "direction": "B",
+   "title": "IPF-RAG: temporal-aware retrieval-augmented generation for idiopathic pulmonary "
+  },
+  "10.48550/arXiv.2610.05966": {
+   "date_added": "2026-10-17",
+   "direction": "C",
+   "title": "HuatuoGPT-3: RL-Only Domain Adaptation from Base Models"
+  },
+  "10.48550/arXiv.2610.02979": {
+   "date_added": "2026-10-17",
+   "direction": "C",
+   "title": "RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Predictio"
+  },
+  "10.48550/arXiv.2610.11281": {
+   "date_added": "2026-10-17",
+   "direction": "C",
+   "title": "How to post-train on a surrogate: Envelope sampling mitigates reward hacking"
+  },
+  "2610.11281": {
+   "date_added": "2026-10-17",
+   "direction": "C",
+   "title": "How to post-train on a surrogate: Envelope sampling mitigates reward hacking"
+  },
+  "10.64898/2026.10.07.757259": {
+   "date_added": "2026-10-17",
+   "direction": "D",
+   "title": "DNA-LLM2Vec: Architecture-Aware Task-Conditioned Adaptation of Decoder DNA Found"
+  },
+  "10.64898/2026.10.10.757278": {
+   "date_added": "2026-10-17",
+   "direction": "D",
+   "title": "Alignment-Aware Genomic Coordinate Encoding for Long-Range DNA Modeling (USM-AA)"
+  },
+  "10.48550/arXiv.2610.15396": {
+   "date_added": "2026-10-17",
+   "direction": "D",
+   "title": "Training-Data Extraction from Genomic Language Models"
+  },
+  "2610.15396": {
+   "date_added": "2026-10-17",
+   "direction": "D",
+   "title": "Training-Data Extraction from Genomic Language Models"
+  },
+  "10.48550/arXiv.2610.13510": {
+   "date_added": "2026-10-17",
+   "direction": "F",
+   "title": "Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integr"
+  },
+  "2610.13510": {
+   "date_added": "2026-10-17",
+   "direction": "F",
+   "title": "Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integr"
+  },
+  "10.48550/arXiv.2610.11140": {
+   "date_added": "2026-10-17",
+   "direction": "F",
+   "title": "ActiveMedAgent: Cost-Aware Trajectory Learning for Multimodal Medical Diagnosis"
+  },
+  "2610.11140": {
+   "date_added": "2026-10-17",
+   "direction": "F",
+   "title": "ActiveMedAgent: Cost-Aware Trajectory Learning for Multimodal Medical Diagnosis"
+  },
+  "10.48550/arXiv.2610.15714": {
+   "date_added": "2026-10-17",
+   "direction": "F",
+   "title": "MedHarnessBench: A Unified Benchmark for Healthcare Agent Evaluation"
+  },
+  "2610.15714": {
+   "date_added": "2026-10-17",
+   "direction": "F",
+   "title": "MedHarnessBench: A Unified Benchmark for Healthcare Agent Evaluation"
+  },
+  "10.1038/s44386-026-00075-0": {
+   "date_added": "2026-10-17",
+   "direction": "X",
+   "title": "The rise of agentic AI in drug discovery from static tools to autonomous virtual"
+  },
+  "10.1038/s41586-026-10764-5": {
+   "date_added": "2026-10-17",
+   "direction": "X",
+   "title": "Towards conversational artificial intelligence for disease management (AMIE)"
+  },
+  "42310463": {
+   "date_added": "2026-10-17",
+   "direction": "X",
+   "title": "Towards conversational artificial intelligence for disease management (AMIE)"
   }
  }
 }
