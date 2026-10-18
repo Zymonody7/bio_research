@@ -1,6 +1,6 @@
 {
  "description": "Tracked paper IDs for deduplication across daily reports",
- "last_updated": "2026-10-17",
+ "last_updated": "2026-10-18",
  "papers": {
   "10.3389/fmicb.2025.1634194": {
    "date_added": "2026-08-04",
@@ -7153,6 +7153,201 @@
    "date_added": "2026-10-17",
    "direction": "X",
    "title": "Towards conversational artificial intelligence for disease management (AMIE)"
+  },
+  "42813064": {
+   "date_added": "2026-10-18",
+   "direction": "A",
+   "title": "ML-Based Severity Classification of Chlamydia psittaci Pneumonia",
+   "pmid": "42813064"
+  },
+  "10.2147/IDR.S622689": {
+   "date_added": "2026-10-18",
+   "direction": "A",
+   "title": "ML-Based Severity Classification of Chlamydia psittaci Pneumonia",
+   "pmid": "42813064",
+   "doi": "10.2147/IDR.S622689"
+  },
+  "42711738": {
+   "date_added": "2026-10-18",
+   "direction": "A",
+   "title": "Analysis of pulmonary microbiome in ARDS using BALF mNGS",
+   "pmid": "42711738"
+  },
+  "10.1186/s40560-026-00940-0": {
+   "date_added": "2026-10-18",
+   "direction": "A",
+   "title": "Analysis of pulmonary microbiome in ARDS using BALF mNGS",
+   "pmid": "42711738",
+   "doi": "10.1186/s40560-026-00940-0"
+  },
+  "42865541": {
+   "date_added": "2026-10-18",
+   "direction": "A",
+   "title": "Integrated pathogen detection and immune profiling in posner-schlossman syndrome",
+   "pmid": "42865541"
+  },
+  "10.3389/fcell.2026.1918795": {
+   "date_added": "2026-10-18",
+   "direction": "A",
+   "title": "Integrated pathogen detection and immune profiling in posner-schlossman syndrome",
+   "pmid": "42865541",
+   "doi": "10.3389/fcell.2026.1918795"
+  },
+  "42428098": {
+   "date_added": "2026-10-18",
+   "direction": "B",
+   "title": "RESCUE: end-to-end multi-agent LLM system for rare-disease EHR screening",
+   "pmid": "42428098"
+  },
+  "10.64898/2026.06.24.26356357": {
+   "date_added": "2026-10-18",
+   "direction": "B",
+   "title": "RESCUE: end-to-end multi-agent LLM system for rare-disease EHR screening",
+   "pmid": "42428098",
+   "doi": "10.64898/2026.06.24.26356357"
+  },
+  "42742847": {
+   "date_added": "2026-10-18",
+   "direction": "B",
+   "title": "CPS-Net: Decentralized Multi-Agent Transformer for Specialty-Aware Disease Prediction",
+   "pmid": "42742847"
+  },
+  "10.1007/s10916-026-02460-8": {
+   "date_added": "2026-10-18",
+   "direction": "B",
+   "title": "CPS-Net: Decentralized Multi-Agent Transformer for Specialty-Aware Disease Prediction",
+   "pmid": "42742847",
+   "doi": "10.1007/s10916-026-02460-8"
+  },
+  "41629753": {
+   "date_added": "2026-10-18",
+   "direction": "B",
+   "title": "AI agent for delirium screening in oncology and cardiac ICUs",
+   "pmid": "41629753"
+  },
+  "10.1093/eurjcn/zvag029": {
+   "date_added": "2026-10-18",
+   "direction": "B",
+   "title": "AI agent for delirium screening in oncology and cardiac ICUs",
+   "pmid": "41629753",
+   "doi": "10.1093/eurjcn/zvag029"
+  },
+  "42789929": {
+   "date_added": "2026-10-18",
+   "direction": "C",
+   "title": "SAFE_DTx: Safety-First Framework for AI-Driven Personalization in Digital Therapeutics",
+   "pmid": "42789929"
+  },
+  "10.2196/78202": {
+   "date_added": "2026-10-18",
+   "direction": "C",
+   "title": "SAFE_DTx: Safety-First Framework for AI-Driven Personalization in Digital Therapeutics",
+   "pmid": "42789929",
+   "doi": "10.2196/78202"
+  },
+  "42667993": {
+   "date_added": "2026-10-18",
+   "direction": "C",
+   "title": "Teacher-supervised small medical LMs for institution-constrained clinical QA",
+   "pmid": "42667993"
+  },
+  "10.1016/j.jbi.2026.105095": {
+   "date_added": "2026-10-18",
+   "direction": "C",
+   "title": "Teacher-supervised small medical LMs for institution-constrained clinical QA",
+   "pmid": "42667993",
+   "doi": "10.1016/j.jbi.2026.105095"
+  },
+  "42744826": {
+   "date_added": "2026-10-18",
+   "direction": "D",
+   "title": "Melody: decoding sequence determinants of locus-specific DNA methylation",
+   "pmid": "42744826"
+  },
+  "10.1038/s41467-026-76744-5": {
+   "date_added": "2026-10-18",
+   "direction": "D",
+   "title": "Melody: decoding sequence determinants of locus-specific DNA methylation",
+   "pmid": "42744826",
+   "doi": "10.1038/s41467-026-76744-5"
+  },
+  "42330352": {
+   "date_added": "2026-10-18",
+   "direction": "D",
+   "title": "GraphyloVar: predicting non-coding variant impact with multi-species sequence model",
+   "pmid": "42330352"
+  },
+  "10.1093/bioinformatics/btag426": {
+   "date_added": "2026-10-18",
+   "direction": "D",
+   "title": "GraphyloVar: predicting non-coding variant impact with multi-species sequence model",
+   "pmid": "42330352",
+   "doi": "10.1093/bioinformatics/btag426"
+  },
+  "42546502": {
+   "date_added": "2026-10-18",
+   "direction": "D",
+   "title": "Accurate prediction of GOF/LOF missense variants in GABAA receptors",
+   "pmid": "42546502"
+  },
+  "10.1016/j.ebiom.2026.106417": {
+   "date_added": "2026-10-18",
+   "direction": "D",
+   "title": "Accurate prediction of GOF/LOF missense variants in GABAA receptors",
+   "pmid": "42546502",
+   "doi": "10.1016/j.ebiom.2026.106417"
+  },
+  "42810386": {
+   "date_added": "2026-10-18",
+   "direction": "F",
+   "title": "Tri-modal offline explainable ECG interpretation: rules + ResNet + agentic VLM",
+   "pmid": "42810386"
+  },
+  "10.1088/1361-6579/aeaded": {
+   "date_added": "2026-10-18",
+   "direction": "F",
+   "title": "Tri-modal offline explainable ECG interpretation: rules + ResNet + agentic VLM",
+   "pmid": "42810386",
+   "doi": "10.1088/1361-6579/aeaded"
+  },
+  "42588739": {
+   "date_added": "2026-10-18",
+   "direction": "F",
+   "title": "RAG-Enabled Multimodal LLM for Histopathologic Grading of cSCC and Nevi",
+   "pmid": "42588739"
+  },
+  "10.3390/cancers18152524": {
+   "date_added": "2026-10-18",
+   "direction": "F",
+   "title": "RAG-Enabled Multimodal LLM for Histopathologic Grading of cSCC and Nevi",
+   "pmid": "42588739",
+   "doi": "10.3390/cancers18152524"
+  },
+  "42765456": {
+   "date_added": "2026-10-18",
+   "direction": "F",
+   "title": "Image-Based Diagnosis of Oral Lesions: VLM vs Human Clinicians",
+   "pmid": "42765456"
+  },
+  "10.1002/ohn.70437": {
+   "date_added": "2026-10-18",
+   "direction": "F",
+   "title": "Image-Based Diagnosis of Oral Lesions: VLM vs Human Clinicians",
+   "pmid": "42765456",
+   "doi": "10.1002/ohn.70437"
+  },
+  "42696754": {
+   "date_added": "2026-10-18",
+   "direction": "X",
+   "title": "Gene-Chronos: parameter-efficient developmental time inference (Geneformer)",
+   "pmid": "42696754"
+  },
+  "10.1093/bib/bbag469": {
+   "date_added": "2026-10-18",
+   "direction": "X",
+   "title": "Gene-Chronos: parameter-efficient developmental time inference (Geneformer)",
+   "pmid": "42696754",
+   "doi": "10.1093/bib/bbag469"
   }
  }
 }
