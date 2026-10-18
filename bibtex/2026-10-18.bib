@@ -1,0 +1,167 @@
+% Daily paper curations — 2026-10-18
+% Directions: A=mNGS+AI pathogen, B=Clinical Agent+RAG/KG, C=RLHF Medical Alignment, D=Genomic Foundation Models, F=Multimodal Clinical Agent, X=Cross-signal
+
+@article{X202642813064,
+  title   = {Clinical Characteristics and Machine Learning-Based Severity Classification of Chlamydia psittaci Pneumonia: A Retrospective Cohort Study},
+  author  = {Lei X and Zhao L and Zhong Z and Lin H and Xie Z and Guo Y and Zhang S and Zhang C and Gong T},
+  journal = {Infection and drug resistance},
+  year    = {2026},
+  doi     = {10.2147/IDR.S622689},
+  pmid    = {42813064},
+  keywords = {Direction-A, mNGS-AI-pathogen},
+  note    = {[A][🔥] 231例鹦鹉热衣原体肺炎回顾性队列，11种ML算法+6种特征筛选构建严重度分层模型（RF+SVM，AUC 0.845）。74%患者mNGS共检出其他病原。入院级}
+}
+
+@article{X202642711738,
+  title   = {Analysis of the pulmonary microbiome in ARDS patients using bronchoalveolar lavage fluid metagenomic next-generation sequencing: a retrospective observational study},
+  author  = {Gao X and Qin R and He J},
+  journal = {Journal of intensive care},
+  year    = {2026},
+  doi     = {10.1186/s40560-026-00940-0},
+  pmid    = {42711738},
+  keywords = {Direction-A, mNGS-AI-pathogen},
+  note    = {[A][🔥] 159例ARDS的BALF mNGS研究：用ML分类器划分低/高炎症亚表型，mNGS病因诊断显著优于常规（病毒74.5% vs 28.2%）。高炎症型肺菌群多样}
+}
+
+@article{D202642865541,
+  title   = {Integrated pathogen detection and immune profiling in posner-schlossman syndrome: a metagenomic and cytokine approach},
+  author  = {Yuan D and Gu C and Fang Y and Yang Q},
+  journal = {Frontiers in cell and developmental biology},
+  year    = {2026},
+  doi     = {10.3389/fcell.2026.1918795},
+  pmid    = {42865541},
+  keywords = {Direction-A, mNGS-AI-pathogen},
+  note    = {[A][📎] 阴性结果值得记录：52例Posner-Schlossman综合征，mNGS检出CMV 42.3%，但7种ML算法均无法用细胞因子区分CMV状态（最佳AUC仅0.}
+}
+
+@article{C202642428098,
+  title   = {RESCUE: An end-to-end multi-agent LLM system for proactive rare-disease patient screening in the EHR},
+  author  = {Liu C and Geltzeiler A and Afyouni A and Nie M and Ravi K and French C and Wojcik M and Chung WK},
+  journal = {medRxiv : the preprint server for health sciences},
+  year    = {2026},
+  doi     = {10.64898/2026.06.24.26356357},
+  pmid    = {42428098},
+  keywords = {Direction-B, Clinical-Agent-RAG-KG},
+  note    = {[B][🔥🔥] RESCUE：四智能体（Ontology/Modeling/Screening/Review）端到端EHR罕见病主动筛查。PU-XGBoost建模+全院17.5}
+}
+
+@article{MA202642742847,
+  title   = {CPS-Net (Collaborating Physicians in Silico Network): A Decentralized Multi-Agent Transformer Framework for Specialty-Aware Disease Prediction},
+  author  = {Shalmani MA and Khani M and Harris MS and Lu Q and Luo J},
+  journal = {Journal of medical systems},
+  year    = {2026},
+  doi     = {10.1007/s10916-026-02460-8},
+  pmid    = {42742847},
+  keywords = {Direction-B, Clinical-Agent-RAG-KG},
+  note    = {[B][🔥🔥] CPS-Net：去中心化"智能体群"镜像医院转诊层级（初级/专科/亚专科），41个专科Transformer+LM智能体经共享病例记忆协作、无中心监督。7.5万}
+}
+
+@article{Y202641629753,
+  title   = {Artificial intelligence agent for delirium screening among patients in oncology and cardiac intensive care units: a proof-of-concept study},
+  author  = {Zeng Y and Xie H and Gu F and Chen J and Zhang G and Jiang X and Lau ST},
+  journal = {European journal of cardiovascular nursing},
+  year    = {2026},
+  doi     = {10.1093/eurjcn/zvag029},
+  pmid    = {41629753},
+  keywords = {Direction-B, Clinical-Agent-RAG-KG},
+  note    = {[B][🔥🔥] ICU谵妄筛查AI智能体：从公开指南构建谵妄专属知识图谱+RAG，整合已验证评估工具。20例基准中工具选择100%准确、结论/建议90%准确（其他LLM基线仅4}
+}
+
+@article{D202642789929,
+  title   = {SAFE_DTx: Safety-First Framework for AI-Driven Personalization in Digital Therapeutics},
+  author  = {Rim D},
+  journal = {JMIR medical informatics},
+  year    = {2026},
+  doi     = {10.2196/78202},
+  pmid    = {42789929},
+  keywords = {Direction-C, RLHF-Medical-Alignment},
+  note    = {[C][🔥] SAFE_DTx：数字疗法"安全优先"架构——AI反馈预测模块（预判短期患者反应）+约束规划模块（在显式安全边界内选干预）。解耦两模块并强制安全护栏。in si}
+}
+
+@article{G202642667993,
+  title   = {Evaluating teacher-supervised small medical language models for institution-constrained clinical QA},
+  author  = {Du G and Dimitriadis D and Li X},
+  journal = {Journal of biomedical informatics},
+  year    = {2026},
+  doi     = {10.1016/j.jbi.2026.105095},
+  pmid    = {42667993},
+  keywords = {Direction-C, RLHF-Medical-Alignment},
+  note    = {[C][🔥🔥] 机构内临床QA中小医疗LM适配：DistilGPT2学生+Llama3-70B教师，对比answer-only/CoT/QAFT/DPO。关键发现：DPO并未统}
+}
+
+@article{J202642744826,
+  title   = {Decoding the sequence determinants of locus-specific DNA methylation across human tissues},
+  author  = {Jin J and Wang D and Qiao J and Gao W and Liu Y and Chen S and Zou Q and Wu S and Su R and Wei L},
+  journal = {Nature communications},
+  year    = {2026},
+  doi     = {10.1038/s41467-026-76744-5},
+  pmid    = {42744826},
+  keywords = {Direction-D, Genomic-Foundation-Model},
+  note    = {[D][🔥🔥] Melody：从10kb基因组序列预测DNA甲基化的深度学习框架，整合局部+长程序列信号，39种人体组织全面超越现有方法，并泛化到meQTL效应与调控motif}
+}
+
+@article{D202642330352,
+  title   = {GraphyloVar: predicting the impact of non-coding variants using a multi-species sequence model},
+  author  = {Lim D and Blanchette M},
+  journal = {Bioinformatics (Oxford, England)},
+  year    = {2026},
+  doi     = {10.1093/bioinformatics/btag426},
+  pmid    = {42330352},
+  keywords = {Direction-D, Genomic-Foundation-Model},
+  note    = {[D][🔥🔥] GraphyloVar：GCN处理系统发育树+Transformer编码DNA序列，把跨物种进化史作为显式归纳偏置，TOPMed群体等位频率预训练，1.49亿变}
+}
+
+@article{CM202642546502,
+  title   = {Accurate prediction of gain- and loss-of-function missense variants in GABAA receptors},
+  author  = {Boßelmann CM and Ortiz S and Dahl R and Liao VWY and El-Kamand S and Lin SXN and Hon Kan AS and Brünger T and Lal D and Lerche H and Kreuer J and Pfeifer N and Chebib M and Absalom NL and Ahring PK and Møller RS},
+  journal = {EBioMedicine},
+  year    = {2026},
+  doi     = {10.1016/j.ebiom.2026.106417},
+  pmid    = {42546502},
+  keywords = {Direction-D, Genomic-Foundation-Model},
+  note    = {[D][📎] GABAA受体错义变异功能预测：505例电生理实测数据+序列/结构/表型特征，AUROC 0.862–0.946大幅超越SOTA(0.495–0.756)与临床}
+}
+
+@article{MMR202642810386,
+  title   = {A tri-modal, offline, and explainable framework for 12-lead electrocardiogram interpretation: fusing deterministic rules, a local residual network, and an agentic vision-language model},
+  author  = {Khan Mamun MMR},
+  journal = {Physiological measurement},
+  year    = {2026},
+  doi     = {10.1088/1361-6579/aeaded},
+  pmid    = {42810386},
+  keywords = {Direction-F, Multimodal-Clinical-Agent},
+  note    = {[F][🔥🔥] 离线可解释ECG三模态框架：26条确定性临床规则+本地ResNet+agentic VLM三解释器融合。PTB-XL宏AUROC 0.932，CPU 108ms}
+}
+
+@article{J202642588739,
+  title   = {Retrieval-Augmented Generation-Enabled Multimodal Large Language Model for Histopathologic Grading of Cutaneous Squamous Cell Carcinoma and Melanocytic Nevi},
+  author  = {Mijares J and Gan E and Jairath NK and Hamad J and Alomari A and Ramachandran V and Que SKT},
+  journal = {Cancers},
+  year    = {2026},
+  doi     = {10.3390/cancers18152524},
+  pmid    = {42588739},
+  keywords = {Direction-F, Multimodal-Clinical-Agent},
+  note    = {[F][🔥🔥] RAG-MLLM病理分级：Claude 4.5 Opus+ChromaDB双RAG通道。cSCC分化分级与病理专家一致率90%(κ=0.85)，但黑色素痣异型增}
+}
+
+@article{LA202642765456,
+  title   = {Image-Based Diagnosis of Oral Lesions: Performance of a Vision-Language Model versus Human Clinicians},
+  author  = {Vaira LA and Lechien JR and Fabiola Giudici and Gasparato A and Maniaci A and De Vito A and Maglitto F and Mayo-Yáñez M and Troise S and Chiesa-Estomba CM and Gabriele G and Frosolini A and Radulesco T and Allevi F and Vellone V and Committeri U and Spallaccia F and Pucci R and Consorti G and Cirignaco G and Crimi S and Petrocelli M and Trecca EMC and Iannella G and Laganà F and Bianchi B and Saibene AM and Hack S and Boscolo-Rizzo P and Soro GM and Salzano G and Polesel J and De Riu G},
+  journal = {Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery},
+  year    = {2026},
+  doi     = {10.1002/ohn.70437},
+  pmid    = {42765456},
+  keywords = {Direction-F, Multimodal-Clinical-Agent},
+  note    = {[F][🔥] Gemini 2.5 Advanced图像诊断口腔黏膜病变：20中心国际前瞻350例。恶性判别敏感性98.5%/特异性96.2%，精确组织学诊断88.0%（头颈}
+}
+
+@article{Y202642696754,
+  title   = {Gene-Chronos: parameter-efficient developmental time inference using a pretrained single-cell foundation model},
+  author  = {Liu Y and Gao H and Tian T},
+  journal = {Briefings in bioinformatics},
+  year    = {2026},
+  doi     = {10.1093/bib/bbag469},
+  pmid    = {42696754},
+  keywords = {Direction-X, Cross-Signal},
+  note    = {[X][🔥🔥] Gene-Chronos：冻结预训练Geneformer骨干+可学习时间提示token+时间对比目标，做发育时间连续推断，跨物种/发育阶段泛化并优于现有方法，注}
+}
