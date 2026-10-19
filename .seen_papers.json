@@ -1,6 +1,6 @@
 {
  "description": "Tracked paper IDs for deduplication across daily reports",
- "last_updated": "2026-10-18",
+ "last_updated": "2026-10-19",
  "papers": {
   "10.3389/fmicb.2025.1634194": {
    "date_added": "2026-08-04",
@@ -7348,6 +7348,96 @@
    "title": "Gene-Chronos: parameter-efficient developmental time inference (Geneformer)",
    "pmid": "42696754",
    "doi": "10.1093/bib/bbag469"
+  },
+  "10.1016/j.infpip.2026.100522": {
+   "date_added": "2026-10-19",
+   "direction": "A",
+   "title": "Artificial intelligence in combating challenges in antimicrobial resistance: a narrative review.",
+   "source": "pubmed"
+  },
+  "10.1038/s41592-026-03225-4": {
+   "date_added": "2026-10-19",
+   "direction": "A",
+   "title": "NanoTS: a deep learning tool for accurate SNP calling in nanopore long-read transcriptome data.",
+   "source": "pubmed"
+  },
+  "10.1038/s41698-026-01733-2": {
+   "date_added": "2026-10-19",
+   "direction": "B",
+   "title": "Skill-guided agentic reasoning enables longitudinal synthesis of myeloma records at expert-level con",
+   "source": "pubmed"
+  },
+  "10.1007/s10278-026-02326-y": {
+   "date_added": "2026-10-19",
+   "direction": "B",
+   "title": "RADAR: A Prototype for Grounding Large Language Model Consult Support in an ACR-Structured Appropria",
+   "source": "pubmed"
+  },
+  "10.3389/frai.2026.1883853": {
+   "date_added": "2026-10-19",
+   "direction": "B",
+   "title": "An agentic AI framework connecting language models to electronic health records and a biomedical kno",
+   "source": "pubmed"
+  },
+  "10.21203/rs.3.rs-10464629/v1": {
+   "date_added": "2026-10-19",
+   "direction": "C",
+   "title": "Deployment protocol and base model jointly determine residual risk in rule-based clinical LLM superv",
+   "source": "pubmed"
+  },
+  "10.1016/j.jbi.2026.105031": {
+   "date_added": "2026-10-19",
+   "direction": "C",
+   "title": "Exploring the role of reinforcement learning in vision-language models for cardiovascular disease de",
+   "source": "pubmed"
+  },
+  "10.1038/s41467-026-77381-8": {
+   "date_added": "2026-10-19",
+   "direction": "D",
+   "title": "GLM-Prior: a genomic language model for transferable sequence-derived priors in gene regulatory netw",
+   "source": "pubmed"
+  },
+  "10.1016/j.compbiolchem.2026.109432": {
+   "date_added": "2026-10-19",
+   "direction": "D",
+   "title": "BFPSM: A biological language model-based framework for pathogenic synonymous mutation prediction.",
+   "source": "pubmed"
+  },
+  "10.64898/2026.06.16.26355747": {
+   "date_added": "2026-10-19",
+   "direction": "D",
+   "title": "MOSAIC: Methylation-Oriented Site Analysis and Information Classifier for Robust Epigenomic Classifi",
+   "source": "pubmed"
+  },
+  "10.1016/j.modpat.2026.101092": {
+   "date_added": "2026-10-19",
+   "direction": "D",
+   "title": "Dual-Foundation-Model Ensemble Predicts Gene Expression in Muscle-Invasive Bladder Cancer for Patien",
+   "source": "pubmed"
+  },
+  "10.1016/j.scib.2026.09.028": {
+   "date_added": "2026-10-19",
+   "direction": "F",
+   "title": "Rethinking medical AI: from model performance to governed agentic clinical intelligence.",
+   "source": "pubmed"
+  },
+  "10.1016/j.cmpb.2026.109647": {
+   "date_added": "2026-10-19",
+   "direction": "F",
+   "title": "CausalEvidentialFuse: A unified framework for trustworthy multimodal clinical data fusion in healthc",
+   "source": "pubmed"
+  },
+  "10.1136/bmjdh-2026-000113": {
+   "date_added": "2026-10-19",
+   "direction": "F",
+   "title": "State of clinical AI in 2026.",
+   "source": "pubmed"
+  },
+  "10.1002/psp4.70325": {
+   "date_added": "2026-10-19",
+   "direction": "X",
+   "title": "PMxAgent: An Agentic Platform for Pharmacometrics.",
+   "source": "pubmed"
   }
  }
 }
