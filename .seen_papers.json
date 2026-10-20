@@ -1,6 +1,6 @@
 {
  "description": "Tracked paper IDs for deduplication across daily reports",
- "last_updated": "2026-10-19",
+ "last_updated": "2026-10-20",
  "papers": {
   "10.3389/fmicb.2025.1634194": {
    "date_added": "2026-08-04",
@@ -7438,6 +7438,81 @@
    "direction": "X",
    "title": "PMxAgent: An Agentic Platform for Pharmacometrics.",
    "source": "pubmed"
+  },
+  "10.64898/2026.02.18.26346517": {
+   "date_added": "2026-10-20",
+   "direction": "A",
+   "title": "GPAS: AI system for pathogen identification + LLM interpretation"
+  },
+  "10.1038/s41467-025-66218-5": {
+   "date_added": "2026-10-20",
+   "direction": "A",
+   "title": "Host biomarker + LLM for LRTI diagnosis"
+  },
+  "10.3389/fcimb.2026.1786413": {
+   "date_added": "2026-10-20",
+   "direction": "A",
+   "title": "mNGS integrative pathogen/AMR/virulence/host analysis"
+  },
+  "10.1016/j.ejrad.2026.112734": {
+   "date_added": "2026-10-20",
+   "direction": "B",
+   "title": "Spine surgery retrieval-augmented LLM agent"
+  },
+  "10.1117/12.3087567": {
+   "date_added": "2026-10-20",
+   "direction": "B",
+   "title": "Cohort-Aware Agents lung cancer RAG model selection"
+  },
+  "10.1371/journal.pone.0342182": {
+   "date_added": "2026-10-20",
+   "direction": "B",
+   "title": "AI agents in healthcare scoping review"
+  },
+  "10.48550/arXiv.2605.28338": {
+   "date_added": "2026-10-20",
+   "direction": "C",
+   "title": "SafeMed-R1 Clinician-Audited Medical Alignment"
+  },
+  "10.48550/arXiv.2606.28332": {
+   "date_added": "2026-10-20",
+   "direction": "C",
+   "title": "MedHarm Benchmark high-risk medical queries"
+  },
+  "10.64898/2026.06.25.26356522": {
+   "date_added": "2026-10-20",
+   "direction": "C",
+   "title": "Infoxmed2.0-27B GRPO medical LLM"
+  },
+  "10.1038/s41592-026-03036-7": {
+   "date_added": "2026-10-20",
+   "direction": "D",
+   "title": "ANNEVO ab initio gene annotation MoE"
+  },
+  "10.1038/s41467-026-68571-5": {
+   "date_added": "2026-10-20",
+   "direction": "D",
+   "title": "gLM chimera artifact nanopore dRNA-seq"
+  },
+  "10.64898/2026.02.05.703637": {
+   "date_added": "2026-10-20",
+   "direction": "D",
+   "title": "Short-Context Regulatory DNA LMs motif regularization"
+  },
+  "10.1038/s41746-025-01807-8": {
+   "date_added": "2026-10-20",
+   "direction": "F",
+   "title": "VLM agent CTPA report generation outcome prediction"
+  },
+  "10.1007/s11548-026-03632-0": {
+   "date_added": "2026-10-20",
+   "direction": "F",
+   "title": "Agentic C-arm skeletal landmark localization"
+  },
+  "10.1101/2025.11.11.686354": {
+   "date_added": "2026-10-20",
+   "direction": "X",
+   "title": "Agentic Lab cell/organoid experimentation AI"
   }
  }
 }
