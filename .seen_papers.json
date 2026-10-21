@@ -1,6 +1,6 @@
 {
  "description": "Tracked paper IDs for deduplication across daily reports",
- "last_updated": "2026-10-20",
+ "last_updated": "2026-10-21",
  "papers": {
   "10.3389/fmicb.2025.1634194": {
    "date_added": "2026-08-04",
@@ -6071,7 +6071,7 @@
    "title": "Omics data discovery agents: Agent-supported retrieval, reanalysis, and synthesis of published omics data"
   },
   "10.1007/s44163-026-02448-w": {
-   "date_added": "2026-10-12",
+   "date_added": "2026-10-21",
    "direction": "A",
    "title": "Artificial intelligence approaches to resistome profiling and predictive antimic"
   },
@@ -7513,6 +7513,101 @@
    "date_added": "2026-10-20",
    "direction": "X",
    "title": "Agentic Lab cell/organoid experimentation AI"
+  },
+  "10.3389/fcimb.2026.1897649": {
+   "date_added": "2026-10-21",
+   "direction": "A",
+   "title": "Beyond detection: quantitative interpretation of Aspergillus-positive bronchoalv"
+  },
+  "10.1038/s41746-026-03377-9": {
+   "date_added": "2026-10-21",
+   "direction": "F",
+   "title": "TrajOnco: a multi-agent framework for temporal reasoning over longitudinal EHR f"
+  },
+  "10.1038/s41746-026-02960-4": {
+   "date_added": "2026-10-21",
+   "direction": "X",
+   "title": "AI agents in clinical practice: an evidence map"
+  },
+  "10.1161/01.cir.101.23.e215": {
+   "date_added": "2026-10-21",
+   "direction": "B",
+   "title": "Skill-guided agentic reasoning enables longitudinal synthesis of myeloma records"
+  },
+  "42875467": {
+   "date_added": "2026-10-21",
+   "direction": "B",
+   "title": "Skill-guided agentic reasoning enables longitudinal synthesis of myeloma records"
+  },
+  "10.1038/s41581-024-00849-7": {
+   "date_added": "2026-10-21",
+   "direction": "D",
+   "title": "A Foundation Model of Cancer Genotype Enables Precise Predictions of Therapeutic"
+  },
+  "42188872": {
+   "date_added": "2026-10-21",
+   "direction": "D",
+   "title": "A Foundation Model of Cancer Genotype Enables Precise Predictions of Therapeutic"
+  },
+  "10.48550/arxiv.2009.07896": {
+   "date_added": "2026-10-21",
+   "direction": "D",
+   "title": "A Transferable Genomic Language Model Framework for Fungal Gene Essentiality Pre"
+  },
+  "42818247": {
+   "date_added": "2026-10-21",
+   "direction": "D",
+   "title": "A Transferable Genomic Language Model Framework for Fungal Gene Essentiality Pre"
+  },
+  "10.1093/bioinformatics/btaa250": {
+   "date_added": "2026-10-21",
+   "direction": "D",
+   "title": "LAMBDA: a prophage detection benchmark for genomic language models."
+  },
+  "42713011": {
+   "date_added": "2026-10-21",
+   "direction": "D",
+   "title": "LAMBDA: a prophage detection benchmark for genomic language models."
+  },
+  "10.1242/jcs.215525": {
+   "date_added": "2026-10-21",
+   "direction": "D",
+   "title": "Using the DNA language model, GROVER, to parse effects of sequence, chromatin an"
+  },
+  "42581590": {
+   "date_added": "2026-10-21",
+   "direction": "D",
+   "title": "Using the DNA language model, GROVER, to parse effects of sequence, chromatin an"
+  },
+  "10.48550/arxiv.2610.09026": {
+   "date_added": "2026-10-21",
+   "direction": "B",
+   "title": "BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assess"
+  },
+  "10.48550/arxiv.2610.07739": {
+   "date_added": "2026-10-21",
+   "direction": "B",
+   "title": "Cite What You Explore: Budget-Aware LLM Reasoning over Medical KGs with Verifiab"
+  },
+  "10.48550/arxiv.2610.17426": {
+   "date_added": "2026-10-21",
+   "direction": "C",
+   "title": "Reinforcement Learning In Partially Verifiable Environments for Colon Cancer Tre"
+  },
+  "10.48550/arxiv.2610.21179": {
+   "date_added": "2026-10-21",
+   "direction": "C",
+   "title": "Judging the Judges: Confidence and Disagreement in Rubrics as Rewards"
+  },
+  "10.48550/arxiv.2608.30188": {
+   "date_added": "2026-10-21",
+   "direction": "F",
+   "title": "GPAgentBench-2K: Benchmarking Large Language Model Agents in Complex Clinical Ac"
+  },
+  "10.48550/arxiv.2607.10275": {
+   "date_added": "2026-10-21",
+   "direction": "F",
+   "title": "Information-seeking failures of large language models in agentic clinical reason"
   }
  }
 }
