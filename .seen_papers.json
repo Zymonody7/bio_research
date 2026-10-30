@@ -1,6 +1,6 @@
 {
  "description": "Tracked paper IDs for deduplication across daily reports",
- "last_updated": "2026-10-21",
+ "last_updated": "2026-10-30",
  "papers": {
   "10.3389/fmicb.2025.1634194": {
    "date_added": "2026-08-04",
@@ -7608,6 +7608,86 @@
    "date_added": "2026-10-21",
    "direction": "F",
    "title": "Information-seeking failures of large language models in agentic clinical reason"
+  },
+  "10.64898/2026.10.16.26361411": {
+   "date_added": "2026-10-30",
+   "direction": "A",
+   "title": "Clinical pathogen adjudication in metagenomic sequencing using a large language model"
+  },
+  "10.3390/biotech15040090": {
+   "date_added": "2026-10-30",
+   "direction": "A",
+   "title": "Artificial Intelligence in Virus Detection: From Metagenomic Discovery to Clinical Decision Support and Population Surveillance"
+  },
+  "10.1148/ryai.260234": {
+   "date_added": "2026-10-30",
+   "direction": "B",
+   "title": "Agentic Automation of BT-RADS Scoring Using an End-to-End System for Standardized Glioma Follow-up Assessment"
+  },
+  "10.3390/bioengineering13101097": {
+   "date_added": "2026-10-30",
+   "direction": "B",
+   "title": "Graph-Enhanced Retrieval-Augmented Generation for Postoperative Patient Question Answering"
+  },
+  "10.1007/s10439-026-04381-6": {
+   "date_added": "2026-10-30",
+   "direction": "B",
+   "title": "Agentic AI in Medicine: Challenges for Responsible Development and the Case for Clinical Testing Harnesses"
+  },
+  "10.48550/arxiv.2610.34561": {
+   "date_added": "2026-10-30",
+   "direction": "C",
+   "title": "GRASP: Group-Adaptive Hybrid RL-SFT Post-Training for Medical VQA without Reasoning Annotations"
+  },
+  "10.1093/jamiaopen/ooag143": {
+   "date_added": "2026-10-30",
+   "direction": "C",
+   "title": "MedNLI-Pain benchmarks a minimally necessary requirement for large language model alignment"
+  },
+  "10.1038/s41588-026-02769-7": {
+   "date_added": "2026-10-30",
+   "direction": "D",
+   "title": "Leveraging genomic deep learning models for the prediction of noncoding variant effects"
+  },
+  "10.1093/nar/gkag1059": {
+   "date_added": "2026-10-30",
+   "direction": "D",
+   "title": "Biobank-scale self-supervised genotype pretraining yields transferable representations for human genetics"
+  },
+  "10.1016/j.cels.2026.101675": {
+   "date_added": "2026-10-30",
+   "direction": "D",
+   "title": "Foundation model reveals the shared organization of transcription and topologically associating domains"
+  },
+  "10.1016/j.ejrad.2026.113318": {
+   "date_added": "2026-10-30",
+   "direction": "F",
+   "title": "Toward truly agentic radiology AI: A multimodal architecture framework and differentiated implementation roadmap"
+  },
+  "10.1016/j.media.2026.104196": {
+   "date_added": "2026-10-30",
+   "direction": "F",
+   "title": "OmniPathoVQA: Benchmarking pathology vision-language models with Encyclopedia-scale knowledge"
+  },
+  "10.1097/CCM.0000000000007228": {
+   "date_added": "2026-10-30",
+   "direction": "F",
+   "title": "Large Language Models Provide Accurate but Potentially Unsafe Answers to Multimodal Critical Care Medicine Board Review Questions"
+  },
+  "10.1016/j.ccell.2026.07.010": {
+   "date_added": "2026-10-30",
+   "direction": "X",
+   "title": "UniCure: A multi-modal model for predicting personalized cancer therapy response"
+  },
+  "10.64898/2026.10.23.761278": {
+   "date_added": "2026-10-30",
+   "direction": "X",
+   "title": "Scaling genetic discovery through automated post-GWAS interpretation"
+  },
+  "10.1093/nargab/lqag123": {
+   "date_added": "2026-10-30",
+   "direction": "D",
+   "title": "DNA augmentations for semi-supervised learning in genomic sequence classification"
   }
  }
 }
