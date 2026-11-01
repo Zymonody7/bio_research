@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-10-31",
+  "last_updated": "2026-11-01",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -7728,6 +7728,150 @@
       "date_added": "2026-10-31",
       "direction": "X",
       "title": "From Invisible to Enrolled: How Artificial Intelligence Is Reshaping Clinical Trial Recruitment."
+    },
+    "10.1093/nar/gkag1002": {
+      "date_added": "2026-11-01",
+      "direction": "A",
+      "title": "Fast and accurate taxonomic domain assignment of short metagenomic reads using BBERT.",
+      "source": "pubmed"
+    },
+    "pmid:42908401": {
+      "date_added": "2026-11-01",
+      "direction": "A",
+      "title": "Fast and accurate taxonomic domain assignment of short metagenomic reads using BBERT.",
+      "source": "pubmed"
+    },
+    "10.1093/milmed/usag213": {
+      "date_added": "2026-11-01",
+      "direction": "A",
+      "title": "Exploring TopicGPT for Identification of Themes of Emerging Pathogens in Biosurveillance Data.",
+      "source": "pubmed"
+    },
+    "pmid:42560256": {
+      "date_added": "2026-11-01",
+      "direction": "A",
+      "title": "Exploring TopicGPT for Identification of Themes of Emerging Pathogens in Biosurveillance Data.",
+      "source": "pubmed"
+    },
+    "10.3390/microorganisms14091880": {
+      "date_added": "2026-11-01",
+      "direction": "A",
+      "title": "Toward AI-Driven Detection of Asymptomatic Chronic Conditions from Stool Metagenomics and Dietary Da",
+      "source": "pubmed"
+    },
+    "pmid:42795462": {
+      "date_added": "2026-11-01",
+      "direction": "A",
+      "title": "Toward AI-Driven Detection of Asymptomatic Chronic Conditions from Stool Metagenomics and Dietary Da",
+      "source": "pubmed"
+    },
+    "10.48550/arxiv.2610.37405": {
+      "date_added": "2026-11-01",
+      "direction": "B",
+      "title": "Clearing the FoG: Training KG Agents to Retrieve the Evidence Behind Their Answers",
+      "source": "openalex"
+    },
+    "10.1093/jamiaopen/ooag167": {
+      "date_added": "2026-11-01",
+      "direction": "B",
+      "title": "RxReduce: a medication deprescribing agent framework leveraging large language models to optimize pr",
+      "source": "pubmed"
+    },
+    "pmid:42857748": {
+      "date_added": "2026-11-01",
+      "direction": "B",
+      "title": "RxReduce: a medication deprescribing agent framework leveraging large language models to optimize pr",
+      "source": "pubmed"
+    },
+    "10.1007/s11604-026-02049-8": {
+      "date_added": "2026-11-01",
+      "direction": "B",
+      "title": "Open-source offline-deployable retrieval-augmented large language model for assisting pancreatic can",
+      "source": "pubmed"
+    },
+    "pmid:42423906": {
+      "date_added": "2026-11-01",
+      "direction": "B",
+      "title": "Open-source offline-deployable retrieval-augmented large language model for assisting pancreatic can",
+      "source": "pubmed"
+    },
+    "2607.18304": {
+      "date_added": "2026-11-01",
+      "direction": "C",
+      "title": "TD-DPO: Difference-Aware Preference Optimization for Mitigating Sycophancy in Clinical Autism Interv",
+      "source": "arxiv"
+    },
+    "2610.39835": {
+      "date_added": "2026-11-01",
+      "direction": "C",
+      "title": "Aligning Medical Vision Language Models at the Capability Boundary with Entropy Adaptive Rubric Grou",
+      "source": "arxiv"
+    },
+    "10.1145/3799682.3840057": {
+      "date_added": "2026-11-01",
+      "direction": "C",
+      "title": "Ontology Concept Overlap as a Training Signal: Knowledge-Grounded Reinforcement Learning for Clinica",
+      "source": "arxiv"
+    },
+    "2610.06360": {
+      "date_added": "2026-11-01",
+      "direction": "C",
+      "title": "Ontology Concept Overlap as a Training Signal: Knowledge-Grounded Reinforcement Learning for Clinica",
+      "source": "arxiv"
+    },
+    "2610.15711": {
+      "date_added": "2026-11-01",
+      "direction": "D",
+      "title": "What DNA Foundation Models Learn Beyond Sequence Composition",
+      "source": "arxiv"
+    },
+    "10.1371/journal.pcbi.1014626": {
+      "date_added": "2026-11-01",
+      "direction": "D",
+      "title": "EvoSNR-Prom: Predicting promoters at single-nucleotide resolution with label-aware transfer learning",
+      "source": "pubmed"
+    },
+    "pmid:42574449": {
+      "date_added": "2026-11-01",
+      "direction": "D",
+      "title": "EvoSNR-Prom: Predicting promoters at single-nucleotide resolution with label-aware transfer learning",
+      "source": "pubmed"
+    },
+    "2610.39415": {
+      "date_added": "2026-11-01",
+      "direction": "D",
+      "title": "Accuracy is not compatibility: two Evo 2 checkpoints hinge on one FP8 matrix multiplication",
+      "source": "arxiv"
+    },
+    "10.64898/2026.10.02.26364620": {
+      "date_added": "2026-11-01",
+      "direction": "F",
+      "title": "Planner-Executor Style Multimodal Agentic System to Answer Patient Questions in Lung Cancer Screenin",
+      "source": "pubmed"
+    },
+    "pmid:42926850": {
+      "date_added": "2026-11-01",
+      "direction": "F",
+      "title": "Planner-Executor Style Multimodal Agentic System to Answer Patient Questions in Lung Cancer Screenin",
+      "source": "pubmed"
+    },
+    "2610.27233": {
+      "date_added": "2026-11-01",
+      "direction": "F",
+      "title": "MMedAgent-Plus: Scaling Multimodal Medical Agents across Modalities, Tasks and Workflows",
+      "source": "arxiv"
+    },
+    "10.1038/s43018-026-01264-6": {
+      "date_added": "2026-11-01",
+      "direction": "X",
+      "title": "An agentic AI system enhances clinical detection of immune-related adverse events in a multi-phase v",
+      "source": "pubmed"
+    },
+    "pmid:42957896": {
+      "date_added": "2026-11-01",
+      "direction": "X",
+      "title": "An agentic AI system enhances clinical detection of immune-related adverse events in a multi-phase v",
+      "source": "pubmed"
     }
   }
 }
