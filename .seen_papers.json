@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-02",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -7872,6 +7872,81 @@
       "direction": "X",
       "title": "An agentic AI system enhances clinical detection of immune-related adverse events in a multi-phase v",
       "source": "pubmed"
+    },
+    "10.64898/2026.07.02.26357172": {
+      "date_added": "2026-11-02",
+      "direction": "A",
+      "title": "Clinical Impact, Diagnostic Performance, and Prognostic Implications of Plasma mNGS in Solid Organ Transplant Recipients"
+    },
+    "10.3390/pathogens15101044": {
+      "date_added": "2026-11-02",
+      "direction": "A",
+      "title": "Genomic Surveillance of Respiratory Pathogens: From Molecular Detection to Precision Infection Control"
+    },
+    "10.1016/j.mimet.2026.107390": {
+      "date_added": "2026-11-02",
+      "direction": "A",
+      "title": "Artificial intelligence in metagenome-assembled genome reconstruction: Tools, pipelines, and future directions"
+    },
+    "10.1038/s43856-026-01961-4": {
+      "date_added": "2026-11-02",
+      "direction": "B",
+      "title": "Multi-agent AI for liver disease guideline development and maintenance: a proof-of-concept study"
+    },
+    "10.1038/s41598-026-75909-y": {
+      "date_added": "2026-11-02",
+      "direction": "B",
+      "title": "Hybrid retrieval-verification framework for hallucination reduction in medical LLMs"
+    },
+    "10.21203/rs.3.rs-11252270/v1": {
+      "date_added": "2026-11-02",
+      "direction": "B",
+      "title": "MedAgent-RAG: an agentic retrieval-augmented system for adaptive clinical history-taking"
+    },
+    "10.1186/s12911-026-03631-w": {
+      "date_added": "2026-11-02",
+      "direction": "C",
+      "title": "Gold-standard-guided direct preference optimisation for ICD-10-AM and ACHI code assignment from discharge summaries"
+    },
+    "2512.17213": {
+      "date_added": "2026-11-02",
+      "direction": "C",
+      "title": "CheXPO-v2: Preference Optimization for Chest X-ray VLMs with Knowledge Graph Consistency"
+    },
+    "10.64898/2026.10.13.758880": {
+      "date_added": "2026-11-02",
+      "direction": "D",
+      "title": "Genomic foundation models do not yet boost common variant discovery beyond standard functional annotations"
+    },
+    "10.64898/2026.10.28.762639": {
+      "date_added": "2026-11-02",
+      "direction": "D",
+      "title": "Few-shot regulatory sequence design with a genomic language model"
+    },
+    "10.64898/2026.10.22.761197": {
+      "date_added": "2026-11-02",
+      "direction": "D",
+      "title": "Creator 1.0: Phylogeny-Guided Stagewise Pretraining for Plant Genome Foundation Models across 1,000 Species"
+    },
+    "2610.21794": {
+      "date_added": "2026-11-02",
+      "direction": "F",
+      "title": "MedPAO-VL: Interpretable and Protocol-Compliant Agent for Structured Radiology Report Generation"
+    },
+    "2610.40379": {
+      "date_added": "2026-11-02",
+      "direction": "F",
+      "title": "Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records"
+    },
+    "2610.33544": {
+      "date_added": "2026-11-02",
+      "direction": "F",
+      "title": "Learning When to Collaborate: Selective Multi-Agent Medical Reasoning via Uncertainty-Aware Routing"
+    },
+    "10.1038/s41467-026-78623-5": {
+      "date_added": "2026-11-02",
+      "direction": "X",
+      "title": "Genomic heterogeneity inflates the performance of variant pathogenicity predictions"
     }
   }
 }
