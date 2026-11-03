@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -7947,6 +7947,81 @@
       "date_added": "2026-11-02",
       "direction": "X",
       "title": "Genomic heterogeneity inflates the performance of variant pathogenicity predictions"
+    },
+    "10.1007/s10096-026-05701-3": {
+      "date_added": "2026-11-03",
+      "direction": "A",
+      "title": "mNGS in prosthetic joint infection meta-analysis"
+    },
+    "10.1038/s43588-026-00983-1": {
+      "date_added": "2026-11-03",
+      "direction": "A",
+      "title": "DeepSeMS: LLM for ocean microbiome BGCs"
+    },
+    "10.1016/j.diagmicrobio.2026.117707": {
+      "date_added": "2026-11-03",
+      "direction": "A",
+      "title": "AI in diagnosis and identification of bacterial pathogens"
+    },
+    "10.1016/j.esmorw.2026.100706": {
+      "date_added": "2026-11-03",
+      "direction": "B",
+      "title": "Neuro-symbolic multi-agent oncology trial matching 3804 pts"
+    },
+    "10.1038/s41540-026-00753-9": {
+      "date_added": "2026-11-03",
+      "direction": "B",
+      "title": "Optimizing genomics-aware clinical agents (gSage)"
+    },
+    "10.1016/j.jdent.2026.106875": {
+      "date_added": "2026-11-03",
+      "direction": "B",
+      "title": "DGADS graph-based agentic dental QA"
+    },
+    "10.48550/arxiv.2610.38709": {
+      "date_added": "2026-11-03",
+      "direction": "C",
+      "title": "Latent Decision Flow Rewards for Clinical Guideline Reasoning (GUIDER)"
+    },
+    "10.48550/arxiv.2610.40476": {
+      "date_added": "2026-11-03",
+      "direction": "C",
+      "title": "Training language models in simulation for psychiatric intake"
+    },
+    "10.1093/bib/bbag422": {
+      "date_added": "2026-11-03",
+      "direction": "D",
+      "title": "Functional motif detection via in silico ablation using AlphaGenome"
+    },
+    "42926727": {
+      "date_added": "2026-11-03",
+      "direction": "D",
+      "title": "ARGUS evidence-constrained agentic SNV interpretation"
+    },
+    "10.1038/s41592-026-03097-8": {
+      "date_added": "2026-11-03",
+      "direction": "D",
+      "title": "HiCFoundation generalizable Hi-C foundation model"
+    },
+    "10.1007/s40123-026-01523-w": {
+      "date_added": "2026-11-03",
+      "direction": "F",
+      "title": "Agentic AI workflow for macular hole diagnosis"
+    },
+    "10.18653/v1/2026.acl-short.24": {
+      "date_added": "2026-11-03",
+      "direction": "F",
+      "title": "MARCH multi-agent radiology CT report generation"
+    },
+    "10.64898/2026.10.25.761203": {
+      "date_added": "2026-11-03",
+      "direction": "X",
+      "title": "Harness engineering multi-agent hypothesis generation"
+    },
+    "10.64898/2026.10.25.761689": {
+      "date_added": "2026-11-03",
+      "direction": "X",
+      "title": "GLESKit MCP-based gene-level investigation"
     }
   }
 }
