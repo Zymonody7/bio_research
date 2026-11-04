@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-04",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -8022,6 +8022,191 @@
       "date_added": "2026-11-03",
       "direction": "X",
       "title": "GLESKit MCP-based gene-level investigation"
+    },
+    "10.1128/spectrum.00970-26": {
+      "date_added": "2026-11-04",
+      "direction": "A",
+      "title": "Metagenomic next-generation sequencing for tuberculosis diagnosis: enhanced performance an"
+    },
+    "42523101": {
+      "date_added": "2026-11-04",
+      "direction": "A",
+      "title": "Metagenomic next-generation sequencing for tuberculosis diagnosis: enhanced performance an"
+    },
+    "1128/spectrum.00970-26": {
+      "date_added": "2026-11-04",
+      "direction": "A",
+      "title": "Metagenomic next-generation sequencing for tuberculosis diagnosis: enhanced performance an"
+    },
+    "10.36519/idcm.2026.1014": {
+      "date_added": "2026-11-04",
+      "direction": "A",
+      "title": "Artificial Intelligence in Infectious Diseases and Clinical Microbiology"
+    },
+    "36519/idcm.2026.1014": {
+      "date_added": "2026-11-04",
+      "direction": "A",
+      "title": "Artificial Intelligence in Infectious Diseases and Clinical Microbiology"
+    },
+    "10.1093/jamia/ocag139": {
+      "date_added": "2026-11-04",
+      "direction": "B",
+      "title": "Evaluating retrieval-augmented generation versus long-context input for clinical reasoning"
+    },
+    "42710003": {
+      "date_added": "2026-11-04",
+      "direction": "B",
+      "title": "Evaluating retrieval-augmented generation versus long-context input for clinical reasoning"
+    },
+    "1093/jamia/ocag139": {
+      "date_added": "2026-11-04",
+      "direction": "B",
+      "title": "Evaluating retrieval-augmented generation versus long-context input for clinical reasoning"
+    },
+    "10.3389/fphar.2026.1955011": {
+      "date_added": "2026-11-04",
+      "direction": "B",
+      "title": "Integrating knowledge graphs and retrieval-augmented generation to identify clinical pharm"
+    },
+    "42952574": {
+      "date_added": "2026-11-04",
+      "direction": "B",
+      "title": "Integrating knowledge graphs and retrieval-augmented generation to identify clinical pharm"
+    },
+    "3389/fphar.2026.1955011": {
+      "date_added": "2026-11-04",
+      "direction": "B",
+      "title": "Integrating knowledge graphs and retrieval-augmented generation to identify clinical pharm"
+    },
+    "10.21203/rs.3.rs-11226907/v1": {
+      "date_added": "2026-11-04",
+      "direction": "B",
+      "title": "Towards guideline-grounded clinical decision-making: a multi-scale study of retrieval augm"
+    },
+    "21203/rs.3.rs-11226907/v1": {
+      "date_added": "2026-11-04",
+      "direction": "B",
+      "title": "Towards guideline-grounded clinical decision-making: a multi-scale study of retrieval augm"
+    },
+    "10.1186/s40560-026-00947-7": {
+      "date_added": "2026-11-04",
+      "direction": "C",
+      "title": "Development and validation of VentPilot: an AI-based recommendation system for mechanical "
+    },
+    "42816865": {
+      "date_added": "2026-11-04",
+      "direction": "C",
+      "title": "Development and validation of VentPilot: an AI-based recommendation system for mechanical "
+    },
+    "1186/s40560-026-00947-7": {
+      "date_added": "2026-11-04",
+      "direction": "C",
+      "title": "Development and validation of VentPilot: an AI-based recommendation system for mechanical "
+    },
+    "2601.18061": {
+      "date_added": "2026-11-04",
+      "direction": "C",
+      "title": "Expert Evaluation and the Limits of Human Feedback in Mental Health AI Safety Testing"
+    },
+    "10.1002/jeo2.70922": {
+      "date_added": "2026-11-04",
+      "direction": "C",
+      "title": "Guideline-augmented prompting improves comparative preference and response consistency of "
+    },
+    "42829621": {
+      "date_added": "2026-11-04",
+      "direction": "C",
+      "title": "Guideline-augmented prompting improves comparative preference and response consistency of "
+    },
+    "1002/jeo2.70922": {
+      "date_added": "2026-11-04",
+      "direction": "C",
+      "title": "Guideline-augmented prompting improves comparative preference and response consistency of "
+    },
+    "10.64898/2026.10.19.760276": {
+      "date_added": "2026-11-04",
+      "direction": "D",
+      "title": "A genomic foundation model for interpreting human genetic diversity"
+    },
+    "64898/2026.10.19.760276": {
+      "date_added": "2026-11-04",
+      "direction": "D",
+      "title": "A genomic foundation model for interpreting human genetic diversity"
+    },
+    "10.21203/rs.3.rs-11197302/v1": {
+      "date_added": "2026-11-04",
+      "direction": "D",
+      "title": "Mendel, a foundation model of human genetic variation, prioritizes regulatory variants and"
+    },
+    "21203/rs.3.rs-11197302/v1": {
+      "date_added": "2026-11-04",
+      "direction": "D",
+      "title": "Mendel, a foundation model of human genetic variation, prioritizes regulatory variants and"
+    },
+    "10.7554/elife.112217": {
+      "date_added": "2026-11-04",
+      "direction": "D",
+      "title": "Predicting dynamic expression patterns in budding yeast with a fungal DNA language model"
+    },
+    "7554/elife.112217": {
+      "date_added": "2026-11-04",
+      "direction": "D",
+      "title": "Predicting dynamic expression patterns in budding yeast with a fungal DNA language model"
+    },
+    "10.1148/radiol.253226": {
+      "date_added": "2026-11-04",
+      "direction": "F",
+      "title": "Agentic AI Systems in Radiology: Design, Applications, Evaluation, and Challenges."
+    },
+    "42937535": {
+      "date_added": "2026-11-04",
+      "direction": "F",
+      "title": "Agentic AI Systems in Radiology: Design, Applications, Evaluation, and Challenges."
+    },
+    "1148/radiol.253226": {
+      "date_added": "2026-11-04",
+      "direction": "F",
+      "title": "Agentic AI Systems in Radiology: Design, Applications, Evaluation, and Challenges."
+    },
+    "10.2196/87781": {
+      "date_added": "2026-11-04",
+      "direction": "F",
+      "title": "Periodontitis Risk Assessment and Prevention Planning: Comparative Study of Multimodal Lar"
+    },
+    "42826249": {
+      "date_added": "2026-11-04",
+      "direction": "F",
+      "title": "Periodontitis Risk Assessment and Prevention Planning: Comparative Study of Multimodal Lar"
+    },
+    "2196/87781": {
+      "date_added": "2026-11-04",
+      "direction": "F",
+      "title": "Periodontitis Risk Assessment and Prevention Planning: Comparative Study of Multimodal Lar"
+    },
+    "10.64898/2026.10.21.26366092": {
+      "date_added": "2026-11-04",
+      "direction": "X",
+      "title": "AI-based prognosis and chemotherapy benefit in node-positive, HR+ breast cancer: a blinded"
+    },
+    "64898/2026.10.21.26366092": {
+      "date_added": "2026-11-04",
+      "direction": "X",
+      "title": "AI-based prognosis and chemotherapy benefit in node-positive, HR+ breast cancer: a blinded"
+    },
+    "10.1136/bmjopen-2026-119071": {
+      "date_added": "2026-11-04",
+      "direction": "X",
+      "title": "Implementation and use of EHR-integrated large language model-generated draft responses in"
+    },
+    "42963099": {
+      "date_added": "2026-11-04",
+      "direction": "X",
+      "title": "Implementation and use of EHR-integrated large language model-generated draft responses in"
+    },
+    "1136/bmjopen-2026-119071": {
+      "date_added": "2026-11-04",
+      "direction": "X",
+      "title": "Implementation and use of EHR-integrated large language model-generated draft responses in"
     }
   }
 }
