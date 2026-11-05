@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-04",
+  "last_updated": "2026-11-05",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -8207,6 +8207,246 @@
       "date_added": "2026-11-04",
       "direction": "X",
       "title": "Implementation and use of EHR-integrated large language model-generated draft responses in"
+    },
+    "10.3389/fcimb.2026.1930701": {
+      "date_added": "2026-11-05",
+      "direction": "A",
+      "title": "Plasma microbial cell-free DNA metagenomic sequencing for early detect"
+    },
+    "3389/fcimb.2026.1930701": {
+      "date_added": "2026-11-05",
+      "direction": "A",
+      "title": "Plasma microbial cell-free DNA metagenomic sequencing for early detect"
+    },
+    "10.3389/fpubh.2026.1961482": {
+      "date_added": "2026-11-05",
+      "direction": "A",
+      "title": "Viral metagenomic characterization of HAdV-B-related signals in bronch"
+    },
+    "3389/fpubh.2026.1961482": {
+      "date_added": "2026-11-05",
+      "direction": "A",
+      "title": "Viral metagenomic characterization of HAdV-B-related signals in bronch"
+    },
+    "10.1093/jamia/ocag178": {
+      "date_added": "2026-11-05",
+      "direction": "B",
+      "title": "A multi-guideline clinical agent for vascular surgery: architecture, i"
+    },
+    "1093/jamia/ocag178": {
+      "date_added": "2026-11-05",
+      "direction": "B",
+      "title": "A multi-guideline clinical agent for vascular surgery: architecture, i"
+    },
+    "42978152": {
+      "date_added": "2026-11-05",
+      "direction": "B",
+      "title": "A multi-guideline clinical agent for vascular surgery: architecture, i"
+    },
+    "pmid:42978152": {
+      "date_added": "2026-11-05",
+      "direction": "B",
+      "title": "A multi-guideline clinical agent for vascular surgery: architecture, i"
+    },
+    "10.1136/bmjdh-2026-000041": {
+      "date_added": "2026-11-05",
+      "direction": "B",
+      "title": "Development and evaluation of Retrieval-Augmented Generation (RAG) and"
+    },
+    "1136/bmjdh-2026-000041": {
+      "date_added": "2026-11-05",
+      "direction": "B",
+      "title": "Development and evaluation of Retrieval-Augmented Generation (RAG) and"
+    },
+    "10.3389/fendo.2026.1976190": {
+      "date_added": "2026-11-05",
+      "direction": "B",
+      "title": "HalluciGuard-eye: knowledge graph-enhanced retrieval-augmented generat"
+    },
+    "3389/fendo.2026.1976190": {
+      "date_added": "2026-11-05",
+      "direction": "B",
+      "title": "HalluciGuard-eye: knowledge graph-enhanced retrieval-augmented generat"
+    },
+    "42978596": {
+      "date_added": "2026-11-05",
+      "direction": "B",
+      "title": "HalluciGuard-eye: knowledge graph-enhanced retrieval-augmented generat"
+    },
+    "pmid:42978596": {
+      "date_added": "2026-11-05",
+      "direction": "B",
+      "title": "HalluciGuard-eye: knowledge graph-enhanced retrieval-augmented generat"
+    },
+    "10.48550/arxiv.2610.05425": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "Unmentioned Checklist Findings Change How Reinforcement Learning Appea"
+    },
+    "48550/arxiv.2610.05425": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "Unmentioned Checklist Findings Change How Reinforcement Learning Appea"
+    },
+    "2610.05425": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "Unmentioned Checklist Findings Change How Reinforcement Learning Appea"
+    },
+    "arxiv.2610.05425": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "Unmentioned Checklist Findings Change How Reinforcement Learning Appea"
+    },
+    "10.48550/arxiv.2610.17733": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "CoCA: Criterion-Aware Credit Assignment for Rubric-Based Reinforcement"
+    },
+    "48550/arxiv.2610.17733": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "CoCA: Criterion-Aware Credit Assignment for Rubric-Based Reinforcement"
+    },
+    "2610.17733": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "CoCA: Criterion-Aware Credit Assignment for Rubric-Based Reinforcement"
+    },
+    "arxiv.2610.17733": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "CoCA: Criterion-Aware Credit Assignment for Rubric-Based Reinforcement"
+    },
+    "10.1016/j.compbiomed.2026.111922": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "A hierarchical reinforcement learning and predictive control framework"
+    },
+    "1016/j.compbiomed.2026.111922": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "A hierarchical reinforcement learning and predictive control framework"
+    },
+    "42731321": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "A hierarchical reinforcement learning and predictive control framework"
+    },
+    "pmid:42731321": {
+      "date_added": "2026-11-05",
+      "direction": "C",
+      "title": "A hierarchical reinforcement learning and predictive control framework"
+    },
+    "10.1038/s41588-026-02807-4": {
+      "date_added": "2026-11-05",
+      "direction": "D",
+      "title": "A framework for genome-wide characterization of DNA methylation and va"
+    },
+    "1038/s41588-026-02807-4": {
+      "date_added": "2026-11-05",
+      "direction": "D",
+      "title": "A framework for genome-wide characterization of DNA methylation and va"
+    },
+    "42977821": {
+      "date_added": "2026-11-05",
+      "direction": "D",
+      "title": "A framework for genome-wide characterization of DNA methylation and va"
+    },
+    "pmid:42977821": {
+      "date_added": "2026-11-05",
+      "direction": "D",
+      "title": "A framework for genome-wide characterization of DNA methylation and va"
+    },
+    "2609.17599": {
+      "date_added": "2026-11-05",
+      "direction": "D",
+      "title": "Structure is not mechanism: high-gain gated-FFN rows across text and g"
+    },
+    "2609.16925": {
+      "date_added": "2026-11-05",
+      "direction": "D",
+      "title": "HyCoSeq: Contextual Hyperbolic Representation Learning for Genomic Seq"
+    },
+    "10.1109/tmi.2026.3742614": {
+      "date_added": "2026-11-05",
+      "direction": "F",
+      "title": "EyeGraph: A Multi-granularity Medical Vision-Language Foundation Model"
+    },
+    "1109/tmi.2026.3742614": {
+      "date_added": "2026-11-05",
+      "direction": "F",
+      "title": "EyeGraph: A Multi-granularity Medical Vision-Language Foundation Model"
+    },
+    "42867984": {
+      "date_added": "2026-11-05",
+      "direction": "F",
+      "title": "EyeGraph: A Multi-granularity Medical Vision-Language Foundation Model"
+    },
+    "pmid:42867984": {
+      "date_added": "2026-11-05",
+      "direction": "F",
+      "title": "EyeGraph: A Multi-granularity Medical Vision-Language Foundation Model"
+    },
+    "10.1007/s10916-026-02463-5": {
+      "date_added": "2026-11-05",
+      "direction": "F",
+      "title": "Audiologist-Guided Multimodal AI for Pure-Tone Audiometry and Tympanom"
+    },
+    "1007/s10916-026-02463-5": {
+      "date_added": "2026-11-05",
+      "direction": "F",
+      "title": "Audiologist-Guided Multimodal AI for Pure-Tone Audiometry and Tympanom"
+    },
+    "42821199": {
+      "date_added": "2026-11-05",
+      "direction": "F",
+      "title": "Audiologist-Guided Multimodal AI for Pure-Tone Audiometry and Tympanom"
+    },
+    "pmid:42821199": {
+      "date_added": "2026-11-05",
+      "direction": "F",
+      "title": "Audiologist-Guided Multimodal AI for Pure-Tone Audiometry and Tympanom"
+    },
+    "10.1016/j.eclinm.2026.104246": {
+      "date_added": "2026-11-05",
+      "direction": "X",
+      "title": "Generalisability of an adult-trained AI model to paediatric coeliac di"
+    },
+    "1016/j.eclinm.2026.104246": {
+      "date_added": "2026-11-05",
+      "direction": "X",
+      "title": "Generalisability of an adult-trained AI model to paediatric coeliac di"
+    },
+    "42903828": {
+      "date_added": "2026-11-05",
+      "direction": "X",
+      "title": "Generalisability of an adult-trained AI model to paediatric coeliac di"
+    },
+    "pmid:42903828": {
+      "date_added": "2026-11-05",
+      "direction": "X",
+      "title": "Generalisability of an adult-trained AI model to paediatric coeliac di"
+    },
+    "10.2196/108392": {
+      "date_added": "2026-11-05",
+      "direction": "X",
+      "title": "Electrocardiogram Embeddings Beyond Chronological Age for Prediagnosti"
+    },
+    "2196/108392": {
+      "date_added": "2026-11-05",
+      "direction": "X",
+      "title": "Electrocardiogram Embeddings Beyond Chronological Age for Prediagnosti"
+    },
+    "42918629": {
+      "date_added": "2026-11-05",
+      "direction": "X",
+      "title": "Electrocardiogram Embeddings Beyond Chronological Age for Prediagnosti"
+    },
+    "pmid:42918629": {
+      "date_added": "2026-11-05",
+      "direction": "X",
+      "title": "Electrocardiogram Embeddings Beyond Chronological Age for Prediagnosti"
     }
   }
 }
