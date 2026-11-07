@@ -1,0 +1,335 @@
+[
+ {
+  "pmid": "42958270",
+  "doi": "10.1186/s12931-026-03829-6",
+  "title": "Integrated host-microbe biomarkers for early diagnostic classification of paediatric LRTI in mechanically ventilated children.",
+  "journal": "Respiratory research",
+  "year": "2026",
+  "authors": [
+   "Wu Zongtai",
+   "Youssef Gehad",
+   "Kean Iain R L",
+   "Zhang Zhenguang",
+   "Clark John A",
+   "Pathan Nazima"
+  ],
+  "abstract": "Early diagnosis of paediatric lower respiratory tract infection (LRTI) in intensive care is difficult because clinical features overlap with non-infectious respiratory failure and conventional microbiology has limited sensitivity. We aimed to integrate airway microbial and host-response signals to identify early diagnostic biomarkers in mechanically ventilated children. We re-analysed airway metagenomic sequencing and tracheal aspirate transcriptomics from 261 ventilated paediatric intensive care unit (PICU) patients using differential expression, protein-protein interaction network analysis, and machine-learning feature selection. Findings were evaluated in an exploratory assessment of biologically related cytokine markers within an independent prospective cohort (RASCALS; n = 100 enrolled, n = 78 analysed) using non-bronchoscopic mini-bronchoalveolar lavage (mini-BAL), plasma cytokines, and clinician-adjudicated diagnoses. Respiratory syncytial virus and Haemophilus influenzae were the only pathogens consistently enriched in LRTI. Host transcriptomics showed activation of interferon, cytokine, and chemokine signalling. Network-guided feature selection identified a seven-gene panel (IRF7, FFAR3, GZMB, FABP4, FN1, CXCL5, BCAR1) with high diagnostic performance in cross-validation (median F1 0.94), comparable to a published 14-gene model. In RASCALS, a logistic model using mini-BAL IL-1β, IL-4, and IL-8 classified bacterial LRTI with 65% accuracy (sensitivity 70%, specificity 63%), while blood IL-6 and TRAIL achieved 82% accuracy (sensitivity 79%, specificity 83%). Integrating airway microbial profiles with host-response biomarkers supports earlier and more specific LRTI diagnostic classification in ventilated children. The seven-gene panel and cytokine combinations are candidates for rapid PCR- or immunoassay-based bedside tests to inform antimicrobial stewardship.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42958270/",
+  "direction": "A",
+  "badge": "🔥"
+ },
+ {
+  "pmid": "42874851",
+  "doi": "10.1016/j.ijid.2026.109181",
+  "title": "Potential clinical actionability of metagenomic next-generation sequencing for antimicrobial stewardship for urinary tract infections: a retrospective, single-center, BI-Biotia UTI cohort study.",
+  "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+  "year": "2026",
+  "authors": [
+   "Wangprapa Panupong",
+   "Nagy-Szakal Dorottya",
+   "Wells Heather L",
+   "Fidler Gabor",
+   "Techasathit Wichai",
+   "Couto-Rodriguez Mara"
+  ],
+  "abstract": "Culture and antimicrobial susceptibility testing (AST) take 48-72 hours, leaving empirical therapy for urinary tract infections (UTIs) without resistance data. Metagenomic next-generation sequencing (mNGS) reports resistance within hours, but its potential clinical actionability for prescribing is underexplored. In a retrospective single-center cohort (Bangkok tertiary hospital, 2018-2020), BIOTIA-DX results were compared with culture and AST in 251 culture-paired samples. Potential clinical actionability was assessed for 54 same-day empirical prescriptions and a post hoc ablation estimated what a rule-based policy would have prescribed under different information from mNGS. Twenty-two of 54 prescriptions (40.7%, 95% CI 28.7-54.0) were potentially actionable: treatment failure prevention nine (16.7%) and de-escalation 13 (24.1%). Excluding blaEC and blaACT raised cephalosporin specificity from 25.6% to 78.9% with a small tradeoff in sensitivity. NPVs were at least 89.7% for carbapenems, cephalosporins, trimethoprim/sulfamethoxazole, aminoglycosides and the fluoroquinolone classifier reached 100.0% PPV in Escherichia coli. Our refined resistance classification rules achieved a good tradeoff between the risk of ineffective antibiotics and the use of broad-spectrum carbapenem, compared with observed prescribing. In a high-resistance setting, a same-day mNGS report was potentially actionable for two in five empirical prescriptions, mainly through resistance calling. However, the findings rest on a small number of cases.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42874851/",
+  "direction": "A",
+  "badge": "📎"
+ },
+ {
+  "pmid": "42369474",
+  "doi": "10.64898/2026.06.16.26355782",
+  "title": "Hard to Halt: Automation Bias in Agent-Driven Sequencing Prior Authorization Workflows.",
+  "journal": "medRxiv : the preprint server for health sciences",
+  "year": "2026",
+  "authors": [
+   "Nie Mengshu",
+   "Chung Wendy",
+   "Waxler Jessica",
+   "Lee Michael",
+   "Weng Chunhua",
+   "Lewis Rachel"
+  ],
+  "abstract": "Prior authorization (PA) for exome or genome sequencing is a time-consuming process that impedes timely rare disease diagnosis. Large language model-based browser agents offer potential for automating these workflows, but their clinical reliability remain uncharacterized. We developed a sandbox compromising a simulated ES/GS PA submission payer portal and a synthetic EHR containing 836 patient records spanning compliant profiles and deficient profiles with different types of issues. Gemini 3 Pro, Gemini 3 Flash, and Claude Opus 4.5 were evaluated on task completion rate, form completion accuracy, and appropriate withholding for deficient profiles. Larger models achieved much higher task completion rates (Gemini 3 Pro 95.45%, Claude Opus 4.5 93.67%) compared to Gemini 3 Flash (56.05%), but nearly universally failed to withhold submission for deficient profiles whereas Gemini 3 Flash ironically demonstrated superior withholding performance (17.33%). In a non-agentic setting, Gemini 3 Pro correctly identified 91% of the issues in deficient profiles, indicating that withholding failure is attributable to the browser interaction rather than the model's reasoning limitations. Current LLM-based browser agents exhibit a systematic bias towards form submission that poses risks in PA workflows. A modular, multi-agent architecture with human supervision is necessary for a safe clinical deployment.",
+  "ptypes": [
+   "Journal Article",
+   "Preprint"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42369474/",
+  "direction": "B",
+  "badge": "🔥🔥"
+ },
+ {
+  "pmid": "42691437",
+  "doi": "10.1200/cci-26-00160",
+  "title": "Accuracy of Retrieval-Augmented Large Language Model-Generated Preconsult Summaries in Breast Surgical Oncology.",
+  "journal": "JCO clinical cancer informatics",
+  "year": "2026",
+  "authors": [
+   "Moo Tracy-Ann",
+   "James Robert",
+   "Bayard Solange",
+   "Giannakou Andreas",
+   "Allen Lisa R",
+   "Montagna Giacomo"
+  ],
+  "abstract": "Radiology and pathology reports are important in breast surgical oncology planning, but are often unstructured and variable, requiring time-intensive previsit review and preparation. Here we evaluate the accuracy, completeness, and safety of retrieval-augmented large language model (LLM)-generated structured preconsult summaries compared with clinical staff-authored summaries. In this single-institution retrospective validation study, 200 randomly sampled new breast surgical oncology consultations were included. LLM summaries were generated and compared with human summaries documented in consultation notes. Field-level accuracy, omission rate, and fabrication rate among extracted radiology and pathology variables were measured. Error analysis included patient level and clinically significant fabrication rates. Artificial intelligence (AI)-generated summaries demonstrated high field-level accuracy, with fabrication rates ≤2%. Accuracy rates were significantly higher than those observed in staff-authored notes across multiple domains, including nodal status (95%  In this retrospective validation study, structured retrieval-augmented LLM-generated preconsult summaries demonstrated field-level accuracy comparable with or exceeding staff-authored documentation across most radiologic and pathologic variables, with low per-field fabrication rates. Clinically significant errors occurred in a small proportion of summaries and were largely confined to identifiable high-risk variables that are amenable to targeted verification. With appropriate human oversight and safeguards, LLM-based structured information extraction may support documentation standardization and improved workflow efficiency in breast surgical oncology.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42691437/",
+  "direction": "B",
+  "badge": "🔥"
+ },
+ {
+  "pmid": "42901486",
+  "doi": "10.1093/jamia/ocag179",
+  "title": "Agentic artificial intelligence for code status extraction from clinical notes: a cross-model comparison of single agent, reflective agent, and multiagent extractor-reviewer system.",
+  "journal": "Journal of the American Medical Informatics Association : JAMIA",
+  "year": "2026",
+  "authors": [
+   "Sun Yan",
+   "Ang Gary",
+   "Yap Chun Wei",
+   "Kannapiran Palvannan",
+   "Abisheganaden John"
+  ],
+  "abstract": "To evaluate whether increasing agentic architectural complexity via self-reflection or multiagent design improves clinical code status extraction (Do Not Resuscitate [DNR], Do Not Intubate [DNI], Comfort Measures Only [CMO]) across open-source large language models (LLMs) of varying capabilities. We conducted a controlled cross-model comparison evaluating 3 architectures: (1) single extractor agent, (2) single agent with self-reflection, and (3) sequential multiagent extractor-reviewer system. Four open-source LLMs (DeepSeek-R1-Distill-LLaMA-8B, GPT-OSS-20B, MedGemma-27B-IT, Qwen3.5-27B) were evaluated on 1000 Medical Information Mart for Intensive Care IV-Note discharge summaries. Ground truth labels were established through a physician-AI dual review with adjudication (Cohen's κ = 0.98-0.99). Models were evaluated on accuracy, precision, recall, F1-score, Cohen's κ, token consumption, and processing latency. McNemar's test was used for paired comparisons. For capable larger models (GPT-OSS-20B, MedGemma-27B-IT, Qwen3.5-27B), single-agent architectures achieved comparable or superior performance for explicit code status (DNR, DNI) relative to complex systems, whereas multiagent review doubled token consumption and latency without accuracy gains. Reflective self-review significantly impaired MedGemma-27B-IT on DNI extraction (P = .047). For the smaller DeepSeek-R1-Distill-LLaMA-8B, multiagent review provided statistically significant corrective benefits for DNR (P = .017) and CMO (P < .001), demonstrating a capability-threshold effect, though performance remained below clinically acceptable levels. Architectural complexity does not enhance extraction performance for capable LLMs, and reflective self-review may cause conservative overcorrection. Multiagent verification value is inversely related to model capability. Single-agent LLMs provide optimal accuracy and efficiency for explicit clinical extraction in capable models. Agentic complexity must be matched to both task characteristics and model capability rather than adopted by default.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42901486/",
+  "direction": "B",
+  "badge": "🔥"
+ },
+ {
+  "pmid": "42268753",
+  "doi": "10.1109/jbhi.2026.3702145",
+  "title": "AnyMetric: Universal Metric Optimization for Medical Image Segmentation With Preference Learning.",
+  "journal": "IEEE journal of biomedical and health informatics",
+  "year": "2026",
+  "authors": [
+   "Wang Chaoqun",
+   "Mo Jiawei",
+   "Min Shaobo",
+   "Chen Xuejin"
+  ],
+  "abstract": "Medical image segmentation is crucial for accurate disease diagnosis and treatment. To assess segmentation performance, various evaluation metrics have been developed. Existing methods typically design surrogate loss functions tailored to specific metrics for model optimization. However, it is challenging and laborious to customize loss functions for all non-differentiable and complex evaluation metrics. In this paper, we propose Preference-Guided Segmentation Network (PGSNet), a novel framework that enables the unified optimization of arbitrary evaluation metrics, eliminating the need for handcrafted surrogate loss functions. To this end, PGSNet designs a preference-based optimization strategy, which optimizes the segmentation model by directly learning human-defined evaluation preferences rather than relying on loss functions. Specifically, PGSNet first generates diverse segmentation candidates by leveraging multi-scale representations that capture different levels of medical information. These candidates are then assessed and ranked using a reward function derived from target evaluation metrics, reflecting segmentation preference according to task metrics. Finally, segmentation preference optimization is developed to leverage these preference signals to guide model training, ensuring that the probability of generating superior segmentation results over that of inferior ones. Instead of designing specific surrogate loss functions, PGSNet offers a generalizable and flexible optimization framework capable of handling various metrics. Extensive experiments on several challenging public datasets demonstrate that PGSNet achieves superior segmentation results compared to existing methods.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42268753/",
+  "direction": "C",
+  "badge": "🔥"
+ },
+ {
+  "arxiv": "2609.16661",
+  "doi": "",
+  "pmid": "",
+  "title": "DiaWhisper-DPO: Role-Attributed Transcription of Clinical Interviews via Failure-Mined Preference Optimization",
+  "journal": "arXiv",
+  "year": "2026",
+  "authors": [
+   "Li Weiming",
+   "Barata Ana Catarina Fidalgo",
+   "Constante Miguel",
+   "Sanches Joao Miguel"
+  ],
+  "abstract": "Automated depression screening from clinical interviews requires attribution of utterances to the clinician or patient. Cascaded systems combine speaker diarization with role-assignment heuristics, so errors can propagate across stages. We propose an end-to-end model DiaWhisper, that fine-tunes Whisper-large-v3 with LoRA and an auxiliary frame-level role head for transcription and attribution, together with DiaWhisper-DPO, a failure-mined refinement that uses genuine decoding failures as DPO rejected completions without human preference annotation. On 29 DAIC-WOZ test sessions, DiaWhisper-DPO achieves 0.973 role accuracy and 0.119 DER, 72% below the strongest cascaded baseline, and reduces seed variation from sigma=.205 to .002. Retrained on PDCH-HAMD, it achieves 0.757 role accuracy and improves all 78 session-seed pairs.",
+  "ptypes": [],
+  "source": "arxiv",
+  "url": "https://arxiv.org/abs/2609.16661",
+  "direction": "C",
+  "badge": "🔥"
+ },
+ {
+  "pmid": "42969856",
+  "doi": "10.1093/bib/bbag610",
+  "title": "HiCP2GAN: a plug and play foundation model-based GAN for Hi-C enhancement.",
+  "journal": "Briefings in bioinformatics",
+  "year": "2026",
+  "authors": [
+   "Olowofila Samuel",
+   "Oluwadare Oluwatosin"
+  ],
+  "abstract": "The 3D organization of chromatin shapes gene regulation and cellular function, and Hi-C has become the primary technique for mapping chromatin interactions genome-wide. However, high-resolution data remain costly and scarce, leaving many studies with sparse contact maps that limit downstream analysis. Deep learning methods, especially generative adversarial networks (GANs), have shown promise for enhancing low-resolution Hi-C data, but most existing GAN-based approaches rely on custom discriminators trained from scratch, which can yield unstable training and limited generalization. Hi-C foundation models pretrained on large-scale data capture rich, transferable representations of chromatin structure, yet their use as discriminators within adversarial enhancement frameworks had not been explored. We introduce HiCP2GAN, a plug-and-play GAN that employs a pretrained Vision Transformer-based Hi-C foundation model as a frozen, reusable discriminator, decoupling representation learning from enhancement training.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42969856/",
+  "direction": "D",
+  "badge": "🔥"
+ },
+ {
+  "pmid": "42635245",
+  "doi": "10.1093/bioinformatics/btag492",
+  "title": "Chiron3D: an interpretable deep learning framework for understanding the DNA code of chromatin looping.",
+  "journal": "Bioinformatics (Oxford, England)",
+  "year": "2026",
+  "authors": [
+   "Hönig Sebastian",
+   "Grover Aayush",
+   "Neri Piero",
+   "Surdez Didier",
+   "Boeva Valentina"
+  ],
+  "abstract": "Three-dimensional folding of the genome into structures such as chromatin loops is essential for gene regulation. Current experimental methods for mapping these structures, like Hi-C and HiChIP, are labor-intensive and require repeated assays to test hypothesized mutation effects. This motivates the need for predictive approaches that reveal the sequence determinants of chromatin loops. In this work, we present a novel and interpretable computational pipeline for predicting CTCF-mediated chromatin loops. We propose Chiron3D, a DNA-only model trained in a cell-type specific manner to predict CTCF HiChIP contact maps. By leveraging pre-trained embeddings from a foundation model, our approach is competitive with baselines that take CTCF ChIP-seq as additional input, while enabling nucleotide-level attribution to the input DNA sequence. Using our framework, we provide likely mechanistic insights into the physical control of loop dynamics. Specifically, we find that the strength of the loop extrusion anchorage site is largely governed by the amount and binding affinity of CTCF sites at the boundaries. Furthermore, we reveal that loop stability is regulated by the amount of intra-loop CTCF binding sites, where fewer intra-loop sites are associated with greater loop stability. Using targeted, single-nucleotide edit simulations with Chiron3D, we show that both loop strength and stability can be precisely controlled. Together, these results provide novel mechanistic insights into the physical control of genome organization and highlight the potential of decoding the DNA sequence logic in silico. The Chiron3D pipeline is made available at https://github.com/BoevaLab/Chiron3D.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42635245/",
+  "direction": "D",
+  "badge": "🔥🔥"
+ },
+ {
+  "pmid": "42097899",
+  "doi": "10.1016/j.tplants.2026.04.012",
+  "title": "Genomic language model-based genomic prediction in plant breeding.",
+  "journal": "Trends in plant science",
+  "year": "2026",
+  "authors": [
+   "Alagarasan Ganesan",
+   "Li Huihui",
+   "Xu Yunbi",
+   "Crossa José",
+   "Varshney Rajeev K"
+  ],
+  "abstract": "Genomic prediction based on molecular markers has substantially advanced genomic selection; however, prediction accuracy often plateaus despite continued increases in marker density and methodological refinement. This saturation limits the effective use of available genomic information. The emergence of genomic language models (GLMs) offers a new framework for incorporating richer sequence-based information into genomic prediction, potentially capturing biologically meaningful DNA sequence grammar that is poorly represented by traditional marker-based approaches. We conclude that the future of genomic prediction will be shaped not primarily by algorithmic refinement but by the biological expressivity of genomic representations, and that GLMs offer a principled path toward expanding this representational frontier.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42097899/",
+  "direction": "D",
+  "badge": "📖"
+ },
+ {
+  "pmid": "42538427",
+  "doi": "10.1038/s41591-026-04521-4",
+  "title": "End-to-end multimodal pathology foundation model with clinical dialogue.",
+  "journal": "Nature medicine",
+  "year": "2026",
+  "authors": [
+   "Vorontsov Eugene",
+   "Shaikovski George",
+   "Casson Adam",
+   "Viret Julian",
+   "Zimmermann Eric",
+   "Tenenholtz Neil"
+  ],
+  "abstract": "Recent rapid progress in the field of computational pathology has been enabled by foundation models. These models are beginning to move beyond encoding image patches toward whole-slide understanding, but their clinical utility remains limited. Here we present PRISM2, a multimodal slide-level foundation model trained on 2.3 million whole-slide images and 14 million question-answer pairs derived from 700,000 pathology reports. Through clinical dialogue supervision, PRISM2 aligns histomorphology with diagnostic reasoning, yielding representations that support both prompt-based inference and transferable embeddings for downstream tasks. With prompt-based inference, PRISM2 achieves or exceeds (P < 0.05) the balanced accuracy of clinical-grade products calibrated for cancer detection in the prostate, breast and breast lymph node. Additionally, across comprehensive diagnostic, biomarker and survival benchmarks, PRISM2 embeddings never statistically underperform previous foundation models via linear probing (P < 0.05). Furthermore, task-specific fine-tuning on survival prediction outperforms training from scratch on the same large survival dataset. PRISM2 demonstrates how language-supervised pretraining provides a scalable, clinically grounded signal for generalizable pathology representations, bridging human diagnostic reasoning and foundation model performance.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42538427/",
+  "direction": "F",
+  "badge": "🔥🔥"
+ },
+ {
+  "pmid": "42448807",
+  "doi": "10.1038/s41746-026-02981-z",
+  "title": "A unified multi-modal foundation model for end-to-end emergency care.",
+  "journal": "NPJ digital medicine",
+  "year": "2026",
+  "authors": [
+   "Huang Zhenwei",
+   "Xu Yunfeng",
+   "Nie Zixuan",
+   "Wang Huiyu",
+   "Huang Xiaodong",
+   "Huang Ling"
+  ],
+  "abstract": "Against the backdrop of population aging and the rising burden of chronic diseases in China, emergency departments (EDs) in tertiary hospitals remain persistently overcrowded. ED overcrowding is a multifactorial phenomenon arising from the interplay of input, throughput, and output factors along the emergency care workflow. Existing artificial intelligence approaches for emergency care are predominantly task-specific. Although effective for isolated clinical tasks, they lack patient-centric, end-to-end integration and generalize poorly under heterogeneous and incomplete inputs, limiting scalable deployment in resource-heterogeneous real-world settings. Here we propose ED-Foundation, a unified emergency foundation model built on the BEIT-3 architecture. By jointly leveraging aligned image-text pairs and unaligned pure-text data, ED-Foundation learns continuous patient-centric representations within a single model, and a two-stage self-supervised learning framework further improves robustness to pervasive missingness. We evaluate ED-Foundation on nine downstream validation datasets spanning three core emergency scenarios that address bottlenecks at different points along the emergency care workflow: early emergency triage, outcome prediction during the clinical course, and clinical decision-making support in the emergency treatment phase. ED-Foundation consistently achieves state-of-the-art retrospective performance and maintains robustness under limited information and modality missingness, outperforming prior task-specific approaches and existing foundation models across diverse institutional and cross-system evaluation settings. These results provide retrospective evidence supporting the benchmark performance and representational transferability of ED-Foundation as a unified representation learning framework for emergency care tasks.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42448807/",
+  "direction": "F",
+  "badge": "🔥🔥"
+ },
+ {
+  "pmid": "42844276",
+  "doi": "10.1038/s41467-026-77498-w",
+  "title": "A multitask framework for automated multi-frame right upper quadrant ultrasound interpretation and clinical decision support.",
+  "journal": "Nature communications",
+  "year": "2026",
+  "authors": [
+   "Guo Haiman",
+   "Li Cheng-Yi",
+   "Wang Yuli",
+   "Wang Robin",
+   "Dai Yuwei",
+   "Peng Qinghai"
+  ],
+  "abstract": "Ultrasound is a cornerstone of emergency and hepatobiliary imaging, yet its interpretation remains highly operator-dependent and time-sensitive. Here, we present a multitask vision-language agent (VLM) developed to assist with right upper quadrant (RUQ) ultrasound interpretation across the diagnostic workflow. The system was trained on data from a single tertiary academic medical center (9189 cases, 594,099 images) and evaluated on datasets from two independent institutions (1704 cases, 90,616 images; and 108 cases, 3240 images). The agent integrates frame-level visual understanding with report-grounded language reasoning to perform three tasks: (i) classification of 16 clinical findings, (ii) generation of diagnostic reports, and (iii) surgical decision support based on ultrasound findings and clinical data. For classification, the model achieved macro areas under the receiver operating characteristic curve (AUROCs) of 0.820, 0.794, and 0.775 on the internal, University of Colorado, and Stanford cohorts, respectively, and an internal micro AUROC of 0.865. It also generated post-edited reports that were difficult for radiologists to distinguish from expert-written versions in blinded evaluations. The agent further predicted cholecystectomy using generated reports and clinical data. These results support further evaluation of vision-language models for improving diagnostic consistency, reporting efficiency, and surgical triage in ultrasound practice.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42844276/",
+  "direction": "F",
+  "badge": "🔥"
+ },
+ {
+  "pmid": "42990227",
+  "doi": "10.64898/2026.10.21.760716",
+  "title": "Prediction transfer does not imply reliability transfer in single-cell foundation models.",
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2026",
+  "authors": [
+   "Sriram Aditya",
+   "Luo Tianze",
+   "Zhang Laizhi",
+   "Kim Soyeon",
+   "Park Hyun Jung"
+  ],
+  "abstract": "Single-cell foundation models are increasingly transferred across tissues, diseases, perturbation screens, and experimental platforms. Although substantial effort has focused on prediction transfer, it remains unclear whether a model's assessment of its own reliability transfers similarly across biological contexts. Here we define reliability transfer as the ability to transfer an accurate assessment of when model predictions are likely to be correct or incorrect and investigate its behavior across ten perturbation-prediction systems spanning multiple datasets, models, and evaluation settings. We find that reliability transfer varies substantially across source-target pairs and cannot be inferred from predictive performance alone, indicating that prediction transfer and reliability transfer constitute distinct forms of generalization. Analyses of biological annotations, network connectivity, target exposure, and contextual factors reveal that prediction reliability is associated with both shared and context-dependent signals, with their relative importance differing across systems. To characterize this variability, we introduce reliability-attribution fingerprints, context-level signatures derived from strictly cross-fitted SHAP explanations that summarize how reliability estimators combine biological and contextual information when assigning confidence. Across systems, contexts with similar attribution-magnitude fingerprints tended to transfer reliability more successfully, and fingerprint similarity identified transfer sources achieving higher reliability-transfer performance within the observed candidate set. However, these relationships weakened under stricter cross-family transfer settings, indicating that transferable reliability structure remains partly dependent on shared contextual information. Finally, transferred reliability estimators produced different perturbation rankings despite identical perturbation predictions, illustrating a practical consequence of reliability transfer for downstream prioritization. Together, these results establish reliability transfer as a distinct aspect of foundation-model generalization and introduce reliability-attribution fingerprints as a framework for characterizing transferable reliability structure across biological contexts.",
+  "ptypes": [
+   "Journal Article",
+   "Preprint"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42990227/",
+  "direction": "X",
+  "badge": "🔥🔥"
+ },
+ {
+  "pmid": "42296381",
+  "doi": "10.1093/bioinformatics/btag379",
+  "title": "Causal circuit tracing reveals distinct computational architectures in single-cell foundation models: inhibitory dominance, biological coherence, and cross-model convergence.",
+  "journal": "Bioinformatics (Oxford, England)",
+  "year": "2026",
+  "authors": [
+   "Kendiukhov Ihor"
+  ],
+  "abstract": "Sparse autoencoders (SAEs) decompose foundation-model activations into interpretable features, but the model-internal causal interactions between those features (i.e. what ablating one feature does to the others, as distinct from the biological causal structure of the underlying cells)-and how those model-internal relationships relate to biological structure-are uncharacterized in single-cell foundation models. We introduce model-internal causal circuit tracing-zeroing one SAE feature at a source layer and measuring the resulting change in all downstream SAE features, for each of 120 source features-and apply it to Geneformer V2-316M and scGPT whole-human across four conditions (96 892 ablation-derived edges, 80 191 forward passes). On annotation-selected source features, edges share GO/KEGG/Reactome/STRING/TRRUST ontology terms at 50.9%-68.5%, a 2.9-6.2× enrichment over a configuration-preserving permutation null (P<.002); on 20 randomly sampled source features this attenuates to 21.5%-26.3%-still 2.5-3.1× above null-quantifying the annotation-selection contribution. Inhibitory dominance (fraction of ablation edges with d<0, i.e. source activation supports downstream target) is 65.5%-89.4%. scGPT produces larger raw per-edge effects (mean |d|=1.40 versus 1.05); after feature-share normalization, Geneformer is stronger (paired gene-pair ratio 0.64 on 33 301 shared pairs). Cross-model consensus yields 1142 architecture-invariant domain pairs (ordered pairs of GO biological-process categories \"A→B\" each connected by at least one ablation edge in both models; 10.6× enrichment over permutation null; P<.001). Circuit edge magnitude explains <1% of the variance in marginal driver-gene coexpression on the same cells (R2=0.010, n=31 176): the graph encodes structure beyond bivariate correlation. Against a matched-cell-type ENCODE ChIP-seq prior, circuit-predicted transcription factor (TF)→target pairs are enriched 2.06× (Fisher OR 5.84), markedly higher than 1.12× against TRRUST; direct ChIP-seq-supported target pairs show 10-30× larger CRISPRi sign-bias-corrected excess than indirect pairs. Gene-level CRISPRi validation on Replogle K562 and the noncancer RPE1 arm (and a true primary-T-cell control from Shifrut E, Carnevale J, Tobin V et al. Genome-wide CRISPR screens in primary human T cells reveal key regulators of immune function. Cell 2018; 175: 1958-71.e15) after sign-bias correction shows excess over baseline of +0.03 and +0.35 percentage points on K562 and RPE1, respectively (baseline already 52%-56% from sign marginals); effect-magnitude Spearman correlations ρ≈0. Bootstrap and per-cell-type stability (N∈{50,100,200}; B cell, CD4 + T, macrophage) give Pearson r≥0.97 on shared edges with 100% sign agreement; edge Jaccard grows monotonically with sample size. The circuit graph is therefore highly reproducible as an effect-size map, cell type specific in edge identity, consistent with coexpression encoding, and weakly but detectably enriched for ChIP-seq-supported direct regulatory edges. https://github.com/Biodyn-AI/bio-sae-circuits (Python). Archival DOI: 10.5281/zenodo.19,633,166 (Zenodo).",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "source": "pubmed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42296381/",
+  "direction": "X",
+  "badge": "🔥"
+ }
+]

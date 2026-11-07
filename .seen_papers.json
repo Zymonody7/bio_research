@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-05",
+  "last_updated": "2026-11-06",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -8447,6 +8447,186 @@
       "date_added": "2026-11-05",
       "direction": "X",
       "title": "Electrocardiogram Embeddings Beyond Chronological Age for Prediagnosti"
+    },
+    "pmid:42930067": {
+      "date_added": "2026-11-06",
+      "direction": "A",
+      "title": "Artificial Intelligence in Virus Detection: From Metagenomic Discovery to Clinical Decision Support and Population Surve"
+    },
+    "42930067": {
+      "date_added": "2026-11-06",
+      "direction": "A",
+      "title": "Artificial Intelligence in Virus Detection: From Metagenomic Discovery to Clinical Decision Support and Population Surve"
+    },
+    "10.3389/fmicb.2026.2001491": {
+      "date_added": "2026-11-06",
+      "direction": "A",
+      "title": "High-throughput screening for central nervous system infection-associated pathogens using TaqMan array cards, metagenomi"
+    },
+    "2610.09026": {
+      "date_added": "2026-11-06",
+      "direction": "B",
+      "title": "BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment"
+    },
+    "10.83095/ceurws_04309_008": {
+      "date_added": "2026-11-06",
+      "direction": "B",
+      "title": "PHRED: An Agentic Framework for Pharmacy-Counseling by Health Retrieval & Evidence-Driven Dialogue"
+    },
+    "10.2196/92499": {
+      "date_added": "2026-11-06",
+      "direction": "B",
+      "title": "Clinical Laboratory Terminology Standardization for Semantic Interoperability Using a Large Language Model-Based Agent: "
+    },
+    "pmid:42623484": {
+      "date_added": "2026-11-06",
+      "direction": "B",
+      "title": "Clinical Laboratory Terminology Standardization for Semantic Interoperability Using a Large Language Model-Based Agent: "
+    },
+    "42623484": {
+      "date_added": "2026-11-06",
+      "direction": "B",
+      "title": "Clinical Laboratory Terminology Standardization for Semantic Interoperability Using a Large Language Model-Based Agent: "
+    },
+    "10.1146/annurev-statistics-042925-123430": {
+      "date_added": "2026-11-06",
+      "direction": "C",
+      "title": "Reinforcement Learning from Human Feedback: A Statistical Perspective"
+    },
+    "2611.00241": {
+      "date_added": "2026-11-06",
+      "direction": "D",
+      "title": "IsoAlign: Isoform-Aware DNA-Protein Alignment via Joint-Embedding Predictive Architectures"
+    },
+    "2610.04777": {
+      "date_added": "2026-11-06",
+      "direction": "F",
+      "title": "ARISE: Adaptive Agentic Reasoning with Image-grounded Self-Evaluation for Interpretable IBD Assessment"
+    },
+    "2608.30938": {
+      "date_added": "2026-11-06",
+      "direction": "F",
+      "title": "Evidence, Logic, and Compliance: Multi-Agent Structured Graph Reasoning with Expert Arbitration for Medical Referral"
+    },
+    "10.1126/science.aeg6779": {
+      "date_added": "2026-11-06",
+      "direction": "F",
+      "title": "The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development."
+    },
+    "pmid:42752167": {
+      "date_added": "2026-11-06",
+      "direction": "F",
+      "title": "The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development."
+    },
+    "10.2196/100769": {
+      "date_added": "2026-11-06",
+      "direction": "X",
+      "title": "Workflow Topology-Guided Skill Loading for Agentic AI in Clinical Trial Data Pipelines: Sequential Exploratory Evaluatio"
+    },
+    "pmid:42901481": {
+      "date_added": "2026-11-06",
+      "direction": "X",
+      "title": "Workflow Topology-Guided Skill Loading for Agentic AI in Clinical Trial Data Pipelines: Sequential Exploratory Evaluatio"
+    },
+    "42901481": {
+      "date_added": "2026-11-06",
+      "direction": "X",
+      "title": "Workflow Topology-Guided Skill Loading for Agentic AI in Clinical Trial Data Pipelines: Sequential Exploratory Evaluatio"
+    },
+    "10.1097/crd.0000000000001514": {
+      "date_added": "2026-11-06",
+      "direction": "A",
+      "title": "Beyond Blood Cultures and Echocardiography: Emerging Diagnostics for Infective Endocarditis."
+    },
+    "pmid:42951945": {
+      "date_added": "2026-11-06",
+      "direction": "A",
+      "title": "Beyond Blood Cultures and Echocardiography: Emerging Diagnostics for Infective Endocarditis."
+    },
+    "42951945": {
+      "date_added": "2026-11-06",
+      "direction": "A",
+      "title": "Beyond Blood Cultures and Echocardiography: Emerging Diagnostics for Infective Endocarditis."
+    },
+    "10.1007/s41669-026-00687-2": {
+      "date_added": "2026-11-06",
+      "direction": "B",
+      "title": "Conceptualising Health Economic Models Using a Graph Retrieval-Augmented, Agentic AI Framework with Human-in-the-Loop Va"
+    },
+    "pmid:42864590": {
+      "date_added": "2026-11-06",
+      "direction": "B",
+      "title": "Conceptualising Health Economic Models Using a Graph Retrieval-Augmented, Agentic AI Framework with Human-in-the-Loop Va"
+    },
+    "42864590": {
+      "date_added": "2026-11-06",
+      "direction": "B",
+      "title": "Conceptualising Health Economic Models Using a Graph Retrieval-Augmented, Agentic AI Framework with Human-in-the-Loop Va"
+    },
+    "10.1007/s13755-026-00451-0": {
+      "date_added": "2026-11-06",
+      "direction": "C",
+      "title": "Construction and application of a traditional Chinese medicine syndrome differentiation and treatment model grounded in "
+    },
+    "pmid:42146318": {
+      "date_added": "2026-11-06",
+      "direction": "C",
+      "title": "Construction and application of a traditional Chinese medicine syndrome differentiation and treatment model grounded in "
+    },
+    "42146318": {
+      "date_added": "2026-11-06",
+      "direction": "C",
+      "title": "Construction and application of a traditional Chinese medicine syndrome differentiation and treatment model grounded in "
+    },
+    "2610.09209": {
+      "date_added": "2026-11-06",
+      "direction": "C",
+      "title": "Multi-Objective Aligned Small Language Model Framework for SUD Patient Dialogue Generation"
+    },
+    "2610.37788": {
+      "date_added": "2026-11-06",
+      "direction": "C",
+      "title": "Locating Sycophancy Across Training Stages in Open Language Models"
+    },
+    "10.1093/bioinformatics/btag732": {
+      "date_added": "2026-11-06",
+      "direction": "D",
+      "title": "RAGCell: retrieval-augmented generation as supervision for versatile single-cell analysis."
+    },
+    "pmid:42826496": {
+      "date_added": "2026-11-06",
+      "direction": "D",
+      "title": "RAGCell: retrieval-augmented generation as supervision for versatile single-cell analysis."
+    },
+    "42826496": {
+      "date_added": "2026-11-06",
+      "direction": "D",
+      "title": "RAGCell: retrieval-augmented generation as supervision for versatile single-cell analysis."
+    },
+    "2610.12134": {
+      "date_added": "2026-11-06",
+      "direction": "F",
+      "title": "OA-MAP: Evidence-Grounded Multi-Agent Multimodal Framework for Interpretable Knee Osteoarthritis Progression"
+    },
+    "2609.26124": {
+      "date_added": "2026-11-06",
+      "direction": "F",
+      "title": "MAC-RRG: Iterative Multi-Agent Collaboration for X-ray Radiology Report Generation"
+    },
+    "10.1016/j.rcsop.2026.100866": {
+      "date_added": "2026-11-06",
+      "direction": "X",
+      "title": "Trigger-first large language model-assisted adverse drug reaction surveillance: A pharmacist-supervised retrospective co"
+    },
+    "pmid:42959829": {
+      "date_added": "2026-11-06",
+      "direction": "X",
+      "title": "Trigger-first large language model-assisted adverse drug reaction surveillance: A pharmacist-supervised retrospective co"
+    },
+    "42959829": {
+      "date_added": "2026-11-06",
+      "direction": "X",
+      "title": "Trigger-first large language model-assisted adverse drug reaction surveillance: A pharmacist-supervised retrospective co"
     }
   }
 }
