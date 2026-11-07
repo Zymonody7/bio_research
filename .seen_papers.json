@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-06",
+  "last_updated": "2026-11-07",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -8627,6 +8627,81 @@
       "date_added": "2026-11-06",
       "direction": "X",
       "title": "Trigger-first large language model-assisted adverse drug reaction surveillance: A pharmacist-supervised retrospective co"
+    },
+    "10.1186/s12931-026-03829-6": {
+      "date_added": "2026-11-07",
+      "direction": "A",
+      "title": "Integrated host-microbe biomarkers for early diagnostic classification of paediatric LRTI in mechanically ventilated chi"
+    },
+    "10.1016/j.ijid.2026.109181": {
+      "date_added": "2026-11-07",
+      "direction": "A",
+      "title": "Potential clinical actionability of metagenomic next-generation sequencing for antimicrobial stewardship for urinary tra"
+    },
+    "10.64898/2026.06.16.26355782": {
+      "date_added": "2026-11-07",
+      "direction": "B",
+      "title": "Hard to Halt: Automation Bias in Agent-Driven Sequencing Prior Authorization Workflows."
+    },
+    "10.1200/cci-26-00160": {
+      "date_added": "2026-11-07",
+      "direction": "B",
+      "title": "Accuracy of Retrieval-Augmented Large Language Model-Generated Preconsult Summaries in Breast Surgical Oncology."
+    },
+    "10.1093/jamia/ocag179": {
+      "date_added": "2026-11-07",
+      "direction": "B",
+      "title": "Agentic artificial intelligence for code status extraction from clinical notes: a cross-model comparison of single agent"
+    },
+    "10.1109/jbhi.2026.3702145": {
+      "date_added": "2026-11-07",
+      "direction": "C",
+      "title": "AnyMetric: Universal Metric Optimization for Medical Image Segmentation With Preference Learning."
+    },
+    "2609.16661": {
+      "date_added": "2026-11-07",
+      "direction": "C",
+      "title": "DiaWhisper-DPO: Role-Attributed Transcription of Clinical Interviews via Failure-Mined Preference Optimization"
+    },
+    "10.1093/bib/bbag610": {
+      "date_added": "2026-11-07",
+      "direction": "D",
+      "title": "HiCP2GAN: a plug and play foundation model-based GAN for Hi-C enhancement."
+    },
+    "10.1093/bioinformatics/btag492": {
+      "date_added": "2026-11-07",
+      "direction": "D",
+      "title": "Chiron3D: an interpretable deep learning framework for understanding the DNA code of chromatin looping."
+    },
+    "10.1016/j.tplants.2026.04.012": {
+      "date_added": "2026-11-07",
+      "direction": "D",
+      "title": "Genomic language model-based genomic prediction in plant breeding."
+    },
+    "10.1038/s41591-026-04521-4": {
+      "date_added": "2026-11-07",
+      "direction": "F",
+      "title": "End-to-end multimodal pathology foundation model with clinical dialogue."
+    },
+    "10.1038/s41746-026-02981-z": {
+      "date_added": "2026-11-07",
+      "direction": "F",
+      "title": "A unified multi-modal foundation model for end-to-end emergency care."
+    },
+    "10.1038/s41467-026-77498-w": {
+      "date_added": "2026-11-07",
+      "direction": "F",
+      "title": "A multitask framework for automated multi-frame right upper quadrant ultrasound interpretation and clinical decision sup"
+    },
+    "10.64898/2026.10.21.760716": {
+      "date_added": "2026-11-07",
+      "direction": "X",
+      "title": "Prediction transfer does not imply reliability transfer in single-cell foundation models."
+    },
+    "10.1093/bioinformatics/btag379": {
+      "date_added": "2026-11-07",
+      "direction": "X",
+      "title": "Causal circuit tracing reveals distinct computational architectures in single-cell foundation models: inhibitory dominan"
     }
   }
 }
