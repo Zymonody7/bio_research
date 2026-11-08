@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-07",
+  "last_updated": "2026-11-08",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -8702,6 +8702,81 @@
       "date_added": "2026-11-07",
       "direction": "X",
       "title": "Causal circuit tracing reveals distinct computational architectures in single-cell foundation models: inhibitory dominan"
+    },
+    "10.3389/fmicb.2026.1949602": {
+      "date_added": "2026-11-08",
+      "direction": "A",
+      "title": "Predicting clinically actionable metagenomic next-generation sequencing in sepsis through dynamic inflammatory trajectories"
+    },
+    "10.21203/rs.3.rs-11233042/v1": {
+      "date_added": "2026-11-08",
+      "direction": "A",
+      "title": "Machine Learning based Classification of Ocular Pathogens using Host-transcriptomic Signatures"
+    },
+    "10.1038/s41746-026-03412-9": {
+      "date_added": "2026-11-08",
+      "direction": "B",
+      "title": "A multimodal tool-augmented agent for evidence-based clinical decision support in longitudinal AMD follow-up"
+    },
+    "10.1007/s12559-026-10680-w": {
+      "date_added": "2026-11-08",
+      "direction": "B",
+      "title": "HM-CDSS: Hierarchical Multi-Agent RL with Conservative Q-Learning and Retrieval-Augmented Clinical Reasoning for Sepsis"
+    },
+    "10.1177/00368504261467483": {
+      "date_added": "2026-11-08",
+      "direction": "C",
+      "title": "Improving clinical reliability of LLM reasoning for depression assessment via structured generation and GRPO"
+    },
+    "10.1016/j.xcrm.2026.102883": {
+      "date_added": "2026-11-08",
+      "direction": "C",
+      "title": "A S.C.O.R.E. framework for evaluating open-ended responses from large language models in healthcare"
+    },
+    "10.1038/s41746-026-03443-2": {
+      "date_added": "2026-11-08",
+      "direction": "C",
+      "title": "Cross-paradigm audit of large language model judges for clinical text evaluation"
+    },
+    "10.1038/s41467-026-79328-5": {
+      "date_added": "2026-11-08",
+      "direction": "D",
+      "title": "Genomic language models decode bidirectional promoter activity across plant species"
+    },
+    "10.1101/gr.282189.126": {
+      "date_added": "2026-11-08",
+      "direction": "D",
+      "title": "Deep genomic models of allele-specific measurements"
+    },
+    "10.3390/genes17101173": {
+      "date_added": "2026-11-08",
+      "direction": "D",
+      "title": "A Frozen Plant DNA Language Model for Melon Variants"
+    },
+    "10.1038/s41586-026-11161-8": {
+      "date_added": "2026-11-08",
+      "direction": "F",
+      "title": "The anatomy of a personal health agent"
+    },
+    "10.1007/s11548-026-03811-z": {
+      "date_added": "2026-11-08",
+      "direction": "F",
+      "title": "RadStructAgent: agentic structuring of free-text chest X-ray reports with small language models"
+    },
+    "10.1016/j.ajpath.2026.07.002": {
+      "date_added": "2026-11-08",
+      "direction": "F",
+      "title": "Multimodal AI in Tissue Diagnostics: Vision-Language Models and Computational Pathology"
+    },
+    "10.1093/bioinformatics/btag250": {
+      "date_added": "2026-11-08",
+      "direction": "X",
+      "title": "Agentomics: agentic system for biomedical machine learning"
+    },
+    "10.1038/s41467-026-78879-x": {
+      "date_added": "2026-11-08",
+      "direction": "X",
+      "title": "Agentic AI needs a science of interaction"
     }
   }
 }
