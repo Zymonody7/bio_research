@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-08",
+  "last_updated": "2026-11-09",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -8777,6 +8777,81 @@
       "date_added": "2026-11-08",
       "direction": "X",
       "title": "Agentic AI needs a science of interaction"
+    },
+    "10.64898/2026.07.29.26358751": {
+      "date_added": "2026-11-09",
+      "direction": "A",
+      "title": "Large language models enable consensus-level interpretation in metagenomic diagnostics"
+    },
+    "10.1007/s00134-026-08521-3": {
+      "date_added": "2026-11-09",
+      "direction": "A",
+      "title": "DigiSep RCT: clinical metagenomics intervention in sepsis"
+    },
+    "10.1111/exsy.70473": {
+      "date_added": "2026-11-09",
+      "direction": "B",
+      "title": "MedDP: Graph-Based Large Language Disease Prediction Model"
+    },
+    "2610.24539": {
+      "date_added": "2026-11-09",
+      "direction": "B",
+      "title": "EGIP: Evidence-Grounded Interaction Protocol for Clinical Agents"
+    },
+    "2605.28910": {
+      "date_added": "2026-11-09",
+      "direction": "C",
+      "title": "Hallucination Detection-Guided Preference Optimization for Clinical Summarization"
+    },
+    "2606.28332": {
+      "date_added": "2026-11-09",
+      "direction": "C",
+      "title": "MedHarm: Benchmark for High-Risk Medical Queries Safety Alignment"
+    },
+    "2606.31800": {
+      "date_added": "2026-11-09",
+      "direction": "C",
+      "title": "Evo-PI: Aligning Medical Reasoning via Evolving Principle-Guided Supervision"
+    },
+    "10.64898/2026.11.04.764207": {
+      "date_added": "2026-11-09",
+      "direction": "D",
+      "title": "MirrorDNA: Strand-Equivariant Tokenizations of DNA"
+    },
+    "10.64898/2026.11.03.763945": {
+      "date_added": "2026-11-09",
+      "direction": "D",
+      "title": "MicrobeRT: Fine-tuned Language Models for Genomic Sequences"
+    },
+    "10.64898/2026.11.01.763421": {
+      "date_added": "2026-11-09",
+      "direction": "D",
+      "title": "CellReg3D: DNA LLMs and 3D Genome Structure"
+    },
+    "2611.02581": {
+      "date_added": "2026-11-09",
+      "direction": "F",
+      "title": "SMILE: Structured Multi-Agent Clinical Reasoning for Liver Ultrasound"
+    },
+    "2611.01394": {
+      "date_added": "2026-11-09",
+      "direction": "F",
+      "title": "ERIA: Instruction-Optimized Agent for Clinical EEG Reporting"
+    },
+    "10.1038/s41746-026-02932-8": {
+      "date_added": "2026-11-09",
+      "direction": "F",
+      "title": "Clin-FFA-VLM: clinician aligned stepwise FFA interpretation"
+    },
+    "10.1038/s41586-026-10652-y": {
+      "date_added": "2026-11-09",
+      "direction": "X",
+      "title": "Robin: A multi-agent system for automating scientific discovery"
+    },
+    "2611.01527": {
+      "date_added": "2026-11-09",
+      "direction": "X",
+      "title": "BioAgent-DF: Auditing Decision Provenance in Biomedical Research Agents"
     }
   }
 }
