@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-09",
+  "last_updated": "2026-11-11",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -8852,6 +8852,158 @@
       "date_added": "2026-11-09",
       "direction": "X",
       "title": "BioAgent-DF: Auditing Decision Provenance in Biomedical Research Agents"
+    },
+    "10.3390/pathogens15101075": {
+      "date_added": "2026-11-11",
+      "direction": "A",
+      "title": "Diagnosis of Extrapulmonary Tuberculosis at the Interface of Pathogen Detection and Host Response: Molecular, Microbiological, and Histopathological Advances.",
+      "venue": "Pathogens (Basel, Switzerland)",
+      "note": "📎 肺外TB诊断的病原检测×宿主应答界面综述：分子/微生物/免疫方法分层，A方向背景参考",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.3389/fcimb.2026.1900957": {
+      "date_added": "2026-11-11",
+      "direction": "A",
+      "title": "Metagenomic next-generation sequencing reveals airway microbial dysbiosis and functional alterations in and lt;i and gt;Legionella pneumophila and lt;/i and gt; pneumonia.",
+      "venue": "",
+      "note": "📎 军团菌肺炎mNGS气道微生物功能图谱：mNGS临床表征样本，无AI判读",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.64898/2026.06.15.26355735": {
+      "date_added": "2026-11-11",
+      "direction": "B",
+      "title": "MedAgent: A Retrieval-Augmented Clinical Decision Support Agent with Verifiable Evidence Grounding for Evidence-Based Medicine",
+      "venue": "",
+      "note": "🔥🔥 可验证证据接地的RAG临床决策agent：证据层级+安全边界+可溯源，B方向架构样板",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.20944/preprints202610.2846.v1": {
+      "date_added": "2026-11-11",
+      "direction": "B",
+      "title": "A Step-Level Reliability Gateway for Agentic Clinical Decision Support: Architecture and Edge Deployment",
+      "venue": "",
+      "note": "🔥🔥 步骤级可靠性网关：agent每个动作执行前 allow/defer/block——把门控下沉到动作层",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.20944/preprints202610.2580.v1": {
+      "date_added": "2026-11-11",
+      "direction": "B",
+      "title": "Certified Tool Execution Framework for MCP-Based AI Agents: Provably Secure Defense Against Tool Poisoning and Credential Theft",
+      "venue": "",
+      "note": "🔥 MCP工具执行的可认证框架：对抗工具投毒/凭证泄漏的形式化防线",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.64898/2026.10.19.26365647": {
+      "date_added": "2026-11-11",
+      "direction": "B",
+      "title": "Source-linked multispecialty clinical reasoning and tumour-board decision-making in colorectal cancer",
+      "venue": "",
+      "note": "🔥🔥 结直肠癌MDT决策的证据链数据集：记录专家如何选证据、分歧、收敛——决策溯源语料",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.2196/101269": {
+      "date_added": "2026-11-11",
+      "direction": "C",
+      "title": "Beyond Model Choice: A Harness-Centered Framework for Designing Clinical Large Language Model Agents.",
+      "venue": "Journal of medical Internet research",
+      "note": "🔥🔥 harness作为临床agent设计/评测/报告的一等单元——系统层研究对象化的宣言式论文",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.1002/lrh2.70114": {
+      "date_added": "2026-11-11",
+      "direction": "C",
+      "title": "Automatic Conversion of NICE Guidelines to an Executable Computational Model Using Large Language Models.",
+      "venue": "Learning health systems",
+      "note": "🔥🔥 NICE指南自动转可执行计算模型：guideline-as-code的关键工程件",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.21037/tlcr-2026-0698": {
+      "date_added": "2026-11-11",
+      "direction": "C",
+      "title": "A cross-sectional benchmark of seven large language models for National Comprehensive Cancer Network guideline adherence in non-small cell lung cancer management.",
+      "venue": "Translational lung cancer research",
+      "note": "🔥 7个LLM的NCCN指南依从性基准（NSCLC）：疾病特异指南评测",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.1055/a-2979-8775": {
+      "date_added": "2026-11-11",
+      "direction": "C",
+      "title": "Electronic Health Record User-driven Evaluations and Adaptations of Large Language Models for Clinical Applications.",
+      "venue": "Methods of information in medicine",
+      "note": "🔥 EHR场景用户驱动的LLM评测与适配：真实部署的迭代方法学",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.1007/s11255-026-05178-1": {
+      "date_added": "2026-11-11",
+      "direction": "C",
+      "title": "Alignment between AI clinical decision tools and multidisciplinary tumor board decisions in prostate cancer.",
+      "venue": "International urology and nephrology",
+      "note": "🔥🔥 AI决策工具vs前列腺癌MDT真实一致性：48例回顾对照，落地前必测的吻合度证据",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.1016/j.slast.2026.100473": {
+      "date_added": "2026-11-11",
+      "direction": "C",
+      "title": "A cloud-enabled LIMS-QMS platform with large language model-assisted standard operating procedure generation for GLP/GMP-aligned theranostics laboratory operations.",
+      "venue": "SLAS technology",
+      "note": "🔥🔥 LIMS-QMS平台LLM辅助SOP生成（GLP/GMP合规映射）：实验室工作流自动化的直接样本",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.1136/bmjdh-2026-000003": {
+      "date_added": "2026-11-11",
+      "direction": "X",
+      "title": "When are large language models medical devices? Navigating the MDR and AI Act for healthcare applications.",
+      "venue": "BMJ digital health and AI",
+      "note": "📎 LLM何时算医疗器械：MDR+AI Act监管边界梳理",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.3389/fdgth.2026.1976313": {
+      "date_added": "2026-11-11",
+      "direction": "X",
+      "title": "Synthetic gatekeeping in health chatbots: configured answer systems as the unit of AI evaluation and governance for medical information.",
+      "venue": "Frontiers in digital health",
+      "note": "🔥 健康chatbot的合成门控：评估单元从模型输出转向配置化答案系统——治理单元之争",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.21203/rs.3.rs-9949149/v1": {
+      "date_added": "2026-11-11",
+      "direction": "D",
+      "title": "Genome-scale molecular profiling from routine histopathology with a multimodal pathology foundation model.",
+      "venue": "Research square",
+      "note": "🔥🔥 Fuji：常规病理切片→分子图谱的多模态病理基础模型，形态学接地分子过程",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.3390/insects17090928": {
+      "date_added": "2026-11-11",
+      "direction": "D",
+      "title": "Evaluating Sequence Foundation Models for Insect Olfactory Gene Discovery: Failure Modes, Evidence Standards, and a Benchmark Agenda.",
+      "venue": "Insects",
+      "note": "🔥 序列基础模型的失败模式与证据标准审计+benchmark：GFM审计线新样本",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.1007/s00234-026-04084-8": {
+      "date_added": "2026-11-11",
+      "direction": "F",
+      "title": "Evaluating expert decision-pattern alignment in endovascular planning for intracranial aneurysms using a multimodal large language model.",
+      "venue": "Neuroradiology",
+      "note": "🔥🔥 多模态LLM与专家在颅内动脉瘤血管内决策的模式对齐评测：多可接受方案下的启发式对齐",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.1007/s10120-026-01760-9": {
+      "date_added": "2026-11-11",
+      "direction": "F",
+      "title": "A proof-of-concept study of surgical-VLM for surgical support in robotic surgery: contextual benchmarking against ChatGPT-5.",
+      "venue": "Gastric cancer : official journal of the International Gastric Cancer Association and the Japanese Gastric Cancer Association",
+      "note": "🔥 surgical-VLM机器人手术支持的情境化基准：对照GPT/专科模型",
+      "source": "weekly-backfill-2026-11-11"
+    },
+    "10.1016/j.artmed.2026.103456": {
+      "date_added": "2026-11-11",
+      "direction": "F",
+      "title": "SiCLIP: An explainable multimodal framework for silicosis diagnosis.",
+      "venue": "Artificial intelligence in medicine",
+      "note": "📎 SiCLIP可解释多模态尘肺诊断：影像+患者画像的可解释融合",
+      "source": "weekly-backfill-2026-11-11"
     }
   }
 }
