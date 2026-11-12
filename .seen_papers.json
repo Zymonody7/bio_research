@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -9004,6 +9004,131 @@
       "venue": "Artificial intelligence in medicine",
       "note": "📎 SiCLIP可解释多模态尘肺诊断：影像+患者画像的可解释融合",
       "source": "weekly-backfill-2026-11-11"
+    },
+    "10.1093/bioadv/vbag247": {
+      "date_added": "2026-11-12",
+      "direction": "A",
+      "title": "ViTax-RAG: a retrieval-augmented language modeling tool for viral contig taxonomic classification"
+    },
+    "10.3389/fcimb.2026.1904634": {
+      "date_added": "2026-11-12",
+      "direction": "A",
+      "title": "Integrating metagenomic next-generation sequencing into a multimodal diagnostic framework for spinal infection"
+    },
+    "10.2196/101607": {
+      "date_added": "2026-11-12",
+      "direction": "B",
+      "title": "PancreaGuide for Computed Tomography Report Interpretation and Perioperative Consultation in Pancreatic Cancer"
+    },
+    "10.1007/s11845-026-04584-9": {
+      "date_added": "2026-11-12",
+      "direction": "B",
+      "title": "AI agents in clinical medicine: delegation, supervision, and the problem of correlated failure"
+    },
+    "10.1016/j.jbi.2026.105045": {
+      "date_added": "2026-11-12",
+      "direction": "B",
+      "title": "A comprehensive survey of AI agents in healthcare"
+    },
+    "10.1007/s10278-026-02010-1": {
+      "date_added": "2026-11-12",
+      "direction": "C",
+      "title": "ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis"
+    },
+    "2604.20871": {
+      "date_added": "2026-11-12",
+      "direction": "C",
+      "title": "M-CARE: Standardized Clinical Case Reporting for AI Model Behavioral Disorders"
+    },
+    "2611.03806": {
+      "date_added": "2026-11-12",
+      "direction": "D",
+      "title": "BEND 2.0: Benchmarking the Capabilities Needed to Design DNA"
+    },
+    "2611.05401": {
+      "date_added": "2026-11-12",
+      "direction": "D",
+      "title": "A Training-Free Socket for DNA in Frozen Language Models"
+    },
+    "10.1016/j.compbiolchem.2026.109079": {
+      "date_added": "2026-11-12",
+      "direction": "D",
+      "title": "Adversarial validation of in silico perturbation profiles for intelligence-associated genes in human prefrontal cortex"
+    },
+    "2611.11541": {
+      "date_added": "2026-11-12",
+      "direction": "F",
+      "title": "Safeguarding Agentic AI in Radiology Workflows: A Multimodel Evaluation of Rule-based and LLM-based Verification"
+    },
+    "2611.09836": {
+      "date_added": "2026-11-12",
+      "direction": "F",
+      "title": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?"
+    },
+    "10.1007/s13755-026-00476-5": {
+      "date_added": "2026-11-12",
+      "direction": "F",
+      "title": "Medrecord-CLIP: enhancing fundus disease diagnosis via EHR-guided vision-language pre-training"
+    },
+    "10.64898/2026.10.28.762655": {
+      "date_added": "2026-11-12",
+      "direction": "X",
+      "title": "EMBER: Contextualized gene representations enable compositional prediction across cellular perturbations"
+    },
+    "2607.18777": {
+      "date_added": "2026-11-12",
+      "direction": "X",
+      "title": "PertReason: A Knowledge-Grounded Benchmark and Framework for Cell-State-Conditioned Mechanistic Reasoning of Perturbation Effects"
+    },
+    "pmid:42801199": {
+      "date_added": "2026-11-12",
+      "direction": "A",
+      "title": "PMID alias 42801199 (2026-11-12)"
+    },
+    "pmid:42707228": {
+      "date_added": "2026-11-12",
+      "direction": "A",
+      "title": "PMID alias 42707228 (2026-11-12)"
+    },
+    "pmid:43002664": {
+      "date_added": "2026-11-12",
+      "direction": "B",
+      "title": "PMID alias 43002664 (2026-11-12)"
+    },
+    "pmid:42667591": {
+      "date_added": "2026-11-12",
+      "direction": "B",
+      "title": "PMID alias 42667591 (2026-11-12)"
+    },
+    "pmid:42009269": {
+      "date_added": "2026-11-12",
+      "direction": "B",
+      "title": "PMID alias 42009269 (2026-11-12)"
+    },
+    "pmid:42225888": {
+      "date_added": "2026-11-12",
+      "direction": "C",
+      "title": "PMID alias 42225888 (2026-11-12)"
+    },
+    "pmid:42033879": {
+      "date_added": "2026-11-12",
+      "direction": "D",
+      "title": "PMID alias 42033879 (2026-11-12)"
+    },
+    "pmid:42632973": {
+      "date_added": "2026-11-12",
+      "direction": "F",
+      "title": "PMID alias 42632973 (2026-11-12)"
+    },
+    "pmid:42990646": {
+      "date_added": "2026-11-12",
+      "direction": "X",
+      "title": "PMID alias 42990646 (2026-11-12)"
+    },
+    "pmid:42539156": {
+      "date_added": "2026-11-12",
+      "direction": "X",
+      "title": "PMID alias 42539156 (2026-11-12)"
     }
   }
 }
