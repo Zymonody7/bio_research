@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-12",
+  "last_updated": "2026-11-13",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -9129,6 +9129,91 @@
       "date_added": "2026-11-12",
       "direction": "X",
       "title": "PMID alias 42539156 (2026-11-12)"
+    },
+    "10.3233/shti260857": {
+      "date_added": "2026-11-13",
+      "direction": "A",
+      "title": "Applications of Metagenomics and AI in Characterizing AMR in Livestock: Systematic Review"
+    },
+    "10.1038/s41467-025-57088-y": {
+      "date_added": "2026-11-13",
+      "direction": "A",
+      "title": "Metagenomic mining of environmental resistomes: deep learning vs alignment-based annotation"
+    },
+    "2611.08935": {
+      "date_added": "2026-11-13",
+      "direction": "B",
+      "title": "SkinMind: Agentic RAG with Graph Probing for Dermatology AI"
+    },
+    "2610.36335": {
+      "date_added": "2026-11-13",
+      "direction": "B",
+      "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning"
+    },
+    "2609.36392": {
+      "date_added": "2026-11-13",
+      "direction": "B",
+      "title": "ARCagent: Adaptive Retrieval Calibration Agent for Clinical QA"
+    },
+    "2609.16660": {
+      "date_added": "2026-11-13",
+      "direction": "C",
+      "title": "Rewarding Reasoning, Not Answers: Test-Time RL on Medical QA (PROSE)"
+    },
+    "2610.35847": {
+      "date_added": "2026-11-13",
+      "direction": "C",
+      "title": "NPC-RubricBench: Patient-specific rubric-based evaluation across longitudinal cancer care"
+    },
+    "2609.14825": {
+      "date_added": "2026-11-13",
+      "direction": "C",
+      "title": "Route, Don't Fix: Regime-Dependent Decoding Correction (ALTAS)"
+    },
+    "10.64898/2026.10.29.762727": {
+      "date_added": "2026-11-13",
+      "direction": "D",
+      "title": "MELD: Mutation Effect Learning through Differential Embeddings"
+    },
+    "10.64898/2026.11.07.765118": {
+      "date_added": "2026-11-13",
+      "direction": "D",
+      "title": "CPDD: Bidirectional phage genome modeling with DNA LM (CreatiPhage)"
+    },
+    "2611.10386": {
+      "date_added": "2026-11-13",
+      "direction": "D",
+      "title": "Pruning DNA Sequence (Sequence Pruning for DNA LM pretraining)"
+    },
+    "10.48550/arxiv.2610.25871": {
+      "date_added": "2026-11-13",
+      "direction": "F",
+      "title": "CODA: Cohort- and Drift-aware Foundation Model for Multimodal Clinical Reasoning"
+    },
+    "10.48550/arxiv.2611.10626": {
+      "date_added": "2026-11-13",
+      "direction": "F",
+      "title": "EndoSCOP-V: Multi-Turn Video Understanding for Endoscopy Reporting"
+    },
+    "2610.25871": {
+      "date_added": "2026-11-13",
+      "direction": "F",
+      "title": "CODA: Cohort- and Drift-aware Foundation Model for Multimodal Clinical Reasoning"
+    },
+    "2611.10626": {
+      "date_added": "2026-11-13",
+      "direction": "F",
+      "title": "EndoSCOP-V: Multi-Turn Video Understanding for Endoscopy Reporting"
+    },
+    "10.1038/s41467-026-78887-x": {
+      "date_added": "2026-11-13",
+      "direction": "X",
+      "title": "Agentic intelligent data engine for scientific LLMs (AIDE)"
+    },
+    "10.21203/rs.3.rs-11536507/v1": {
+      "date_added": "2026-11-13",
+      "direction": "X",
+      "title": "When Does Hallucination Propagate? Six Formalizations of Error Spread"
     }
   }
 }
