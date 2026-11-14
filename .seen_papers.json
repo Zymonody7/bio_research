@@ -1,6 +1,6 @@
 {
   "description": "Tracked paper IDs for deduplication across daily reports",
-  "last_updated": "2026-11-13",
+  "last_updated": "2026-11-14",
   "papers": {
     "10.3389/fmicb.2025.1634194": {
       "date_added": "2026-08-04",
@@ -9214,6 +9214,96 @@
       "date_added": "2026-11-13",
       "direction": "X",
       "title": "When Does Hallucination Propagate? Six Formalizations of Error Spread"
+    },
+    "10.3389/fcimb.2026.1954468": {
+      "date_added": "2026-11-14",
+      "direction": "A",
+      "title": "Ecological heterogeneity beneath the pneumonia label: pathogen community gradients in clinical targeted sequen"
+    },
+    "10.1099/mgen.0.001885": {
+      "date_added": "2026-11-14",
+      "direction": "A",
+      "title": "Benchmarking nanopore-based strategies for antimicrobial resistance prediction"
+    },
+    "10.1016/j.jbi.2026.105108": {
+      "date_added": "2026-11-14",
+      "direction": "B",
+      "title": "LongCAF: A longitudinal context-constructive agentic framework for LLM-supported hypertension self-management"
+    },
+    "10.3389/fdgth.2026.1882397": {
+      "date_added": "2026-11-14",
+      "direction": "B",
+      "title": "A multi-agent large language model (LLM) platform for structured medical anamnesis in outpatient care"
+    },
+    "10.3390/bioengineering13060686": {
+      "date_added": "2026-11-14",
+      "direction": "B",
+      "title": "An Agentic LLM Framework for Autonomous Surgical Continuum Monitoring: ReAct-Driven Tool-Use Agents for Presur"
+    },
+    "10.48550/arxiv.2611.08780": {
+      "date_added": "2026-11-14",
+      "direction": "C",
+      "title": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention i"
+    },
+    "2611.08780": {
+      "date_added": "2026-11-14",
+      "direction": "C",
+      "title": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention i"
+    },
+    "10.1038/s41467-026-78767-4": {
+      "date_added": "2026-11-14",
+      "direction": "C",
+      "title": "Scaling medical imaging report generation with multimodal reinforcement learning"
+    },
+    "10.48550/arxiv.2611.12728": {
+      "date_added": "2026-11-14",
+      "direction": "C",
+      "title": "Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards"
+    },
+    "2611.12728": {
+      "date_added": "2026-11-14",
+      "direction": "C",
+      "title": "Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards"
+    },
+    "10.1080/15476286.2026.2763191": {
+      "date_added": "2026-11-14",
+      "direction": "D",
+      "title": "LUNA-FM: a subword foundation model for long non-coding RNAs for functional inference"
+    },
+    "10.1093/nar/gkag1076": {
+      "date_added": "2026-11-14",
+      "direction": "D",
+      "title": "Evo2VED: a database of DNA large language model-derived scores for variant interpretation"
+    },
+    "10.64898/2026.11.09.765411": {
+      "date_added": "2026-11-14",
+      "direction": "D",
+      "title": "Assessing the Capacity of Genomic Language Models to Generate Informative Embeddings of Viral Genome Fragments"
+    },
+    "10.2967/jnumed.126.272362": {
+      "date_added": "2026-11-14",
+      "direction": "F",
+      "title": "End-to-End PET/CT Interpretation and Quantification with an LLM-Orchestrated AI Agent: A Real-World Pilot Stud"
+    },
+    "10.1145/3767308.3835815": {
+      "date_added": "2026-11-14",
+      "direction": "F",
+      "title": "PROVE: Proof-guided Regime-aware Operator Verification for Hallucination Detection in Medical Visual Question "
+    },
+    "10.48550/arxiv.2611.12574": {
+      "date_added": "2026-11-14",
+      "direction": "F",
+      "title": "Evaluating Cross-Signal Coherence in Mammography Vision-Language Models"
+    },
+    "2611.12574": {
+      "date_added": "2026-11-14",
+      "direction": "F",
+      "title": "Evaluating Cross-Signal Coherence in Mammography Vision-Language Models"
+    },
+    "10.1007/s13755-026-00449-8": {
+      "date_added": "2026-11-14",
+      "direction": "X",
+      "title": "Enhancing LLM-based medical decision-making by test-time knowledge acquisition"
     }
   }
 }
